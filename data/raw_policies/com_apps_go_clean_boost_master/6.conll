@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (2) Log information
+1	(	(	PUNCT	-LRB-	_	2	punct	_	SpaceAfter=No|TokenRange=0:1
+2	2	2	X	LS	_	5	nummod	_	SpaceAfter=No|TokenRange=1:2
+3	)	)	PUNCT	-RRB-	_	2	punct	_	TokenRange=2:3
+4	Log	log	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=4:7
+5	information	information	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=8:19
+
+# newpar
+# sent_id = 2
+# text = When you use our product and service or view the content provided by us, we automatically collect and store certain information in server logs.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=21:25
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=26:29
+3	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	advcl	_	TokenRange=30:33
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=34:37
+5	product	product	NOUN	NN	Number=Sing	3	obj	_	TokenRange=38:45
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=46:49
+7	service	service	NOUN	NN	Number=Sing	5	conj	_	TokenRange=50:57
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=58:60
+9	view	view	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=61:65
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=66:69
+11	content	content	NOUN	NN	Number=Sing	9	obj	_	TokenRange=70:77
+12	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	TokenRange=78:86
+13	by	by	ADP	IN	_	14	case	_	TokenRange=87:89
+14	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obl	_	SpaceAfter=No|TokenRange=90:92
+15	,	,	PUNCT	,	_	22	punct	_	TokenRange=92:93
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	_	TokenRange=94:96
+17	automatically	automatically	ADV	RB	_	22	advmod	_	TokenRange=97:110
+18	collect	collect	NOUN	NN	Number=Sing	22	compound	_	TokenRange=111:118
+19	and	and	CCONJ	CC	_	20	cc	_	TokenRange=119:122
+20	store	store	NOUN	NN	Number=Sing	18	conj	_	TokenRange=123:128
+21	certain	certain	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=129:136
+22	information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=137:148
+23	in	in	ADP	IN	_	25	case	_	TokenRange=149:151
+24	server	server	NOUN	NN	Number=Sing	25	compound	_	TokenRange=152:158
+25	logs	logs	NOUN	NNS	Number=Plur	22	nmod	_	SpaceAfter=No|TokenRange=159:163
+26	.	.	PUNCT	.	_	22	punct	_	TokenRange=163:164
+
+# sent_id = 3
+# text = This includes: Details of how you used our service, such as your scanning number of junk files.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	TokenRange=165:169
+2	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=170:178
+3	:	:	PUNCT	:	_	2	punct	_	TokenRange=178:179
+4	Details	detail	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=180:187
+5	of	of	SCONJ	IN	_	8	mark	_	TokenRange=188:190
+6	how	how	ADV	WRB	PronType=Int	8	advmod	_	TokenRange=191:194
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=195:198
+8	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	4	acl	_	TokenRange=199:203
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=204:207
+10	service	service	NOUN	NN	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=208:215
+11	,	,	PUNCT	,	_	10	punct	_	TokenRange=215:216
+12	such	such	ADJ	JJ	Degree=Pos	16	case	_	TokenRange=217:221
+13	as	as	ADP	IN	_	12	fixed	_	TokenRange=222:224
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=225:229
+15	scanning	scanning	NOUN	NN	Number=Sing	16	compound	_	TokenRange=230:238
+16	number	number	NOUN	NN	Number=Sing	8	obl	_	TokenRange=239:245
+17	of	of	ADP	IN	_	19	case	_	TokenRange=246:248
+18	junk	junk	NOUN	NN	Number=Sing	19	compound	_	TokenRange=249:253
+19	files	file	NOUN	NNS	Number=Plur	16	nmod	_	SpaceAfter=No|TokenRange=254:259
+20	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=259:260
+

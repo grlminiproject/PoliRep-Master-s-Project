@@ -1,0 +1,68 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Right to correct personal information
+1	Right	right	ADV	RB	_	5	advmod	_	TokenRange=0:5
+2	to	to	ADP	IN	_	5	case	_	TokenRange=6:8
+3	correct	correct	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=9:16
+4	personal	personal	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=17:25
+5	information	information	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=26:37
+
+# newpar
+# sent_id = 2
+# text = We try to keep the information that we hold about you accurate and up to date.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=39:41
+2	try	try	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=42:45
+3	to	to	PART	TO	_	4	mark	_	TokenRange=46:48
+4	keep	keep	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=49:53
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=54:57
+6	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=58:69
+7	that	that	PRON	WDT	PronType=Rel	9	obj	_	TokenRange=70:74
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=75:77
+9	hold	hold	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	TokenRange=78:82
+10	about	about	SCONJ	IN	_	12	mark	_	TokenRange=83:88
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	TokenRange=89:92
+12	accurate	accurate	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=93:101
+13	and	and	CCONJ	CC	_	16	cc	_	TokenRange=102:105
+14	up	up	ADP	IN	_	16	case	_	TokenRange=106:108
+15	to	to	ADP	IN	_	14	fixed	_	TokenRange=109:111
+16	date	date	NOUN	NN	Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=112:116
+17	.	.	PUNCT	.	_	2	punct	_	TokenRange=116:117
+
+# sent_id = 3
+# text = Should you realize that any of the information that we hold about you is incorrect, please contact us using the information below and we will correct it as soon as we can.
+1	Should	should	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=118:124
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=125:128
+3	realize	realize	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=129:136
+4	that	that	SCONJ	IN	_	15	mark	_	TokenRange=137:141
+5	any	any	DET	DT	_	15	nsubj	_	TokenRange=142:145
+6	of	of	ADP	IN	_	8	case	_	TokenRange=146:148
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=149:152
+8	information	information	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=153:164
+9	that	that	PRON	WDT	PronType=Rel	11	obj	_	TokenRange=165:169
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	TokenRange=170:172
+11	hold	hold	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	TokenRange=173:177
+12	about	about	ADP	IN	_	13	case	_	TokenRange=178:183
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obl	_	TokenRange=184:187
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	cop	_	TokenRange=188:190
+15	incorrect	incorrect	ADJ	JJ	Degree=Pos	3	ccomp	_	SpaceAfter=No|TokenRange=191:200
+16	,	,	PUNCT	,	_	18	punct	_	TokenRange=200:201
+17	please	please	INTJ	UH	_	18	discourse	_	TokenRange=202:208
+18	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	TokenRange=209:216
+19	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	18	obj	_	TokenRange=217:219
+20	using	use	VERB	VBG	VerbForm=Ger	18	xcomp	_	TokenRange=220:225
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	TokenRange=226:229
+22	information	information	NOUN	NN	Number=Sing	20	obj	_	TokenRange=230:241
+23	below	below	ADV	RB	_	22	advmod	_	TokenRange=242:247
+24	and	and	CCONJ	CC	_	27	cc	_	TokenRange=248:251
+25	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	TokenRange=252:254
+26	will	will	AUX	MD	VerbForm=Fin	27	aux	_	TokenRange=255:259
+27	correct	correct	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=260:267
+28	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	27	obj	_	TokenRange=268:270
+29	as	as	ADV	RB	_	30	advmod	_	TokenRange=271:273
+30	soon	soon	ADV	RB	Degree=Pos	27	advmod	_	TokenRange=274:278
+31	as	as	SCONJ	IN	_	33	mark	_	TokenRange=279:281
+32	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	33	nsubj	_	TokenRange=282:284
+33	can	can	AUX	MD	VerbForm=Fin	30	advcl	_	SpaceAfter=No|TokenRange=285:288
+34	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=288:289
+

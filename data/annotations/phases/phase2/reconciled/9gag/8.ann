@@ -1,0 +1,13 @@
+T1	User 284 287	you
+T2	collection-use 295 304	providing
+E1	collection-use:T2 Data-Collector:T5 Data-Provider:T1 Data-Collected:T3 Data-Provider2:T6 Data-Collected2:T4
+T3	Data-general 305 316	information
+T4	Data-general 328 348	personal information
+T5	First-party-entity 382 384	us
+T6	Third-party-entity 366 377	third party
+T8	User 398 401	You
+T9	First-party-entity 429 431	we
+T10	Third-party-entity 466 479	third parties
+T11	collection-use 480 487	collect
+E2	collection-use:T11 Data-Collected:T12 Data-Collector:T9 Data-Provider:T10 Data-Provider2:T8
+T12	Data-general 500 511	information

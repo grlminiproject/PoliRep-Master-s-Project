@@ -1,0 +1,71 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and will be asked to annotate data entities in it.
+
+IMPORTANT: Filtering Out General Phrases
+Before annotating, carefully check each potential data entity. DO NOT annotate general phrases that do not provide specific data types.
+Examples of general phrases to omit include, but are not limited to:
+
+"your personal information"
+"the information you share (with us)"
+"the information we collect about you"
+"other data"
+"information about you"
+"personal information"
+"user information"
+"customer data"
+"collected information"
+"any information"
+
+If a phrase does not clearly indicate a specific type of personal data, DO NOT include it in your annotations.
+
+Data entities are refers to the phrases that mention PERSONAL DATA OF THE USER which is being mentioned in one of the following context types:
+1. first-party-collection-use - the policy segment mentions collection, usage, or processing of this datum by the first party (the application).
+2. third-party-collection-use - the policy segment mentions collection, usage, or processing of this datum by a third party.
+3. third-party-sharing-disclosure - the policy segment mentions sharing, or disclosure of this datum to a third party.
+4. data-storage-retention-deletion - the policy segment mentions storage, retention, or deletion of this datum.
+5. data-security-protection - the policy segment mentions how this datum is being protected.
+
+Note the following!
+1. Personal user data that is mentioned outside of one of these contexts does not classify as data entity and should NOT be annotated.
+2. Multiple contexts may apply to the same data entity.
+3. Tracking technologies such as cookies, web beacons, etc. are technologies, hence does not classify as data entity and should NOT be annotated.
+4. The data segment that you receive might be empty or not contain any information on usage of concrete personal user data - that's normal, and you should just return an empty list.
+
+Provide the output as a list of data entities with the following details for each entity:
+1. The type of the context in which this datum is mentioned.
+2. The exact text of the data entity as it appears in the text segment.
+
+Examples
+
+Question:
+
+"Collection and Storage technologies. We and our partners use various technologies to collect and store information when you access the EMI Service, and this may include using cookies or other technologies to identify your browser or device. We also use these technologies to collect and store information when you access our Service and interact with the content and products and services we offer, such as advertising services.
+c. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy. We may share aggregate and related demographic information with third parties. "
+
+Answer:
+{
+  "entities": [
+    {"type": "first-party-collection-use", "text": "information"},
+    {"type": "first-party-collection-use", "text": "your browser"},
+    {"type": "first-party-collection-use", "text": "device"},
+    {"type": "first-party-collection-use", "text": "identify your browser or device"},
+    {"type": "first-party-collection-use", "text": "information when you access our Service and interact with the content and products and services we offer, such as advertising services"},
+    {"type": "third-party-sharing-disclosure", "text": "aggregate and related demographic information"},
+  ]
+}
+
+Question:
+"11. The Scope of Our Privacy Policy.
+
+Our Privacy Policy applies to all of the services offered through our Service. However, our Privacy Policy does not apply to the any of the following:
+a. services offered by other companies or individuals on non-EMI websites or applications, including any such websites or applications which may be referenced on or linked from our Service; and
+b. the information collected by, and information practices of, other companies, organizations or individuals, who advertise our Service, editorial or advertising content, or any of the products or services offered on our Service, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+12. Handling Complaints from Our Service Users and Regulatory Authorities.
+We regularly review our compliance with this Privacy Policy and with any and all industry-recommended best practices, as well as applicable laws and regulations. When we receive a formal written complaint, we will contact the person who made the complaint to follow up. This is without prejudice to your right to launch a claim with your local data protection supervisory authority. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with the users of our Service directly.
+"
+Answer:
+{
+  "entities": [
+   ]
+}
+
+Please identify and annotate ALL data entities in the following privacy policy segment. Remember to ignore data entities that do not constitute concrete user information.

@@ -1,0 +1,4 @@
+(5) Email address
+
+When you choose to activate our App Lock function, you may choose to provide us a valid email address as the “recovery email” which could be used to reset the password of your App Lock (you may choose not to set the recovery email, but in this case we’ll not be able to help you reset a password).
+

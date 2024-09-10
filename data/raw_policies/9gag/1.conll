@@ -1,0 +1,53 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Information We Collect
+1	Information	information	NOUN	NN	Number=Sing	3	compound	_	TokenRange=0:11
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	compound	_	TokenRange=12:14
+3	Collect	collect	PROPN	NNP	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=15:22
+
+# newpar
+# sent_id = 2
+# text = There are three basic categories of information we collect:
+1	There	there	PRON	EX	_	2	expl	_	TokenRange=24:29
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=30:33
+3	three	three	NUM	CD	NumType=Card	5	nummod	_	TokenRange=34:39
+4	basic	basic	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=40:45
+5	categories	category	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=46:56
+6	of	of	ADP	IN	_	7	case	_	TokenRange=57:59
+7	information	information	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=60:71
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=72:74
+9	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No|TokenRange=75:82
+10	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=82:83
+
+# sent_id = 3
+# text = Information you choose to give us Information we get when you use our services Information we get from third parties Here’s how we collect your information.
+1	Information	information	NOUN	NN	Number=Sing	22	nsubj	_	TokenRange=84:95
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=96:99
+3	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	TokenRange=100:106
+4	to	to	PART	TO	_	5	mark	_	TokenRange=107:109
+5	give	give	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=110:114
+6	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	iobj	_	SpacesAfter=\n|TokenRange=115:117
+7	Information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=118:129
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=130:132
+9	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	TokenRange=133:136
+10	when	when	ADV	WRB	PronType=Int	12	mark	_	TokenRange=137:141
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	TokenRange=142:145
+12	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	TokenRange=146:149
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=150:153
+14	services	service	NOUN	NNS	Number=Plur	15	compound	_	SpacesAfter=\n|TokenRange=154:162
+15	Information	information	NOUN	NN	Number=Sing	12	obj	_	TokenRange=163:174
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	TokenRange=175:177
+17	get	get	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	ccomp	_	TokenRange=178:181
+18	from	from	ADP	IN	_	20	case	_	TokenRange=182:186
+19	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	20	amod	_	TokenRange=187:192
+20	parties	party	NOUN	NNS	Number=Plur	17	obl	_	SpacesAfter=\n|TokenRange=193:200
+21	Here	here	ADV	RB	PronType=Dem	20	advmod	_	SpaceAfter=No|TokenRange=201:205
+22	’s	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=205:207
+23	how	how	ADV	WRB	PronType=Int	25	advmod	_	TokenRange=208:211
+24	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	nsubj	_	TokenRange=212:214
+25	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	ccomp	_	TokenRange=215:222
+26	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	27	nmod:poss	_	TokenRange=223:227
+27	information	information	NOUN	NN	Number=Sing	25	obj	_	SpaceAfter=No|TokenRange=228:239
+28	.	.	PUNCT	.	_	22	punct	_	SpacesAfter=\n\n|TokenRange=239:240
+

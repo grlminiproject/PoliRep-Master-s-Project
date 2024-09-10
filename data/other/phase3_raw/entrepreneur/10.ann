@@ -1,0 +1,27 @@
+T1	data-security-protection 57 64	protect
+E1	data-security-protection:T1 protect-against:T8 protect-against2:T7 protect-against3:T6 protect-against4:T5 Data-Provider:T4 Data-Protected:T3 Data-Protector:T2
+T2	First-party-entity 41 43	We
+T3	Data-general 69 80	information
+T4	User 118 123	users
+T5	security-threat 145 164	unauthorized access
+T6	security-threat 169 179	alteration
+T7	security-threat 181 191	disclosure
+T8	security-threat 195 206	destruction
+T9	First-party-entity 226 228	We
+T10	encryptions 229 236	encrypt
+T11	Data-general 250 261	information
+T12	encryptions 268 271	SSL
+T13	data-security-protection 229 236	encrypt
+E2	data-security-protection:T13 method:T10 Data-Protector:T9 Data-Protected:T11 method2:T12
+T14	First-party-entity 276 278	We
+T15	data-security-protection 389 394	guard
+E3	data-security-protection:T15 Data-Protected:T19 protect-against:T16 method:T17 method2:T18 Data-Protector:T14
+T16	security-threat 403 422	unauthorized access
+T17	general-safeguard-method 358 384	physical security measures
+T18	Protection-other 276 346	We review our information collection, storage and processing practices
+T19	Data-general 446 457	information
+T20	First-party-entity 490 492	We
+T21	data-security-protection 493 501	restrict
+E4	data-security-protection:T21 method:T22 Data-Protector:T20 Data-Protected:T23
+T22	Access-limitation 493 508	restrict access
+T23	Data-general 512 532	personal information

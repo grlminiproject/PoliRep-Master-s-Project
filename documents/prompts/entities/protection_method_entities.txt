@@ -1,0 +1,24 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and will be asked to annotate protection method entities in it.
+Protection method entities are phrases of privacy policy segment that mention methods of protection of USER'S PERSONAL DATA.
+
+Provide the output as a list the exact text phrases in the policy segment that refer to the protection method entities.
+
+IMPORTANT: Filtering Out General Phrases
+Before annotating, carefully check each protection method  entity. DO NOT annotate general phrases that do not provide specific data protection method.
+Examples of general phrases to omit include, but are not limited to:
+
+"appropriate measures"
+"technical measures"
+
+Examples
+
+Question:
+
+"Personal Information – We use "Secure Socket Layer" encryption technology when collecting certain personal information through our websites. You can identify the use of such protection by looking for "https" in the Internet URLor page address or a closed lock symbol if you are using Internet Explorer. We protect PII found in our most sensitive databases in encrypted formats within controlled and secure environments with restricted access. While we attempt to ensure the integrity and security of our network and computer systems, we cannot guarantee that our security measures will prevent unauthorized access."
+
+Answer:
+{
+  "entities": ["\"Secure Socket Layer\" encryption technology", "encrypted formats within controlled and secure environments with restricted access"]
+}
+
+Please identify and annotate ALL protection method entities in the following privacy policy segment.

@@ -1,0 +1,593 @@
+{
+  "text": "Information We Collect\n\nThere are three basic categories of information we collect:\nInformation you choose to give us\nInformation we get when you use our services\nInformation we get from third parties\nHere\u2019s how we collect your information.\n\n",
+  "words": [
+    "Information",
+    "We",
+    "Collect",
+    "There",
+    "are",
+    "three",
+    "basic",
+    "categories",
+    "of",
+    "information",
+    "we",
+    "collect",
+    ":",
+    "Information",
+    "you",
+    "choose",
+    "to",
+    "give",
+    "us",
+    "Information",
+    "we",
+    "get",
+    "when",
+    "you",
+    "use",
+    "our",
+    "services",
+    "Information",
+    "we",
+    "get",
+    "from",
+    "third",
+    "parties",
+    "Here",
+    "\u2019s",
+    "how",
+    "we",
+    "collect",
+    "your",
+    "information",
+    "."
+  ],
+  "lemma": [
+    "information",
+    "we",
+    "collect",
+    "there",
+    "be",
+    "three",
+    "basic",
+    "category",
+    "of",
+    "information",
+    "we",
+    "collect",
+    ":",
+    "information",
+    "you",
+    "choose",
+    "to",
+    "give",
+    "we",
+    "information",
+    "we",
+    "get",
+    "when",
+    "you",
+    "use",
+    "we",
+    "service",
+    "information",
+    "we",
+    "get",
+    "from",
+    "third",
+    "party",
+    "here",
+    "be",
+    "how",
+    "we",
+    "collect",
+    "you",
+    "information",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "PRP",
+    "NNP",
+    "EX",
+    "VBP",
+    "CD",
+    "JJ",
+    "NNS",
+    "IN",
+    "NN",
+    "PRP",
+    "VBP",
+    ":",
+    "NN",
+    "PRP",
+    "VBP",
+    "TO",
+    "VB",
+    "PRP",
+    "NN",
+    "PRP",
+    "VBP",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NNS",
+    "NN",
+    "PRP",
+    "VBP",
+    "IN",
+    "JJ",
+    "NNS",
+    "RB",
+    "VBZ",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "compound",
+    "compound",
+    "root",
+    "expl",
+    "root",
+    "nummod",
+    "amod",
+    "nsubj",
+    "case",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "punct",
+    "nsubj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "xcomp",
+    "iobj",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "nsubj",
+    "ccomp",
+    "case",
+    "amod",
+    "obl",
+    "advmod",
+    "root",
+    "advmod",
+    "nsubj",
+    "ccomp",
+    "nmod:poss",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      11
+    ],
+    [
+      12,
+      14
+    ],
+    [
+      15,
+      22
+    ],
+    [
+      24,
+      29
+    ],
+    [
+      30,
+      33
+    ],
+    [
+      34,
+      39
+    ],
+    [
+      40,
+      45
+    ],
+    [
+      46,
+      56
+    ],
+    [
+      57,
+      59
+    ],
+    [
+      60,
+      71
+    ],
+    [
+      72,
+      74
+    ],
+    [
+      75,
+      82
+    ],
+    [
+      82,
+      83
+    ],
+    [
+      84,
+      95
+    ],
+    [
+      96,
+      99
+    ],
+    [
+      100,
+      106
+    ],
+    [
+      107,
+      109
+    ],
+    [
+      110,
+      114
+    ],
+    [
+      115,
+      117
+    ],
+    [
+      118,
+      129
+    ],
+    [
+      130,
+      132
+    ],
+    [
+      133,
+      136
+    ],
+    [
+      137,
+      141
+    ],
+    [
+      142,
+      145
+    ],
+    [
+      146,
+      149
+    ],
+    [
+      150,
+      153
+    ],
+    [
+      154,
+      162
+    ],
+    [
+      163,
+      174
+    ],
+    [
+      175,
+      177
+    ],
+    [
+      178,
+      181
+    ],
+    [
+      182,
+      186
+    ],
+    [
+      187,
+      192
+    ],
+    [
+      193,
+      200
+    ],
+    [
+      201,
+      205
+    ],
+    [
+      205,
+      207
+    ],
+    [
+      208,
+      211
+    ],
+    [
+      212,
+      214
+    ],
+    [
+      215,
+      222
+    ],
+    [
+      223,
+      227
+    ],
+    [
+      228,
+      239
+    ],
+    [
+      239,
+      240
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      12
+    ],
+    [
+      13,
+      40
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T1",
+      "start_idx": 60,
+      "end_idx": 71,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T2",
+      "start_idx": 72,
+      "end_idx": 74,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "you choose to give us",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T4",
+      "start_idx": 96,
+      "end_idx": 117,
+      "tokens": [
+        "you",
+        "choose",
+        "to",
+        "give",
+        "us"
+      ],
+      "token_idx": [
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "entity/argument_text": "you use our services",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T5",
+      "start_idx": 142,
+      "end_idx": 162,
+      "tokens": [
+        "you",
+        "use",
+        "our",
+        "services"
+      ],
+      "token_idx": [
+        23,
+        24,
+        25,
+        26
+      ]
+    },
+    {
+      "entity/argument_text": "from third parties",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T9",
+      "start_idx": 182,
+      "end_idx": 200,
+      "tokens": [
+        "from",
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "entity/argument_text": "third parties",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T10",
+      "start_idx": 187,
+      "end_idx": 200,
+      "tokens": [
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        31,
+        32
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T11",
+      "start_idx": 212,
+      "end_idx": 214,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        36
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T13",
+      "start_idx": 223,
+      "end_idx": 227,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        38
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T14",
+      "start_idx": 228,
+      "end_idx": 239,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        39
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 75,
+        "end_idx": 82,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          11
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 72,
+          "end_idx": 74
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 60,
+          "end_idx": 71
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you choose to give us",
+          "start_idx": 96,
+          "end_idx": 117
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third parties",
+          "start_idx": 187,
+          "end_idx": 200
+        },
+        {
+          "role": "Condition-Argument2",
+          "type": "Condition",
+          "text": "from third parties",
+          "start_idx": 182,
+          "end_idx": 200
+        },
+        {
+          "role": "Condition-Argument3",
+          "type": "Condition",
+          "text": "you use our services",
+          "start_idx": 142,
+          "end_idx": 162
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 215,
+        "end_idx": 222,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          37
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 228,
+          "end_idx": 239
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 223,
+          "end_idx": 227
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 212,
+          "end_idx": 214
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

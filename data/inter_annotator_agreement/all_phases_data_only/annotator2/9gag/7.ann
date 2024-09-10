@@ -1,0 +1,27 @@
+T3	Data-general 39 50	information
+T7	Data-general 120 131	information
+T10	Name 209 213	name
+T11	Username 215 223	username
+T12	Picture 229 245	profile pictures
+T13	Data-general 173 184	Information
+T14	PubliclyAvailableSocialMedia 247 269	Information you upload
+T15	Picture 279 299	image or video posts
+T16	ServiceConsumptionBehavior 301 355	Information about how you interacted with our services
+T17	ServiceConsumptionBehavior 365 386	the content you saved
+T18	ServiceConsumptionBehavior 388 409	the comments you post
+T19	Interest 415 450	the content you upvote and downvote
+T22	Data-general 533 544	information
+T26	Data-general 631 649	Public information
+T27	Name 660 664	name
+T28	Username 666 674	username
+T29	Picture 680 696	profile pictures
+T30	Data-other 698 717	Content submissions
+T31	Data-other 722 735	saved content
+T32	SocialMedia 768 826	Content from our services that you share on other services
+T35	Data-general 893 904	information
+T41	Data-general 1006 1017	information
+T46	Data-general 1093 1104	information
+T50	Data-general 1211 1222	information
+T57	Data-general 1348 1359	information
+T70	Data-general 2013 2024	information
+T74	Data-general 2103 2172	aggregated, non-personally identifiable, or de-identified information

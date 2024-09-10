@@ -1,0 +1,1324 @@
+{
+  "text": "TRACKING TECHNOLOGIES\n\nWe and our marketing and outsourcing partners, affiliates, or analytics service providers use technologies such as cookies, beacons, scripts, and tags to identify a user\u2019s computer/device and to store information about your visit. Information contained in a cookie may be linked to your personal information, such as your user ID, for purposes such as improving the quality of our Service, tailoring recommendations to your interests, and making the Service easier to use. You can disable cookies at any time, although you may not be able to access or use features of the Service.\n\n",
+  "words": [
+    "TRACKING",
+    "TECHNOLOGIES",
+    "We",
+    "and",
+    "our",
+    "marketing",
+    "and",
+    "outsourcing",
+    "partners",
+    ",",
+    "affiliates",
+    ",",
+    "or",
+    "analytics",
+    "service",
+    "providers",
+    "use",
+    "technologies",
+    "such",
+    "as",
+    "cookies",
+    ",",
+    "beacons",
+    ",",
+    "scripts",
+    ",",
+    "and",
+    "tags",
+    "to",
+    "identify",
+    "a",
+    "user",
+    "\u2019s",
+    "computer",
+    "/",
+    "device",
+    "and",
+    "to",
+    "store",
+    "information",
+    "about",
+    "your",
+    "visit",
+    ".",
+    "Information",
+    "contained",
+    "in",
+    "a",
+    "cookie",
+    "may",
+    "be",
+    "linked",
+    "to",
+    "your",
+    "personal",
+    "information",
+    ",",
+    "such",
+    "as",
+    "your",
+    "user",
+    "ID",
+    ",",
+    "for",
+    "purposes",
+    "such",
+    "as",
+    "improving",
+    "the",
+    "quality",
+    "of",
+    "our",
+    "Service",
+    ",",
+    "tailoring",
+    "recommendations",
+    "to",
+    "your",
+    "interests",
+    ",",
+    "and",
+    "making",
+    "the",
+    "Service",
+    "easier",
+    "to",
+    "use",
+    ".",
+    "You",
+    "can",
+    "disable",
+    "cookies",
+    "at",
+    "any",
+    "time",
+    ",",
+    "although",
+    "you",
+    "may",
+    "not",
+    "be",
+    "able",
+    "to",
+    "access",
+    "or",
+    "use",
+    "features",
+    "of",
+    "the",
+    "Service",
+    "."
+  ],
+  "lemma": [
+    "tracking",
+    "technology",
+    "we",
+    "and",
+    "we",
+    "marketing",
+    "and",
+    "outsourcing",
+    "partner",
+    ",",
+    "affiliate",
+    ",",
+    "or",
+    "analytic",
+    "service",
+    "provider",
+    "use",
+    "technology",
+    "such",
+    "as",
+    "cookie",
+    ",",
+    "beacon",
+    ",",
+    "script",
+    ",",
+    "and",
+    "tags",
+    "to",
+    "identify",
+    "a",
+    "user",
+    "'s",
+    "computer",
+    "/",
+    "device",
+    "and",
+    "to",
+    "store",
+    "information",
+    "about",
+    "you",
+    "visit",
+    ".",
+    "information",
+    "contain",
+    "in",
+    "a",
+    "cookie",
+    "may",
+    "be",
+    "link",
+    "to",
+    "you",
+    "personal",
+    "information",
+    ",",
+    "such",
+    "as",
+    "you",
+    "user",
+    "id",
+    ",",
+    "for",
+    "purpose",
+    "such",
+    "as",
+    "improve",
+    "the",
+    "quality",
+    "of",
+    "we",
+    "service",
+    ",",
+    "tailor",
+    "recommendation",
+    "to",
+    "you",
+    "interest",
+    ",",
+    "and",
+    "make",
+    "the",
+    "service",
+    "easier",
+    "to",
+    "use",
+    ".",
+    "you",
+    "can",
+    "disable",
+    "cookie",
+    "at",
+    "any",
+    "time",
+    ",",
+    "although",
+    "you",
+    "may",
+    "not",
+    "be",
+    "able",
+    "to",
+    "access",
+    "or",
+    "use",
+    "feature",
+    "of",
+    "the",
+    "service",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "VBZ",
+    "PRP",
+    "CC",
+    "PRP$",
+    "NN",
+    "CC",
+    "JJ",
+    "NNS",
+    ",",
+    "NNS",
+    ",",
+    "CC",
+    "NNS",
+    "NN",
+    "NNS",
+    "VBP",
+    "NNS",
+    "JJ",
+    "IN",
+    "NNS",
+    ",",
+    "NNS",
+    ",",
+    "NNS",
+    ",",
+    "CC",
+    "NNS",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "POS",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "IN",
+    "NN",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ".",
+    "NN",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "MD",
+    "VB",
+    "VBN",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    ",",
+    "JJ",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNP",
+    ",",
+    "IN",
+    "NNS",
+    "JJ",
+    "IN",
+    "VBG",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "VBG",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NNS",
+    ",",
+    "CC",
+    "VBG",
+    "DT",
+    "NN",
+    "JJR",
+    "TO",
+    "VB",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "NNS",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "IN",
+    "PRP",
+    "MD",
+    "RB",
+    "VB",
+    "JJ",
+    "TO",
+    "VB",
+    "CC",
+    "VB",
+    "NNS",
+    "IN",
+    "DT",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "nsubj",
+    "root",
+    "nsubj",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "cc",
+    "compound",
+    "compound",
+    "conj",
+    "root",
+    "obj",
+    "case",
+    "fixed",
+    "nmod",
+    "punct",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "cc",
+    "conj",
+    "mark",
+    "acl",
+    "det",
+    "nmod:poss",
+    "case",
+    "obj",
+    "cc",
+    "conj",
+    "cc",
+    "case",
+    "compound",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "nsubj:pass",
+    "acl",
+    "case",
+    "det",
+    "obl",
+    "aux",
+    "aux:pass",
+    "root",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct",
+    "case",
+    "fixed",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "punct",
+    "case",
+    "nmod",
+    "mark",
+    "fixed",
+    "acl",
+    "det",
+    "obj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "conj",
+    "obj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "cc",
+    "conj",
+    "det",
+    "obj",
+    "xcomp",
+    "mark",
+    "ccomp",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "aux",
+    "advmod",
+    "cop",
+    "advcl",
+    "mark",
+    "xcomp",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      9,
+      21
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      30,
+      33
+    ],
+    [
+      34,
+      43
+    ],
+    [
+      44,
+      47
+    ],
+    [
+      48,
+      59
+    ],
+    [
+      60,
+      68
+    ],
+    [
+      68,
+      69
+    ],
+    [
+      70,
+      80
+    ],
+    [
+      80,
+      81
+    ],
+    [
+      82,
+      84
+    ],
+    [
+      85,
+      94
+    ],
+    [
+      95,
+      102
+    ],
+    [
+      103,
+      112
+    ],
+    [
+      113,
+      116
+    ],
+    [
+      117,
+      129
+    ],
+    [
+      130,
+      134
+    ],
+    [
+      135,
+      137
+    ],
+    [
+      138,
+      145
+    ],
+    [
+      145,
+      146
+    ],
+    [
+      147,
+      154
+    ],
+    [
+      154,
+      155
+    ],
+    [
+      156,
+      163
+    ],
+    [
+      163,
+      164
+    ],
+    [
+      165,
+      168
+    ],
+    [
+      169,
+      173
+    ],
+    [
+      174,
+      176
+    ],
+    [
+      177,
+      185
+    ],
+    [
+      186,
+      187
+    ],
+    [
+      188,
+      192
+    ],
+    [
+      192,
+      194
+    ],
+    [
+      195,
+      203
+    ],
+    [
+      203,
+      204
+    ],
+    [
+      204,
+      210
+    ],
+    [
+      211,
+      214
+    ],
+    [
+      215,
+      217
+    ],
+    [
+      218,
+      223
+    ],
+    [
+      224,
+      235
+    ],
+    [
+      236,
+      241
+    ],
+    [
+      242,
+      246
+    ],
+    [
+      247,
+      252
+    ],
+    [
+      252,
+      253
+    ],
+    [
+      254,
+      265
+    ],
+    [
+      266,
+      275
+    ],
+    [
+      276,
+      278
+    ],
+    [
+      279,
+      280
+    ],
+    [
+      281,
+      287
+    ],
+    [
+      288,
+      291
+    ],
+    [
+      292,
+      294
+    ],
+    [
+      295,
+      301
+    ],
+    [
+      302,
+      304
+    ],
+    [
+      305,
+      309
+    ],
+    [
+      310,
+      318
+    ],
+    [
+      319,
+      330
+    ],
+    [
+      330,
+      331
+    ],
+    [
+      332,
+      336
+    ],
+    [
+      337,
+      339
+    ],
+    [
+      340,
+      344
+    ],
+    [
+      345,
+      349
+    ],
+    [
+      350,
+      352
+    ],
+    [
+      352,
+      353
+    ],
+    [
+      354,
+      357
+    ],
+    [
+      358,
+      366
+    ],
+    [
+      367,
+      371
+    ],
+    [
+      372,
+      374
+    ],
+    [
+      375,
+      384
+    ],
+    [
+      385,
+      388
+    ],
+    [
+      389,
+      396
+    ],
+    [
+      397,
+      399
+    ],
+    [
+      400,
+      403
+    ],
+    [
+      404,
+      411
+    ],
+    [
+      411,
+      412
+    ],
+    [
+      413,
+      422
+    ],
+    [
+      423,
+      438
+    ],
+    [
+      439,
+      441
+    ],
+    [
+      442,
+      446
+    ],
+    [
+      447,
+      456
+    ],
+    [
+      456,
+      457
+    ],
+    [
+      458,
+      461
+    ],
+    [
+      462,
+      468
+    ],
+    [
+      469,
+      472
+    ],
+    [
+      473,
+      480
+    ],
+    [
+      481,
+      487
+    ],
+    [
+      488,
+      490
+    ],
+    [
+      491,
+      494
+    ],
+    [
+      494,
+      495
+    ],
+    [
+      496,
+      499
+    ],
+    [
+      500,
+      503
+    ],
+    [
+      504,
+      511
+    ],
+    [
+      512,
+      519
+    ],
+    [
+      520,
+      522
+    ],
+    [
+      523,
+      526
+    ],
+    [
+      527,
+      531
+    ],
+    [
+      531,
+      532
+    ],
+    [
+      533,
+      541
+    ],
+    [
+      542,
+      545
+    ],
+    [
+      546,
+      549
+    ],
+    [
+      550,
+      553
+    ],
+    [
+      554,
+      556
+    ],
+    [
+      557,
+      561
+    ],
+    [
+      562,
+      564
+    ],
+    [
+      565,
+      571
+    ],
+    [
+      572,
+      574
+    ],
+    [
+      575,
+      578
+    ],
+    [
+      579,
+      587
+    ],
+    [
+      588,
+      590
+    ],
+    [
+      591,
+      594
+    ],
+    [
+      595,
+      602
+    ],
+    [
+      602,
+      603
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      43
+    ],
+    [
+      44,
+      87
+    ],
+    [
+      88,
+      110
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T2",
+      "start_idx": 23,
+      "end_idx": 25,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        2
+      ]
+    },
+    {
+      "entity/argument_text": "marketing and outsourcing partners",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T3",
+      "start_idx": 34,
+      "end_idx": 68,
+      "tokens": [
+        "marketing",
+        "and",
+        "outsourcing",
+        "partners"
+      ],
+      "token_idx": [
+        5,
+        6,
+        7,
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "affiliates",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T4",
+      "start_idx": 70,
+      "end_idx": 80,
+      "tokens": [
+        "affiliates"
+      ],
+      "token_idx": [
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "analytics service providers",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 85,
+      "end_idx": 112,
+      "tokens": [
+        "analytics",
+        "service",
+        "providers"
+      ],
+      "token_idx": [
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T6",
+      "start_idx": 138,
+      "end_idx": 145,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        20
+      ]
+    },
+    {
+      "entity/argument_text": "identify a user\u2019s computer/device",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T7",
+      "start_idx": 177,
+      "end_idx": 210,
+      "tokens": [
+        "identify",
+        "a",
+        "user",
+        "\u2019s",
+        "computer",
+        "/",
+        "device"
+      ],
+      "token_idx": [
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "entity/argument_text": "store information about your visit",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T8",
+      "start_idx": 218,
+      "end_idx": 252,
+      "tokens": [
+        "store",
+        "information",
+        "about",
+        "your",
+        "visit"
+      ],
+      "token_idx": [
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T9",
+      "start_idx": 310,
+      "end_idx": 330,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        54,
+        55
+      ]
+    },
+    {
+      "entity/argument_text": "user ID",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T10",
+      "start_idx": 345,
+      "end_idx": 352,
+      "tokens": [
+        "user",
+        "ID"
+      ],
+      "token_idx": [
+        60,
+        61
+      ]
+    },
+    {
+      "entity/argument_text": "improving the quality of our Service",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T11",
+      "start_idx": 375,
+      "end_idx": 411,
+      "tokens": [
+        "improving",
+        "the",
+        "quality",
+        "of",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72
+      ]
+    },
+    {
+      "entity/argument_text": "tailoring recommendations to your interests",
+      "entity/argument_type": "Personalization-customization",
+      "entity/argument_id": "T12",
+      "start_idx": 413,
+      "end_idx": 456,
+      "tokens": [
+        "tailoring",
+        "recommendations",
+        "to",
+        "your",
+        "interests"
+      ],
+      "token_idx": [
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "entity/argument_text": "making the Service easier to use",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T13",
+      "start_idx": 462,
+      "end_idx": 494,
+      "tokens": [
+        "making",
+        "the",
+        "Service",
+        "easier",
+        "to",
+        "use"
+      ],
+      "token_idx": [
+        81,
+        82,
+        83,
+        84,
+        85,
+        86
+      ]
+    },
+    {
+      "entity/argument_text": "beacons",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T14",
+      "start_idx": 147,
+      "end_idx": 154,
+      "tokens": [
+        "beacons"
+      ],
+      "token_idx": [
+        22
+      ]
+    },
+    {
+      "entity/argument_text": "scripts",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T15",
+      "start_idx": 156,
+      "end_idx": 163,
+      "tokens": [
+        "scripts"
+      ],
+      "token_idx": [
+        24
+      ]
+    },
+    {
+      "entity/argument_text": "tags",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T16",
+      "start_idx": 169,
+      "end_idx": 173,
+      "tokens": [
+        "tags"
+      ],
+      "token_idx": [
+        27
+      ]
+    },
+    {
+      "entity/argument_text": "user\u2019s",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T17",
+      "start_idx": 188,
+      "end_idx": 194,
+      "tokens": [
+        "user",
+        "\u2019s"
+      ],
+      "token_idx": [
+        31,
+        32
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 113,
+        "end_idx": 116,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          16
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "analytics service providers",
+          "start_idx": 85,
+          "end_idx": 112
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "Third-party-entity",
+          "text": "affiliates",
+          "start_idx": 70,
+          "end_idx": 80
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 138,
+          "end_idx": 145
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "identify a user\u2019s computer/device",
+          "start_idx": 177,
+          "end_idx": 210
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Basic-service-feature",
+          "text": "store information about your visit",
+          "start_idx": 218,
+          "end_idx": 252
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 310,
+          "end_idx": 330
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "user ID",
+          "start_idx": 345,
+          "end_idx": 352
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Analytics-research",
+          "text": "improving the quality of our Service",
+          "start_idx": 375,
+          "end_idx": 411
+        },
+        {
+          "role": "Purpose-Argument4",
+          "type": "Personalization-customization",
+          "text": "tailoring recommendations to your interests",
+          "start_idx": 413,
+          "end_idx": 456
+        },
+        {
+          "role": "Purpose-Argument5",
+          "type": "Basic-service-feature",
+          "text": "making the Service easier to use",
+          "start_idx": 462,
+          "end_idx": 494
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 23,
+          "end_idx": 25
+        },
+        {
+          "role": "Data-Provider3",
+          "type": "Third-party-entity",
+          "text": "marketing and outsourcing partners",
+          "start_idx": 34,
+          "end_idx": 68
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "beacons",
+          "start_idx": 147,
+          "end_idx": 154
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "scripts",
+          "start_idx": 156,
+          "end_idx": 163
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "tags",
+          "start_idx": 169,
+          "end_idx": 173
+        },
+        {
+          "role": "Data-Provider4",
+          "type": "User",
+          "text": "user\u2019s",
+          "start_idx": 188,
+          "end_idx": 194
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

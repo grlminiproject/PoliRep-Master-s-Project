@@ -1,0 +1,19 @@
+T1	First-party-entity 57 59	We
+T2	first-party-collection-use 64 67	use
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Provider:T4
+T3	Data-general 72 83	information
+T4	User 106 109	you
+T5	EnforceAccessControl 191 244	provide access to the Service to communicate with you
+T6	Purpose-general 250 337	personalize, customize, measure, and improve Navdy's services, content, and advertising
+T7	MisusePreventionAndDetection 343 485	prevent, detect, and investigate potentially prohibited or illegal activities or a breach of the applicable agreement(s) between you and Navdy
+T8	ServiceUsageAnalytics 491 567	analyze the accuracy, effectiveness, usability, or popularity of the Service
+T9	RecordManagement 573 660	generate and review reports and data about Navdy's user base and service usage patterns
+T10	CommercialResearch 666 732	compile aggregate data for internal and external business purposes
+T11	DisputeManagement 738 780	resolve disputes and troubleshoot problems
+T12	CommunicationManagement 790 818	contact you with information
+T13	First-party-entity 155 157	we
+T14	first-party-collection-use 162 165	use
+E2	first-party-collection-use:T14 Data-Collector:T13 Data-Collected:T15 Purpose-Argument:T5 Purpose-Argument2:T6 Purpose-Argument3:T7 Purpose-Argument4:T8 Purpose-Argument5:T9 Purpose-Argument6:T10 Purpose-Argument7:T11 Purpose-Argument8:T12 Purpose-Argument9:T16
+T15	Data-general 171 182	information
+T16	TargetedAdvertising 830 943	promotional, marketing, and advertising information and recommendations that we believe may be of interest to you
+R1	SUBSUME Arg1:T12 Arg2:T16	

@@ -1,0 +1,22 @@
+T1	First-party-entity 28 30	We
+T2	third-party-sharing-disclosure 35 43	transfer
+E1	third-party-sharing-disclosure:T2 Data-Receiver:T6 Data-Receiver2:T5 Data-Shared:T4 Data-Provider:T3 Data-Sharer:T1
+T3	User 44 48	your
+T4	Data-general 49 62	personal data
+T5	Third-party-entity 66 92	Hawk’s affiliate companies
+T6	Third-party-entity 96 113	service providers
+T7	First-party-entity 160 162	We
+T8	third-party-sharing-disclosure 172 177	share
+E2	third-party-sharing-disclosure:T8 Data-Shared:T10 Data-Provider:T9 Data-Sharer:T7 Purpose-Argument:T17
+T9	User 178 182	your
+T10	Data-general 183 196	personal data
+T13	First-party-entity 442 444	we
+T14	third-party-sharing-disclosure 455 463	transfer
+E3	third-party-sharing-disclosure:T14 Data-Shared:T16 Data-Provider:T15 Data-Sharer:T13 Data-Receiver:T18 Data-Receiver2:T19 Data-Receiver3:T20 Condition-Argument2:T21
+T15	User 464 468	your
+T16	Data-general 469 482	personal data
+T17	Legal-requirement 222 298	we receive a legal or regulatory request from a foreign law enforcement body
+T18	Third-party-entity 586 612	Hawk’s affiliate companies
+T19	Third-party-entity 614 631	service providers
+T20	Third-party-entity 636 655	other third parties
+T21	Condition 656 731	will always be protected by contractual commitments for additional security

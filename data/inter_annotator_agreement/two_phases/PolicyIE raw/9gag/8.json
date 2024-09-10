@@ -1,0 +1,1353 @@
+{
+  "text": "Third-Party Content and Integrations\n\nOur services may contain third-party links and search results, include third-party integrations, or offer a co-branded or third-party-branded-service. Through these links, third-party integrations, and co-branded or third-party-branded services, you may be providing information, including personal information, directly to the third party, to us, or to both. You acknowledge and agree that we are not responsible for how those third parties collect or use your information. We encourage you to review the privacy policies of every third-party service you visit or use, including those third parties you interact with through our services.\n\n",
+  "words": [
+    "Third",
+    "-",
+    "Party",
+    "Content",
+    "and",
+    "Integrations",
+    "Our",
+    "services",
+    "may",
+    "contain",
+    "third",
+    "-",
+    "party",
+    "links",
+    "and",
+    "search",
+    "results",
+    ",",
+    "include",
+    "third",
+    "-",
+    "party",
+    "integrations",
+    ",",
+    "or",
+    "offer",
+    "a",
+    "co",
+    "-branded",
+    "or",
+    "third",
+    "-",
+    "party",
+    "-",
+    "branded",
+    "-",
+    "service",
+    ".",
+    "Through",
+    "these",
+    "links",
+    ",",
+    "third",
+    "-",
+    "party",
+    "integrations",
+    ",",
+    "and",
+    "co-branded",
+    "or",
+    "third",
+    "-",
+    "party",
+    "-",
+    "branded",
+    "services",
+    ",",
+    "you",
+    "may",
+    "be",
+    "providing",
+    "information",
+    ",",
+    "including",
+    "personal",
+    "information",
+    ",",
+    "directly",
+    "to",
+    "the",
+    "third",
+    "party",
+    ",",
+    "to",
+    "us",
+    ",",
+    "or",
+    "to",
+    "both",
+    ".",
+    "You",
+    "acknowledge",
+    "and",
+    "agree",
+    "that",
+    "we",
+    "are",
+    "not",
+    "responsible",
+    "for",
+    "how",
+    "those",
+    "third",
+    "parties",
+    "collect",
+    "or",
+    "use",
+    "your",
+    "information",
+    ".",
+    "We",
+    "encourage",
+    "you",
+    "to",
+    "review",
+    "the",
+    "privacy",
+    "policies",
+    "of",
+    "every",
+    "third",
+    "-",
+    "party",
+    "service",
+    "you",
+    "visit",
+    "or",
+    "use",
+    ",",
+    "including",
+    "those",
+    "third",
+    "parties",
+    "you",
+    "interact",
+    "with",
+    "through",
+    "our",
+    "services",
+    "."
+  ],
+  "lemma": [
+    "third",
+    "-",
+    "party",
+    "content",
+    "and",
+    "Integration",
+    "we",
+    "service",
+    "may",
+    "contain",
+    "third",
+    "-",
+    "party",
+    "link",
+    "and",
+    "search",
+    "result",
+    ",",
+    "include",
+    "third",
+    "-",
+    "party",
+    "integration",
+    ",",
+    "or",
+    "offer",
+    "a",
+    "co",
+    "-branded",
+    "or",
+    "third",
+    "-",
+    "party",
+    "-",
+    "brand",
+    "-",
+    "service",
+    ".",
+    "through",
+    "these",
+    "link",
+    ",",
+    "third",
+    "-",
+    "party",
+    "integration",
+    ",",
+    "and",
+    "co-branded",
+    "or",
+    "third",
+    "-",
+    "party",
+    "-",
+    "brand",
+    "service",
+    ",",
+    "you",
+    "may",
+    "be",
+    "provide",
+    "information",
+    ",",
+    "include",
+    "personal",
+    "information",
+    ",",
+    "directly",
+    "to",
+    "the",
+    "third",
+    "party",
+    ",",
+    "to",
+    "we",
+    ",",
+    "or",
+    "to",
+    "both",
+    ".",
+    "you",
+    "acknowledge",
+    "and",
+    "agree",
+    "that",
+    "we",
+    "be",
+    "not",
+    "responsible",
+    "for",
+    "how",
+    "those",
+    "third",
+    "party",
+    "collect",
+    "or",
+    "use",
+    "you",
+    "information",
+    ".",
+    "we",
+    "encourage",
+    "you",
+    "to",
+    "review",
+    "the",
+    "privacy",
+    "policy",
+    "of",
+    "every",
+    "third",
+    "-",
+    "party",
+    "service",
+    "you",
+    "visit",
+    "or",
+    "use",
+    ",",
+    "include",
+    "those",
+    "third",
+    "party",
+    "you",
+    "interact",
+    "with",
+    "through",
+    "we",
+    "service",
+    "."
+  ],
+  "pos-tags": [
+    "NNP",
+    "HYPH",
+    "NNP",
+    "NNP",
+    "CC",
+    "NNPS",
+    "PRP$",
+    "NNS",
+    "MD",
+    "VB",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    "CC",
+    "VB",
+    "NNS",
+    ",",
+    "VBP",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    ",",
+    "CC",
+    "VB",
+    "DT",
+    "AFX",
+    "JJ",
+    "CC",
+    "JJ",
+    "HYPH",
+    "NN",
+    "HYPH",
+    "VBN",
+    "HYPH",
+    "NN",
+    ".",
+    "IN",
+    "DT",
+    "NNS",
+    ",",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    ",",
+    "CC",
+    "JJ",
+    "CC",
+    "JJ",
+    "HYPH",
+    "NN",
+    "HYPH",
+    "VBN",
+    "NNS",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "VBG",
+    "NN",
+    ",",
+    "VBG",
+    "JJ",
+    "NN",
+    ",",
+    "RB",
+    "IN",
+    "DT",
+    "JJ",
+    "NN",
+    ",",
+    "IN",
+    "PRP",
+    ",",
+    "CC",
+    "IN",
+    "DT",
+    ".",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    "IN",
+    "PRP",
+    "VBP",
+    "RB",
+    "JJ",
+    "IN",
+    "WRB",
+    "DT",
+    "JJ",
+    "NNS",
+    "VBP",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    ".",
+    "PRP",
+    "VBP",
+    "PRP",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "NNS",
+    "IN",
+    "DT",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NN",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    ",",
+    "VBG",
+    "DT",
+    "JJ",
+    "NNS",
+    "PRP",
+    "VBP",
+    "IN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "compound",
+    "punct",
+    "compound",
+    "root",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "punct",
+    "compound",
+    "obj",
+    "cc",
+    "conj",
+    "obj",
+    "punct",
+    "conj",
+    "amod",
+    "punct",
+    "compound",
+    "obj",
+    "punct",
+    "cc",
+    "conj",
+    "det",
+    "advmod",
+    "amod",
+    "cc",
+    "amod",
+    "punct",
+    "compound",
+    "punct",
+    "amod",
+    "punct",
+    "obj",
+    "punct",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "amod",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "cc",
+    "conj",
+    "cc",
+    "amod",
+    "punct",
+    "compound",
+    "punct",
+    "amod",
+    "conj",
+    "punct",
+    "nsubj",
+    "aux",
+    "aux",
+    "root",
+    "obj",
+    "punct",
+    "case",
+    "amod",
+    "nmod",
+    "punct",
+    "advmod",
+    "case",
+    "det",
+    "amod",
+    "obl",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "cc",
+    "case",
+    "conj",
+    "punct",
+    "nsubj",
+    "root",
+    "cc",
+    "conj",
+    "mark",
+    "nsubj",
+    "cop",
+    "advmod",
+    "ccomp",
+    "mark",
+    "advmod",
+    "det",
+    "amod",
+    "nsubj",
+    "advcl",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "nsubj",
+    "root",
+    "obj",
+    "mark",
+    "xcomp",
+    "det",
+    "compound",
+    "obj",
+    "case",
+    "det",
+    "amod",
+    "punct",
+    "compound",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "cc",
+    "conj",
+    "punct",
+    "case",
+    "det",
+    "amod",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      5,
+      6
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      12,
+      19
+    ],
+    [
+      20,
+      23
+    ],
+    [
+      24,
+      36
+    ],
+    [
+      38,
+      41
+    ],
+    [
+      42,
+      50
+    ],
+    [
+      51,
+      54
+    ],
+    [
+      55,
+      62
+    ],
+    [
+      63,
+      68
+    ],
+    [
+      68,
+      69
+    ],
+    [
+      69,
+      74
+    ],
+    [
+      75,
+      80
+    ],
+    [
+      81,
+      84
+    ],
+    [
+      85,
+      91
+    ],
+    [
+      92,
+      99
+    ],
+    [
+      99,
+      100
+    ],
+    [
+      101,
+      108
+    ],
+    [
+      109,
+      114
+    ],
+    [
+      114,
+      115
+    ],
+    [
+      115,
+      120
+    ],
+    [
+      121,
+      133
+    ],
+    [
+      133,
+      134
+    ],
+    [
+      135,
+      137
+    ],
+    [
+      138,
+      143
+    ],
+    [
+      144,
+      145
+    ],
+    [
+      146,
+      148
+    ],
+    [
+      148,
+      156
+    ],
+    [
+      157,
+      159
+    ],
+    [
+      160,
+      165
+    ],
+    [
+      165,
+      166
+    ],
+    [
+      166,
+      171
+    ],
+    [
+      171,
+      172
+    ],
+    [
+      172,
+      179
+    ],
+    [
+      179,
+      180
+    ],
+    [
+      180,
+      187
+    ],
+    [
+      187,
+      188
+    ],
+    [
+      189,
+      196
+    ],
+    [
+      197,
+      202
+    ],
+    [
+      203,
+      208
+    ],
+    [
+      208,
+      209
+    ],
+    [
+      210,
+      215
+    ],
+    [
+      215,
+      216
+    ],
+    [
+      216,
+      221
+    ],
+    [
+      222,
+      234
+    ],
+    [
+      234,
+      235
+    ],
+    [
+      236,
+      239
+    ],
+    [
+      240,
+      250
+    ],
+    [
+      251,
+      253
+    ],
+    [
+      254,
+      259
+    ],
+    [
+      259,
+      260
+    ],
+    [
+      260,
+      265
+    ],
+    [
+      265,
+      266
+    ],
+    [
+      266,
+      273
+    ],
+    [
+      274,
+      282
+    ],
+    [
+      282,
+      283
+    ],
+    [
+      284,
+      287
+    ],
+    [
+      288,
+      291
+    ],
+    [
+      292,
+      294
+    ],
+    [
+      295,
+      304
+    ],
+    [
+      305,
+      316
+    ],
+    [
+      316,
+      317
+    ],
+    [
+      318,
+      327
+    ],
+    [
+      328,
+      336
+    ],
+    [
+      337,
+      348
+    ],
+    [
+      348,
+      349
+    ],
+    [
+      350,
+      358
+    ],
+    [
+      359,
+      361
+    ],
+    [
+      362,
+      365
+    ],
+    [
+      366,
+      371
+    ],
+    [
+      372,
+      377
+    ],
+    [
+      377,
+      378
+    ],
+    [
+      379,
+      381
+    ],
+    [
+      382,
+      384
+    ],
+    [
+      384,
+      385
+    ],
+    [
+      386,
+      388
+    ],
+    [
+      389,
+      391
+    ],
+    [
+      392,
+      396
+    ],
+    [
+      396,
+      397
+    ],
+    [
+      398,
+      401
+    ],
+    [
+      402,
+      413
+    ],
+    [
+      414,
+      417
+    ],
+    [
+      418,
+      423
+    ],
+    [
+      424,
+      428
+    ],
+    [
+      429,
+      431
+    ],
+    [
+      432,
+      435
+    ],
+    [
+      436,
+      439
+    ],
+    [
+      440,
+      451
+    ],
+    [
+      452,
+      455
+    ],
+    [
+      456,
+      459
+    ],
+    [
+      460,
+      465
+    ],
+    [
+      466,
+      471
+    ],
+    [
+      472,
+      479
+    ],
+    [
+      480,
+      487
+    ],
+    [
+      488,
+      490
+    ],
+    [
+      491,
+      494
+    ],
+    [
+      495,
+      499
+    ],
+    [
+      500,
+      511
+    ],
+    [
+      511,
+      512
+    ],
+    [
+      513,
+      515
+    ],
+    [
+      516,
+      525
+    ],
+    [
+      526,
+      529
+    ],
+    [
+      530,
+      532
+    ],
+    [
+      533,
+      539
+    ],
+    [
+      540,
+      543
+    ],
+    [
+      544,
+      551
+    ],
+    [
+      552,
+      560
+    ],
+    [
+      561,
+      563
+    ],
+    [
+      564,
+      569
+    ],
+    [
+      570,
+      575
+    ],
+    [
+      575,
+      576
+    ],
+    [
+      576,
+      581
+    ],
+    [
+      582,
+      589
+    ],
+    [
+      590,
+      593
+    ],
+    [
+      594,
+      599
+    ],
+    [
+      600,
+      602
+    ],
+    [
+      603,
+      606
+    ],
+    [
+      606,
+      607
+    ],
+    [
+      608,
+      617
+    ],
+    [
+      618,
+      623
+    ],
+    [
+      624,
+      629
+    ],
+    [
+      630,
+      637
+    ],
+    [
+      638,
+      641
+    ],
+    [
+      642,
+      650
+    ],
+    [
+      651,
+      655
+    ],
+    [
+      656,
+      663
+    ],
+    [
+      664,
+      667
+    ],
+    [
+      668,
+      676
+    ],
+    [
+      676,
+      677
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      37
+    ],
+    [
+      38,
+      79
+    ],
+    [
+      80,
+      99
+    ],
+    [
+      100,
+      129
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T1",
+      "start_idx": 284,
+      "end_idx": 287,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        57
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 305,
+      "end_idx": 316,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        61
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T4",
+      "start_idx": 328,
+      "end_idx": 348,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        64,
+        65
+      ]
+    },
+    {
+      "entity/argument_text": "us",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 382,
+      "end_idx": 384,
+      "tokens": [
+        "us"
+      ],
+      "token_idx": [
+        74
+      ]
+    },
+    {
+      "entity/argument_text": "third party",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T6",
+      "start_idx": 366,
+      "end_idx": 377,
+      "tokens": [
+        "third",
+        "party"
+      ],
+      "token_idx": [
+        70,
+        71
+      ]
+    },
+    {
+      "entity/argument_text": "Through these links, third-party integrations, and co-branded or third-party-branded services",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T7",
+      "start_idx": 189,
+      "end_idx": 282,
+      "tokens": [
+        "Through",
+        "these",
+        "links",
+        ",",
+        "third",
+        "-",
+        "party",
+        "integrations",
+        ",",
+        "and",
+        "co-branded",
+        "or",
+        "third",
+        "-",
+        "party",
+        "-",
+        "branded",
+        "services"
+      ],
+      "token_idx": [
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "entity/argument_text": "You",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T8",
+      "start_idx": 398,
+      "end_idx": 401,
+      "tokens": [
+        "You"
+      ],
+      "token_idx": [
+        80
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T9",
+      "start_idx": 429,
+      "end_idx": 431,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        85
+      ]
+    },
+    {
+      "entity/argument_text": "third parties",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T10",
+      "start_idx": 466,
+      "end_idx": 479,
+      "tokens": [
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        92,
+        93
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T12",
+      "start_idx": 500,
+      "end_idx": 511,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        98
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "providing",
+        "start_idx": 295,
+        "end_idx": 304,
+        "tokens": [
+          "providing"
+        ],
+        "token_idx": [
+          60
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "us",
+          "start_idx": 382,
+          "end_idx": 384
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 284,
+          "end_idx": 287
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 305,
+          "end_idx": 316
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "Third-party-entity",
+          "text": "third party",
+          "start_idx": 366,
+          "end_idx": 377
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 328,
+          "end_idx": 348
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "Through these links, third-party integrations, and co-branded or third-party-branded services",
+          "start_idx": 189,
+          "end_idx": 282
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 480,
+        "end_idx": 487,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          94
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 500,
+          "end_idx": 511
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 429,
+          "end_idx": 431
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third parties",
+          "start_idx": 466,
+          "end_idx": 479
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "You",
+          "start_idx": 398,
+          "end_idx": 401
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

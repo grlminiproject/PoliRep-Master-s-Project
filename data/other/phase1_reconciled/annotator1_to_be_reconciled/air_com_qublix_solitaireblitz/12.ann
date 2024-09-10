@@ -1,0 +1,26 @@
+T1	Negation 271 274	not
+T2	collection-use 275 282	collect
+E1	collection-use:T2 Polarity:T1 Data-Collector:T4 Data-Collected:T5 Data-Provider:T6 Condition-Argument:T7 Condition-Argument2:T8
+T3	data-storage-retention-deletion 514 520	retain
+E2	data-storage-retention-deletion:T3 Condition-Argument:T9 Data-Retained:T11 Purpose-Argument:T12 Purpose-Argument2:T13 Purpose-Argument3:T14 Purpose-Argument4:T15 Purpose-Argument5:T16 Purpose-Argument6:T17 Data-Holder:T10 Data-Provider:T21 Purpose-Argument7:T23
+T4	First-party-entity 265 267	we
+T5	Data-general 295 306	information
+T6	User 307 310	you
+T7	Condition 307 368	you should also delete our games from your mobile devices and
+T8	Condition 369 451	clear our cookies from any device where you have played our games in a web browser
+T9	Condition 459 499	we delete personal information about you
+T11	Data-general 541 552	information
+T12	RecordManagement 580 609	maintaining financial records
+T13	LegalCompliance 611 647	protecting or enforcing legal rights
+T14	DirectMarketing 649 688	maintaining marketing suppression lists
+T15	Purpose-general 696 713	technical reasons
+T16	EnforceSecurity 722 752	maintaining technical security
+T17	RecordManagement 760 778	database integrity
+T18	data-storage-retention-deletion 792 798	retain
+E3	data-storage-retention-deletion:T18 Data-Provider:T20 Data-Retained:T22 Data-Holder:T19
+T19	First-party-entity 780 782	We
+T20	User 799 803	your
+T22	Data-general 804 837	information in an anonymized form
+T10	First-party-entity 459 461	we
+T21	User 496 499	you
+T23	Purpose-other 557 571	other purposes

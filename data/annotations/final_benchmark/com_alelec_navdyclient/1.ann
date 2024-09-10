@@ -1,0 +1,8 @@
+T1	collection-use 139 142	use
+E1	collection-use:T1 Data-Collector:T5 Data-Collected:T2 Data-Provider:T3
+T2	Data-general 146 157	information
+T3	User 164 167	you
+T4	storage-place 191 208	notice@navdy.com.
+T5	First-party-entity 135 138	our
+T6	data-storage-retention-deletion 180 187	located
+E2	data-storage-retention-deletion:T6 Storage-Place:T4 Data-Retained:T2 Data-Provider:T3 Data-Holder:T5

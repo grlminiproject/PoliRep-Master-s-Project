@@ -1,0 +1,23 @@
+T3	Name 524 528	name
+T4	EmailAddress 530 543	email address
+T5	TelephoneNumber 545 561	telephone number
+T6	Purchase 627 647	purchase information
+T7	PurchasesAndSpendingHabit 656 690	the products or services purchased
+T8	Purchase 692 713	the dates of purchase
+T9	Purchase 718 736	the purchase price
+T10	ServiceConsumptionBehavior 836 883	what editorial and advertising content you view
+T11	ServiceConsumptionBehavior 889 966	the products and services you use that we and our third-party providers offer
+T12	DeviceBased 1030 1089	information about the devices you use to access our Service
+T13	DeviceBased 1099 1116	hardware settings
+T14	Tracking 1118 1130	browser type
+T15	Language 1132 1148	browser language
+T16	ServiceConsumptionBehavior 1154 1183	date and time of your request
+T17	BrowsingReferral 1188 1200	referral URL
+T18	ServiceConsumptionBehavior 1423 1466	details about how you have used our Service
+T19	BrowsingBehavior 1481 1495	search queries
+T20	IPAddress 1506 1516	IP address
+T22	Data 2286 2324	information about your actual location
+T27	Preference 2131 2170	information about your user preferences
+T28	Data-general 2175 2201	other personal information
+T32	Location 2367 2375	location
+T33	IPAddress 2387 2397	IP address

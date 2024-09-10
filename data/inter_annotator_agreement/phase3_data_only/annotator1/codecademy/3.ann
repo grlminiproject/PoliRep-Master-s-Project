@@ -1,0 +1,6 @@
+T1	ServiceConsumptionBehavior 312 353	information about your use of its service
+T2	UID 404 411	user ID
+T3	Data-other 475 523	an access token necessary to access that service
+T7	Friend 718 740	your friends' user IDs
+T8	SocialNetwork 746 778	your connection to those friends
+T9	UID 460 472	Facebook UID

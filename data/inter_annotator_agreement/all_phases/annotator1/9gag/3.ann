@@ -1,0 +1,52 @@
+T1	Condition 40 78	you use and interact with our services
+T2	User 40 43	you
+T3	First-party-entity 66 69	our
+T4	collection-use 83 90	collect
+E1	collection-use:T4 Condition-Argument:T6 Data-Collected:T5 Data-Collector:T3 Condition-Argument2:T1 Data-Provider:T2
+T5	Data-general 95 106	information
+T6	Opt-in 107 134	you choose to share with us
+T7	Data-general 242 269	important details about you
+T8	Username 289 297	username
+T9	Password 312 320	password
+T10	EmailAddress 325 339	e-mail address
+T11	BirthDate 350 363	date of birth
+T12	collection-use 228 235	collect
+E2	collection-use:T12 Data-Collector:T15 Data-Provider:T14 Data-Collected:T11 Data-Collected2:T7 Data-Collected3:T10 Data-Collected4:T9 Data-Collected5:T8 Purpose-Argument:T13
+T14	User 178 181	you
+T15	First-party-entity 157 160	our
+T13	AccountManagement 185 212	set up a basic 9GAG account
+T16	Purpose-other 368 405	make it easier for others to find you
+T17	collection-use 430 437	provide
+E3	collection-use:T17 Data-Collected:T23 Data-Collected2:T22 Data-Collected3:T21 Data-Collected4:T20 Data-Collector:T18 Data-Provider:T19 Purpose-Argument:T16
+T18	First-party-entity 407 409	we
+T19	User 402 405	you
+T20	Data-general 452 463	information
+T21	Picture 525 540	profile picture
+T22	Name 544 548	name
+T23	Data-general 559 583	identifiable information
+T24	collection-use 656 663	provide
+E4	collection-use:T24 Data-Collected:T26 Data-Collected2:T25 Data-Provider:T28 Data-Collector:T27
+T25	PaymentCardNumber 674 706	debit card or credit card number
+T26	FinancialAccount 726 745	account information
+T27	First-party-entity 585 588	Our
+T28	User 649 652	you
+T29	collection-use 759 766	provide
+E5	collection-use:T29 Data-Collected:T33 Data-Collected2:T31 Data-Provider:T30 Data-Collector:T39
+T30	User 747 753	You’ll
+T31	Data-general 771 782	information
+T33	SocialMediaCommunication 822 846	post and comment uploads
+T34	collection-use 1122 1129	collect
+E6	collection-use:T34 Condition-Argument:T38 Data-Collector:T36 Data-Provider:T37 Data-Collected:T35
+T35	Data-general 1134 1145	information
+T36	First-party-entity 1078 1080	us
+T37	User 1066 1069	you
+T38	Opt-in 1066 1114	you contact us or communicate with us in any way
+T39	First-party-entity 800 803	our
+R1	SUBSUME Arg1:T7 Arg2:T8	
+R2	SUBSUME Arg1:T7 Arg2:T9	
+R3	SUBSUME Arg1:T7 Arg2:T10	
+R4	SUBSUME Arg1:T7 Arg2:T11	
+R5	SUBSUME Arg1:T20 Arg2:T21	
+R6	SUBSUME Arg1:T20 Arg2:T22	
+R7	SUBSUME Arg1:T20 Arg2:T23	
+#1	AnnotatorNotes T25	I was not sure if it should be payment card or credit card because of the debit card information.

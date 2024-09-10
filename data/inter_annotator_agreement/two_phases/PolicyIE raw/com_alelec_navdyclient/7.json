@@ -1,0 +1,614 @@
+{
+  "text": "Personally Identifiable Information About Your Online Activities Over Time and Across Different Websites\n\nNavdy permits third parties to collect personally identifiable information about your online activities over time and across different websites when you use the Service. For more information, please refer to the \"Tracking and Cookies\" section above.\n\n",
+  "words": [
+    "Personally",
+    "Identifiable",
+    "Information",
+    "About",
+    "Your",
+    "Online",
+    "Activities",
+    "Over",
+    "Time",
+    "and",
+    "Across",
+    "Different",
+    "Websites",
+    "Navdy",
+    "permits",
+    "third",
+    "parties",
+    "to",
+    "collect",
+    "personally",
+    "identifiable",
+    "information",
+    "about",
+    "your",
+    "online",
+    "activities",
+    "over",
+    "time",
+    "and",
+    "across",
+    "different",
+    "websites",
+    "when",
+    "you",
+    "use",
+    "the",
+    "Service",
+    ".",
+    "For",
+    "more",
+    "information",
+    ",",
+    "please",
+    "refer",
+    "to",
+    "the",
+    "\"",
+    "Tracking",
+    "and",
+    "Cookies",
+    "\"",
+    "section",
+    "above",
+    "."
+  ],
+  "lemma": [
+    "personally",
+    "Identifiable",
+    "information",
+    "about",
+    "you",
+    "Online",
+    "activities",
+    "over",
+    "time",
+    "and",
+    "across",
+    "different",
+    "websites",
+    "Navdy",
+    "permit",
+    "third",
+    "party",
+    "to",
+    "collect",
+    "personally",
+    "identifiable",
+    "information",
+    "about",
+    "you",
+    "online",
+    "activity",
+    "over",
+    "time",
+    "and",
+    "across",
+    "different",
+    "website",
+    "when",
+    "you",
+    "use",
+    "the",
+    "service",
+    ".",
+    "for",
+    "more",
+    "information",
+    ",",
+    "please",
+    "refer",
+    "to",
+    "the",
+    "\"",
+    "tracking",
+    "and",
+    "cookie",
+    "\"",
+    "section",
+    "above",
+    "."
+  ],
+  "pos-tags": [
+    "RB",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNP",
+    "NNP",
+    "NNP",
+    "NNP",
+    "CC",
+    "NNP",
+    "NNP",
+    "NNPS",
+    "JJ",
+    "NNS",
+    "JJ",
+    "NNS",
+    "TO",
+    "VB",
+    "RB",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NNS",
+    "IN",
+    "NN",
+    "CC",
+    "IN",
+    "JJ",
+    "NNS",
+    "WRB",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    ".",
+    "IN",
+    "JJR",
+    "NN",
+    ",",
+    "UH",
+    "VB",
+    "IN",
+    "DT",
+    "``",
+    "NN",
+    "CC",
+    "NNS",
+    "''",
+    "NN",
+    "RB",
+    "."
+  ],
+  "dependency-relation": [
+    "advmod",
+    "amod",
+    "root",
+    "case",
+    "nmod:poss",
+    "compound",
+    "compound",
+    "compound",
+    "compound",
+    "cc",
+    "conj",
+    "compound",
+    "nmod",
+    "amod",
+    "compound",
+    "amod",
+    "root",
+    "mark",
+    "acl",
+    "advmod",
+    "amod",
+    "obj",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "case",
+    "nmod",
+    "cc",
+    "case",
+    "amod",
+    "conj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "det",
+    "obj",
+    "punct",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "discourse",
+    "root",
+    "case",
+    "det",
+    "punct",
+    "obl",
+    "cc",
+    "conj",
+    "punct",
+    "appos",
+    "advmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      10
+    ],
+    [
+      11,
+      23
+    ],
+    [
+      24,
+      35
+    ],
+    [
+      36,
+      41
+    ],
+    [
+      42,
+      46
+    ],
+    [
+      47,
+      53
+    ],
+    [
+      54,
+      64
+    ],
+    [
+      65,
+      69
+    ],
+    [
+      70,
+      74
+    ],
+    [
+      75,
+      78
+    ],
+    [
+      79,
+      85
+    ],
+    [
+      86,
+      95
+    ],
+    [
+      96,
+      104
+    ],
+    [
+      106,
+      111
+    ],
+    [
+      112,
+      119
+    ],
+    [
+      120,
+      125
+    ],
+    [
+      126,
+      133
+    ],
+    [
+      134,
+      136
+    ],
+    [
+      137,
+      144
+    ],
+    [
+      145,
+      155
+    ],
+    [
+      156,
+      168
+    ],
+    [
+      169,
+      180
+    ],
+    [
+      181,
+      186
+    ],
+    [
+      187,
+      191
+    ],
+    [
+      192,
+      198
+    ],
+    [
+      199,
+      209
+    ],
+    [
+      210,
+      214
+    ],
+    [
+      215,
+      219
+    ],
+    [
+      220,
+      223
+    ],
+    [
+      224,
+      230
+    ],
+    [
+      231,
+      240
+    ],
+    [
+      241,
+      249
+    ],
+    [
+      250,
+      254
+    ],
+    [
+      255,
+      258
+    ],
+    [
+      259,
+      262
+    ],
+    [
+      263,
+      266
+    ],
+    [
+      267,
+      274
+    ],
+    [
+      274,
+      275
+    ],
+    [
+      276,
+      279
+    ],
+    [
+      280,
+      284
+    ],
+    [
+      285,
+      296
+    ],
+    [
+      296,
+      297
+    ],
+    [
+      298,
+      304
+    ],
+    [
+      305,
+      310
+    ],
+    [
+      311,
+      313
+    ],
+    [
+      314,
+      317
+    ],
+    [
+      318,
+      319
+    ],
+    [
+      319,
+      327
+    ],
+    [
+      328,
+      331
+    ],
+    [
+      332,
+      339
+    ],
+    [
+      339,
+      340
+    ],
+    [
+      341,
+      348
+    ],
+    [
+      349,
+      354
+    ],
+    [
+      354,
+      355
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      12
+    ],
+    [
+      13,
+      37
+    ],
+    [
+      38,
+      53
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Navdy",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 106,
+      "end_idx": 111,
+      "tokens": [
+        "Navdy"
+      ],
+      "token_idx": [
+        13
+      ]
+    },
+    {
+      "entity/argument_text": "third parties",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T2",
+      "start_idx": 120,
+      "end_idx": 133,
+      "tokens": [
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        15,
+        16
+      ]
+    },
+    {
+      "entity/argument_text": "personally identifiable information",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T4",
+      "start_idx": 145,
+      "end_idx": 180,
+      "tokens": [
+        "personally",
+        "identifiable",
+        "information"
+      ],
+      "token_idx": [
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T5",
+      "start_idx": 187,
+      "end_idx": 191,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "you use the Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T6",
+      "start_idx": 255,
+      "end_idx": 274,
+      "tokens": [
+        "you",
+        "use",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "entity/argument_text": "online activities",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T7",
+      "start_idx": 192,
+      "end_idx": 209,
+      "tokens": [
+        "online",
+        "activities"
+      ],
+      "token_idx": [
+        24,
+        25
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 137,
+        "end_idx": 144,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          18
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you use the Service",
+          "start_idx": 255,
+          "end_idx": 274
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 187,
+          "end_idx": 191
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-contact",
+          "text": "personally identifiable information",
+          "start_idx": 145,
+          "end_idx": 180
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "third parties",
+          "start_idx": 120,
+          "end_idx": 133
+        },
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "Navdy",
+          "start_idx": 106,
+          "end_idx": 111
+        },
+        {
+          "role": "Data-Shared2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "online activities",
+          "start_idx": 192,
+          "end_idx": 209
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

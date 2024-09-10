@@ -1,0 +1,16 @@
+11. How we PROTECT your personal data?
+
+We endeavor to protect us and you from unauthorized access to or unauthorized alteration, disclosure or destruction of personal data that we hold.
+In particular:
+We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to systems;
+We use encryption where appropriate;
+We use password protection where appropriate; and
+We restrict access to personal data to our employees, contractors and agents who need access to the relevant personal data in order to for them to process it for us and who are subject to strict contractual confidentiality obligations.
+You are responsible for the personal data that you choose to share, disclose or submit voluntarily while using our website or devices and which can be viewed by members of third party applications or sites such as chat applications or messengers.
+When you utilize third-party social media services, email, text messages etc. which you accessed via using our product, and to interact with other users or service providers and exchange personal contact, geographic location or track of traveling etc., please note that we cannot verify if such third-party services have made such information transmission to be fully encrypted. Please take care to protect the security of your personal data, and especially avoid sharing sensitive personal data when you’re uncertain about the security of data transfer.
+Please understand that due to the rapid development of computer and internet technologies, various measures of attack may exist or be created, whether vicious or not, which renders no applications or internet transmission to be 100% secure. While we continuously take reasonable technical, administrative, and physical measures to protect the information you provided, we still may not be able to guarantee absolute security of your information at all times. Where the relevant information and data collected is stored on your device, security is also dependent on your device’s own secure storage functionality. You should also take care to protect the secrecy of your account user name and password and to protect the information stored on your device.
+If you have any issue arising from this policy, including requests to exercise data subject rights, you can contact us as described below:
+Email address: dpo.eu@tcl.com
+Address: 8/F, Building 22E, 22 Science Park East Avenue, Hong Kong Science Park, Shatin, New Territories, Hong Kong 999077
+If you have a complaint or concern about how we use your personal data, please contact us in the first instance and we will attempt to resolve the issue as soon as possible. You also have a right to lodge a complaint with your national data protection supervisory authority at any time. We do ask that you please attempt to resolve any issues with us first, although you have a right to contact your supervisory authority at any time.
+

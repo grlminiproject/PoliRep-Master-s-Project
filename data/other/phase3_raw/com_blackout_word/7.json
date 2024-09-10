@@ -1,0 +1,121 @@
+{
+  "text": "3. How and why we share your personal information with others\n\n\n",
+  "words": [
+    "3",
+    ".",
+    "How",
+    "and",
+    "why",
+    "we",
+    "share",
+    "your",
+    "personal",
+    "information",
+    "with",
+    "others"
+  ],
+  "lemma": [
+    "3",
+    ".",
+    "how",
+    "and",
+    "why",
+    "we",
+    "share",
+    "you",
+    "personal",
+    "information",
+    "with",
+    "other"
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "WRB",
+    "CC",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS"
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "root",
+    "cc",
+    "advmod",
+    "nsubj",
+    "conj",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "obl"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      7,
+      10
+    ],
+    [
+      11,
+      14
+    ],
+    [
+      15,
+      17
+    ],
+    [
+      18,
+      23
+    ],
+    [
+      24,
+      28
+    ],
+    [
+      29,
+      37
+    ],
+    [
+      38,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      55,
+      61
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      11
+    ]
+  ],
+  "entity/argument_mentions": [],
+  "event_mentions": []
+}

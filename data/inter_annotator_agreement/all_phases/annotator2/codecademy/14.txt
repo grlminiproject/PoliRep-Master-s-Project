@@ -1,0 +1,4 @@
+Where does Codecademy host customer data?
+
+Looker-hosted instances are hosted in the Amazon Web Services cloud. By default, Codecademy hosts in the Ohio and Virginia (US) regions.
+

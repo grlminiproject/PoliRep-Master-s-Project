@@ -1,0 +1,156 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = MINORS
+1	MINORS	Minors	X	ADD	_	0	root	_	SpacesAfter=\n\n|TokenRange=0:6
+
+# newpar
+# sent_id = 2
+# text = The Services are not designed or directed to persons under the age of 18 or persons under the age of legal consent with respect to the use of the Services of any jurisdiction, whichever is higher ("Legally of Age").
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=8:11
+2	Services	service	NOUN	NNS	Number=Plur	5	nsubj:pass	_	TokenRange=12:20
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	TokenRange=21:24
+4	not	not	PART	RB	_	5	advmod	_	TokenRange=25:28
+5	designed	design	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=29:37
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=38:40
+7	directed	direct	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	TokenRange=41:49
+8	to	to	ADP	IN	_	9	case	_	TokenRange=50:52
+9	persons	person	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=53:60
+10	under	under	ADP	IN	_	12	case	_	TokenRange=61:66
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=67:70
+12	age	age	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=71:74
+13	of	of	ADP	IN	_	14	case	_	TokenRange=75:77
+14	18	18	NUM	CD	NumType=Card	12	nmod	_	TokenRange=78:80
+15	or	or	CCONJ	CC	_	16	cc	_	TokenRange=81:83
+16	persons	person	NOUN	NNS	Number=Plur	9	conj	_	TokenRange=84:91
+17	under	under	ADP	IN	_	19	case	_	TokenRange=92:97
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=98:101
+19	age	age	NOUN	NN	Number=Sing	16	nmod	_	TokenRange=102:105
+20	of	of	ADP	IN	_	22	case	_	TokenRange=106:108
+21	legal	legal	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=109:114
+22	consent	consent	NOUN	NN	Number=Sing	19	nmod	_	TokenRange=115:122
+23	with	with	ADP	IN	_	24	case	_	TokenRange=123:127
+24	respect	respect	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=128:135
+25	to	to	ADP	IN	_	27	case	_	TokenRange=136:138
+26	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	TokenRange=139:142
+27	use	use	NOUN	NN	Number=Sing	24	nmod	_	TokenRange=143:146
+28	of	of	ADP	IN	_	30	case	_	TokenRange=147:149
+29	the	the	DET	DT	Definite=Def|PronType=Art	30	det	_	TokenRange=150:153
+30	Services	service	NOUN	NNS	Number=Plur	27	nmod	_	TokenRange=154:162
+31	of	of	ADP	IN	_	33	case	_	TokenRange=163:165
+32	any	any	DET	DT	_	33	det	_	TokenRange=166:169
+33	jurisdiction	jurisdiction	NOUN	NN	Number=Sing	30	nmod	_	SpaceAfter=No|TokenRange=170:182
+34	,	,	PUNCT	,	_	37	punct	_	TokenRange=182:183
+35	whichever	whichever	PRON	WP	PronType=Int	37	nsubj	_	TokenRange=184:193
+36	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	37	cop	_	TokenRange=194:196
+37	higher	higher	ADJ	JJR	Degree=Cmp	5	parataxis	_	TokenRange=197:203
+38	(	(	PUNCT	-LRB-	_	42	punct	_	SpaceAfter=No|TokenRange=204:205
+39	"	"	PUNCT	``	_	42	punct	_	SpaceAfter=No|TokenRange=205:206
+40	Legally	legally	ADV	RB	_	42	advmod	_	TokenRange=206:213
+41	of	of	ADP	IN	_	42	case	_	TokenRange=214:216
+42	Age	age	PROPN	NNP	Number=Sing	5	appos	_	SpaceAfter=No|TokenRange=217:220
+43	"	"	PUNCT	''	_	42	punct	_	SpaceAfter=No|TokenRange=220:221
+44	)	)	PUNCT	-RRB-	_	42	punct	_	SpaceAfter=No|TokenRange=221:222
+45	.	.	PUNCT	.	_	5	punct	_	TokenRange=222:223
+
+# sent_id = 3
+# text = If you are not Legally of Age, you should not download or use the Services nor provide any Personal Information to us.
+1	If	if	SCONJ	IN	_	5	mark	_	TokenRange=224:226
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=227:230
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=231:234
+4	not	not	PART	RB	_	5	advmod	_	TokenRange=235:238
+5	Legally	legally	ADV	RB	_	12	advcl	_	TokenRange=239:246
+6	of	of	ADP	IN	_	7	case	_	TokenRange=247:249
+7	Age	age	PROPN	NNP	Number=Sing	5	obl	_	SpaceAfter=No|TokenRange=250:253
+8	,	,	PUNCT	,	_	12	punct	_	TokenRange=253:254
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	TokenRange=255:258
+10	should	should	AUX	MD	VerbForm=Fin	12	aux	_	TokenRange=259:265
+11	not	not	PART	RB	_	12	advmod	_	TokenRange=266:269
+12	download	download	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=270:278
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=279:281
+14	use	use	VERB	VB	VerbForm=Inf	12	conj	_	TokenRange=282:285
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=286:289
+16	Services	service	NOUN	NNS	Number=Plur	12	obj	_	TokenRange=290:298
+17	nor	nor	CCONJ	CC	_	18	cc	_	TokenRange=299:302
+18	provide	provide	VERB	VB	VerbForm=Inf	12	conj	_	TokenRange=303:310
+19	any	any	DET	DT	_	21	det	_	TokenRange=311:314
+20	Personal	Personal	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=315:323
+21	Information	information	NOUN	NN	Number=Sing	18	obj	_	TokenRange=324:335
+22	to	to	ADP	IN	_	23	case	_	TokenRange=336:338
+23	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	18	obl	_	SpaceAfter=No|TokenRange=339:341
+24	.	.	PUNCT	.	_	12	punct	_	SpacesAfter=\n|TokenRange=341:342
+
+# sent_id = 4
+# text = We reserve the right to access and verify any Personal Information collected from you.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=343:345
+2	reserve	reserve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=346:353
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=354:357
+4	right	right	NOUN	NN	Number=Sing	2	obj	_	TokenRange=358:363
+5	to	to	PART	TO	_	6	mark	_	TokenRange=364:366
+6	access	access	VERB	VB	VerbForm=Inf	4	acl	_	TokenRange=367:373
+7	and	and	CCONJ	CC	_	8	cc	_	TokenRange=374:377
+8	verify	verify	VERB	VB	VerbForm=Inf	6	conj	_	TokenRange=378:384
+9	any	any	DET	DT	_	11	det	_	TokenRange=385:388
+10	Personal	Personal	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=389:397
+11	Information	information	NOUN	NN	Number=Sing	8	obj	_	TokenRange=398:409
+12	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	TokenRange=410:419
+13	from	from	ADP	IN	_	14	case	_	TokenRange=420:424
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	obl	_	SpaceAfter=No|TokenRange=425:428
+15	.	.	PUNCT	.	_	2	punct	_	TokenRange=428:429
+
+# sent_id = 5
+# text = In the event that we become aware that a user who is not Legally of Age has shared any information, we may discard such information.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=430:432
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=433:436
+3	event	event	NOUN	NN	Number=Sing	24	obl	_	TokenRange=437:442
+4	that	that	PRON	WDT	PronType=Rel	6	obl	_	TokenRange=443:447
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=448:450
+6	become	become	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	TokenRange=451:457
+7	aware	aware	ADJ	JJ	Degree=Pos	6	xcomp	_	TokenRange=458:463
+8	that	that	SCONJ	IN	_	18	mark	_	TokenRange=464:468
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	TokenRange=469:470
+10	user	user	NOUN	NN	Number=Sing	18	nsubj	_	TokenRange=471:475
+11	who	who	PRON	WP	PronType=Rel	14	nsubj	_	TokenRange=476:479
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	cop	_	TokenRange=480:482
+13	not	not	PART	RB	_	14	advmod	_	TokenRange=483:486
+14	Legally	legally	ADV	RB	_	10	acl:relcl	_	TokenRange=487:494
+15	of	of	ADP	IN	_	16	case	_	TokenRange=495:497
+16	Age	age	PROPN	NNP	Number=Sing	14	obl	_	TokenRange=498:501
+17	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	TokenRange=502:505
+18	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	TokenRange=506:512
+19	any	any	DET	DT	_	20	det	_	TokenRange=513:516
+20	information	information	NOUN	NN	Number=Sing	18	obj	_	SpaceAfter=No|TokenRange=517:528
+21	,	,	PUNCT	,	_	24	punct	_	TokenRange=528:529
+22	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	TokenRange=530:532
+23	may	may	AUX	MD	VerbForm=Fin	24	aux	_	TokenRange=533:536
+24	discard	discard	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=537:544
+25	such	such	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=545:549
+26	information	information	NOUN	NN	Number=Sing	24	obj	_	SpaceAfter=No|TokenRange=550:561
+27	.	.	PUNCT	.	_	24	punct	_	TokenRange=561:562
+
+# sent_id = 6
+# text = If you have any reason to believe that a minor has shared any information with us, please contact us at dpo@domainsholdingsgroup.info.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=563:565
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=566:569
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	_	TokenRange=570:574
+4	any	any	DET	DT	_	5	det	_	TokenRange=575:578
+5	reason	reason	NOUN	NN	Number=Sing	3	obj	_	TokenRange=579:585
+6	to	to	PART	TO	_	7	mark	_	TokenRange=586:588
+7	believe	believe	VERB	VB	VerbForm=Inf	5	acl	_	TokenRange=589:596
+8	that	that	SCONJ	IN	_	12	mark	_	TokenRange=597:601
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	TokenRange=602:603
+10	minor	minor	NOUN	NN	Number=Sing	12	nsubj	_	TokenRange=604:609
+11	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux	_	TokenRange=610:613
+12	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	7	ccomp	_	TokenRange=614:620
+13	any	any	DET	DT	_	14	det	_	TokenRange=621:624
+14	information	information	NOUN	NN	Number=Sing	12	obj	_	TokenRange=625:636
+15	with	with	ADP	IN	_	16	case	_	TokenRange=637:641
+16	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	nmod	_	SpaceAfter=No|TokenRange=642:644
+17	,	,	PUNCT	,	_	19	punct	_	TokenRange=644:645
+18	please	please	INTJ	UH	_	19	discourse	_	TokenRange=646:652
+19	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=653:660
+20	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	19	obj	_	TokenRange=661:663
+21	at	at	ADP	IN	_	22	case	_	TokenRange=664:666
+22	dpo@domainsholdingsgroup.info	dpo@domainsholdingsgroup.info	NOUN	NN	Number=Sing	19	obl	_	SpaceAfter=No|TokenRange=667:696
+23	.	.	PUNCT	.	_	19	punct	_	SpacesAfter=\n\n|TokenRange=696:697
+

@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 15.
+1	15	15	NUM	CD	NumType=Card	0	root	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=2:3
+
+# sent_id = 2
+# text = Contacting Us.
+1	Contacting	contact	VERB	VBG	VerbForm=Ger	0	root	_	TokenRange=4:14
+2	Us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obj	_	SpaceAfter=No|TokenRange=15:17
+3	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|TokenRange=17:18
+
+# newpar
+# sent_id = 3
+# text = If you have any questions, concerns or suggestions about this Privacy Policy, you may contact us at legal@entrepreneur.com or at the following address: Entrepreneur Media, Inc.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=20:22
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=23:26
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	TokenRange=27:31
+4	any	any	DET	DT	_	5	det	_	TokenRange=32:35
+5	questions	question	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No|TokenRange=36:45
+6	,	,	PUNCT	,	_	7	punct	_	TokenRange=45:46
+7	concerns	concern	NOUN	NNS	Number=Plur	3	conj	_	TokenRange=47:55
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=56:58
+9	suggestions	suggestion	NOUN	NNS	Number=Plur	3	conj	_	TokenRange=59:70
+10	about	about	ADP	IN	_	13	case	_	TokenRange=71:76
+11	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	TokenRange=77:81
+12	Privacy	privacy	NOUN	NN	Number=Sing	13	compound	_	TokenRange=82:89
+13	Policy	policy	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=90:96
+14	,	,	PUNCT	,	_	17	punct	_	TokenRange=96:97
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	TokenRange=98:101
+16	may	may	AUX	MD	VerbForm=Fin	17	aux	_	TokenRange=102:105
+17	contact	contact	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=106:113
+18	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	17	obj	_	TokenRange=114:116
+19	at	at	ADP	IN	_	20	case	_	TokenRange=117:119
+20	legal@entrepreneur.com	legal@entrepreneur.com	X	ADD	_	17	obl	_	TokenRange=120:142
+21	or	or	CCONJ	CC	_	25	cc	_	TokenRange=143:145
+22	at	at	ADP	IN	_	25	case	_	TokenRange=146:148
+23	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	TokenRange=149:152
+24	following	follow	VERB	VBG	VerbForm=Ger	25	amod	_	TokenRange=153:162
+25	address	address	NOUN	NN	Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=163:170
+26	:	:	PUNCT	:	_	27	punct	_	SpacesAfter=\n|TokenRange=170:171
+27	Entrepreneur	Entrepreneur	PROPN	NNP	Number=Sing	20	appos	_	TokenRange=172:184
+28	Media	media	PROPN	NNP	Number=Sing	30	compound	_	SpaceAfter=No|TokenRange=185:190
+29	,	,	PUNCT	,	_	30	punct	_	TokenRange=190:191
+30	Inc	Inc	PROPN	NNP	Number=Sing	27	appos	_	SpaceAfter=No|TokenRange=192:195
+31	.	.	PUNCT	.	_	17	punct	_	SpacesAfter=\n|TokenRange=195:196
+
+# sent_id = 4
+# text = Attn.: Privacy Policy Issues 18061 Fitch Avenue Irvine, CA 92614
+1	Attn.	attn.	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=197:202
+2	:	:	PUNCT	:	_	1	punct	_	TokenRange=202:203
+3	Privacy	privacy	NOUN	NN	Number=Sing	4	compound	_	TokenRange=204:211
+4	Policy	policy	NOUN	NN	Number=Sing	5	compound	_	TokenRange=212:218
+5	Issues	Issues	NOUN	NNS	Number=Plur	1	appos	_	SpacesAfter=\n|TokenRange=219:225
+6	18061	18061	NUM	CD	NumType=Card	12	nummod	_	TokenRange=226:231
+7	Fitch	Fitch	PROPN	NNP	Number=Sing	12	compound	_	TokenRange=232:237
+8	Avenue	Avenue	PROPN	NNP	Number=Sing	7	flat	_	SpacesAfter=\n|TokenRange=238:244
+9	Irvine	Irvine	PROPN	NNP	Number=Sing	7	appos	_	SpaceAfter=No|TokenRange=245:251
+10	,	,	PUNCT	,	_	9	punct	_	TokenRange=251:252
+11	CA	CA	PROPN	NNP	Number=Sing	9	appos	_	TokenRange=253:255
+12	92614	92614	NUM	CD	NumType=Card	5	nmod:tmod	_	SpacesAfter=\n\n|TokenRange=256:261
+

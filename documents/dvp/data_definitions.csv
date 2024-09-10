@@ -1,0 +1,214 @@
+Label,Definition
+Accent,Information about linguistic and speech accents.
+Account Identifier,Information about financial account identifier.
+Acquaintance,Information about acquaintances in a social network
+AdInteraction Behavior,Information about interactions with advertisements.
+Age,Information about age
+Age Exact,"Information about the exact age (i.e. to some degree within a year, month, or day)"
+Age Range,Information about age range i.e. inexact age to some degree (i.e. some years)
+Apartment Owned,Information about apartment(s) owned and its history
+Association,"Information about associations in a social network with other individuals, groups, or entities e.g. friend of a friend"
+Attitude,Information about attitude.
+Authenticating,Information about authentication and information used for authenticating
+Authentication History,Information about prior authentication and its outcomes such as login attempts or location.
+Bank Account,Information about bank accounts.
+Behavioral,Information about Behavior or activity
+Biometric,Information about biometrics and biometric characteristics.
+Birth Date,Information about birth date
+Birth Place,Information about birth place
+Blood Type,Information about blood type.
+Browser Fingerprint,Information about the web browser which is used as a 'fingerprint'
+Browser History,Information about and including web browsing history
+Browsing Behavior,Information about browsing Behavior.
+Browsing Referral,"Information about web browsing referrer or referral, which can be based on location, targeted referrals, direct, organic search, social media or actions, campaigns."
+Call Log,Information about the calls that an individual has made.
+Car Owned,Information about cars ownership and ownership history.
+Character,Information about character in the public sphere
+Citizenship,Information about citizenship
+City,Information about city as a location
+Communication,Information communicated from or to an individual
+Communications Metadata,Information about communication metadata in the public sphere
+Connection,Information about and including connections in a social network
+Contact,Information about contacts or used for contacting e.g. email address or phone number
+Country,"Information about country e.g. residence, travel."
+Credit,Information about reputation with regards to money
+Credit Capacity,Information about credit capacity.
+Credit Card Number,Information about credit card number
+Credit Record,Information about credit record.
+Credit Score,Information about credit score.
+Credit Standing,Information about credit standing.
+Credit Worthiness,Information about credit worthiness.
+Criminal,Information about criminal activity e.g. criminal convictions or jail time
+Criminal Charge,Information about criminal charges.
+Criminal Conviction,Information about criminal convictions.
+Criminal Offense,Information about criminal offenses
+Criminal Pardon,Information about criminal pardons.
+Current Employment,Information about current employment
+Demeanor,Information about demeanor.
+Demographic,Information about demography and demographic characteristics
+Device Applications,Information about applications or application-like software on a device.
+Device Based,Information about devices
+Device Identifier,Information about device identifier
+Device Operating System,Information about the operating system (OS) or system software that manages hardware or software resources.
+Device Software,Information about software on or related to a device.
+Dialect,Information about linguistic dialects.
+Digital Fingerprint,Information about a 'digital fingerprint' created for identification
+Disability,Information about disabilities.
+Disciplinary Action,Information about disciplinary actions and its history
+Dislike,Information about dislikes or preferences regarding repulsions.
+Divorce,Information about divorce(s).
+DNA Code,Information about DNA.
+Drug Test Result,Information about drug test results.
+Education,Information about education
+Education Experience,Information about education experience e.g. attending a university
+Education Qualification,Information about educational qualifications
+Email Address,Information about Email address.
+Email Address Personal,Information about Email address used in Personal capacity
+Email Address Work,Information about Email address used for Work or in Professional capacity
+Email Content,Information about the contents of Emails sent or received
+Employment History,Information about employment history
+Ethnicity,Information about ethnic origins and lineage
+Ethnic Origin,Information about ethnic origin
+External,Information about external characteristics that can be observed
+Facial Print,Information about facial print or pattern
+Family,Information about family and relationships
+Family Health History,Information about family health history.
+Family Structure,Information about family and familial structure.
+Favorite,Information about favorites
+Favorite Color,Information about favorite color.
+Favorite Food,Information about favorite food.
+Favorite Music,Information about favorite music.
+Fetish,Information about an individual's sexual fetishes
+Financial,Information about finance including monetary characteristics and transactions
+Financial Account,Information about financial accounts.
+Financial Account Number,Information about financial account number
+Financial Status,Information about financial status or standing
+Fingerprint,Information about fingerprint used for biometric purposes.
+Friend,"Information about friends in a social network, including aspects of friendships such as years together or nature of friendship."
+Gender,Information about gender
+General Reputation,Information about reputation in the public sphere
+Genetic,Information about inherited or acquired genetic characteristics
+Geographic,Information about location or based on geography (e.g. home address)
+GPS Coordinate,Information about location expressed using Global Position System coordinates (GPS)
+Group Membership,Information about groups and memberships included or associated with a social network
+Hair Color,Information about hair color
+Health,Information about health.
+Health History,Information about health history.
+Health Record,Information about health record.
+Height,Information about physical height
+Historical,Information about historical data related to or relevant regarding history or past events
+House Number,Information about house or apartment number as a location
+House Owned,Information about house(s) owned and ownership history.
+Identifier,Information about an identifier or name used for identification
+Identifying,Information that uniquely or semi-uniquely identifies an individual or a group
+Income,Information about financial income e.g. for individual or household or family
+Income Bracket,Information about income bracket.
+Individual Health History,Information about information health history.
+Insurance,Information about Insurance
+Intention,Information about intentions
+Interaction,Information about interactions in the public sphere
+Interest,Information about interests
+Internal,Information about internal characteristics that cannot be seen or observed
+IP Address,Information about the Internet Protocol (IP) address of a device
+Job,Information about professional jobs
+Knowledge and Beliefs,Information about knowledge and beliefs
+Language,Information about language and lingual history.
+Life History,"Information about personal history regarding events or activities - including  their occurrences that might be directly related or have had an influence (e.g. World War, 9/11)"
+Like,Information about likes or preferences regarding attractions.
+Link Clicked,Information about the links that an individual has clicked.
+Loan Record,"Information about loans, whether applied, provided or rejected, and its history"
+Locality,"Information about locality e.g. city, village, town, portion of a city as a location"
+Location,Information about location
+MAC Address,Information about the Media Access Control (MAC) address of a device
+Marital Status,Information about marital status and history
+Marriage,Information about marriage(s).
+Medical Health,"Information about health, medical conditions or health care"
+Mental Health,Information about mental health.
+Name,Information about names associated or used as given name or nickname.
+Nationality,Information about nationality
+Official ID,Information about an official identifier or identification document
+Offspring,Information about offspring(s).
+Opinion,Information about opinions
+Ownership,"Information about ownership and history, including renting, borrowing, possessions."
+Parent,Information about parent(s).
+Passport,Information about passport
+Password,Information about password used in the process of authenticating the individual as an user accessing a system.
+Past Employment,Information about past employment
+Payment Card,"Information about payment card such as Credit Card, Debit Card."
+Payment Card Expiry,Information about payment card expiry such as a date.
+Payment Card Number,Information about payment card number.
+Performance at Work,Information about performance at work or within work environments
+Personal Documents,Information about and including personal documents e.g. diaries or journals
+Personality,"Information about personality (e.g., categorization in terms of the Big Five personality traits)"
+Personal Possession,Information about personal possessions.
+Philosophical Belief,Information about philosophical beliefs.
+Physical Address,Information about physical address.
+Physical Characteristic,Information about physical characteristics
+Physical Health,Information about physical health.
+Physical Trait,Information about defining traits or features regarding the body.
+Picture,Information about visual representation or image e.g. profile photo.
+Piercing,Information about piercings
+PIN Code,"Information about Personal identification number (PIN), which is usually used in the process of authenticating the individual as an user accessing a system."
+Political Affiliation,Information about political affiliation and history
+Political Opinion,Information about opinions regarding politics and political topics
+Postal Code,Information about postal code as a location
+Preference,Information about preferences or interests
+Prescription,Information about medical and pharmaceutical prescriptions
+Privacy Preference,Information about privacy preferences
+Proclivity,Information about proclivities in a sexual context
+Professional,Information about educational or professional career
+Professional Certification,Information about professional certifications
+Professional Evaluation,Information about professional evaluations
+Professional Interview,Information about professional interviews
+Public Life,Information about public life
+Publicly Available Social Media,Information about social media that is publicly available
+Purchase,Information about purchases such as items bought e.g. grocery or clothing
+Purchases and Spending Habit,Information about analysis of purchases made and money spent expressed as a habit e.g. monthly shopping trends
+Race,Information about race or racial history.
+Reference,Information about references in the professional context
+Region,Information about region as a location
+Relationship,Information about relationships and relationship history.
+Reliability,Information about reliability (e.g. of a person)
+Religion,"Information about religion, religious inclinations, and religious history."
+Religious Belief,Information about religion and religious beliefs.
+Retina,Information about retina and the retinal patterns.
+Room Number,Information about location expressed as Room number or similar numbering systems
+Salary,Information about salary
+Sale,Information about sales e.g. selling of goods or services
+School,"Information about school such as name of school, conduct, or grades obtained."
+Secret Text,"Information about secret text used in the process of authenticating the individual as an user accessing a system, e.g., when recovering a lost password."
+Service Consumption Behavior,"Information about the consumption of a service, e.g. time and duration of consumption."
+Sexual,Information about sexuality and sexual history
+Sexual History,Information about sexual history
+Sexual Preference,Information about sexual preferences
+Sibling,Information about sibling(s).
+Skin Tone,Information about skin tone
+Social,"Information about social aspects such as family, public life, or professional networks."
+Social Media,Information about social media
+Social Media Communication,"Information about social media communication, including the communication itself and metadata."
+Social Network,Information about friends or connections expressed as a social network
+Social Status,Information about social status
+Street,Information about street as a location
+Tattoo,Information about tattoos
+Tax,Information about financial tax e.g. tax records or tax due
+Telephone Number,Information about telephone number.
+Thought,Information about thoughts
+Tracking,Information used to track an individual or group e.g. location or email
+Trade Union Membership,Information about trade union memberships and related topics
+Transaction,Information about financial transactions e.g. bank transfers
+Transactional,"Information about a purchasing, spending or income"
+Travel History,Information about travel history
+TV Viewing Behavior,"Information about TV viewing Behavior, such as timestamps of channel change, duration of viewership, content consumed"
+UID,Information about unique identifiers.
+User agent,Information about software acting on behalf of users e.g. web browser
+Username,Information about usernames.
+Vehicle License Number,Information about vehicle license number
+Vehicle License Registration,Information about vehicle license registration
+Vehicle,Information about vehicles
+Vehicle License,Information about vehicle license
+Vehicle Usage,"Information about usage of vehicles, e.g. driving statistics"
+Voice Communication Recording,"Information about vocal recorded communication (e.g. telephony, VoIP)"
+Voice Mail,Information about voice mail messages.
+Weight,Information about physical weight
+Work Environment,Information about work environments
+Work History,Information about work history in a professional context

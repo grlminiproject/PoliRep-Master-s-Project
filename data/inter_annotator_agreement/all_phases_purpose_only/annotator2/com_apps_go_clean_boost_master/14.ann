@@ -1,0 +1,19 @@
+T1	CommunicationManagement 87 198	keep you posted on software updates, technical updates, security alerts and support and administrative messages
+T2	SellProductsToDataSubject 203 301	allow you to download and purchase our products and services such as our apps and related websites
+T3	ServiceProvision 306 468	help us create, provide, develop, operate, deliver, maintain and improve our products, services, content, advertising and continually improve your user experience
+T4	ServicePersonalisation 473 631	assess customer satisfaction and link or combine with information we get from others to help understand your needs and provide you with better user experience
+T5	CustomerOrderManagement 636 727	process transactions and send you related information, including confirmations and invoices
+T6	CustomerClaimsManagement 732 842	respond to your comments, inquiries, questions, provide customer service and support and fulfill your requests
+T7	IdentityVerification 847 938	verify identity, assist with identification of users, and to determine appropriate services
+T8	CommunicationForCustomerCare 943 1110	communicate with you and send you important notices or personalized messages, such as communications about purchases and changes to our terms, conditions, and policies
+T9	ServiceUsageAnalytics 1115 1238	monitor, evaluate and analyze trends, data, transactions, usage and activities in connection with our products and services
+T10	ImproveExistingProductsAndServices 1243 1380	facilitate internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications
+T11	FraudPreventionAndDetection 1385 1505	detect, investigate and prevent fraudulent transactions and other illegal activities and protect our rights and property
+T12	LegalCompliance 1510 1598	use your personal data for purposes associated with our legal and regulatory obligations
+T13	FulfilmentOfContractualObligation 1792 1979	our use of your personal data is necessary to perform a contract or take steps to enter into a contract with you (e.g. to fulfill obligations under the contract signed between you and us)
+T14	LegalCompliance 1984 2106	our use of your personal data is necessary to comply with a relevant legal or regulatory obligation that we are subject to
+T16	ServiceProvision 2426 2489	provide you with our services when you use certain applications
+T20	CommercialPurpose 2111 2214	our use of your personal data is necessary to support ‘legitimate interests’ that we have as a business
+T21	ImproveExistingProductsAndServices 2232 2252	improve our products
+T22	ServiceUsageAnalytics 2260 2299	carry out analytics across our datasets
+T17	Purpose-general 2605 2673	we will establish an additional lawful ground to those set out above

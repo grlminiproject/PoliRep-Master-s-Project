@@ -1,0 +1,16 @@
+T1	Data-general 59 69	nformation
+T2	First-party-entity 39 41	We
+T3	data-storage-retention-deletion 49 53	keep
+E1	data-storage-retention-deletion:T3 Data-Retained:T1 Data-Holder:T2
+T4	First-party-entity 75 77	we
+T5	User 89 92	you
+T6	User 125 128	you
+T7	Data-general 153 164	information
+T8	First-party-entity 170 172	we
+T9	User 184 187	you
+T10	data-storage-retention-deletion 78 82	hold
+E2	data-storage-retention-deletion:T10 Data-Holder:T4 Data-Provider:T5
+T11	data-storage-retention-deletion 173 177	hold
+E3	data-storage-retention-deletion:T11 Data-Holder:T8 Data-Retained:T7 Data-Provider:T9
+T12	TODO 118 124	Should
+#1	AnnotatorNotes T12	Can this sentence "should... incorrect" be a condition for the succeeding sentence?

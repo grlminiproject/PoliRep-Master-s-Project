@@ -1,0 +1,380 @@
+{
+  "text": "Where does Codecademy host customer data?\n\nLooker-hosted instances are hosted in the Amazon Web Services cloud. By default, Codecademy hosts in the Ohio and Virginia (US) regions.\n\n",
+  "words": [
+    "Where",
+    "does",
+    "Codecademy",
+    "host",
+    "customer",
+    "data",
+    "?",
+    "Looker",
+    "-",
+    "hosted",
+    "instances",
+    "are",
+    "hosted",
+    "in",
+    "the",
+    "Amazon",
+    "Web",
+    "Services",
+    "cloud",
+    ".",
+    "By",
+    "default",
+    ",",
+    "Codecademy",
+    "hosts",
+    "in",
+    "the",
+    "Ohio",
+    "and",
+    "Virginia",
+    "(",
+    "US",
+    ")",
+    "regions",
+    "."
+  ],
+  "lemma": [
+    "where",
+    "do",
+    "Codecademy",
+    "host",
+    "customer",
+    "data",
+    "?",
+    "Looker",
+    "-",
+    "hosted",
+    "instance",
+    "be",
+    "host",
+    "in",
+    "the",
+    "Amazon",
+    "web",
+    "service",
+    "cloud",
+    ".",
+    "by",
+    "default",
+    ",",
+    "Codecademy",
+    "host",
+    "in",
+    "the",
+    "Ohio",
+    "and",
+    "Virginia",
+    "(",
+    "US",
+    ")",
+    "region",
+    "."
+  ],
+  "pos-tags": [
+    "WRB",
+    "VBZ",
+    "NNP",
+    "NN",
+    "NN",
+    "NN",
+    ".",
+    "VB",
+    "HYPH",
+    "VBN",
+    "NNS",
+    "VBP",
+    "VBN",
+    "IN",
+    "DT",
+    "NNP",
+    "NN",
+    "NNS",
+    "NN",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "NNP",
+    "NNS",
+    "IN",
+    "DT",
+    "NNP",
+    "CC",
+    "NNP",
+    "-LRB-",
+    "NNP",
+    "-RRB-",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "advmod",
+    "root",
+    "compound",
+    "compound",
+    "compound",
+    "obj",
+    "punct",
+    "root",
+    "punct",
+    "amod",
+    "obj",
+    "aux:pass",
+    "conj",
+    "case",
+    "det",
+    "compound",
+    "compound",
+    "compound",
+    "obl",
+    "punct",
+    "case",
+    "nmod",
+    "punct",
+    "compound",
+    "root",
+    "case",
+    "det",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "compound",
+    "punct",
+    "appos",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      10
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      22,
+      26
+    ],
+    [
+      27,
+      35
+    ],
+    [
+      36,
+      40
+    ],
+    [
+      40,
+      41
+    ],
+    [
+      43,
+      49
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      50,
+      56
+    ],
+    [
+      57,
+      66
+    ],
+    [
+      67,
+      70
+    ],
+    [
+      71,
+      77
+    ],
+    [
+      78,
+      80
+    ],
+    [
+      81,
+      84
+    ],
+    [
+      85,
+      91
+    ],
+    [
+      92,
+      95
+    ],
+    [
+      96,
+      104
+    ],
+    [
+      105,
+      110
+    ],
+    [
+      110,
+      111
+    ],
+    [
+      112,
+      114
+    ],
+    [
+      115,
+      122
+    ],
+    [
+      122,
+      123
+    ],
+    [
+      124,
+      134
+    ],
+    [
+      135,
+      140
+    ],
+    [
+      141,
+      143
+    ],
+    [
+      144,
+      147
+    ],
+    [
+      148,
+      152
+    ],
+    [
+      153,
+      156
+    ],
+    [
+      157,
+      165
+    ],
+    [
+      166,
+      167
+    ],
+    [
+      167,
+      169
+    ],
+    [
+      169,
+      170
+    ],
+    [
+      171,
+      178
+    ],
+    [
+      178,
+      179
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      6
+    ],
+    [
+      7,
+      19
+    ],
+    [
+      20,
+      34
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Looker-hosted instances",
+      "entity/argument_type": "Data-other",
+      "entity/argument_id": "T1",
+      "start_idx": 43,
+      "end_idx": 66,
+      "tokens": [
+        "Looker",
+        "-",
+        "hosted",
+        "instances"
+      ],
+      "token_idx": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "Amazon Web Services cloud",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T3",
+      "start_idx": 85,
+      "end_idx": 110,
+      "tokens": [
+        "Amazon",
+        "Web",
+        "Services",
+        "cloud"
+      ],
+      "token_idx": [
+        15,
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "hosted",
+        "start_idx": 71,
+        "end_idx": 77,
+        "tokens": [
+          "hosted"
+        ],
+        "token_idx": [
+          12
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "Amazon Web Services cloud",
+          "start_idx": 85,
+          "end_idx": 110
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-other",
+          "text": "Looker-hosted instances",
+          "start_idx": 43,
+          "end_idx": 66
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

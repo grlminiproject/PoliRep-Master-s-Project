@@ -1,0 +1,5 @@
+School Privacy
+
+In some circumstances, we may permit a School to register Students to our service for the purpose of providing educational services. Because Codecademy provides the Service to School to benefit and enhance the School's curriculum, Codecademy relies on the school to obtain and provide appropriate consent, if needed, to collect personal information of students.
+The Services may, from time to time, contain links to and from third party websites. If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies. Please check the individual policies before you submit any information to those websites.
+

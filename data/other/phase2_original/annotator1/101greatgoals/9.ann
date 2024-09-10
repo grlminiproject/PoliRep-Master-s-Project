@@ -1,0 +1,16 @@
+T1	data-storage-retention-deletion 75 83	transfer
+E1	data-storage-retention-deletion:T1 Data-Provider:T2 Data-Retained:T3 Data-Holder:T5
+T2	User 84 88	your
+T3	Data-general 89 109	Personal Information
+T5	First-party-entity 31 33	we
+T6	data-security-protection 329 338	protected
+E2	data-security-protection:T6 method:T7 method2:T8 Data-Protected:T11 Data-Provider:T10 Data-Protector:T9 method3:T12 method4:T13
+T7	Protection-other 386 403	contractual means
+T8	Protection-other 504 515	other means
+T9	First-party-entity 265 267	We
+T10	User 300 304	your
+T11	Data-general 305 325	Personal Information
+T12	Protection-other 416 499	using the contractual clauses approved by the relevant regulators for data transfer
+T13	Protection-other 525 603	ensuring that the jurisdiction imposes adequate safeguards for data protection
+R1	SUBSUME Arg1:T8 Arg2:T13	
+R2	SUBSUME Arg1:T7 Arg2:T12	

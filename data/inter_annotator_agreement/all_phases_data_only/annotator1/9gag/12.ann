@@ -1,0 +1,12 @@
+T4	Data-general 52 63	information
+T5	SocialMediaCommunication 69 85	posts you upload
+T6	SocialMediaCommunication 95 114	comments you upload
+T11	Data-general 164 189	basic account information
+T12	Name 206 210	name
+T13	Username 212 220	username
+T14	EmailAddress 226 239	email address
+T18	Location 281 301	location information
+T29	Data-general 639 646	account
+T38	Data-general 694 698	data
+T40	Data-general 939 950	information
+T44	Interest 429 477	information about the things you like or dislike

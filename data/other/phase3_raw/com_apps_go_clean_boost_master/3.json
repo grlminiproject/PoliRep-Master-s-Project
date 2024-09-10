@@ -1,0 +1,368 @@
+{
+  "text": "2.1 Personal data or information you directly provide to us\n\nWhen submitting a complaint or suggestion, the user needs to provide email address or other contact information.\n\n",
+  "words": [
+    "2.1",
+    "Personal",
+    "data",
+    "or",
+    "information",
+    "you",
+    "directly",
+    "provide",
+    "to",
+    "us",
+    "When",
+    "submitting",
+    "a",
+    "complaint",
+    "or",
+    "suggestion",
+    ",",
+    "the",
+    "user",
+    "needs",
+    "to",
+    "provide",
+    "email",
+    "address",
+    "or",
+    "other",
+    "contact",
+    "information",
+    "."
+  ],
+  "lemma": [
+    "2.1",
+    "personal",
+    "data",
+    "or",
+    "information",
+    "you",
+    "directly",
+    "provide",
+    "to",
+    "we",
+    "when",
+    "submit",
+    "a",
+    "complaint",
+    "or",
+    "suggestion",
+    ",",
+    "the",
+    "user",
+    "need",
+    "to",
+    "provide",
+    "email",
+    "address",
+    "or",
+    "other",
+    "contact",
+    "information",
+    "."
+  ],
+  "pos-tags": [
+    "CD",
+    "NNP",
+    "NN",
+    "CC",
+    "NN",
+    "PRP",
+    "RB",
+    "VB",
+    "IN",
+    "PRP",
+    "WRB",
+    "VBG",
+    "DT",
+    "NN",
+    "CC",
+    "NN",
+    ",",
+    "DT",
+    "NN",
+    "VBZ",
+    "TO",
+    "VB",
+    "NN",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "nummod",
+    "compound",
+    "root",
+    "cc",
+    "conj",
+    "nsubj",
+    "advmod",
+    "parataxis",
+    "case",
+    "obl",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "cc",
+    "conj",
+    "punct",
+    "det",
+    "nsubj",
+    "root",
+    "mark",
+    "xcomp",
+    "compound",
+    "obj",
+    "cc",
+    "amod",
+    "compound",
+    "conj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      12
+    ],
+    [
+      13,
+      17
+    ],
+    [
+      18,
+      20
+    ],
+    [
+      21,
+      32
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      37,
+      45
+    ],
+    [
+      46,
+      53
+    ],
+    [
+      54,
+      56
+    ],
+    [
+      57,
+      59
+    ],
+    [
+      61,
+      65
+    ],
+    [
+      66,
+      76
+    ],
+    [
+      77,
+      78
+    ],
+    [
+      79,
+      88
+    ],
+    [
+      89,
+      91
+    ],
+    [
+      92,
+      102
+    ],
+    [
+      102,
+      103
+    ],
+    [
+      104,
+      107
+    ],
+    [
+      108,
+      112
+    ],
+    [
+      113,
+      118
+    ],
+    [
+      119,
+      121
+    ],
+    [
+      122,
+      129
+    ],
+    [
+      130,
+      135
+    ],
+    [
+      136,
+      143
+    ],
+    [
+      144,
+      146
+    ],
+    [
+      147,
+      152
+    ],
+    [
+      153,
+      160
+    ],
+    [
+      161,
+      172
+    ],
+    [
+      172,
+      173
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      9
+    ],
+    [
+      10,
+      28
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "user",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T2",
+      "start_idx": 108,
+      "end_idx": 112,
+      "tokens": [
+        "user"
+      ],
+      "token_idx": [
+        18
+      ]
+    },
+    {
+      "entity/argument_text": "email address",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T3",
+      "start_idx": 130,
+      "end_idx": 143,
+      "tokens": [
+        "email",
+        "address"
+      ],
+      "token_idx": [
+        22,
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "contact information",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T4",
+      "start_idx": 153,
+      "end_idx": 172,
+      "tokens": [
+        "contact",
+        "information"
+      ],
+      "token_idx": [
+        26,
+        27
+      ]
+    },
+    {
+      "entity/argument_text": "submitting a complaint or suggestion",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T5",
+      "start_idx": 66,
+      "end_idx": 102,
+      "tokens": [
+        "submitting",
+        "a",
+        "complaint",
+        "or",
+        "suggestion"
+      ],
+      "token_idx": [
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "provide",
+        "start_idx": 122,
+        "end_idx": 129,
+        "tokens": [
+          "provide"
+        ],
+        "token_idx": [
+          21
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "submitting a complaint or suggestion",
+          "start_idx": 66,
+          "end_idx": 102
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "user",
+          "start_idx": 108,
+          "end_idx": 112
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-contact",
+          "text": "email address",
+          "start_idx": 130,
+          "end_idx": 143
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-contact",
+          "text": "contact information",
+          "start_idx": 153,
+          "end_idx": 172
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

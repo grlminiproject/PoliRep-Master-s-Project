@@ -1,0 +1,7 @@
+T1	data-storage-retention-deletion 78 82	hold
+E1	data-storage-retention-deletion:T1 Data-Holder:T2 Data-Retained:T3 Data-Holder2:T4 Data-Provider:T5
+T2	First-party-entity 39 41	We
+T3	Data-general 54 69	the information
+T4	First-party-entity 75 77	we
+T5	User 89 92	you
+T6	TODO 93 116	accurate and up to date

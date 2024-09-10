@@ -1,0 +1,25 @@
+T1	First-party-entity 17 19	We
+T2	first-party-collection-use 24 27	log
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Collected2:T4
+T3	Data-general 28 39	information
+T4	Data-cookies-web-beacons-and-other-technologies 68 79	web beacons
+T7	First-party-entity 113 115	We
+T8	first-party-collection-use 116 119	use
+E2	first-party-collection-use:T8 Data-Collector:T7 Data-Collected:T9 Purpose-Argument:T10 Purpose-Argument2:T11 Purpose-Argument3:T12 Data-Provider:T13
+T9	Data-cookies-web-beacons-and-other-technologies 120 131	web beacons
+T10	Basic-service-feature 135 149	manage cookies
+T11	Analytics-research 151 163	count visits
+T12	Basic-service-feature 172 239	learn which emails are read and used by our users and which are not
+T13	User 216 221	users
+T14	First-party-entity 241 243	We
+T15	first-party-collection-use 249 252	use
+E3	first-party-collection-use:T15 Data-Collector:T14 Data-Collected:T16 Purpose-Argument:T17 Data-Provider:T23
+T16	Data-cookies-web-beacons-and-other-technologies 253 264	web beacons
+T17	Basic-service-feature 268 305	tell if you open or act on our emails
+T18	First-party-entity 327 329	we
+T19	first-party-collection-use 330 333	use
+E4	first-party-collection-use:T19 Data-Collector:T18 Data-Collected:T20 Purpose-Argument:T21 Data-Provider:T22
+T20	Data-cookies-web-beacons-and-other-technologies 334 345	web beacons
+T21	Analytics-research 349 389	improve your experience with our Service
+T22	User 357 361	your
+T23	User 276 279	you

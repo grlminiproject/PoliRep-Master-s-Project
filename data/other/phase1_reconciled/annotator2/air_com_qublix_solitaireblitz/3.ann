@@ -1,0 +1,37 @@
+T1	Third-party-entity 154 162	Features
+T2	collection-use 167 174	collect
+E1	collection-use:T2 Data-Provider:T1 Data-Collected:T3 Data-Collected2:T4 Purpose-Argument:T5 Data-Provider2:T17 Data-Provider3:T23
+T3	IPAddress 180 190	IP address
+T4	Data-other 206 212	cookie
+T5	Purpose 216 255	enable the Feature to function properly
+T6	Data-other 660 679	contact information
+T7	First-party-entity 422 428	Qublix
+T8	User 469 473	your
+T9	collection-use 688 692	used
+E2	collection-use:T9 Data-Collector:T7 Data-Provider:T8 Purpose-Argument:T10 Data-Collected:T11 Data-Collected2:T6 Data-Collected3:T21
+T10	CommunicationManagement 717 756	sending communications to the addressee
+T11	SocialNetwork 474 512	contacts from a Social Network Service
+T12	First-party-entity 793 795	us
+T13	data-storage-retention-deletion 811 818	removal
+E3	data-storage-retention-deletion:T13 Data-Provider:T14 Data-Retained:T15 Storage-Place:T16 Data-Holder:T12 Data-Holder2:T18 Condition-Argument:T19 Condition-Argument2:T29
+T14	User 758 761	You
+T15	Data-general 827 838	information
+T16	storage-place 844 856	our database
+T17	User 175 179	your
+T18	Third-party-entity 769 780	third party
+T19	Condition 758 795	You or the third party may contact us
+T21	Friend 522 543	your Facebook friends
+T20	Social 257 290	Social Media Features and Widgets
+T22	storage-place 307 318	third party
+T23	Third-party-entity 48 70	Social Media features,
+T24	Third-party-name 83 103	Facebook Like button
+R1	SUBSUME Arg1:T23 Arg2:T24	
+T25	First-party-entity 28 39	The Service
+T26	Third-party-entity 108 115	Widgets
+T27	Third-party-name 129 146	Share this button
+R2	SUBSUME Arg1:T26 Arg2:T27	
+T28	data-storage-retention-deletion 295 301	hosted
+E4	data-storage-retention-deletion:T28 Data-Retained:T20 Storage-Place:T22
+R3	SUBSUME Arg1:T6 Arg2:T11	
+R4	SUBSUME Arg1:T6 Arg2:T21	
+T29	Condition 857 908	to the extent Qublix stores any of this information

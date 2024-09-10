@@ -1,0 +1,6 @@
+T1	CustomerOrderManagement 386 414	the fulfilment of your order
+T2	PaymentManagement 416 454	the processing of your payment details
+T3	CustomerCare 459 492	the provision of support services
+#1	AnnotatorNotes T1	Not a purpose
+#2	AnnotatorNotes T2	Ibid.
+#3	AnnotatorNotes T3	Ibid.

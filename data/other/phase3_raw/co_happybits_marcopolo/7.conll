@@ -1,0 +1,129 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 5.1 Cookies
+1	5.1	5.1	NUM	CD	NumType=Card	2	nummod	_	TokenRange=0:3
+2	Cookies	cookie	NOUN	NNS	Number=Plur	0	root	_	SpacesAfter=\n\n|TokenRange=4:11
+
+# newpar
+# sent_id = 2
+# text = The only cookies we use are those to operate and provide our Service on the web.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=13:16
+2	only	only	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=17:21
+3	cookies	cookie	NOUN	NNS	Number=Plur	7	nsubj	_	TokenRange=22:29
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=30:32
+5	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	TokenRange=33:36
+6	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	cop	_	TokenRange=37:40
+7	those	those	PRON	DT	Number=Plur|PronType=Dem	0	root	_	TokenRange=41:46
+8	to	to	PART	TO	_	9	mark	_	TokenRange=47:49
+9	operate	operate	VERB	VB	VerbForm=Inf	7	xcomp	_	TokenRange=50:57
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=58:61
+11	provide	provide	VERB	VB	VerbForm=Inf	9	conj	_	TokenRange=62:69
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=70:73
+13	Service	service	NOUN	NN	Number=Sing	9	obj	_	TokenRange=74:81
+14	on	on	ADP	IN	_	16	case	_	TokenRange=82:84
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=85:88
+16	web	web	NOUN	NN	Number=Sing	9	obl	_	SpaceAfter=No|TokenRange=89:92
+17	.	.	PUNCT	.	_	7	punct	_	TokenRange=92:93
+
+# sent_id = 3
+# text = We do not use cookies for profiling or advertising.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=94:96
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=97:99
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=100:103
+4	use	use	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=104:107
+5	cookies	cookie	NOUN	NNS	Number=Plur	4	obj	_	TokenRange=108:115
+6	for	for	ADP	IN	_	7	case	_	TokenRange=116:119
+7	profiling	profiling	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=120:129
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=130:132
+9	advertising	advertising	NOUN	NN	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=133:144
+10	.	.	PUNCT	.	_	4	punct	_	TokenRange=144:145
+
+# sent_id = 4
+# text = The cookies we use are small text files that allow us to provide and customize our Service, and in doing so, provide you with a better user experience.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=146:149
+2	cookies	cookie	NOUN	NNS	Number=Plur	8	nsubj	_	TokenRange=150:157
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=158:160
+4	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	TokenRange=161:164
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=165:168
+6	small	small	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=169:174
+7	text	text	NOUN	NN	Number=Sing	8	compound	_	TokenRange=175:179
+8	files	file	NOUN	NNS	Number=Plur	0	root	_	TokenRange=180:185
+9	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	TokenRange=186:190
+10	allow	allow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	TokenRange=191:196
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	obj	_	TokenRange=197:199
+12	to	to	PART	TO	_	13	mark	_	TokenRange=200:202
+13	provide	provide	VERB	VB	VerbForm=Inf	10	xcomp	_	TokenRange=203:210
+14	and	and	CCONJ	CC	_	15	cc	_	TokenRange=211:214
+15	customize	customize	VERB	VB	VerbForm=Inf	13	conj	_	TokenRange=215:224
+16	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=225:228
+17	Service	service	NOUN	NN	Number=Sing	13	obj	_	SpaceAfter=No|TokenRange=229:236
+18	,	,	PUNCT	,	_	24	punct	_	TokenRange=236:237
+19	and	and	CCONJ	CC	_	24	cc	_	TokenRange=238:241
+20	in	in	SCONJ	IN	_	21	mark	_	TokenRange=242:244
+21	doing	do	VERB	VBG	VerbForm=Ger	24	advcl	_	TokenRange=245:250
+22	so	so	ADV	RB	_	21	advmod	_	SpaceAfter=No|TokenRange=251:253
+23	,	,	PUNCT	,	_	24	punct	_	TokenRange=253:254
+24	provide	provide	VERB	VB	VerbForm=Inf	8	conj	_	TokenRange=255:262
+25	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	24	obj	_	TokenRange=263:266
+26	with	with	ADP	IN	_	30	case	_	TokenRange=267:271
+27	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	TokenRange=272:273
+28	better	better	ADJ	JJR	Degree=Cmp	30	amod	_	TokenRange=274:280
+29	user	user	NOUN	NN	Number=Sing	30	compound	_	TokenRange=281:285
+30	experience	experience	NOUN	NN	Number=Sing	24	obl	_	SpaceAfter=No|TokenRange=286:296
+31	.	.	PUNCT	.	_	8	punct	_	TokenRange=296:297
+
+# sent_id = 5
+# text = Your browser should allow you to control these cookies, including whether or not to accept them and how to remove them.
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=298:302
+2	browser	browser	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=303:310
+3	should	should	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=311:317
+4	allow	allow	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=318:323
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obj	_	TokenRange=324:327
+6	to	to	PART	TO	_	7	mark	_	TokenRange=328:330
+7	control	control	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=331:338
+8	these	these	DET	DT	Number=Plur|PronType=Dem	9	det	_	TokenRange=339:344
+9	cookies	cookie	NOUN	NNS	Number=Plur	7	obj	_	SpaceAfter=No|TokenRange=345:352
+10	,	,	PUNCT	,	_	4	punct	_	TokenRange=352:353
+11	including	include	VERB	VBG	VerbForm=Ger	12	case	_	TokenRange=354:363
+12	whether	whether	SCONJ	IN	_	16	mark	_	TokenRange=364:371
+13	or	or	CCONJ	CC	_	12	fixed	_	TokenRange=372:374
+14	not	not	ADV	RB	_	12	fixed	_	TokenRange=375:378
+15	to	to	PART	TO	_	16	mark	_	TokenRange=379:381
+16	accept	accept	VERB	VB	VerbForm=Inf	4	acl	_	TokenRange=382:388
+17	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	16	obj	_	TokenRange=389:393
+18	and	and	CCONJ	CC	_	21	cc	_	TokenRange=394:397
+19	how	how	ADV	WRB	PronType=Int	21	advmod	_	TokenRange=398:401
+20	to	to	PART	TO	_	21	mark	_	TokenRange=402:404
+21	remove	remove	VERB	VB	VerbForm=Inf	16	conj	_	TokenRange=405:411
+22	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	21	obj	_	SpaceAfter=No|TokenRange=412:416
+23	.	.	PUNCT	.	_	4	punct	_	TokenRange=416:417
+
+# sent_id = 6
+# text = You may choose to block cookies with your web browser and continue using the Service via the Marco Polo App and Website without interruption.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=418:421
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=422:425
+3	choose	choose	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=426:432
+4	to	to	PART	TO	_	5	mark	_	TokenRange=433:435
+5	block	block	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=436:441
+6	cookies	cookie	NOUN	NNS	Number=Plur	5	obj	_	TokenRange=442:449
+7	with	with	ADP	IN	_	9	case	_	TokenRange=450:454
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=455:459
+9	web	web	NOUN	NN	Number=Sing	5	obl	_	TokenRange=460:463
+10	browser	browser	ADV	RBR	Degree=Cmp	9	advmod	_	TokenRange=464:471
+11	and	and	CCONJ	CC	_	12	cc	_	TokenRange=472:475
+12	continue	continue	VERB	VB	VerbForm=Inf	5	conj	_	TokenRange=476:484
+13	using	use	VERB	VBG	VerbForm=Ger	12	xcomp	_	TokenRange=485:490
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=491:494
+15	Service	service	NOUN	NN	Number=Sing	13	obj	_	TokenRange=495:502
+16	via	via	ADP	IN	_	19	case	_	TokenRange=503:506
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=507:510
+18	Marco	Marco	PROPN	NNP	Number=Sing	19	compound	_	TokenRange=511:516
+19	Polo	Polo	PROPN	NNP	Number=Sing	13	obl	_	TokenRange=517:521
+20	App	App	PROPN	NNP	Number=Sing	19	flat	_	TokenRange=522:525
+21	and	and	CCONJ	CC	_	22	cc	_	TokenRange=526:529
+22	Website	website	NOUN	NN	Number=Sing	19	conj	_	TokenRange=530:537
+23	without	without	ADP	IN	_	24	case	_	TokenRange=538:545
+24	interruption	interruption	NOUN	NN	Number=Sing	13	obl	_	SpaceAfter=No|TokenRange=546:558
+25	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=558:559
+

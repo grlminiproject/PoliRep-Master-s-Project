@@ -1,0 +1,129 @@
+T1	Opt-in 51 71	you use our services
+T2	User 51 54	you
+T3	First-party-entity 59 62	our
+T4	collection-use 76 83	collect
+E1	collection-use:T4 Data-Collected:T5 Condition-Argument:T1 Data-Collector:T3 Data-Provider:T2
+T5	ServiceConsumptionBehavior 84 145	information about which services you use and how you use them
+T6	First-party-entity 160 162	we
+T7	collection-use 167 171	know
+E2	collection-use:T7 Data-Collected:T10 Data-Collected2:T9 Data-Collected3:T8 Data-Collector:T6
+T8	TODO 172 208	what section or post you are reading
+T9	ServiceConsumptionBehavior 210 232	when you’re reading it
+T10	Tracking 238 259	how you’re reading it
+T12	Data-general 344 355	information
+T13	First-party-entity 356 358	we
+T14	collection-use 359 366	collect
+E3	collection-use:T14 Data-Provider:T16 Condition-Argument:T15 Data-Collector:T13 Data-Collected:T12
+T15	TODO 372 392	you use our services
+T16	User 372 375	you
+T18	ServiceConsumptionBehavior 424 455	information about your activity
+T19	ServiceConsumptionBehavior 491 525	How you interact with our services
+T20	BrowserHistory 535 560	what sections you look at
+T21	BrowserHistory 562 581	what you search for
+T22	SocialMediaCommunication 583 617	what posts and comments you upload
+T23	SocialMediaCommunication 622 668	what posts and comments you upvote or downvote
+T17	First-party-entity 413 415	We
+T24	collection-use 416 423	collect
+E4	collection-use:T24 Data-Collected:T18 Data-Collector:T17 Data-Collected2:T23 Data-Collected3:T22 Data-Collected4:T21 Data-Collected5:T20 Data-Collected6:T19
+T26	First-party-entity 692 694	We
+T27	collection-use 695 702	collect
+E5	collection-use:T27 Data-Collected:T28 Data-Collector:T26 Data-Collected2:T31 Data-Provider:T11
+T28	SocialMediaCommunication 703 737	content you create on our services
+T31	Data-general 756 780	images, videos, and text
+T32	First-party-entity 792 794	We
+T33	collection-use 800 807	collect
+E6	collection-use:T33 Data-Collected:T34 Data-Collector:T32 Data-Collected2:T38 Data-Collected3:T37 Data-Collected4:T36 Data-Collected5:T35
+T34	Data-general 808 848	information about the content you create
+T35	Data-other 863 891	When you created the content
+T36	Location 892 921	Where you created the content
+T37	Data-general 922 949	How you created the content
+T38	DeviceBased 958 976	device information
+T39	collection-use 985 992	collect
+E7	collection-use:T39 Data-Collected:T42 Data-Collector:T40 Data-Collected2:T44 Data-Collected3:T45
+T40	First-party-entity 977 979	We
+T42	Interaction 993 1053	information about how other users interact with your content
+T44	SocialMediaCommunication 1068 1094	Post upvotes and downvotes
+T45	SocialMediaCommunication 1095 1137	Comments and comment upvotes and downvotes
+T46	First-party-entity 1158 1160	We
+T47	collection-use 1161 1168	collect
+E8	collection-use:T47 Data-Collected:T48 Data-Collector:T46 Data-Collected2:T57 Data-Collected3:T56 Data-Collected4:T55 Data-Collected5:T54 Data-Collected6:T53 Data-Collected7:T52 Data-Collected8:T51 Data-Collected9:T50 Data-Collected10:T59 Data-Collected11:T58
+T48	DeviceBased 1169 1215	information from and about the devices you use
+T50	DeviceSoftware 1230 1274	Information about your hardware and software
+T51	DeviceBased 1284 1298	hardware model
+T52	DeviceOperatingSystem 1300 1324	operating system version
+T53	DeviceBased 1326 1339	device memory
+T54	Identifier 1341 1364	advertising identifiers
+T55	Identifier 1366 1396	unique application identifiers
+T56	DeviceIdentifier 1398 1423	unique device identifiers
+T57	Language 1429 1437	language
+T58	Data-other 1439 1501	Information about your wireless and mobile network connections
+T59	TODO 1516 1542	type of network connection
+T60	collection-use 1599 1606	collect
+E9	collection-use:T60 Data-Collected:T63 Data-Collected2:T62 Data-Collector:T61
+T61	First-party-entity 1572 1575	our
+T62	Data-other 1607 1613	images
+T63	DeviceBased 1618 1673	other information from your devices’s camera and photos
+T65	Opt-in 1833 1853	you use our services
+T66	User 1833 1836	you
+T67	First-party-entity 1855 1857	we
+T68	collection-use 1862 1869	collect
+E10	collection-use:T68 Data-Collected:T69 Data-Collector:T67 Condition-Argument:T65 Data-Provider:T66
+T69	Location 1870 1901	information about your location
+T70	Condition 1908 1923	your permission
+T71	User 1908 1912	your
+T72	First-party-entity 1925 1927	we
+T73	collection-use 1937 1944	collect
+E11	collection-use:T73 Data-Collected:T74 Data-Collector:T72 Condition-Argument:T70 Data-Provider:T71
+T74	GPSCoordinate 1945 1984	information about your precise location
+T75	First-party-entity 2118 2120	We
+T78	Tracking 2181 2192	web storage
+T79	Identifier 2198 2228	unique advertising identifiers
+T80	collection-use 2232 2239	collect
+E12	collection-use:T80 Data-Collected:T81 Data-Collected2:T79 Data-Collected3:T78 Data-Collector:T75 Data-Collected6:T41
+T81	TODO 2240 2292	information about your activity, browser, and device
+T83	First-party-entity 2294 2296	We
+T84	collection-use 2327 2334	collect
+E13	collection-use:T84 Condition-Argument:T87 Data-Provider:T86 Data-Collected:T85 Data-Collector:T83 Data-Provider2:T29 Data-Collected2:T25
+T85	Data-general 2335 2346	information
+T86	User 2352 2355	you
+T87	Condition 2352 2458	you interact with services we offer through one of our partners, such as advertising and commerce features
+T88	First-party-entity 2711 2713	We
+T89	collection-use 2719 2726	collect
+E14	collection-use:T89 Data-Collected:T95 Data-Collected2:T94 Data-Collected3:T93 Data-Collected4:T92 Condition-Argument:T91 Data-Collected5:T90 Data-Collector:T88 Data-Collected6:T101 Data-Collected7:T96 Data-Collected8:T97 Data-Collected9:T98 Data-Collected10:T100 Data-Collected11:T99 Data-Provider:T30
+T90	Tracking 2727 2742	log information
+T91	Opt-in 2748 2768	you use our services
+T92	ServiceConsumptionBehavior 2783 2825	Details about how you’ve used our services
+T93	DeviceBased 2827 2845	Device information
+T94	Tracking 2855 2871	web browser type
+T95	Language 2876 2884	language
+T96	ServiceConsumptionBehavior 2886 2898	Access times
+T97	BrowserHistory 2900 2924	Pages and content viewed
+T98	IPAddress 2926 2936	IP address
+T99	Tracking 2938 2973	Identifiers associated with cookies
+T100	Data-other 2977 3045	other technologies that may uniquely identify your device or browser
+T101	BrowserHistory 3047 3122	Pages you visited before or after visiting our website or using our service
+T11	User 781 784	you
+T29	Third-party-entity 2407 2415	partners
+T30	User 2748 2751	you
+T25	Data-general 2311 2323	technologies
+T41	Data-general 2147 2159	technologies
+#1	AnnotatorNotes T8	tracking?
+#2	AnnotatorNotes T15	I would not annotate this.
+R1	SUBSUME Arg1:T19 Arg2:T20	
+R2	SUBSUME Arg1:T19 Arg2:T21	
+R3	SUBSUME Arg1:T19 Arg2:T22	
+R4	SUBSUME Arg1:T19 Arg2:T23	
+R5	SUBSUME Arg1:T50 Arg2:T51	
+R6	SUBSUME Arg1:T50 Arg2:T52	
+R7	SUBSUME Arg1:T50 Arg2:T53	
+R8	SUBSUME Arg1:T50 Arg2:T54	
+R9	SUBSUME Arg1:T50 Arg2:T55	
+R10	SUBSUME Arg1:T50 Arg2:T56	
+R11	SUBSUME Arg1:T50 Arg2:T57	
+#3	AnnotatorNotes T59	Could that be tracking?
+R12	SUBSUME Arg1:T58 Arg2:T59	
+R14	SUBSUME Arg1:T41 Arg2:T78	
+R15	SUBSUME Arg1:T41 Arg2:T79	
+#4	AnnotatorNotes T81	Too many options: tracking, device-based, service consumption behaviour
+R16	SUBSUME Arg1:T93 Arg2:T94	
+R17	SUBSUME Arg1:T93 Arg2:T95	

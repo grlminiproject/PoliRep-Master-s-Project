@@ -1,0 +1,4 @@
+(2) Log information
+
+When you use our product and service or view the content provided by us, we automatically collect and store certain information in server logs. This includes: Details of how you used our service, such as your scanning number of junk files.
+

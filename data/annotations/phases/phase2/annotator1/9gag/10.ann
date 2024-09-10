@@ -1,0 +1,24 @@
+T1	First-party-entity 20 22	We
+T2	collection-use 47 50	use
+E1	collection-use:T2 Data-Collector:T1 Data-Provider:T3 Data-Collected:T6
+T3	Third-party-entity 31 46	other companies
+T6	Data-other 77 97	similar technologies
+T7	Third-party-entity 121 130	companies
+T8	collection-use 135 142	collect
+E2	collection-use:T8 Data-Provider:T10 Data-Collected:T9 Data-Provider2:T7 Data-Collector:T11
+T9	Data-general 143 154	information
+T10	User 165 168	you
+T11	First-party-entity 173 176	our
+T12	Data-general 277 288	information
+T13	collection-use 296 300	used
+E3	collection-use:T13 Purpose-Argument2:T15 Purpose-Argument3:T14 Data-Collected:T12
+T14	Purpose-general 304 326	analyze and track data
+T15	CommercialResearch 328 371	determine the popularity of certain content
+T17	collection-use 471 474	use
+E4	collection-use:T17 Purpose-Argument:T20 Data-Collector:T23 Data-Collected:T18 Data-Provider:T22 Data-Provider2:T21 Purpose-Argument2:T19
+T18	Data-general 475 486	information
+T19	CommercialResearch 516 546	measure the performance of ads
+T20	PersonalisedAdvertising 551 576	deliver more relevant ads
+T21	Third-party-entity 430 439	companies
+T22	Third-party-entity 455 465	affiliates
+T23	First-party-entity 500 503	our

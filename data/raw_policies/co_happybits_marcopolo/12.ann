@@ -1,0 +1,53 @@
+T1	First-party-entity 33 35	We
+T2	third-party-sharing-disclosure 40 45	share
+E1	third-party-sharing-disclosure:T2 Data-Sharer:T1 Data-Shared:T3 Data-Provider:T4 Data-Receiver:T5 Purpose-Argument:T7 Purpose-Argument2:T8 Purpose-Argument3:T9 Purpose-Argument4:T10 Data-Receiver2:T11 Data-Receiver3:T12 Purpose-Argument5:T6
+T3	Data-general 50 70	Personal Information
+T4	User 97 100	you
+T5	Third-party-entity 116 132	Marco Polo users
+T6	Service-operation-and-security 134 212	according to your account preferences and consistent with our Terms of Service
+T7	Service-operation-and-security 222 260	legal, protection, and safety purposes
+T8	Legal-requirement 269 340	comply with laws and in response to lawful requests and legal processes
+T9	Service-operation-and-security 349 443	protect the rights and property of Joya Communications Inc., our agents, customers, and others
+T10	Service-operation-and-security 458 514	enforcing our agreements, policies, and Terms of Service
+T11	Third-party-entity 529 564	those who need it to do work for us
+T12	Third-party-entity 570 587	Service Providers
+T13	Third-party-entity 631 642	Other users
+T14	Condition 658 693	with whom you choose to communicate
+T15	third-party-sharing-disclosure 702 707	given
+E2	third-party-sharing-disclosure:T15 Condition-Argument:T14 Data-Provider:T16 Data-Receiver:T13 Data-Shared:T17 Data-Sharer:T44
+T16	User 668 671	you
+T17	Data-general 721 741	Personal Information
+T18	third-party-sharing-disclosure 1027 1035	transfer
+E3	third-party-sharing-disclosure:T18 Data-Provider:T21 Condition-Argument:T19 Data-Shared:T22 Data-Receiver:T23 Data-Sharer:T45
+T19	Condition 866 964	entering into the Terms of Service and choosing to communicate with such other users of Marco Polo
+T21	User 966 969	you
+T22	Data-general 1041 1061	Personal Information
+T23	Third-party-entity 1088 1093	users
+T24	data-security-protection 1219 1227	security
+E4	data-security-protection:T24 method:T26 Data-Protector:T25 Data-Provider:T27 Data-Protected:T28
+T25	First-party-entity 1134 1136	We
+T26	general-safeguard-method 1148 1197	appropriate technical and organizational measures
+T27	User 1232 1236	your
+T28	Data-general 1237 1257	Personal Information
+T29	third-party-sharing-disclosure 1438 1449	transferred
+E5	third-party-sharing-disclosure:T29 Data-Provider:T33 Data-Shared:T32 Data-Receiver:T31 Data-Sharer:T30 Purpose-Argument:T34
+T30	First-party-entity 1294 1304	Marco Polo
+T31	Third-party-entity 1358 1369	third party
+T32	Data-general 1371 1391	Personal Information
+T33	User 1413 1418	users
+T34	Merge-acquisition 1294 1369	Marco Polo or substantially all of our assets are acquired by a third party
+T35	Third-party-entity 1803 1820	Service Providers
+T36	third-party-sharing-disclosure 1831 1837	access
+E6	third-party-sharing-disclosure:T36 Data-Receiver:T35 Data-Provider:T37 Data-Shared:T38 Purpose-Argument:T39
+T37	User 1841 1845	your
+T38	Data-general 1846 1866	Personal Information
+T39	Service-operation-and-security 1867 1909	needed to perform their business functions
+T40	third-party-sharing-disclosure 1930 1935	share
+E7	third-party-sharing-disclosure:T40 Data-Receiver:T35 Polarity:T41 Purpose-Argument:T43 Data-Shared:T42
+T41	Negation 1919 1922	not
+T42	Data-general 1941 1961	Personal Information
+T43	Other 1966 2034	purposes outside the scope of their functions related to the Service
+T44	First-party-entity 646 649	our
+T45	First-party-entity 954 964	Marco Polo
+T46	first-party-collection-use 1923 1926	use
+E8	first-party-collection-use:T46 Data-Provider:T35 Polarity:T41 Data-Collected:T42 Purpose-Argument:T43

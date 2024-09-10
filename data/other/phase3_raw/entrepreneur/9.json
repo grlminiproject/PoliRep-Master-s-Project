@@ -1,0 +1,3940 @@
+{
+  "text": "9. The Information We Share.\n\nWe do not share personal information with companies, organizations and individuals outside of EMI, unless one of the following circumstances applies:\na. We will share personal information with companies, organizations or individuals outside of EMI when we have your opt-in or other consent to do so.\nb. We will share personal information with companies, organizations or individuals outside of EMI if we have a good-faith belief that access, use, preservation or disclosure of that information is reasonably necessary to:\n(i)comply with applicable law, regulations, legal process or enforceable governmental request;\n(ii)enforce any of our applicable Terms of Service, including any potential violations;\n(iii)detect, prevent, or otherwise address fraud, security or technical issues; or\n(iv)protect against harm to the rights, property or safety of users of our Service or service providers, as well as the general public and EMI as required or permitted by law.\nc. We may share personal information with a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of EMI\u2019s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by EMI about our Service users is among the assets transferred.\nd. We may share your information publicly and with our partners such as third-party content providers, advertisers or connected sites, but in a manner which does not reveal your personally-identifiable information and which is aggregated with other user information to show usage of EMI and third-party products and services offered on our Service and trends based on such categories as age, gender, geographical origination and other demographic characteristics.\n\n",
+  "words": [
+    "9",
+    ".",
+    "The",
+    "Information",
+    "We",
+    "Share",
+    ".",
+    "We",
+    "do",
+    "not",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "companies",
+    ",",
+    "organizations",
+    "and",
+    "individuals",
+    "outside",
+    "of",
+    "EMI",
+    ",",
+    "unless",
+    "one",
+    "of",
+    "the",
+    "following",
+    "circumstances",
+    "applies",
+    ":",
+    "a",
+    ".",
+    "We",
+    "will",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "companies",
+    ",",
+    "organizations",
+    "or",
+    "individuals",
+    "outside",
+    "of",
+    "EMI",
+    "when",
+    "we",
+    "have",
+    "your",
+    "opt",
+    "-",
+    "in",
+    "or",
+    "other",
+    "consent",
+    "to",
+    "do",
+    "so",
+    ".",
+    "b",
+    ".",
+    "We",
+    "will",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "companies",
+    ",",
+    "organizations",
+    "or",
+    "individuals",
+    "outside",
+    "of",
+    "EMI",
+    "if",
+    "we",
+    "have",
+    "a",
+    "good",
+    "-",
+    "faith",
+    "belief",
+    "that",
+    "access",
+    ",",
+    "use",
+    ",",
+    "preservation",
+    "or",
+    "disclosure",
+    "of",
+    "that",
+    "information",
+    "is",
+    "reasonably",
+    "necessary",
+    "to",
+    ":",
+    "(",
+    "i",
+    ")",
+    "comply",
+    "with",
+    "applicable",
+    "law",
+    ",",
+    "regulations",
+    ",",
+    "legal",
+    "process",
+    "or",
+    "enforceable",
+    "governmental",
+    "request",
+    ";",
+    "(",
+    "ii",
+    ")",
+    "enforce",
+    "any",
+    "of",
+    "our",
+    "applicable",
+    "Terms",
+    "of",
+    "Service",
+    ",",
+    "including",
+    "any",
+    "potential",
+    "violations",
+    ";",
+    "(",
+    "iii",
+    ")",
+    "detect",
+    ",",
+    "prevent",
+    ",",
+    "or",
+    "otherwise",
+    "address",
+    "fraud",
+    ",",
+    "security",
+    "or",
+    "technical",
+    "issues",
+    ";",
+    "or",
+    "(",
+    "iv",
+    ")",
+    "protect",
+    "against",
+    "harm",
+    "to",
+    "the",
+    "rights",
+    ",",
+    "property",
+    "or",
+    "safety",
+    "of",
+    "users",
+    "of",
+    "our",
+    "Service",
+    "or",
+    "service",
+    "providers",
+    ",",
+    "as",
+    "well",
+    "as",
+    "the",
+    "general",
+    "public",
+    "and",
+    "EMI",
+    "as",
+    "required",
+    "or",
+    "permitted",
+    "by",
+    "law",
+    ".",
+    "c",
+    ".",
+    "We",
+    "may",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "a",
+    "buyer",
+    "or",
+    "other",
+    "successor",
+    "in",
+    "the",
+    "event",
+    "of",
+    "a",
+    "merger",
+    ",",
+    "divestiture",
+    ",",
+    "restructuring",
+    ",",
+    "reorganization",
+    ",",
+    "dissolution",
+    "or",
+    "other",
+    "sale",
+    "or",
+    "transfer",
+    "of",
+    "some",
+    "or",
+    "all",
+    "of",
+    "EMI",
+    "\u2019s",
+    "assets",
+    ",",
+    "whether",
+    "as",
+    "a",
+    "going",
+    "concern",
+    "or",
+    "as",
+    "part",
+    "of",
+    "bankruptcy",
+    ",",
+    "liquidation",
+    "or",
+    "similar",
+    "proceeding",
+    ",",
+    "in",
+    "which",
+    "personal",
+    "information",
+    "held",
+    "by",
+    "EMI",
+    "about",
+    "our",
+    "Service",
+    "users",
+    "is",
+    "among",
+    "the",
+    "assets",
+    "transferred",
+    ".",
+    "d",
+    ".",
+    "We",
+    "may",
+    "share",
+    "your",
+    "information",
+    "publicly",
+    "and",
+    "with",
+    "our",
+    "partners",
+    "such",
+    "as",
+    "third",
+    "-",
+    "party",
+    "content",
+    "providers",
+    ",",
+    "advertisers",
+    "or",
+    "connected",
+    "sites",
+    ",",
+    "but",
+    "in",
+    "a",
+    "manner",
+    "which",
+    "does",
+    "not",
+    "reveal",
+    "your",
+    "personally",
+    "-",
+    "identifiable",
+    "information",
+    "and",
+    "which",
+    "is",
+    "aggregated",
+    "with",
+    "other",
+    "user",
+    "information",
+    "to",
+    "show",
+    "usage",
+    "of",
+    "EMI",
+    "and",
+    "third",
+    "-",
+    "party",
+    "products",
+    "and",
+    "services",
+    "offered",
+    "on",
+    "our",
+    "Service",
+    "and",
+    "trends",
+    "based",
+    "on",
+    "such",
+    "categories",
+    "as",
+    "age",
+    ",",
+    "gender",
+    ",",
+    "geographical",
+    "origination",
+    "and",
+    "other",
+    "demographic",
+    "characteristics",
+    "."
+  ],
+  "lemma": [
+    "9",
+    ".",
+    "the",
+    "information",
+    "we",
+    "share",
+    ".",
+    "we",
+    "do",
+    "not",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "company",
+    ",",
+    "organization",
+    "and",
+    "individual",
+    "outside",
+    "of",
+    "EMI",
+    ",",
+    "unless",
+    "one",
+    "of",
+    "the",
+    "follow",
+    "circumstance",
+    "apply",
+    ":",
+    "a",
+    ".",
+    "we",
+    "will",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "company",
+    ",",
+    "organization",
+    "or",
+    "individual",
+    "outside",
+    "of",
+    "EMI",
+    "when",
+    "we",
+    "have",
+    "you",
+    "opt",
+    "-",
+    "in",
+    "or",
+    "other",
+    "consent",
+    "to",
+    "do",
+    "so",
+    ".",
+    "benefit",
+    ".",
+    "we",
+    "will",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "company",
+    ",",
+    "organization",
+    "or",
+    "individual",
+    "outside",
+    "of",
+    "EMI",
+    "if",
+    "we",
+    "have",
+    "a",
+    "good",
+    "-",
+    "faith",
+    "belief",
+    "that",
+    "access",
+    ",",
+    "use",
+    ",",
+    "preservation",
+    "or",
+    "disclosure",
+    "of",
+    "that",
+    "information",
+    "be",
+    "reasonably",
+    "necessary",
+    "to",
+    ":",
+    "(",
+    "i",
+    ")",
+    "comply",
+    "with",
+    "applicable",
+    "law",
+    ",",
+    "regulation",
+    ",",
+    "legal",
+    "process",
+    "or",
+    "enforceable",
+    "governmental",
+    "request",
+    ";",
+    "(",
+    "ii",
+    ")",
+    "enforce",
+    "any",
+    "of",
+    "we",
+    "applicable",
+    "term",
+    "of",
+    "service",
+    ",",
+    "include",
+    "any",
+    "potential",
+    "violation",
+    ";",
+    "(",
+    "iii",
+    ")",
+    "detect",
+    ",",
+    "prevent",
+    ",",
+    "or",
+    "otherwise",
+    "address",
+    "fraud",
+    ",",
+    "security",
+    "or",
+    "technical",
+    "issue",
+    ";",
+    "or",
+    "(",
+    "iv",
+    ")",
+    "protect",
+    "against",
+    "harm",
+    "to",
+    "the",
+    "rights",
+    ",",
+    "property",
+    "or",
+    "safety",
+    "of",
+    "user",
+    "of",
+    "we",
+    "service",
+    "or",
+    "service",
+    "provider",
+    ",",
+    "as",
+    "well",
+    "as",
+    "the",
+    "general",
+    "public",
+    "and",
+    "EMI",
+    "as",
+    "require",
+    "or",
+    "permit",
+    "by",
+    "law",
+    ".",
+    "class",
+    ".",
+    "we",
+    "may",
+    "share",
+    "personal",
+    "information",
+    "with",
+    "a",
+    "buyer",
+    "or",
+    "other",
+    "successor",
+    "in",
+    "the",
+    "event",
+    "of",
+    "a",
+    "merger",
+    ",",
+    "divestiture",
+    ",",
+    "restructuring",
+    ",",
+    "reorganization",
+    ",",
+    "dissolution",
+    "or",
+    "other",
+    "sale",
+    "or",
+    "transfer",
+    "of",
+    "some",
+    "or",
+    "all",
+    "of",
+    "EMI",
+    "'s",
+    "asset",
+    ",",
+    "whether",
+    "as",
+    "a",
+    "go",
+    "concern",
+    "or",
+    "as",
+    "part",
+    "of",
+    "bankruptcy",
+    ",",
+    "liquidation",
+    "or",
+    "similar",
+    "proceeding",
+    ",",
+    "in",
+    "which",
+    "personal",
+    "information",
+    "hold",
+    "by",
+    "EMI",
+    "about",
+    "we",
+    "service",
+    "user",
+    "be",
+    "among",
+    "the",
+    "asset",
+    "transfer",
+    ".",
+    "d",
+    ".",
+    "we",
+    "may",
+    "share",
+    "you",
+    "information",
+    "publicly",
+    "and",
+    "with",
+    "we",
+    "partner",
+    "such",
+    "as",
+    "third",
+    "-",
+    "party",
+    "content",
+    "provider",
+    ",",
+    "advertiser",
+    "or",
+    "connect",
+    "site",
+    ",",
+    "but",
+    "in",
+    "a",
+    "manner",
+    "which",
+    "do",
+    "not",
+    "reveal",
+    "you",
+    "personally",
+    "-",
+    "identifiable",
+    "information",
+    "and",
+    "which",
+    "be",
+    "aggregate",
+    "with",
+    "other",
+    "user",
+    "information",
+    "to",
+    "show",
+    "usage",
+    "of",
+    "EMI",
+    "and",
+    "third",
+    "-",
+    "party",
+    "product",
+    "and",
+    "service",
+    "offer",
+    "on",
+    "we",
+    "service",
+    "and",
+    "trend",
+    "base",
+    "on",
+    "such",
+    "category",
+    "as",
+    "age",
+    ",",
+    "gender",
+    ",",
+    "geographical",
+    "origination",
+    "and",
+    "other",
+    "demographic",
+    "characteristic",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    ".",
+    "PRP",
+    "VBP",
+    "RB",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS",
+    ",",
+    "NNS",
+    "CC",
+    "NNS",
+    "IN",
+    "IN",
+    "NNP",
+    ",",
+    "IN",
+    "CD",
+    "IN",
+    "DT",
+    "VBG",
+    "NNS",
+    "VBZ",
+    ":",
+    "LS",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS",
+    ",",
+    "NNS",
+    "CC",
+    "NNS",
+    "IN",
+    "IN",
+    "NNP",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "HYPH",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    "TO",
+    "VB",
+    "RB",
+    ".",
+    "LS",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS",
+    ",",
+    "NNS",
+    "CC",
+    "NNS",
+    "IN",
+    "IN",
+    "NNP",
+    "IN",
+    "PRP",
+    "VBP",
+    "DT",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NN",
+    "DT",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "VBZ",
+    "RB",
+    "JJ",
+    "IN",
+    ":",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "RB",
+    "IN",
+    "JJ",
+    "NN",
+    ",",
+    "NNS",
+    ",",
+    "JJ",
+    "NN",
+    "CC",
+    "JJ",
+    "JJ",
+    "NN",
+    ",",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "DT",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NNS",
+    "IN",
+    "NN",
+    ",",
+    "VBG",
+    "DT",
+    "JJ",
+    "NNS",
+    ",",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "CC",
+    "RB",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "JJ",
+    "NNS",
+    ",",
+    "CC",
+    "-LRB-",
+    "ADD",
+    "-RRB-",
+    "VB",
+    "IN",
+    "NN",
+    "IN",
+    "DT",
+    "NNS",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    "NNS",
+    ",",
+    "RB",
+    "RB",
+    "IN",
+    "DT",
+    "JJ",
+    "JJ",
+    "CC",
+    "NNP",
+    "IN",
+    "VBN",
+    "CC",
+    "VBN",
+    "IN",
+    "NN",
+    ".",
+    "NN",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "DT",
+    "CC",
+    "DT",
+    "IN",
+    "NNP",
+    "POS",
+    "NNS",
+    ",",
+    "IN",
+    "IN",
+    "DT",
+    "VBG",
+    "NN",
+    "CC",
+    "IN",
+    "NN",
+    "IN",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    ",",
+    "IN",
+    "WDT",
+    "JJ",
+    "NN",
+    "VBN",
+    "IN",
+    "NNP",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNS",
+    "VBZ",
+    "IN",
+    "DT",
+    "NNS",
+    "VBN",
+    ".",
+    "NNP",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "PRP$",
+    "NN",
+    "RB",
+    "CC",
+    "IN",
+    "PRP$",
+    "NNS",
+    "JJ",
+    "IN",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NN",
+    "NNS",
+    ",",
+    "NNS",
+    "CC",
+    "VBN",
+    "NNS",
+    ",",
+    "CC",
+    "IN",
+    "DT",
+    "NN",
+    "WDT",
+    "VBZ",
+    "RB",
+    "VB",
+    "PRP$",
+    "RB",
+    "HYPH",
+    "JJ",
+    "NN",
+    "CC",
+    "WDT",
+    "VBZ",
+    "VBN",
+    "IN",
+    "JJ",
+    "JJ",
+    "NN",
+    "TO",
+    "VB",
+    "NN",
+    "IN",
+    "NNP",
+    "CC",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    "CC",
+    "NNS",
+    "VBD",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "NNS",
+    "VBN",
+    "IN",
+    "JJ",
+    "NNS",
+    "IN",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    "CC",
+    "JJ",
+    "JJ",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "det",
+    "root",
+    "nsubj",
+    "acl:relcl",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "case",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "case",
+    "det",
+    "amod",
+    "nmod",
+    "advcl",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "case",
+    "obl",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "compound",
+    "punct",
+    "obj",
+    "cc",
+    "amod",
+    "conj",
+    "mark",
+    "xcomp",
+    "advmod",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "case",
+    "obl",
+    "mark",
+    "nsubj",
+    "advcl",
+    "det",
+    "amod",
+    "punct",
+    "compound",
+    "obj",
+    "det",
+    "nsubj",
+    "punct",
+    "conj",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "det",
+    "nmod",
+    "cop",
+    "advmod",
+    "acl",
+    "obl",
+    "punct",
+    "punct",
+    "parataxis",
+    "punct",
+    "advmod",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "conj",
+    "punct",
+    "amod",
+    "conj",
+    "cc",
+    "amod",
+    "amod",
+    "conj",
+    "punct",
+    "punct",
+    "appos",
+    "punct",
+    "obj",
+    "det",
+    "case",
+    "nmod:poss",
+    "amod",
+    "nmod",
+    "case",
+    "nmod",
+    "punct",
+    "case",
+    "det",
+    "amod",
+    "nmod",
+    "punct",
+    "punct",
+    "parataxis",
+    "punct",
+    "obj",
+    "punct",
+    "conj",
+    "punct",
+    "cc",
+    "advmod",
+    "compound",
+    "conj",
+    "punct",
+    "conj",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "cc",
+    "punct",
+    "nummod",
+    "punct",
+    "conj",
+    "case",
+    "nmod",
+    "case",
+    "det",
+    "nmod",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "compound",
+    "conj",
+    "punct",
+    "cc",
+    "fixed",
+    "fixed",
+    "det",
+    "amod",
+    "conj",
+    "cc",
+    "conj",
+    "mark",
+    "advcl",
+    "cc",
+    "conj",
+    "case",
+    "obl",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "cc",
+    "amod",
+    "conj",
+    "case",
+    "det",
+    "nmod",
+    "case",
+    "det",
+    "nmod",
+    "punct",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "conj",
+    "cc",
+    "amod",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "nmod",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "case",
+    "nmod",
+    "punct",
+    "mark",
+    "fixed",
+    "det",
+    "amod",
+    "nsubj",
+    "cc",
+    "case",
+    "conj",
+    "case",
+    "nmod",
+    "punct",
+    "conj",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "case",
+    "obl",
+    "amod",
+    "acl:relcl",
+    "acl",
+    "case",
+    "obl",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "cop",
+    "case",
+    "det",
+    "advcl",
+    "acl",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "obj",
+    "advmod",
+    "cc",
+    "case",
+    "nmod:poss",
+    "conj",
+    "case",
+    "fixed",
+    "amod",
+    "punct",
+    "compound",
+    "compound",
+    "nmod",
+    "punct",
+    "conj",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "cc",
+    "case",
+    "det",
+    "conj",
+    "nsubj",
+    "aux",
+    "advmod",
+    "acl:relcl",
+    "nmod:poss",
+    "advmod",
+    "punct",
+    "amod",
+    "obj",
+    "cc",
+    "nsubj:pass",
+    "aux:pass",
+    "conj",
+    "case",
+    "amod",
+    "amod",
+    "obl",
+    "mark",
+    "advcl",
+    "compound",
+    "case",
+    "nmod",
+    "cc",
+    "amod",
+    "punct",
+    "conj",
+    "obj",
+    "cc",
+    "conj",
+    "acl:relcl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "cc",
+    "conj",
+    "case",
+    "case",
+    "amod",
+    "nmod",
+    "case",
+    "nmod",
+    "punct",
+    "conj",
+    "punct",
+    "amod",
+    "conj",
+    "cc",
+    "amod",
+    "amod",
+    "conj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      7,
+      18
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      22,
+      27
+    ],
+    [
+      27,
+      28
+    ],
+    [
+      30,
+      32
+    ],
+    [
+      33,
+      35
+    ],
+    [
+      36,
+      39
+    ],
+    [
+      40,
+      45
+    ],
+    [
+      46,
+      54
+    ],
+    [
+      55,
+      66
+    ],
+    [
+      67,
+      71
+    ],
+    [
+      72,
+      81
+    ],
+    [
+      81,
+      82
+    ],
+    [
+      83,
+      96
+    ],
+    [
+      97,
+      100
+    ],
+    [
+      101,
+      112
+    ],
+    [
+      113,
+      120
+    ],
+    [
+      121,
+      123
+    ],
+    [
+      124,
+      127
+    ],
+    [
+      127,
+      128
+    ],
+    [
+      129,
+      135
+    ],
+    [
+      136,
+      139
+    ],
+    [
+      140,
+      142
+    ],
+    [
+      143,
+      146
+    ],
+    [
+      147,
+      156
+    ],
+    [
+      157,
+      170
+    ],
+    [
+      171,
+      178
+    ],
+    [
+      178,
+      179
+    ],
+    [
+      180,
+      181
+    ],
+    [
+      181,
+      182
+    ],
+    [
+      183,
+      185
+    ],
+    [
+      186,
+      190
+    ],
+    [
+      191,
+      196
+    ],
+    [
+      197,
+      205
+    ],
+    [
+      206,
+      217
+    ],
+    [
+      218,
+      222
+    ],
+    [
+      223,
+      232
+    ],
+    [
+      232,
+      233
+    ],
+    [
+      234,
+      247
+    ],
+    [
+      248,
+      250
+    ],
+    [
+      251,
+      262
+    ],
+    [
+      263,
+      270
+    ],
+    [
+      271,
+      273
+    ],
+    [
+      274,
+      277
+    ],
+    [
+      278,
+      282
+    ],
+    [
+      283,
+      285
+    ],
+    [
+      286,
+      290
+    ],
+    [
+      291,
+      295
+    ],
+    [
+      296,
+      299
+    ],
+    [
+      299,
+      300
+    ],
+    [
+      300,
+      302
+    ],
+    [
+      303,
+      305
+    ],
+    [
+      306,
+      311
+    ],
+    [
+      312,
+      319
+    ],
+    [
+      320,
+      322
+    ],
+    [
+      323,
+      325
+    ],
+    [
+      326,
+      328
+    ],
+    [
+      328,
+      329
+    ],
+    [
+      330,
+      331
+    ],
+    [
+      331,
+      332
+    ],
+    [
+      333,
+      335
+    ],
+    [
+      336,
+      340
+    ],
+    [
+      341,
+      346
+    ],
+    [
+      347,
+      355
+    ],
+    [
+      356,
+      367
+    ],
+    [
+      368,
+      372
+    ],
+    [
+      373,
+      382
+    ],
+    [
+      382,
+      383
+    ],
+    [
+      384,
+      397
+    ],
+    [
+      398,
+      400
+    ],
+    [
+      401,
+      412
+    ],
+    [
+      413,
+      420
+    ],
+    [
+      421,
+      423
+    ],
+    [
+      424,
+      427
+    ],
+    [
+      428,
+      430
+    ],
+    [
+      431,
+      433
+    ],
+    [
+      434,
+      438
+    ],
+    [
+      439,
+      440
+    ],
+    [
+      441,
+      445
+    ],
+    [
+      445,
+      446
+    ],
+    [
+      446,
+      451
+    ],
+    [
+      452,
+      458
+    ],
+    [
+      459,
+      463
+    ],
+    [
+      464,
+      470
+    ],
+    [
+      470,
+      471
+    ],
+    [
+      472,
+      475
+    ],
+    [
+      475,
+      476
+    ],
+    [
+      477,
+      489
+    ],
+    [
+      490,
+      492
+    ],
+    [
+      493,
+      503
+    ],
+    [
+      504,
+      506
+    ],
+    [
+      507,
+      511
+    ],
+    [
+      512,
+      523
+    ],
+    [
+      524,
+      526
+    ],
+    [
+      527,
+      537
+    ],
+    [
+      538,
+      547
+    ],
+    [
+      548,
+      550
+    ],
+    [
+      550,
+      551
+    ],
+    [
+      552,
+      553
+    ],
+    [
+      553,
+      554
+    ],
+    [
+      554,
+      555
+    ],
+    [
+      555,
+      561
+    ],
+    [
+      562,
+      566
+    ],
+    [
+      567,
+      577
+    ],
+    [
+      578,
+      581
+    ],
+    [
+      581,
+      582
+    ],
+    [
+      583,
+      594
+    ],
+    [
+      594,
+      595
+    ],
+    [
+      596,
+      601
+    ],
+    [
+      602,
+      609
+    ],
+    [
+      610,
+      612
+    ],
+    [
+      613,
+      624
+    ],
+    [
+      625,
+      637
+    ],
+    [
+      638,
+      645
+    ],
+    [
+      645,
+      646
+    ],
+    [
+      647,
+      648
+    ],
+    [
+      648,
+      650
+    ],
+    [
+      650,
+      651
+    ],
+    [
+      651,
+      658
+    ],
+    [
+      659,
+      662
+    ],
+    [
+      663,
+      665
+    ],
+    [
+      666,
+      669
+    ],
+    [
+      670,
+      680
+    ],
+    [
+      681,
+      686
+    ],
+    [
+      687,
+      689
+    ],
+    [
+      690,
+      697
+    ],
+    [
+      697,
+      698
+    ],
+    [
+      699,
+      708
+    ],
+    [
+      709,
+      712
+    ],
+    [
+      713,
+      722
+    ],
+    [
+      723,
+      733
+    ],
+    [
+      733,
+      734
+    ],
+    [
+      735,
+      736
+    ],
+    [
+      736,
+      739
+    ],
+    [
+      739,
+      740
+    ],
+    [
+      740,
+      746
+    ],
+    [
+      746,
+      747
+    ],
+    [
+      748,
+      755
+    ],
+    [
+      755,
+      756
+    ],
+    [
+      757,
+      759
+    ],
+    [
+      760,
+      769
+    ],
+    [
+      770,
+      777
+    ],
+    [
+      778,
+      783
+    ],
+    [
+      783,
+      784
+    ],
+    [
+      785,
+      793
+    ],
+    [
+      794,
+      796
+    ],
+    [
+      797,
+      806
+    ],
+    [
+      807,
+      813
+    ],
+    [
+      813,
+      814
+    ],
+    [
+      815,
+      817
+    ],
+    [
+      818,
+      819
+    ],
+    [
+      819,
+      821
+    ],
+    [
+      821,
+      822
+    ],
+    [
+      822,
+      829
+    ],
+    [
+      830,
+      837
+    ],
+    [
+      838,
+      842
+    ],
+    [
+      843,
+      845
+    ],
+    [
+      846,
+      849
+    ],
+    [
+      850,
+      856
+    ],
+    [
+      856,
+      857
+    ],
+    [
+      858,
+      866
+    ],
+    [
+      867,
+      869
+    ],
+    [
+      870,
+      876
+    ],
+    [
+      877,
+      879
+    ],
+    [
+      880,
+      885
+    ],
+    [
+      886,
+      888
+    ],
+    [
+      889,
+      892
+    ],
+    [
+      893,
+      900
+    ],
+    [
+      901,
+      903
+    ],
+    [
+      904,
+      911
+    ],
+    [
+      912,
+      921
+    ],
+    [
+      921,
+      922
+    ],
+    [
+      923,
+      925
+    ],
+    [
+      926,
+      930
+    ],
+    [
+      931,
+      933
+    ],
+    [
+      934,
+      937
+    ],
+    [
+      938,
+      945
+    ],
+    [
+      946,
+      952
+    ],
+    [
+      953,
+      956
+    ],
+    [
+      957,
+      960
+    ],
+    [
+      961,
+      963
+    ],
+    [
+      964,
+      972
+    ],
+    [
+      973,
+      975
+    ],
+    [
+      976,
+      985
+    ],
+    [
+      986,
+      988
+    ],
+    [
+      989,
+      992
+    ],
+    [
+      992,
+      993
+    ],
+    [
+      994,
+      995
+    ],
+    [
+      995,
+      996
+    ],
+    [
+      997,
+      999
+    ],
+    [
+      1000,
+      1003
+    ],
+    [
+      1004,
+      1009
+    ],
+    [
+      1010,
+      1018
+    ],
+    [
+      1019,
+      1030
+    ],
+    [
+      1031,
+      1035
+    ],
+    [
+      1036,
+      1037
+    ],
+    [
+      1038,
+      1043
+    ],
+    [
+      1044,
+      1046
+    ],
+    [
+      1047,
+      1052
+    ],
+    [
+      1053,
+      1062
+    ],
+    [
+      1063,
+      1065
+    ],
+    [
+      1066,
+      1069
+    ],
+    [
+      1070,
+      1075
+    ],
+    [
+      1076,
+      1078
+    ],
+    [
+      1079,
+      1080
+    ],
+    [
+      1081,
+      1087
+    ],
+    [
+      1087,
+      1088
+    ],
+    [
+      1089,
+      1100
+    ],
+    [
+      1100,
+      1101
+    ],
+    [
+      1102,
+      1115
+    ],
+    [
+      1115,
+      1116
+    ],
+    [
+      1117,
+      1131
+    ],
+    [
+      1131,
+      1132
+    ],
+    [
+      1133,
+      1144
+    ],
+    [
+      1145,
+      1147
+    ],
+    [
+      1148,
+      1153
+    ],
+    [
+      1154,
+      1158
+    ],
+    [
+      1159,
+      1161
+    ],
+    [
+      1162,
+      1170
+    ],
+    [
+      1171,
+      1173
+    ],
+    [
+      1174,
+      1178
+    ],
+    [
+      1179,
+      1181
+    ],
+    [
+      1182,
+      1185
+    ],
+    [
+      1186,
+      1188
+    ],
+    [
+      1189,
+      1192
+    ],
+    [
+      1192,
+      1194
+    ],
+    [
+      1195,
+      1201
+    ],
+    [
+      1201,
+      1202
+    ],
+    [
+      1203,
+      1210
+    ],
+    [
+      1211,
+      1213
+    ],
+    [
+      1214,
+      1215
+    ],
+    [
+      1216,
+      1221
+    ],
+    [
+      1222,
+      1229
+    ],
+    [
+      1230,
+      1232
+    ],
+    [
+      1233,
+      1235
+    ],
+    [
+      1236,
+      1240
+    ],
+    [
+      1241,
+      1243
+    ],
+    [
+      1244,
+      1254
+    ],
+    [
+      1254,
+      1255
+    ],
+    [
+      1256,
+      1267
+    ],
+    [
+      1268,
+      1270
+    ],
+    [
+      1271,
+      1278
+    ],
+    [
+      1279,
+      1289
+    ],
+    [
+      1289,
+      1290
+    ],
+    [
+      1291,
+      1293
+    ],
+    [
+      1294,
+      1299
+    ],
+    [
+      1300,
+      1308
+    ],
+    [
+      1309,
+      1320
+    ],
+    [
+      1321,
+      1325
+    ],
+    [
+      1326,
+      1328
+    ],
+    [
+      1329,
+      1332
+    ],
+    [
+      1333,
+      1338
+    ],
+    [
+      1339,
+      1342
+    ],
+    [
+      1343,
+      1350
+    ],
+    [
+      1351,
+      1356
+    ],
+    [
+      1357,
+      1359
+    ],
+    [
+      1360,
+      1365
+    ],
+    [
+      1366,
+      1369
+    ],
+    [
+      1370,
+      1376
+    ],
+    [
+      1377,
+      1388
+    ],
+    [
+      1388,
+      1389
+    ],
+    [
+      1390,
+      1391
+    ],
+    [
+      1391,
+      1392
+    ],
+    [
+      1393,
+      1395
+    ],
+    [
+      1396,
+      1399
+    ],
+    [
+      1400,
+      1405
+    ],
+    [
+      1406,
+      1410
+    ],
+    [
+      1411,
+      1422
+    ],
+    [
+      1423,
+      1431
+    ],
+    [
+      1432,
+      1435
+    ],
+    [
+      1436,
+      1440
+    ],
+    [
+      1441,
+      1444
+    ],
+    [
+      1445,
+      1453
+    ],
+    [
+      1454,
+      1458
+    ],
+    [
+      1459,
+      1461
+    ],
+    [
+      1462,
+      1467
+    ],
+    [
+      1467,
+      1468
+    ],
+    [
+      1468,
+      1473
+    ],
+    [
+      1474,
+      1481
+    ],
+    [
+      1482,
+      1491
+    ],
+    [
+      1491,
+      1492
+    ],
+    [
+      1493,
+      1504
+    ],
+    [
+      1505,
+      1507
+    ],
+    [
+      1508,
+      1517
+    ],
+    [
+      1518,
+      1523
+    ],
+    [
+      1523,
+      1524
+    ],
+    [
+      1525,
+      1528
+    ],
+    [
+      1529,
+      1531
+    ],
+    [
+      1532,
+      1533
+    ],
+    [
+      1534,
+      1540
+    ],
+    [
+      1541,
+      1546
+    ],
+    [
+      1547,
+      1551
+    ],
+    [
+      1552,
+      1555
+    ],
+    [
+      1556,
+      1562
+    ],
+    [
+      1563,
+      1567
+    ],
+    [
+      1568,
+      1578
+    ],
+    [
+      1578,
+      1579
+    ],
+    [
+      1579,
+      1591
+    ],
+    [
+      1592,
+      1603
+    ],
+    [
+      1604,
+      1607
+    ],
+    [
+      1608,
+      1613
+    ],
+    [
+      1614,
+      1616
+    ],
+    [
+      1617,
+      1627
+    ],
+    [
+      1628,
+      1632
+    ],
+    [
+      1633,
+      1638
+    ],
+    [
+      1639,
+      1643
+    ],
+    [
+      1644,
+      1655
+    ],
+    [
+      1656,
+      1658
+    ],
+    [
+      1659,
+      1663
+    ],
+    [
+      1664,
+      1669
+    ],
+    [
+      1670,
+      1672
+    ],
+    [
+      1673,
+      1676
+    ],
+    [
+      1677,
+      1680
+    ],
+    [
+      1681,
+      1686
+    ],
+    [
+      1686,
+      1687
+    ],
+    [
+      1687,
+      1692
+    ],
+    [
+      1693,
+      1701
+    ],
+    [
+      1702,
+      1705
+    ],
+    [
+      1706,
+      1714
+    ],
+    [
+      1715,
+      1722
+    ],
+    [
+      1723,
+      1725
+    ],
+    [
+      1726,
+      1729
+    ],
+    [
+      1730,
+      1737
+    ],
+    [
+      1738,
+      1741
+    ],
+    [
+      1742,
+      1748
+    ],
+    [
+      1749,
+      1754
+    ],
+    [
+      1755,
+      1757
+    ],
+    [
+      1758,
+      1762
+    ],
+    [
+      1763,
+      1773
+    ],
+    [
+      1774,
+      1776
+    ],
+    [
+      1777,
+      1780
+    ],
+    [
+      1780,
+      1781
+    ],
+    [
+      1782,
+      1788
+    ],
+    [
+      1788,
+      1789
+    ],
+    [
+      1790,
+      1802
+    ],
+    [
+      1803,
+      1814
+    ],
+    [
+      1815,
+      1818
+    ],
+    [
+      1819,
+      1824
+    ],
+    [
+      1825,
+      1836
+    ],
+    [
+      1837,
+      1852
+    ],
+    [
+      1852,
+      1853
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      7,
+      30
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      33,
+      60
+    ],
+    [
+      61,
+      62
+    ],
+    [
+      63,
+      189
+    ],
+    [
+      190,
+      191
+    ],
+    [
+      192,
+      263
+    ],
+    [
+      264,
+      265
+    ],
+    [
+      266,
+      343
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 30,
+      "end_idx": 32,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        7
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T4",
+      "start_idx": 46,
+      "end_idx": 66,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        11,
+        12
+      ]
+    },
+    {
+      "entity/argument_text": "companies, organizations and individuals outside of EMI",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 72,
+      "end_idx": 127,
+      "tokens": [
+        "companies",
+        ",",
+        "organizations",
+        "and",
+        "individuals",
+        "outside",
+        "of",
+        "EMI"
+      ],
+      "token_idx": [
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T9",
+      "start_idx": 183,
+      "end_idx": 185,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        33
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T11",
+      "start_idx": 197,
+      "end_idx": 217,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        36,
+        37
+      ]
+    },
+    {
+      "entity/argument_text": "companies, organizations or individuals outside of EMI",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T12",
+      "start_idx": 223,
+      "end_idx": 277,
+      "tokens": [
+        "companies",
+        ",",
+        "organizations",
+        "or",
+        "individuals",
+        "outside",
+        "of",
+        "EMI"
+      ],
+      "token_idx": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "entity/argument_text": "we have your opt-in or other consent to do so",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T6",
+      "start_idx": 283,
+      "end_idx": 328,
+      "tokens": [
+        "we",
+        "have",
+        "your",
+        "opt",
+        "-",
+        "in",
+        "or",
+        "other",
+        "consent",
+        "to",
+        "do",
+        "so"
+      ],
+      "token_idx": [
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 333,
+      "end_idx": 335,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        63
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T13",
+      "start_idx": 347,
+      "end_idx": 367,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        66,
+        67
+      ]
+    },
+    {
+      "entity/argument_text": "companies, organizations or individuals outside of EMI",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T14",
+      "start_idx": 373,
+      "end_idx": 427,
+      "tokens": [
+        "companies",
+        ",",
+        "organizations",
+        "or",
+        "individuals",
+        "outside",
+        "of",
+        "EMI"
+      ],
+      "token_idx": [
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76
+      ]
+    },
+    {
+      "entity/argument_text": "comply with applicable law, regulations, legal process or enforceable governmental request",
+      "entity/argument_type": "Legal-requirement",
+      "entity/argument_id": "T16",
+      "start_idx": 555,
+      "end_idx": 645,
+      "tokens": [
+        "comply",
+        "with",
+        "applicable",
+        "law",
+        ",",
+        "regulations",
+        ",",
+        "legal",
+        "process",
+        "or",
+        "enforceable",
+        "governmental",
+        "request"
+      ],
+      "token_idx": [
+        104,
+        105,
+        106,
+        107,
+        108,
+        109,
+        110,
+        111,
+        112,
+        113,
+        114,
+        115,
+        116
+      ]
+    },
+    {
+      "entity/argument_text": "enforce any of our applicable Terms of Service, including any potential violations",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T17",
+      "start_idx": 651,
+      "end_idx": 733,
+      "tokens": [
+        "enforce",
+        "any",
+        "of",
+        "our",
+        "applicable",
+        "Terms",
+        "of",
+        "Service",
+        ",",
+        "including",
+        "any",
+        "potential",
+        "violations"
+      ],
+      "token_idx": [
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128,
+        129,
+        130,
+        131,
+        132,
+        133
+      ]
+    },
+    {
+      "entity/argument_text": "detect, prevent, or otherwise address fraud, security or technical issues",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T18",
+      "start_idx": 740,
+      "end_idx": 813,
+      "tokens": [
+        "detect",
+        ",",
+        "prevent",
+        ",",
+        "or",
+        "otherwise",
+        "address",
+        "fraud",
+        ",",
+        "security",
+        "or",
+        "technical",
+        "issues"
+      ],
+      "token_idx": [
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150
+      ]
+    },
+    {
+      "entity/argument_text": "protect against harm to the rights, property or safety of users of our Service or service providers, as well as the general public and EMI as required or permitted by law",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T19",
+      "start_idx": 822,
+      "end_idx": 992,
+      "tokens": [
+        "protect",
+        "against",
+        "harm",
+        "to",
+        "the",
+        "rights",
+        ",",
+        "property",
+        "or",
+        "safety",
+        "of",
+        "users",
+        "of",
+        "our",
+        "Service",
+        "or",
+        "service",
+        "providers",
+        ",",
+        "as",
+        "well",
+        "as",
+        "the",
+        "general",
+        "public",
+        "and",
+        "EMI",
+        "as",
+        "required",
+        "or",
+        "permitted",
+        "by",
+        "law"
+      ],
+      "token_idx": [
+        156,
+        157,
+        158,
+        159,
+        160,
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167,
+        168,
+        169,
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184,
+        185,
+        186,
+        187,
+        188
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T20",
+      "start_idx": 997,
+      "end_idx": 999,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        192
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T22",
+      "start_idx": 1010,
+      "end_idx": 1030,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        195,
+        196
+      ]
+    },
+    {
+      "entity/argument_text": "buyer",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T23",
+      "start_idx": 1038,
+      "end_idx": 1043,
+      "tokens": [
+        "buyer"
+      ],
+      "token_idx": [
+        199
+      ]
+    },
+    {
+      "entity/argument_text": "a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of EMI\u2019s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by EMI about our Service users is among the assets transferred",
+      "entity/argument_type": "Merge-acquisition",
+      "entity/argument_id": "T24",
+      "start_idx": 1079,
+      "end_idx": 1388,
+      "tokens": [
+        "a",
+        "merger",
+        ",",
+        "divestiture",
+        ",",
+        "restructuring",
+        ",",
+        "reorganization",
+        ",",
+        "dissolution",
+        "or",
+        "other",
+        "sale",
+        "or",
+        "transfer",
+        "of",
+        "some",
+        "or",
+        "all",
+        "of",
+        "EMI",
+        "\u2019s",
+        "assets",
+        ",",
+        "whether",
+        "as",
+        "a",
+        "going",
+        "concern",
+        "or",
+        "as",
+        "part",
+        "of",
+        "bankruptcy",
+        ",",
+        "liquidation",
+        "or",
+        "similar",
+        "proceeding",
+        ",",
+        "in",
+        "which",
+        "personal",
+        "information",
+        "held",
+        "by",
+        "EMI",
+        "about",
+        "our",
+        "Service",
+        "users",
+        "is",
+        "among",
+        "the",
+        "assets",
+        "transferred"
+      ],
+      "token_idx": [
+        207,
+        208,
+        209,
+        210,
+        211,
+        212,
+        213,
+        214,
+        215,
+        216,
+        217,
+        218,
+        219,
+        220,
+        221,
+        222,
+        223,
+        224,
+        225,
+        226,
+        227,
+        228,
+        229,
+        230,
+        231,
+        232,
+        233,
+        234,
+        235,
+        236,
+        237,
+        238,
+        239,
+        240,
+        241,
+        242,
+        243,
+        244,
+        245,
+        246,
+        247,
+        248,
+        249,
+        250,
+        251,
+        252,
+        253,
+        254,
+        255,
+        256,
+        257,
+        258,
+        259,
+        260,
+        261,
+        262
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T25",
+      "start_idx": 1393,
+      "end_idx": 1395,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        266
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T27",
+      "start_idx": 1406,
+      "end_idx": 1410,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        269
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-aggregated-nonidentifiable",
+      "entity/argument_id": "T28",
+      "start_idx": 1411,
+      "end_idx": 1422,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        270
+      ]
+    },
+    {
+      "entity/argument_text": "publicly",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T29",
+      "start_idx": 1423,
+      "end_idx": 1431,
+      "tokens": [
+        "publicly"
+      ],
+      "token_idx": [
+        271
+      ]
+    },
+    {
+      "entity/argument_text": "partners",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T30",
+      "start_idx": 1445,
+      "end_idx": 1453,
+      "tokens": [
+        "partners"
+      ],
+      "token_idx": [
+        275
+      ]
+    },
+    {
+      "entity/argument_text": "third-party content providers",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T31",
+      "start_idx": 1462,
+      "end_idx": 1491,
+      "tokens": [
+        "third",
+        "-",
+        "party",
+        "content",
+        "providers"
+      ],
+      "token_idx": [
+        278,
+        279,
+        280,
+        281,
+        282
+      ]
+    },
+    {
+      "entity/argument_text": "advertisers",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T32",
+      "start_idx": 1493,
+      "end_idx": 1504,
+      "tokens": [
+        "advertisers"
+      ],
+      "token_idx": [
+        284
+      ]
+    },
+    {
+      "entity/argument_text": "connected sites",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T33",
+      "start_idx": 1508,
+      "end_idx": 1523,
+      "tokens": [
+        "connected",
+        "sites"
+      ],
+      "token_idx": [
+        286,
+        287
+      ]
+    },
+    {
+      "entity/argument_text": "in a manner which does not reveal your personally-identifiable information and which is aggregated with other user information",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T34",
+      "start_idx": 1529,
+      "end_idx": 1655,
+      "tokens": [
+        "in",
+        "a",
+        "manner",
+        "which",
+        "does",
+        "not",
+        "reveal",
+        "your",
+        "personally",
+        "-",
+        "identifiable",
+        "information",
+        "and",
+        "which",
+        "is",
+        "aggregated",
+        "with",
+        "other",
+        "user",
+        "information"
+      ],
+      "token_idx": [
+        290,
+        291,
+        292,
+        293,
+        294,
+        295,
+        296,
+        297,
+        298,
+        299,
+        300,
+        301,
+        302,
+        303,
+        304,
+        305,
+        306,
+        307,
+        308,
+        309
+      ]
+    },
+    {
+      "entity/argument_text": "other successor",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T15",
+      "start_idx": 1047,
+      "end_idx": 1062,
+      "tokens": [
+        "other",
+        "successor"
+      ],
+      "token_idx": [
+        201,
+        202
+      ]
+    },
+    {
+      "entity/argument_text": "one of the following circumstances applies",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T2",
+      "start_idx": 136,
+      "end_idx": 178,
+      "tokens": [
+        "one",
+        "of",
+        "the",
+        "following",
+        "circumstances",
+        "applies"
+      ],
+      "token_idx": [
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "entity/argument_text": "show usage of EMI and third-party products and services offered on our Service and trends based on such categories as age, gender, geographical origination and other demographic characteristics",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T35",
+      "start_idx": 1659,
+      "end_idx": 1852,
+      "tokens": [
+        "show",
+        "usage",
+        "of",
+        "EMI",
+        "and",
+        "third",
+        "-",
+        "party",
+        "products",
+        "and",
+        "services",
+        "offered",
+        "on",
+        "our",
+        "Service",
+        "and",
+        "trends",
+        "based",
+        "on",
+        "such",
+        "categories",
+        "as",
+        "age",
+        ",",
+        "gender",
+        ",",
+        "geographical",
+        "origination",
+        "and",
+        "other",
+        "demographic",
+        "characteristics"
+      ],
+      "token_idx": [
+        311,
+        312,
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 40,
+        "end_idx": 45,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          10
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 30,
+          "end_idx": 32
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 46,
+          "end_idx": 66
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "companies, organizations and individuals outside of EMI",
+          "start_idx": 72,
+          "end_idx": 127
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "one of the following circumstances applies",
+          "start_idx": 136,
+          "end_idx": 178
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 191,
+        "end_idx": 196,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          35
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "we have your opt-in or other consent to do so",
+          "start_idx": 283,
+          "end_idx": 328
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "companies, organizations or individuals outside of EMI",
+          "start_idx": 223,
+          "end_idx": 277
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 197,
+          "end_idx": 217
+        },
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 183,
+          "end_idx": 185
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 341,
+        "end_idx": 346,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          65
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Service-operation-and-security",
+          "text": "protect against harm to the rights, property or safety of users of our Service or service providers, as well as the general public and EMI as required or permitted by law",
+          "start_idx": 822,
+          "end_idx": 992
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Service-operation-and-security",
+          "text": "detect, prevent, or otherwise address fraud, security or technical issues",
+          "start_idx": 740,
+          "end_idx": 813
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Service-operation-and-security",
+          "text": "enforce any of our applicable Terms of Service, including any potential violations",
+          "start_idx": 651,
+          "end_idx": 733
+        },
+        {
+          "role": "Purpose-Argument4",
+          "type": "Legal-requirement",
+          "text": "comply with applicable law, regulations, legal process or enforceable governmental request",
+          "start_idx": 555,
+          "end_idx": 645
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "companies, organizations or individuals outside of EMI",
+          "start_idx": 373,
+          "end_idx": 427
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 347,
+          "end_idx": 367
+        },
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 333,
+          "end_idx": 335
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 1004,
+        "end_idx": 1009,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          194
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Merge-acquisition",
+          "text": "a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of EMI\u2019s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by EMI about our Service users is among the assets transferred",
+          "start_idx": 1079,
+          "end_idx": 1388
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "buyer",
+          "start_idx": 1038,
+          "end_idx": 1043
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 1010,
+          "end_idx": 1030
+        },
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 997,
+          "end_idx": 999
+        },
+        {
+          "role": "Data-Receiver2",
+          "type": "Third-party-entity",
+          "text": "other successor",
+          "start_idx": 1047,
+          "end_idx": 1062
+        }
+      ],
+      "event_id": "E4"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 1400,
+        "end_idx": 1405,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          268
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "in a manner which does not reveal your personally-identifiable information and which is aggregated with other user information",
+          "start_idx": 1529,
+          "end_idx": 1655
+        },
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 1393,
+          "end_idx": 1395
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 1406,
+          "end_idx": 1410
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-aggregated-nonidentifiable",
+          "text": "information",
+          "start_idx": 1411,
+          "end_idx": 1422
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "publicly",
+          "start_idx": 1423,
+          "end_idx": 1431
+        },
+        {
+          "role": "Data-Receiver2",
+          "type": "Third-party-entity",
+          "text": "partners",
+          "start_idx": 1445,
+          "end_idx": 1453
+        },
+        {
+          "role": "Data-Receiver3",
+          "type": "Third-party-entity",
+          "text": "third-party content providers",
+          "start_idx": 1462,
+          "end_idx": 1491
+        },
+        {
+          "role": "Data-Receiver4",
+          "type": "Third-party-entity",
+          "text": "advertisers",
+          "start_idx": 1493,
+          "end_idx": 1504
+        },
+        {
+          "role": "Data-Receiver5",
+          "type": "Third-party-entity",
+          "text": "connected sites",
+          "start_idx": 1508,
+          "end_idx": 1523
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "show usage of EMI and third-party products and services offered on our Service and trends based on such categories as age, gender, geographical origination and other demographic characteristics",
+          "start_idx": 1659,
+          "end_idx": 1852
+        }
+      ],
+      "event_id": "E5"
+    }
+  ]
+}

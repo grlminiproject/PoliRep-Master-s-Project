@@ -1,0 +1,17 @@
+T1	collection-use 113 116	use
+E1	collection-use:T1 Data-Provider:T5 Data-Provider2:T4 Purpose-Argument:T7 Purpose-Argument2:T8 Data-Collected2:T9 Data-Collected3:T10 Purpose-Argument3:T11 Purpose-Argument4:T12 Purpose-Argument5:T13 Data-Collector:T2 Data-Provider3:T3 Data-Provider4:T17
+T2	First-party-entity 23 25	We
+T3	Third-party-entity 34 68	marketing and outsourcing partners
+T4	Third-party-entity 70 80	affiliates
+T5	Third-party-entity 85 112	analytics service providers
+T7	IdentityAuthentication 177 210	identify a user’s computer/device
+T8	RecordManagement 218 252	store information about your visit
+T9	Data-general 310 330	personal information
+T10	UID 345 352	user ID
+T11	OptimisationForController 375 411	improving the quality of our Service
+T12	ProvidePersonalisedRecommendations 413 456	tailoring recommendations to your interests
+T13	OptimisationForConsumer 462 494	making the Service easier to use
+T17	User 188 194	user’s
+T18	Data-general 254 287	Information contained in a cookie
+T19	derivation 295 301	linked
+E2	derivation:T19 Derived-From:T18 Data-Derived:T9 Data-Derived2:T10 Purpose-Argument:T11 Purpose-Argument2:T12 Purpose-Argument3:T13

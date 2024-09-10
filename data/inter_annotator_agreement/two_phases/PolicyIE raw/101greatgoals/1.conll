@@ -1,0 +1,359 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = INTRODUCTION
+1	INTRODUCTION	introduction	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:12
+
+# newpar
+# sent_id = 2
+# text = Domains Holdings Group Limited (the "Company"), offers a global network of content-rich web, mobile and social sites, including user acquisition and media buying (including paid search, display, mobile and social advertising), content optimization (including key word search, off-page and on-page optimization), and affiliate program, both in the web and mobile ecosystem (including through websites or mobile apps operated by Company; collectively, the "Services").
+1	Domains	domains	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=14:21
+2	Holdings	Holdings	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=22:30
+3	Group	Group	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=31:36
+4	Limited	Limited	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=37:44
+5	(	(	PUNCT	-LRB-	_	8	punct	_	SpaceAfter=No|TokenRange=45:46
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=46:49
+7	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No|TokenRange=50:51
+8	Company	company	NOUN	NN	Number=Sing	4	appos	_	SpaceAfter=No|TokenRange=51:58
+9	"	"	PUNCT	''	_	8	punct	_	SpaceAfter=No|TokenRange=58:59
+10	)	)	PUNCT	-RRB-	_	8	punct	_	SpaceAfter=No|TokenRange=59:60
+11	,	,	PUNCT	,	_	12	punct	_	TokenRange=60:61
+12	offers	offer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=62:68
+13	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	TokenRange=69:70
+14	global	global	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=71:77
+15	network	network	NOUN	NN	Number=Sing	12	obj	_	TokenRange=78:85
+16	of	of	ADP	IN	_	20	case	_	TokenRange=86:88
+17	content	content	ADJ	JJ	Degree=Pos	19	amod	_	SpaceAfter=No|TokenRange=89:96
+18	-	-	PUNCT	HYPH	_	19	punct	_	SpaceAfter=No|TokenRange=96:97
+19	rich	rich	ADJ	JJ	Degree=Pos	20	amod	_	TokenRange=97:101
+20	web	web	NOUN	NN	Number=Sing	15	nmod	_	SpaceAfter=No|TokenRange=102:105
+21	,	,	PUNCT	,	_	22	punct	_	TokenRange=105:106
+22	mobile	mobile	ADJ	JJ	Degree=Pos	20	conj	_	TokenRange=107:113
+23	and	and	CCONJ	CC	_	25	cc	_	TokenRange=114:117
+24	social	social	ADJ	JJ	Degree=Pos	25	amod	_	TokenRange=118:124
+25	sites	site	NOUN	NNS	Number=Plur	20	conj	_	SpaceAfter=No|TokenRange=125:130
+26	,	,	PUNCT	,	_	12	punct	_	TokenRange=130:131
+27	including	include	VERB	VBG	VerbForm=Ger	29	case	_	TokenRange=132:141
+28	user	user	ADJ	JJR	Degree=Cmp	29	amod	_	TokenRange=142:146
+29	acquisition	acquisition	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=147:158
+30	and	and	CCONJ	CC	_	32	cc	_	TokenRange=159:162
+31	media	media	NOUN	NN	Number=Sing	32	compound	_	TokenRange=163:168
+32	buying	buy	NOUN	NN	Number=Sing	29	conj	_	TokenRange=169:175
+33	(	(	PUNCT	-LRB-	_	29	punct	_	SpaceAfter=No|TokenRange=176:177
+34	including	include	VERB	VBG	VerbForm=Ger	36	case	_	TokenRange=177:186
+35	paid	pay	VERB	VBN	Tense=Past|VerbForm=Part	36	amod	_	TokenRange=187:191
+36	search	search	NOUN	NN	Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=192:198
+37	,	,	PUNCT	,	_	38	punct	_	TokenRange=198:199
+38	display	display	NOUN	NN	Number=Sing	36	conj	_	SpaceAfter=No|TokenRange=200:207
+39	,	,	PUNCT	,	_	40	punct	_	TokenRange=207:208
+40	mobile	mobile	ADJ	JJ	Degree=Pos	36	conj	_	TokenRange=209:215
+41	and	and	CCONJ	CC	_	43	cc	_	TokenRange=216:219
+42	social	social	ADJ	JJ	Degree=Pos	43	amod	_	TokenRange=220:226
+43	advertising	advertising	NOUN	NN	Number=Sing	36	conj	_	SpaceAfter=No|TokenRange=227:238
+44	)	)	PUNCT	-RRB-	_	36	punct	_	SpaceAfter=No|TokenRange=238:239
+45	,	,	PUNCT	,	_	47	punct	_	TokenRange=239:240
+46	content	content	ADJ	JJ	Degree=Pos	47	amod	_	TokenRange=241:248
+47	optimization	optimization	NOUN	NN	Number=Sing	36	conj	_	TokenRange=249:261
+48	(	(	PUNCT	-LRB-	_	36	punct	_	SpaceAfter=No|TokenRange=262:263
+49	including	include	VERB	VBG	VerbForm=Ger	51	case	_	TokenRange=263:272
+50	key	key	ADJ	JJ	Degree=Pos	51	amod	_	TokenRange=273:276
+51	word	word	NOUN	NN	Number=Sing	36	nmod	_	TokenRange=277:281
+52	search	search	NOUN	NN	Number=Sing	51	conj	_	SpaceAfter=No|TokenRange=282:288
+53	,	,	PUNCT	,	_	52	punct	_	TokenRange=288:289
+54	off	off	ADP	IN	_	56	case	_	SpaceAfter=No|TokenRange=290:293
+55	-	-	PUNCT	HYPH	_	56	punct	_	SpaceAfter=No|TokenRange=293:294
+56	page	page	NOUN	NN	Number=Sing	52	nmod	_	TokenRange=294:298
+57	and	and	CCONJ	CC	_	61	cc	_	TokenRange=299:302
+58	on	on	ADP	IN	_	60	case	_	SpaceAfter=No|TokenRange=303:305
+59	-	-	PUNCT	HYPH	_	60	punct	_	SpaceAfter=No|TokenRange=305:306
+60	page	page	NOUN	NN	Number=Sing	61	compound	_	TokenRange=306:310
+61	optimization	optimization	NOUN	NN	Number=Sing	56	conj	_	SpaceAfter=No|TokenRange=311:323
+62	)	)	PUNCT	-RRB-	_	56	punct	_	SpaceAfter=No|TokenRange=323:324
+63	,	,	PUNCT	,	_	66	punct	_	TokenRange=324:325
+64	and	and	CCONJ	CC	_	66	cc	_	TokenRange=326:329
+65	affiliate	affiliate	ADJ	JJ	Degree=Pos	66	amod	_	TokenRange=330:339
+66	program	program	NOUN	NN	Number=Sing	51	conj	_	SpaceAfter=No|TokenRange=340:347
+67	,	,	PUNCT	,	_	51	punct	_	TokenRange=347:348
+68	both	both	CCONJ	CC	_	74	cc:preconj	_	TokenRange=349:353
+69	in	in	ADP	IN	_	74	case	_	TokenRange=354:356
+70	the	the	DET	DT	Definite=Def|PronType=Art	74	det	_	TokenRange=357:360
+71	web	web	NOUN	NN	Number=Sing	74	compound	_	TokenRange=361:364
+72	and	and	CCONJ	CC	_	73	cc	_	TokenRange=365:368
+73	mobile	mobile	ADJ	JJ	Degree=Pos	71	conj	_	TokenRange=369:375
+74	ecosystem	ecosystem	NOUN	NN	Number=Sing	51	nmod	_	TokenRange=376:385
+75	(	(	PUNCT	-LRB-	_	74	punct	_	SpaceAfter=No|TokenRange=386:387
+76	including	include	VERB	VBG	VerbForm=Ger	78	case	_	TokenRange=387:396
+77	through	through	ADP	IN	_	78	case	_	TokenRange=397:404
+78	websites	website	NOUN	NNS	Number=Plur	74	nmod	_	TokenRange=405:413
+79	or	or	CCONJ	CC	_	81	cc	_	TokenRange=414:416
+80	mobile	mobile	ADJ	JJ	Degree=Pos	81	amod	_	TokenRange=417:423
+81	apps	app	NOUN	NNS	Number=Plur	78	conj	_	TokenRange=424:428
+82	operated	operate	VERB	VBN	Tense=Past|VerbForm=Part	81	acl	_	TokenRange=429:437
+83	by	by	ADP	IN	_	84	case	_	TokenRange=438:440
+84	Company	company	NOUN	NN	Number=Sing	82	obl	_	SpaceAfter=No|TokenRange=441:448
+85	;	;	PUNCT	,	_	74	punct	_	TokenRange=448:449
+86	collectively	collectively	ADV	RB	_	90	advmod	_	SpaceAfter=No|TokenRange=450:462
+87	,	,	PUNCT	,	_	90	punct	_	TokenRange=462:463
+88	the	the	DET	DT	Definite=Def|PronType=Art	90	det	_	TokenRange=464:467
+89	"	"	PUNCT	``	_	90	punct	_	SpaceAfter=No|TokenRange=468:469
+90	Services	service	NOUN	NNS	Number=Plur	74	conj	_	SpaceAfter=No|TokenRange=469:477
+91	"	"	PUNCT	''	_	90	punct	_	SpaceAfter=No|TokenRange=477:478
+92	)	)	PUNCT	-RRB-	_	74	punct	_	SpaceAfter=No|TokenRange=478:479
+93	.	.	PUNCT	.	_	12	punct	_	SpacesAfter=\n|TokenRange=479:480
+
+# sent_id = 3
+# text = The Company is deeply committed to safeguard the privacy expectations of its end users ("User(s)", "you" or "your").
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=481:484
+2	Company	company	NOUN	NN	Number=Sing	5	nsubj	_	TokenRange=485:492
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=493:495
+4	deeply	deeply	ADV	RB	_	5	advmod	_	TokenRange=496:502
+5	committed	committed	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=503:512
+6	to	to	PART	TO	_	7	mark	_	TokenRange=513:515
+7	safeguard	safeguard	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=516:525
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=526:529
+9	privacy	privacy	NOUN	NN	Number=Sing	10	compound	_	TokenRange=530:537
+10	expectations	expectation	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=538:550
+11	of	of	ADP	IN	_	14	case	_	TokenRange=551:553
+12	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=554:557
+13	end	end	NOUN	NN	Number=Sing	14	compound	_	TokenRange=558:561
+14	users	user	NOUN	NNS	Number=Plur	10	nmod	_	TokenRange=562:567
+15	(	(	PUNCT	-LRB-	_	17	punct	_	SpaceAfter=No|TokenRange=568:569
+16	"	"	PUNCT	''	_	17	punct	_	SpaceAfter=No|TokenRange=569:570
+17	User	user	NOUN	NN	Number=Sing	14	appos	_	SpaceAfter=No|TokenRange=570:574
+18	(	(	PUNCT	-LRB-	_	17	punct	_	SpaceAfter=No|TokenRange=574:575
+19	s	s	X	AFX	_	17	advmod	_	SpaceAfter=No|TokenRange=575:576
+20	)	)	PUNCT	-RRB-	_	17	punct	_	SpaceAfter=No|TokenRange=576:577
+21	"	"	PUNCT	''	_	14	punct	_	SpaceAfter=No|TokenRange=577:578
+22	,	,	PUNCT	,	_	5	punct	_	TokenRange=578:579
+23	"	"	PUNCT	``	_	24	punct	_	SpaceAfter=No|TokenRange=580:581
+24	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	appos	_	SpaceAfter=No|TokenRange=581:584
+25	"	"	PUNCT	''	_	24	punct	_	TokenRange=584:585
+26	or	or	CCONJ	CC	_	28	cc	_	TokenRange=586:588
+27	"	"	PUNCT	``	_	28	punct	_	SpaceAfter=No|TokenRange=589:590
+28	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	24	conj	_	SpaceAfter=No|TokenRange=590:594
+29	"	"	PUNCT	''	_	28	punct	_	SpaceAfter=No|TokenRange=594:595
+30	)	)	PUNCT	-RRB-	_	24	punct	_	SpaceAfter=No|TokenRange=595:596
+31	.	.	PUNCT	.	_	5	punct	_	TokenRange=596:597
+
+# sent_id = 4
+# text = Accordingly, we have put in place this Privacy Policy, which outlines our data protection practices, including how we collect, use, disclose and protect your Personal Information, as well as your rights with respect to your Personal Information.
+1	Accordingly	accordingly	ADV	RB	_	5	advmod	_	SpaceAfter=No|TokenRange=598:609
+2	,	,	PUNCT	,	_	5	punct	_	TokenRange=609:610
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=611:613
+4	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=614:618
+5	put	put	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	TokenRange=619:622
+6	in	in	ADP	IN	_	7	case	_	TokenRange=623:625
+7	place	place	NOUN	NN	Number=Sing	5	obl	_	TokenRange=626:631
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	TokenRange=632:636
+9	Privacy	privacy	NOUN	NN	Number=Sing	10	compound	_	TokenRange=637:644
+10	Policy	policy	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No|TokenRange=645:651
+11	,	,	PUNCT	,	_	10	punct	_	TokenRange=651:652
+12	which	which	PRON	WDT	PronType=Rel	13	nsubj	_	TokenRange=653:658
+13	outlines	outline	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	TokenRange=659:667
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=668:671
+15	data	data	NOUN	NN	Number=Sing	16	compound	_	TokenRange=672:676
+16	protection	protection	NOUN	NN	Number=Sing	17	compound	_	TokenRange=677:687
+17	practices	practice	NOUN	NNS	Number=Plur	26	nsubj	_	SpaceAfter=No|TokenRange=688:697
+18	,	,	PUNCT	,	_	17	punct	_	TokenRange=697:698
+19	including	include	VERB	VBG	VerbForm=Ger	22	case	_	TokenRange=699:708
+20	how	how	ADV	WRB	PronType=Int	22	advmod	_	TokenRange=709:712
+21	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	_	TokenRange=713:715
+22	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	acl:relcl	_	SpaceAfter=No|TokenRange=716:723
+23	,	,	PUNCT	,	_	24	punct	_	TokenRange=723:724
+24	use	use	VERB	VB	VerbForm=Inf	22	conj	_	SpaceAfter=No|TokenRange=725:728
+25	,	,	PUNCT	,	_	26	punct	_	TokenRange=728:729
+26	disclose	disclose	VERB	VB	VerbForm=Inf	13	ccomp	_	TokenRange=730:738
+27	and	and	CCONJ	CC	_	28	cc	_	TokenRange=739:742
+28	protect	protect	VERB	VB	VerbForm=Inf	26	conj	_	TokenRange=743:750
+29	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	31	nmod:poss	_	TokenRange=751:755
+30	Personal	Personal	PROPN	NNP	Number=Sing	31	compound	_	TokenRange=756:764
+31	Information	information	NOUN	NN	Number=Sing	28	obj	_	SpaceAfter=No|TokenRange=765:776
+32	,	,	PUNCT	,	_	28	punct	_	TokenRange=776:777
+33	as	as	ADV	RB	_	37	cc	_	TokenRange=778:780
+34	well	well	ADV	RB	Degree=Pos	33	fixed	_	TokenRange=781:785
+35	as	as	ADP	IN	_	33	fixed	_	TokenRange=786:788
+36	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	37	nmod:poss	_	TokenRange=789:793
+37	rights	rights	NOUN	NNS	Number=Plur	28	conj	_	TokenRange=794:800
+38	with	with	ADP	IN	_	39	case	_	TokenRange=801:805
+39	respect	respect	NOUN	NN	Number=Sing	37	nmod	_	TokenRange=806:813
+40	to	to	ADP	IN	_	43	case	_	TokenRange=814:816
+41	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	43	nmod:poss	_	TokenRange=817:821
+42	Personal	Personal	ADJ	JJ	Degree=Pos	43	amod	_	TokenRange=822:830
+43	Information	information	NOUN	NN	Number=Sing	39	nmod	_	SpaceAfter=No|TokenRange=831:842
+44	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n|TokenRange=842:843
+
+# sent_id = 5
+# text = In this Privacy Policy, you can learn about: WHAT INFORMATION WE COLLECT?
+1	In	in	ADP	IN	_	4	case	_	TokenRange=844:846
+2	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=847:851
+3	Privacy	privacy	NOUN	NN	Number=Sing	4	compound	_	TokenRange=852:859
+4	Policy	policy	NOUN	NN	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=860:866
+5	,	,	PUNCT	,	_	8	punct	_	TokenRange=866:867
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=868:871
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	_	TokenRange=872:875
+8	learn	learn	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=876:881
+9	about	about	ADP	IN	_	12	case	_	SpaceAfter=No|TokenRange=882:887
+10	:	:	PUNCT	:	_	12	punct	_	SpacesAfter=\n|TokenRange=887:888
+11	WHAT	what	DET	WDT	PronType=Int	12	det	_	TokenRange=889:893
+12	INFORMATION	information	NOUN	NN	Number=Sing	8	obl	_	TokenRange=894:905
+13	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	TokenRange=906:908
+14	COLLECT	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	SpaceAfter=No|TokenRange=909:916
+15	?	?	PUNCT	.	_	8	punct	_	SpacesAfter=\n|TokenRange=916:917
+
+# sent_id = 6
+# text = MINORS HOW WE USE THE COLLECTED INFORMATION?
+1	MINORS	Minor	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n|TokenRange=918:924
+2	HOW	how	ADV	WRB	PronType=Int	4	advmod	_	TokenRange=925:928
+3	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=929:931
+4	USE	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	TokenRange=932:935
+5	THE	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=936:939
+6	COLLECTED	collected	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=940:949
+7	INFORMATION	information	NOUN	NN	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=950:961
+8	?	?	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=961:962
+
+# sent_id = 7
+# text = MARKETING WITH WHOM WE SHARE INFORMATION?
+1	MARKETING	market	VERB	VBG	VerbForm=Ger	0	root	_	SpacesAfter=\n|TokenRange=963:972
+2	WITH	with	ADP	IN	_	6	case	_	TokenRange=973:977
+3	WHOM	whom	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=978:982
+4	WE	we	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=983:985
+5	SHARE	share	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=986:991
+6	INFORMATION	information	PROPN	NNP	Number=Sing	1	obl	_	SpaceAfter=No|TokenRange=992:1003
+7	?	?	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=1003:1004
+
+# sent_id = 8
+# text = INTERNATIONAL TRANSFER OF INFORMATION
+1	INTERNATIONAL	international	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=1005:1018
+2	TRANSFER	transfer	NOUN	NN	Number=Sing	0	root	_	TokenRange=1019:1027
+3	OF	of	ADP	IN	_	4	case	_	TokenRange=1028:1030
+4	INFORMATION	information	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n|TokenRange=1031:1042
+
+# sent_id = 9
+# text = THIRD PARTY TRACKING TECHNOLOGIES THIRD PARTY SERVICES RETENTION OF PERSONAL INFORMATION YOUR RIGHTS HOW WE KEEP YOUR INFORMATION SECURED CHANGES TO THE PRIVACY POLICY HOW TO CONTACT US
+1	THIRD	third	ADP	IN	_	8	case	_	TokenRange=1043:1048
+2	PARTY	party	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=1049:1054
+3	TRACKING	tracking	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=1055:1063
+4	TECHNOLOGIES	technology	PROPN	NNP	Number=Sing	7	compound	_	SpacesAfter=\n|TokenRange=1064:1076
+5	THIRD	third	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=1077:1082
+6	PARTY	Party	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=1083:1088
+7	SERVICES	SERVICES	PROPN	NNPS	Number=Plur	8	compound	_	SpacesAfter=\n|TokenRange=1089:1097
+8	RETENTION	retention	PROPN	NNP	Number=Sing	13	obl	_	TokenRange=1098:1107
+9	OF	of	ADP	IN	_	10	case	_	TokenRange=1108:1110
+10	PERSONAL	personal	PROPN	NNP	Number=Sing	8	nmod	_	TokenRange=1111:1119
+11	INFORMATION	information	PROPN	NNP	Number=Sing	10	flat	_	SpacesAfter=\n|TokenRange=1120:1131
+12	YOUR	You	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nsubj	_	TokenRange=1132:1136
+13	RIGHTS	right	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	acl:relcl	_	SpacesAfter=\n|TokenRange=1137:1143
+14	HOW	how	ADV	WRB	PronType=Int	16	advmod	_	TokenRange=1144:1147
+15	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	TokenRange=1148:1150
+16	KEEP	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	TokenRange=1151:1155
+17	YOUR	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=1156:1160
+18	INFORMATION	information	NOUN	NN	Number=Sing	20	compound	_	TokenRange=1161:1172
+19	SECURED	secure	ADJ	JJ	Degree=Pos	20	amod	_	SpacesAfter=\n|TokenRange=1173:1180
+20	CHANGES	change	NOUN	NNS	Number=Plur	16	obj	_	TokenRange=1181:1188
+21	TO	to	ADP	IN	_	24	case	_	TokenRange=1189:1191
+22	THE	the	DET	DT	Definite=Def|PronType=Art	24	det	_	TokenRange=1192:1195
+23	PRIVACY	privacy	NOUN	NN	Number=Sing	24	compound	_	TokenRange=1196:1203
+24	POLICY	policy	NOUN	NN	Number=Sing	20	nmod	_	SpacesAfter=\n|TokenRange=1204:1210
+25	HOW	how	ADV	WRB	PronType=Int	27	advmod	_	TokenRange=1211:1214
+26	TO	to	PART	TO	_	27	mark	_	TokenRange=1215:1217
+27	CONTACT	contact	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1218:1225
+28	US	US	PROPN	NNP	Number=Sing	27	obj	_	SpacesAfter=\n|TokenRange=1226:1228
+
+# sent_id = 10
+# text = We encourage you to read the Privacy Policy carefully and use it to make informed decisions.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=1229:1231
+2	encourage	encourage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1232:1241
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	TokenRange=1242:1245
+4	to	to	PART	TO	_	5	mark	_	TokenRange=1246:1248
+5	read	read	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=1249:1253
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=1254:1257
+7	Privacy	privacy	NOUN	NN	Number=Sing	8	compound	_	TokenRange=1258:1265
+8	Policy	Policy	NOUN	NN	Number=Sing	5	obj	_	TokenRange=1266:1272
+9	carefully	carefully	ADV	RB	_	5	advmod	_	TokenRange=1273:1282
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=1283:1286
+11	use	use	VERB	VB	VerbForm=Inf	2	conj	_	TokenRange=1287:1290
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=1291:1293
+13	to	to	PART	TO	_	14	mark	_	TokenRange=1294:1296
+14	make	make	VERB	VB	VerbForm=Inf	11	advcl	_	TokenRange=1297:1301
+15	informed	inform	VERB	VBN	Tense=Past|VerbForm=Part	16	amod	_	TokenRange=1302:1310
+16	decisions	decision	NOUN	NNS	Number=Plur	14	obj	_	SpaceAfter=No|TokenRange=1311:1320
+17	.	.	PUNCT	.	_	2	punct	_	TokenRange=1320:1321
+
+# sent_id = 11
+# text = By visiting or interacting with the Company's websites, mobile apps or other online properties, or by visiting or interacting with third party websites, mobile apps or other online properties that deploy our Service, you hereby agree to the Privacy Policy.
+1	By	by	ADP	IN	_	2	case	_	TokenRange=1322:1324
+2	visiting	visit	VERB	VBG	VerbForm=Ger	41	advcl	_	TokenRange=1325:1333
+3	or	or	CCONJ	CC	_	4	cc	_	TokenRange=1334:1336
+4	interacting	interact	VERB	VBG	VerbForm=Ger	2	conj	_	TokenRange=1337:1348
+5	with	with	ADP	IN	_	9	case	_	TokenRange=1349:1353
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=1354:1357
+7	Company	company	NOUN	NN	Number=Sing	9	nmod:poss	_	SpaceAfter=No|TokenRange=1358:1365
+8	's	's	PART	POS	_	7	case	_	TokenRange=1365:1367
+9	websites	website	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=1368:1376
+10	,	,	PUNCT	,	_	12	punct	_	TokenRange=1376:1377
+11	mobile	mobile	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=1378:1384
+12	apps	app	NOUN	NNS	Number=Plur	9	conj	_	TokenRange=1385:1389
+13	or	or	CCONJ	CC	_	16	cc	_	TokenRange=1390:1392
+14	other	other	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=1393:1398
+15	online	online	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=1399:1405
+16	properties	property	NOUN	NNS	Number=Plur	2	conj	_	SpaceAfter=No|TokenRange=1406:1416
+17	,	,	PUNCT	,	_	29	punct	_	TokenRange=1416:1417
+18	or	or	CCONJ	CC	_	29	cc	_	TokenRange=1418:1420
+19	by	by	SCONJ	IN	_	20	mark	_	TokenRange=1421:1423
+20	visiting	visit	VERB	VBG	VerbForm=Ger	29	advcl	_	TokenRange=1424:1432
+21	or	or	CCONJ	CC	_	22	cc	_	TokenRange=1433:1435
+22	interacting	interact	VERB	VBG	VerbForm=Ger	20	conj	_	TokenRange=1436:1447
+23	with	with	ADP	IN	_	26	case	_	TokenRange=1448:1452
+24	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	25	amod	_	TokenRange=1453:1458
+25	party	party	NOUN	NN	Number=Sing	26	compound	_	TokenRange=1459:1464
+26	websites	website	NOUN	NNS	Number=Plur	20	obl	_	SpaceAfter=No|TokenRange=1465:1473
+27	,	,	PUNCT	,	_	29	punct	_	TokenRange=1473:1474
+28	mobile	mobile	ADJ	JJ	Degree=Pos	29	amod	_	TokenRange=1475:1481
+29	apps	app	NOUN	NNS	Number=Plur	2	conj	_	TokenRange=1482:1486
+30	or	or	CCONJ	CC	_	33	cc	_	TokenRange=1487:1489
+31	other	other	ADJ	JJ	Degree=Pos	33	amod	_	TokenRange=1490:1495
+32	online	online	ADJ	JJ	Degree=Pos	33	amod	_	TokenRange=1496:1502
+33	properties	property	NOUN	NNS	Number=Plur	29	conj	_	TokenRange=1503:1513
+34	that	that	PRON	WDT	PronType=Rel	35	nsubj	_	TokenRange=1514:1518
+35	deploy	deploy	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	33	acl:relcl	_	TokenRange=1519:1525
+36	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	37	nmod:poss	_	TokenRange=1526:1529
+37	Service	service	NOUN	NN	Number=Sing	35	obj	_	SpaceAfter=No|TokenRange=1530:1537
+38	,	,	PUNCT	,	_	41	punct	_	TokenRange=1537:1538
+39	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	41	nsubj	_	TokenRange=1539:1542
+40	hereby	hereby	ADV	RB	_	41	advmod	_	TokenRange=1543:1549
+41	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1550:1555
+42	to	to	ADP	IN	_	45	case	_	TokenRange=1556:1558
+43	the	the	DET	DT	Definite=Def|PronType=Art	45	det	_	TokenRange=1559:1562
+44	Privacy	privacy	NOUN	NN	Number=Sing	45	compound	_	TokenRange=1563:1570
+45	Policy	policy	NOUN	NN	Number=Sing	41	obl	_	SpaceAfter=No|TokenRange=1571:1577
+46	.	.	PUNCT	.	_	41	punct	_	SpacesAfter=\n|TokenRange=1577:1578
+
+# sent_id = 12
+# text = If you have any questions (or comments) concerning this Privacy Policy, you are welcome to send our Data Protection Officer at dpo@domainsholdingsgroup.info.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=1579:1581
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1582:1585
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	TokenRange=1586:1590
+4	any	any	DET	DT	_	5	det	_	TokenRange=1591:1594
+5	questions	question	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=1595:1604
+6	(	(	PUNCT	-LRB-	_	8	punct	_	SpaceAfter=No|TokenRange=1605:1606
+7	or	or	CCONJ	CC	_	8	cc	_	TokenRange=1606:1608
+8	comments	comment	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=1609:1617
+9	)	)	PUNCT	-RRB-	_	8	punct	_	TokenRange=1617:1618
+10	concerning	concern	VERB	VBG	VerbForm=Ger	13	case	_	TokenRange=1619:1629
+11	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	TokenRange=1630:1634
+12	Privacy	privacy	NOUN	NN	Number=Sing	13	compound	_	TokenRange=1635:1642
+13	Policy	policy	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=1643:1649
+14	,	,	PUNCT	,	_	17	punct	_	TokenRange=1649:1650
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	TokenRange=1651:1654
+16	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	cop	_	TokenRange=1655:1658
+17	welcome	welcome	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=1659:1666
+18	to	to	PART	TO	_	19	mark	_	TokenRange=1667:1669
+19	send	send	VERB	VB	VerbForm=Inf	17	advcl	_	TokenRange=1670:1674
+20	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=1675:1678
+21	Data	data	NOUN	NN	Number=Sing	22	compound	_	TokenRange=1679:1683
+22	Protection	Protection	NOUN	NN	Number=Sing	23	compound	_	TokenRange=1684:1694
+23	Officer	Officer	NOUN	NN	Number=Sing	19	obj	_	TokenRange=1695:1702
+24	at	at	ADP	IN	_	25	case	_	TokenRange=1703:1705
+25	dpo@domainsholdingsgroup.info	dpo@domainsholdingsgroup.info	NOUN	NN	Number=Sing	19	obl	_	SpaceAfter=No|TokenRange=1706:1735
+26	.	.	PUNCT	.	_	17	punct	_	SpacesAfter=\n\n|TokenRange=1735:1736
+

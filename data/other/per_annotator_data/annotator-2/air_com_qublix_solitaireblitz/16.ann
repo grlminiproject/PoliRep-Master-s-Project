@@ -1,0 +1,29 @@
+T1	first-party-collection-use 51 58	collect
+E1	first-party-collection-use:T1 Polarity:T5 Data-Collector:T2 Data-Collected:T3 Data-Provider:T4 Purpose-Argument:T12
+T2	First-party-entity 31 33	We
+T3	Data-general 70 90	personal information
+T4	User 146 172	anyone under the age of 13
+T5	Negation 37 40	not
+T6	First-party-entity 452 454	we
+T7	Data-general 484 504	personal information
+T8	User 512 530	child under age 13
+T9	data-storage-retention-deletion 540 546	delete
+E2	data-storage-retention-deletion:T9 Data-Holder:T6 Condition-Argument:T10 Data-Retained:T7 Data-Provider:T8 Retention-Period:T11
+T10	Condition 452 530	we learn that we have collected personal information from a child under age 13
+T11	retention-period 564 586	as quickly as possible
+T17	first-party-collection-use 260 264	send
+E4	first-party-collection-use:T17 Data-Provider:T19 Data-Collected:T18 Data-Collector:T20 Polarity:T25 Data-Collected2:T21 Data-Collected3:T22 Data-Collected4:T23 Data-Collected5:T24
+T18	Data-general 269 280	information
+T19	User 228 244	you are under 13
+T20	First-party-entity 299 301	us
+T21	Data-contact 318 322	name
+T22	Data-contact 324 331	address
+T23	Data-contact 333 349	telephone number
+T24	Data-contact 354 367	email address
+T25	Negation 256 259	not
+T26	User 372 395	one under the age of 13
+T27	first-party-collection-use 400 407	provide
+E5	first-party-collection-use:T27 Polarity:T29 Data-Provider:T26 Data-Collected:T28
+T28	Data-general 412 432	personal information
+T29	Negation 369 371	No
+T12	Purpose 99 142	direct or target interest based advertising

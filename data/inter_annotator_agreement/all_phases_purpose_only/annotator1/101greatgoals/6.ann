@@ -1,0 +1,18 @@
+T10	CommunicationForCustomerCare 296 316	communicate with you
+T11	DirectMarketing 324 398	keep you informed of our latest updates to our Services and special offers
+T12	Marketing 403 422	market our Services
+T13	PersonalisedAdvertising 473 531	serve you advertisements, including behavioral advertising
+T14	ResearchAndDevelopment 536 588	conduct analytics, statistical and research purposes
+T15	ImproveExistingProductsAndServices 602 664	improve and customize the Services to your needs and interests
+T18	OptimisationForConsumer 849 944	further develop, customize and improve the Services based on Users' common preferences and uses
+T19	IdentityAuthentication 949 1022	identify and authenticate your access to certain features of the Services
+T20	FraudPreventionAndDetection 1027 1178	detect and prevent fraudulent and illegal activity or any other type of activity that may jeopardize or negatively affect the integrity of the Services
+T21	EnforceSecurity 1193 1256	identifying risks associated with your activity on our Services
+T22	EnforceSecurity 1261 1318	investigate violations of our policies and User Agreement
+T23	Purpose-general 1330 1373	enforce our policies and the User Agreement
+T24	DisputeManagement 1378 1454	investigate and resolve disputes in connection with your use of the Services
+T25	LegalCompliance 1463 1492	required by law or regulation
+T26	FulfilmentOfObligation 1497 1542	as required by other governmental authorities
+T27	LegalCompliance 1550 1597	comply with a subpoena or similar legal process
+T28	FulfilmentOfObligation 1601 1632	respond to a government request
+T5	ServiceProvision 106 138	provide and operate the Services

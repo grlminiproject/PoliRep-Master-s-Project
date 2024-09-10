@@ -1,0 +1,9 @@
+Notification and Email Choices
+
+By default, Marco Polo sends you emails and notifications regarding activities on the Service, e.g., when you receive a Polo from one of your contacts.
+You may choose to unsubscribe from these emails by clicking "Unsubscribe" from the email or in the Marco Polo App by going to Settings and selecting the "Send me fewer emails" option.
+If you unsubscribe, we may still need to send you non-marketing emails about your account or our business dealings with you (e.g., emails regarding AppStore or Google Play subscriptions you have with us).
+You may also send requests about your Personal Information to . You can also request to change your contact choices, opt-out of our sharing with others, and update your Personal Information.
+privacy@marcopolo.me
+The Service may contain links to other third-party websites or applications. For example, we allow you to forward your Polos to YouTube.com. Any information you provide on those sites is subject to that third party's privacy policy. Our Policy does not apply to such sites, and we are not responsible for the privacy and security practices and policies of those third-party sites or applications.
+

@@ -1,0 +1,24 @@
+T1	Data 93 111	content you create
+T2	Purpose 306 363	you can access your data anytime from any of your devices
+T3	Data 992 1000	contacts
+T4	Purpose 1028 1099	notify you as soon as one of your contacts creates a Marco Polo Account
+T5	Purpose 1107 1135	properly display their names
+T6	Data 1152 1156	name
+T7	Data 1158 1173	phone number(s)
+T8	Data 1175 1192	email address(es)
+T9	Data 1201 1220	birth day and month
+T10	Purpose 1225 1237	this to work
+T11	Data 1278 1282	data
+T12	Purpose 1286 1365	suggest which of your contacts you might like to communicate with on Marco Polo
+T13	Data 1379 1390	information
+T14	Purpose 1394 1437	suggest people to invite to join Marco Polo
+T15	Data 1599 1607	contacts
+T16	Data 123 129	videos
+T17	Data 134 141	"Polos"
+T18	Data 144 150	photos
+T19	Data 152 169	short video clips
+T20	Data 233 246	text messages
+T21	Data 555 583	friends' contact information
+T22	Data 625 645	mobile phone numbers
+T23	Data 650 665	email addresses
+T24	Purpose 718 765	find and communicate with other people you know

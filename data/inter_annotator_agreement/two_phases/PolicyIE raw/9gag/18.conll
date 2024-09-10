@@ -1,0 +1,67 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Your Right To Complain
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
+2	Right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=5:10
+3	To	to	ADP	IN	_	4	case	_	TokenRange=11:13
+4	Complain	complain	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n\n|TokenRange=14:22
+
+# newpar
+# sent_id = 2
+# text = If you’re based in the EU or EEA and have a complaint, you can file your complaint with the supervisory authority in your Member States.
+1	If	if	SCONJ	IN	_	4	mark	_	TokenRange=24:26
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	SpaceAfter=No|TokenRange=27:30
+3	’re	’re	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=30:33
+4	based	base	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	_	TokenRange=34:39
+5	in	in	ADP	IN	_	7	case	_	TokenRange=40:42
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=43:46
+7	EU	EU	PROPN	NNP	Number=Sing	4	obl	_	TokenRange=47:49
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=50:52
+9	EEA	EEA	PROPN	NNP	Number=Sing	7	conj	_	TokenRange=53:56
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=57:60
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=61:65
+12	a	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	TokenRange=66:67
+13	complaint	complaint	NOUN	NN	Number=Sing	11	obj	_	SpaceAfter=No|TokenRange=68:77
+14	,	,	PUNCT	,	_	17	punct	_	TokenRange=77:78
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	TokenRange=79:82
+16	can	can	AUX	MD	VerbForm=Fin	17	aux	_	TokenRange=83:86
+17	file	file	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=87:91
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=92:96
+19	complaint	complaint	NOUN	NN	Number=Sing	17	obj	_	TokenRange=97:106
+20	with	with	ADP	IN	_	23	case	_	TokenRange=107:111
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	TokenRange=112:115
+22	supervisory	supervisory	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=116:127
+23	authority	authority	NOUN	NN	Number=Sing	17	obl	_	TokenRange=128:137
+24	in	in	ADP	IN	_	27	case	_	TokenRange=138:140
+25	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	27	nmod:poss	_	TokenRange=141:145
+26	Member	member	PROPN	NNP	Number=Sing	27	compound	_	TokenRange=146:152
+27	States	States	PROPN	NNP	Number=Sing	23	nmod	_	SpaceAfter=No|TokenRange=153:159
+28	.	.	PUNCT	.	_	17	punct	_	TokenRange=159:160
+
+# sent_id = 3
+# text = For example, if you’re based in the UK, you can file a complaint with the Information Commissioner’s Office.
+1	For	for	ADP	IN	_	2	case	_	TokenRange=161:164
+2	example	example	NOUN	NN	Number=Sing	14	obl	_	SpaceAfter=No|TokenRange=165:172
+3	,	,	PUNCT	,	_	14	punct	_	TokenRange=172:173
+4	if	if	SCONJ	IN	_	6	mark	_	TokenRange=174:176
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	SpaceAfter=No|TokenRange=177:180
+6	’re	’re	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	TokenRange=180:183
+7	based	base	VERB	VBN	Tense=Past|VerbForm=Part	10	case	_	TokenRange=184:189
+8	in	in	ADP	IN	_	10	case	_	TokenRange=190:192
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=193:196
+10	UK	UK	PROPN	NNP	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=197:199
+11	,	,	PUNCT	,	_	14	punct	_	TokenRange=199:200
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	TokenRange=201:204
+13	can	can	AUX	MD	VerbForm=Fin	14	aux	_	TokenRange=205:208
+14	file	file	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=209:213
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	TokenRange=214:215
+16	complaint	complaint	NOUN	NN	Number=Sing	14	obj	_	TokenRange=216:225
+17	with	with	ADP	IN	_	22	case	_	TokenRange=226:230
+18	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	TokenRange=231:234
+19	Information	Information	PROPN	NNP	Number=Sing	20	compound	_	TokenRange=235:246
+20	Commissioner	Commissioner	PROPN	NNP	Number=Sing	22	nmod:poss	_	SpaceAfter=No|TokenRange=247:259
+21	’s	's	PART	POS	_	20	case	_	TokenRange=259:261
+22	Office	Office	PROPN	NNP	Number=Sing	16	nmod	_	SpaceAfter=No|TokenRange=262:268
+23	.	.	PUNCT	.	_	14	punct	_	SpacesAfter=\n\n|TokenRange=268:269
+

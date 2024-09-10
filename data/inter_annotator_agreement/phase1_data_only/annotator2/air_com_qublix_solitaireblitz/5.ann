@@ -1,0 +1,16 @@
+T3	Data-general 425 436	information
+T4	Data-general 416 420	data
+T6	Data-other 229 252	cookies, APIs, and SDKs
+T8	Data-general 307 335	user and device related data
+T9	Data-general 340 351	information
+T11	Identifier 461 478	device identifier
+T12	MACAddress 480 491	MAC address
+T13	Contact 493 497	IMEI
+T14	Location 499 505	locale
+T15	IPAddress 560 570	IP address
+T16	ServiceConsumptionBehavior 572 589	application usage
+T17	BrowsingBehavior 591 615	access and session times
+T18	DeviceApplications 617 696	applications present on the device or in use at a particular time on the device
+T19	BrowsingBehavior 702 751	your viewing of and interactions with advertising
+T25	Tracking 58 106	tracking and data collection and analytics tools
+T36	Data-general 1444 1448	data

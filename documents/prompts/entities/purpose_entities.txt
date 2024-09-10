@@ -1,0 +1,64 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and will be asked to annotate purpose entities in it.
+IMPORTANT: Filtering Out General Phrase
+Before annotating, carefully check each potential purpose entity. DO NOT annotate general phrases that do not provide specific purpose types.
+Examples of general phrases to omit include, but are not limited to:
+
+"other purposes"
+"purposes described in our policy"
+"collect"
+"to enable"
+"send"
+
+If a phrase does not clearly indicate a specific type of personal data, DO NOT include it in your annotations.
+
+Purpose entities are phrases in segment text that refer to the purposes for which USER'S PERSONAL DATA will be used, collected, processed, protected, shared with the third parties, etc. The purpose entity must be mentioned in one of the following context types:
+1. first-party-collection-use - the policy segment mentions collection, usage, processing, storage, retention, deletion, or protection of personal user datum or data by the first party (the application).
+2. third-party-collection-use - the policy segment mentions collection, usage, or processing of a personal user datum or data by a third party.
+3. third-party-sharing-disclosure - the policy segment mentions sharing, or disclosure of a personal user datum or data to a third party.
+
+Note the following!
+1. Purpose that is mentioned outside of one of these contexts does not classify as purpose entity and should NOT be annotated.
+2. Purpose that does not have a clear and concrete personal user data that it applies to does not classify as purpose entity and should NOT be annotated.
+3. Multiple contexts may apply to the same purpose entity.
+
+Provide the output as a list of purpose entities with the following details for each entity:
+1. The type of the context in which this purpose is mentioned.
+2. The exact text of the purpose entity as it appears in the text segment.
+
+Examples
+
+Question:
+
+"To create personalized Products that are unique and relevant to you, we use your connections, preferences, interests and activities based on the data we collect and learn from you and others (including any data with special protections you choose to provide where you have given your explicit consent); how you use and interact with our Products; and the people, places, or things you're connected to and interested in on and off our Products. We connect information about your activities on different Meta Products and devices to provide a more tailored and consistent experience on all Meta Products you use, wherever you use them.
+Special Exceptions – We reserve the right to disclose PII in our possession if we have a good faith belief that it is necessary to: (1) comply with the law or legal process served on us; (2) protect and defend our rights or property or those of others; (3) respond to fraud, abuse or unauthorized use of our services; (4) enforce our Website Visitors’ Agreement and Terms of Use, our Acceptable Use Policy or related standards; or (5) act in an emergency to protect your safety or that of another."
+
+
+Answer:
+{
+  "entities": [
+    {"type": "first-party-collection-use", "text": "create personalized Products that are unique and relevant to you"},
+    {"type": "first-party-collection-use", "text": "provide a more tailored and consistent experience on all Meta Products you use"},
+    {"type": "third-party-sharing-disclosure", "text": "comply with the law or legal process served on us"},
+    {"type": "third-party-sharing-disclosure", "text": "protect and defend our rights or property or those of others"},
+    {"type": "third-party-sharing-disclosure", "text": "respond to fraud, abuse or unauthorized use of our services"},
+    {"type": "third-party-sharing-disclosure", "text": "enforce our Website Visitors’ Agreement and Terms of Use, our Acceptable Use Policy or related standards"},
+    {"type": "third-party-sharing-disclosure", "text": "act in an emergency to protect your safety or that of another"},
+  ]
+}
+
+Question:
+"11. The Scope of Our Privacy Policy.
+
+Our Privacy Policy applies to all of the services offered through our Service. However, our Privacy Policy does not apply to the any of the following:
+a. services offered by other companies or individuals on non-EMI websites or applications, including any such websites or applications which may be referenced on or linked from our Service; and
+b. the information collected by, and information practices of, other companies, organizations or individuals, who advertise our Service, editorial or advertising content, or any of the products or services offered on our Service, and who may use cookies, pixel tags and other technologies to serve and offer relevant ads.
+12. Handling Complaints from Our Service Users and Regulatory Authorities.
+We regularly review our compliance with this Privacy Policy and with any and all industry-recommended best practices, as well as applicable laws and regulations. When we receive a formal written complaint, we will contact the person who made the complaint to follow up. This is without prejudice to your right to launch a claim with your local data protection supervisory authority. We work with the appropriate regulatory authorities, including local data protection authorities, to resolve any complaints regarding the transfer of personal data that we cannot resolve with the users of our Service directly.
+"
+Answer:
+{
+  "entities": [
+   ]
+}
+
+Please identify and annotate ALL purpose entities in the following privacy policy segment. Remember to ignore purpose entities that do not constitute a concrete purpose.

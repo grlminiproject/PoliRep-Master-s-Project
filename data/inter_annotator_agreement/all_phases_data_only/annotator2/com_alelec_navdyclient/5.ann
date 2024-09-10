@@ -1,0 +1,29 @@
+T3	Data-general 137 148	information
+T12	Data-general 401 421	personal information
+T22	Data-general 663 674	information
+T23	Name 697 707	first name
+T24	Name 709 718	last name
+T25	Professional 720 732	company name
+T26	PhysicalAddress 734 749	mailing address
+T27	TelephoneNumber 751 763	phone number
+T28	EmailAddress 765 778	email address
+T29	FinancialAccountNumber 783 814	credit card payment information
+T31	Data-general 821 825	data
+T43	Data-finance 1172 1195	credit card information
+T55	Data-general 1909 1920	information
+T58	Data-general 2157 2168	information
+T60	Data-other 2202 2218	logs and reports
+T66	EmailContent 2341 2368	e-mails that you send to us
+T67	FinancialAccount 2377 2396	account information
+T70	Data-general 2609 2620	information
+T72	DeviceBased 2634 2652	device information
+T73	Location 2662 2670	location
+T80	Data-general 3151 3162	information
+T85	Data-general 3291 3302	information
+T92	Data-aggregated-nonidentifiable 3468 3479	information
+T98	Data-general 3937 3948	information
+T110	Data-general 4565 4576	information
+T113	Data-general 4989 5000	information
+T118	Data-general 3575 3593	an aggregate basis
+T125	Data-general 3606 3617	information
+T126	Data-general 3741 3745	data

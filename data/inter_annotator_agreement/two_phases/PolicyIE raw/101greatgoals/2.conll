@@ -1,0 +1,24 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = WHAT INFORMATION WE COLLECT?
+1	WHAT	what	DET	WDT	PronType=Int	2	det	_	TokenRange=0:4
+2	INFORMATION	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=5:16
+3	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=17:19
+4	COLLECT	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No|TokenRange=20:27
+5	?	?	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=27:28
+
+# newpar
+# sent_id = 2
+# text = We collect two types of information from our Users:
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=30:32
+2	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=33:40
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	TokenRange=41:44
+4	types	type	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=45:50
+5	of	of	ADP	IN	_	6	case	_	TokenRange=51:53
+6	information	information	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=54:65
+7	from	from	ADP	IN	_	9	case	_	TokenRange=66:70
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=71:74
+9	Users	user	NOUN	NNS	Number=Plur	6	nmod	_	SpaceAfter=No|TokenRange=75:80
+10	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n\n|TokenRange=80:81
+

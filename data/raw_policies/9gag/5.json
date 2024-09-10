@@ -1,0 +1,1058 @@
+{
+  "text": "Information We Collect From Third Parties\n\nWe may collect information from our affiliates and third parties. For example:\nIf you use your Google or Facebook account to sign up or sign in to our services, we may receive information so you can create or access your 9GAG account.\nIf you interact with one of our advertisers, they may share information with us to help target or measure ad performance.\n\n",
+  "words": [
+    "Information",
+    "We",
+    "Collect",
+    "From",
+    "Third",
+    "Parties",
+    "We",
+    "may",
+    "collect",
+    "information",
+    "from",
+    "our",
+    "affiliates",
+    "and",
+    "third",
+    "parties",
+    ".",
+    "For",
+    "example",
+    ":",
+    "If",
+    "you",
+    "use",
+    "your",
+    "Google",
+    "or",
+    "Facebook",
+    "account",
+    "to",
+    "sign",
+    "up",
+    "or",
+    "sign",
+    "in",
+    "to",
+    "our",
+    "services",
+    ",",
+    "we",
+    "may",
+    "receive",
+    "information",
+    "so",
+    "you",
+    "can",
+    "create",
+    "or",
+    "access",
+    "your",
+    "9GAG",
+    "account",
+    ".",
+    "If",
+    "you",
+    "interact",
+    "with",
+    "one",
+    "of",
+    "our",
+    "advertisers",
+    ",",
+    "they",
+    "may",
+    "share",
+    "information",
+    "with",
+    "us",
+    "to",
+    "help",
+    "target",
+    "or",
+    "measure",
+    "ad",
+    "performance",
+    "."
+  ],
+  "lemma": [
+    "information",
+    "we",
+    "collect",
+    "from",
+    "third",
+    "party",
+    "we",
+    "may",
+    "collect",
+    "information",
+    "from",
+    "we",
+    "affiliate",
+    "and",
+    "third",
+    "party",
+    ".",
+    "for",
+    "example",
+    ":",
+    "if",
+    "you",
+    "use",
+    "you",
+    "Google",
+    "or",
+    "Facebook",
+    "account",
+    "to",
+    "sign",
+    "up",
+    "or",
+    "sign",
+    "in",
+    "to",
+    "we",
+    "service",
+    ",",
+    "we",
+    "may",
+    "receive",
+    "information",
+    "so",
+    "you",
+    "can",
+    "create",
+    "or",
+    "access",
+    "you",
+    "9gag",
+    "account",
+    ".",
+    "if",
+    "you",
+    "interact",
+    "with",
+    "one",
+    "of",
+    "we",
+    "advertiser",
+    ",",
+    "they",
+    "may",
+    "share",
+    "information",
+    "with",
+    "we",
+    "to",
+    "help",
+    "target",
+    "or",
+    "measure",
+    "ad",
+    "performance",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "PRP",
+    "NNP",
+    "IN",
+    "NNP",
+    "NNPS",
+    "PRP",
+    "MD",
+    "VB",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "CC",
+    "JJ",
+    "NNS",
+    ".",
+    "IN",
+    "NN",
+    ":",
+    "IN",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NNP",
+    "CC",
+    "NNP",
+    "NN",
+    "TO",
+    "VB",
+    "RP",
+    "CC",
+    "VB",
+    "IN",
+    "IN",
+    "PRP$",
+    "NNS",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "NN",
+    "IN",
+    "PRP",
+    "MD",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    "NN",
+    ".",
+    "IN",
+    "PRP",
+    "VBP",
+    "IN",
+    "CD",
+    "IN",
+    "PRP$",
+    "NNS",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "NN",
+    "IN",
+    "PRP",
+    "TO",
+    "VB",
+    "NN",
+    "CC",
+    "VB",
+    "NN",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "compound",
+    "appos",
+    "case",
+    "compound",
+    "nmod",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "case",
+    "root",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "compound",
+    "cc",
+    "conj",
+    "obj",
+    "mark",
+    "xcomp",
+    "compound:prt",
+    "cc",
+    "conj",
+    "compound:prt",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "mark",
+    "nsubj",
+    "aux",
+    "advcl",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "case",
+    "obl",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "mark",
+    "nsubj",
+    "mark",
+    "advcl",
+    "compound",
+    "cc",
+    "conj",
+    "compound",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      11
+    ],
+    [
+      12,
+      14
+    ],
+    [
+      15,
+      22
+    ],
+    [
+      23,
+      27
+    ],
+    [
+      28,
+      33
+    ],
+    [
+      34,
+      41
+    ],
+    [
+      43,
+      45
+    ],
+    [
+      46,
+      49
+    ],
+    [
+      50,
+      57
+    ],
+    [
+      58,
+      69
+    ],
+    [
+      70,
+      74
+    ],
+    [
+      75,
+      78
+    ],
+    [
+      79,
+      89
+    ],
+    [
+      90,
+      93
+    ],
+    [
+      94,
+      99
+    ],
+    [
+      100,
+      107
+    ],
+    [
+      107,
+      108
+    ],
+    [
+      109,
+      112
+    ],
+    [
+      113,
+      120
+    ],
+    [
+      120,
+      121
+    ],
+    [
+      122,
+      124
+    ],
+    [
+      125,
+      128
+    ],
+    [
+      129,
+      132
+    ],
+    [
+      133,
+      137
+    ],
+    [
+      138,
+      144
+    ],
+    [
+      145,
+      147
+    ],
+    [
+      148,
+      156
+    ],
+    [
+      157,
+      164
+    ],
+    [
+      165,
+      167
+    ],
+    [
+      168,
+      172
+    ],
+    [
+      173,
+      175
+    ],
+    [
+      176,
+      178
+    ],
+    [
+      179,
+      183
+    ],
+    [
+      184,
+      186
+    ],
+    [
+      187,
+      189
+    ],
+    [
+      190,
+      193
+    ],
+    [
+      194,
+      202
+    ],
+    [
+      202,
+      203
+    ],
+    [
+      204,
+      206
+    ],
+    [
+      207,
+      210
+    ],
+    [
+      211,
+      218
+    ],
+    [
+      219,
+      230
+    ],
+    [
+      231,
+      233
+    ],
+    [
+      234,
+      237
+    ],
+    [
+      238,
+      241
+    ],
+    [
+      242,
+      248
+    ],
+    [
+      249,
+      251
+    ],
+    [
+      252,
+      258
+    ],
+    [
+      259,
+      263
+    ],
+    [
+      264,
+      268
+    ],
+    [
+      269,
+      276
+    ],
+    [
+      276,
+      277
+    ],
+    [
+      278,
+      280
+    ],
+    [
+      281,
+      284
+    ],
+    [
+      285,
+      293
+    ],
+    [
+      294,
+      298
+    ],
+    [
+      299,
+      302
+    ],
+    [
+      303,
+      305
+    ],
+    [
+      306,
+      309
+    ],
+    [
+      310,
+      321
+    ],
+    [
+      321,
+      322
+    ],
+    [
+      323,
+      327
+    ],
+    [
+      328,
+      331
+    ],
+    [
+      332,
+      337
+    ],
+    [
+      338,
+      349
+    ],
+    [
+      350,
+      354
+    ],
+    [
+      355,
+      357
+    ],
+    [
+      358,
+      360
+    ],
+    [
+      361,
+      365
+    ],
+    [
+      366,
+      372
+    ],
+    [
+      373,
+      375
+    ],
+    [
+      376,
+      383
+    ],
+    [
+      384,
+      386
+    ],
+    [
+      387,
+      398
+    ],
+    [
+      398,
+      399
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      16
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      20,
+      51
+    ],
+    [
+      52,
+      74
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 43,
+      "end_idx": 45,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        6
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 58,
+      "end_idx": 69,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "affiliates",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T4",
+      "start_idx": 79,
+      "end_idx": 89,
+      "tokens": [
+        "affiliates"
+      ],
+      "token_idx": [
+        12
+      ]
+    },
+    {
+      "entity/argument_text": "third parties",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 94,
+      "end_idx": 107,
+      "tokens": [
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        14,
+        15
+      ]
+    },
+    {
+      "entity/argument_text": "you use your Google or Facebook account to sign up or sign in to our services",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T6",
+      "start_idx": 125,
+      "end_idx": 202,
+      "tokens": [
+        "you",
+        "use",
+        "your",
+        "Google",
+        "or",
+        "Facebook",
+        "account",
+        "to",
+        "sign",
+        "up",
+        "or",
+        "sign",
+        "in",
+        "to",
+        "our",
+        "services"
+      ],
+      "token_idx": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T7",
+      "start_idx": 125,
+      "end_idx": 128,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T8",
+      "start_idx": 204,
+      "end_idx": 206,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        38
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T10",
+      "start_idx": 219,
+      "end_idx": 230,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        41
+      ]
+    },
+    {
+      "entity/argument_text": "you can create or access your 9GAG account",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T11",
+      "start_idx": 234,
+      "end_idx": 276,
+      "tokens": [
+        "you",
+        "can",
+        "create",
+        "or",
+        "access",
+        "your",
+        "9GAG",
+        "account"
+      ],
+      "token_idx": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50
+      ]
+    },
+    {
+      "entity/argument_text": "you interact with one of our advertisers",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T12",
+      "start_idx": 281,
+      "end_idx": 321,
+      "tokens": [
+        "you",
+        "interact",
+        "with",
+        "one",
+        "of",
+        "our",
+        "advertisers"
+      ],
+      "token_idx": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T13",
+      "start_idx": 281,
+      "end_idx": 284,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        53
+      ]
+    },
+    {
+      "entity/argument_text": "advertisers",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T14",
+      "start_idx": 310,
+      "end_idx": 321,
+      "tokens": [
+        "advertisers"
+      ],
+      "token_idx": [
+        59
+      ]
+    },
+    {
+      "entity/argument_text": "our",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T15",
+      "start_idx": 306,
+      "end_idx": 309,
+      "tokens": [
+        "our"
+      ],
+      "token_idx": [
+        58
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T17",
+      "start_idx": 338,
+      "end_idx": 349,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        64
+      ]
+    },
+    {
+      "entity/argument_text": "help target or measure ad performance",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T18",
+      "start_idx": 361,
+      "end_idx": 398,
+      "tokens": [
+        "help",
+        "target",
+        "or",
+        "measure",
+        "ad",
+        "performance"
+      ],
+      "token_idx": [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 50,
+        "end_idx": 57,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          8
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third parties",
+          "start_idx": 94,
+          "end_idx": 107
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "Third-party-entity",
+          "text": "affiliates",
+          "start_idx": 79,
+          "end_idx": 89
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 58,
+          "end_idx": 69
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 43,
+          "end_idx": 45
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "receive",
+        "start_idx": 211,
+        "end_idx": 218,
+        "tokens": [
+          "receive"
+        ],
+        "token_idx": [
+          40
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 125,
+          "end_idx": 128
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you use your Google or Facebook account to sign up or sign in to our services",
+          "start_idx": 125,
+          "end_idx": 202
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 204,
+          "end_idx": 206
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 219,
+          "end_idx": 230
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "you can create or access your 9GAG account",
+          "start_idx": 234,
+          "end_idx": 276
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 332,
+        "end_idx": 337,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          63
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "help target or measure ad performance",
+          "start_idx": 361,
+          "end_idx": 398
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 338,
+          "end_idx": 349
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "advertisers",
+          "start_idx": 310,
+          "end_idx": 321
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 306,
+          "end_idx": 309
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you interact with one of our advertisers",
+          "start_idx": 281,
+          "end_idx": 321
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "you",
+          "start_idx": 281,
+          "end_idx": 284
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

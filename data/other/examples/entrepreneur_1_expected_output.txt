@@ -1,0 +1,44 @@
+Schema:
+- data
+- purpose
+- security
+- downstream: app_name
+- downstream: purpose_name
+
+1. Data: personal information
+2. Data: name
+3. Data: email address
+4. Data: telephone number
+5. Data: purchase information
+6. Data: the products or services purchased
+7. Data: the dates of purchase
+8. Data: the purchase price
+9. Data: what editorial and advertising content you view
+10. Data: the products and services you use that we and our third-party providers offer
+11. Data: information about the devices you use to access our Service
+12. Data: hardware settings
+13. Data: browser type
+14. Data: browser language
+15. Data: date and time of your request
+16. Data: referral URL
+17. Data: details about how you have used our Service
+18. Data: search queries
+19. Data: IP address
+    Purpose: identify the geographic location of that device
+20. Data: cookies
+    Purpose: uniquely identify your browser
+21. Data: cookies
+    Purpose: collect information about how our visitors interact with our Service
+22. Data: cookies
+    Purpose: identify problems such as error messages from certain pages
+23. Data: cookies
+    Purpose: recognize your browser
+24. Data: cookies
+    Purpose: store information about your user preferences and other personal information
+25. Data: user preferences
+26. Data: other personal information
+27. Data: information about your actual location
+28. Data: IP address
+    Purpose: determine location
+29. Data: cookies:
+    Purpose: identify your browser or device

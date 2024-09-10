@@ -1,0 +1,17 @@
+T1	First-party-entity 25 27	We
+T2	collection-use 32 39	collect
+E1	collection-use:T2 Data-Provider:T3 Data-Collector:T1 Data-Collected:T4
+T3	User 40 44	your
+T4	Data-general 45 65	personal information
+T5	storage-place 110 123	United States
+T6	storage-place 128 143	other countries
+T7	First-party-entity 176 178	we
+T8	third-party-sharing-disclosure 179 184	share
+E2	third-party-sharing-disclosure:T8 Condition-Argument:T12 Data-Provider:T10 Data-Shared:T9 Data-Sharer:T7
+T9	Data-general 185 196	information
+T10	User 200 216	EU and EEA users
+T12	Condition 240 295	we make sure an adequate transfer mechanism is in place
+T13	data-storage-retention-deletion 92 99	process
+E3	data-storage-retention-deletion:T13 Storage-Place:T5 Storage-Place2:T6 Data-Retained:T4 Data-Holder:T1 Data-Provider:T3
+T14	third-party-sharing-disclosure 72 80	transfer
+E4	third-party-sharing-disclosure:T14 Data-Sharer:T1 Data-Provider:T3 Data-Shared:T4

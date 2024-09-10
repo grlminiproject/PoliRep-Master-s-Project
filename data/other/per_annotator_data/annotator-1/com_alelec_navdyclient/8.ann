@@ -1,0 +1,20 @@
+T1	First-party-entity 10 15	Navdy
+T2	general-safeguard-method 22 41	reasonable measures
+T3	data-security-protection 45 52	protect
+E1	data-security-protection:T3 method:T2 Data-Protector:T1 Data-Protected:T4 Data-Provider:T5 protect-against:T6 protect-against2:T7 protect-against3:T10 protect-against4:T9 protect-against5:T8 Condition-Argument:T16
+T4	Data-general 57 68	information
+T5	User 69 72	you
+T6	security-threat 128 132	loss
+T7	security-threat 134 139	theft
+T8	security-threat 141 157	unauthorized use
+T9	security-threat 159 169	disclosure
+T10	security-threat 174 186	modification
+T11	Data-general 251 262	information
+T12	User 263 266	you
+T14	First-party-entity 197 202	Navdy
+T15	Condition 263 314	you transmit to Navdy or submit through the Service
+T19	data-security-protection 235 243	security
+E3	data-security-protection:T19 Data-Protector:T14 Polarity:T20 Data-Protected:T11 Data-Provider:T12 Condition-Argument:T15 method:T13
+T20	Negation 203 209	cannot
+T13	general-safeguard-method 210 230	guarantee or warrant
+T16	Condition 69 119	you provide to Navdy or submit through the Service

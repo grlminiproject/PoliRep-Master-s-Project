@@ -1,0 +1,40 @@
+T1	First-party-entity 30 32	We
+T3	third-party-sharing-disclosure 40 45	share
+E1	third-party-sharing-disclosure:T3 Data-Sharer:T1 Data-Shared:T4 Data-Receiver:T5 Condition-Argument:T2
+T4	Data-general 46 66	personal information
+T5	Third-party-entity 72 127	companies, organizations and individuals outside of EMI
+T9	First-party-entity 183 185	We
+T10	third-party-sharing-disclosure 191 196	share
+E2	third-party-sharing-disclosure:T10 Condition-Argument:T6 Data-Receiver:T12 Data-Shared:T11 Data-Sharer:T9
+T11	Data-general 197 217	personal information
+T12	Third-party-entity 223 277	companies, organizations or individuals outside of EMI
+T6	Condition 283 328	we have your opt-in or other consent to do so
+T7	First-party-entity 333 335	We
+T8	third-party-sharing-disclosure 341 346	share
+E3	third-party-sharing-disclosure:T8 Purpose-Argument:T19 Purpose-Argument2:T18 Purpose-Argument3:T17 Purpose-Argument4:T16 Data-Receiver:T14 Data-Shared:T13 Data-Sharer:T7
+T13	Data-general 347 367	personal information
+T14	Third-party-entity 373 427	companies, organizations or individuals outside of EMI
+T16	Legal-requirement 555 645	comply with applicable law, regulations, legal process or enforceable governmental request
+T17	Service-operation-and-security 651 733	enforce any of our applicable Terms of Service, including any potential violations
+T18	Service-operation-and-security 740 813	detect, prevent, or otherwise address fraud, security or technical issues
+T19	Service-operation-and-security 822 992	protect against harm to the rights, property or safety of users of our Service or service providers, as well as the general public and EMI as required or permitted by law
+T20	First-party-entity 997 999	We
+T21	third-party-sharing-disclosure 1004 1009	share
+E4	third-party-sharing-disclosure:T21 Purpose-Argument:T24 Data-Receiver:T23 Data-Shared:T22 Data-Sharer:T20 Data-Receiver2:T15
+T22	Data-general 1010 1030	personal information
+T23	Third-party-entity 1038 1043	buyer
+T24	Merge-acquisition 1079 1388	a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of EMI’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by EMI about our Service users is among the assets transferred
+T25	First-party-entity 1393 1395	We
+T26	third-party-sharing-disclosure 1400 1405	share
+E5	third-party-sharing-disclosure:T26 Condition-Argument:T34 Data-Sharer:T25 Data-Provider:T27 Data-Shared:T28 Data-Receiver:T29 Data-Receiver2:T30 Data-Receiver3:T31 Data-Receiver4:T32 Data-Receiver5:T33 Purpose-Argument:T35
+T27	User 1406 1410	your
+T28	Data-aggregated-nonidentifiable 1411 1422	information
+T29	Third-party-entity 1423 1431	publicly
+T30	Third-party-entity 1445 1453	partners
+T31	Third-party-entity 1462 1491	third-party content providers
+T32	Third-party-entity 1493 1504	advertisers
+T33	Third-party-entity 1508 1523	connected sites
+T34	Condition 1529 1655	in a manner which does not reveal your personally-identifiable information and which is aggregated with other user information
+T15	Third-party-entity 1047 1062	other successor
+T2	Condition 136 178	one of the following circumstances applies
+T35	Analytics-research 1659 1852	show usage of EMI and third-party products and services offered on our Service and trends based on such categories as age, gender, geographical origination and other demographic characteristics

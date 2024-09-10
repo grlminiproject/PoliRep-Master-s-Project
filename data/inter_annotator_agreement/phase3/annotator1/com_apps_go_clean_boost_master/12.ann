@@ -1,0 +1,6 @@
+T1	Data-general 117 136	account information
+T2	Identifying 166 180	account avatar
+T3	Identifying 182 190	nickname
+T4	AccountManagement 362 468	directly log into (or by hyperlink) our account via the third party account to use our product and service
+T5	TODO 245 340	binding your account at the third parties with your personal account in our product and service
+#1	AnnotatorNotes T5	Not a purpose imo.

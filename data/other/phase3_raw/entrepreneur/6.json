@@ -1,0 +1,1299 @@
+{
+  "text": "6. Where We Store the Information\n\nThe data that we collect from you may be transferred to, and stored at, a destination outside of your country and the European Economic Area (\" EEA \") including, in particular, the United States. It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers. Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services. By submitting your information, you agree to this transfer, storing or processing.\n\n",
+  "words": [
+    "6",
+    ".",
+    "Where",
+    "We",
+    "Store",
+    "the",
+    "Information",
+    "The",
+    "data",
+    "that",
+    "we",
+    "collect",
+    "from",
+    "you",
+    "may",
+    "be",
+    "transferred",
+    "to",
+    ",",
+    "and",
+    "stored",
+    "at",
+    ",",
+    "a",
+    "destination",
+    "outside",
+    "of",
+    "your",
+    "country",
+    "and",
+    "the",
+    "European",
+    "Economic",
+    "Area",
+    "(",
+    "\"",
+    "EEA",
+    "\"",
+    ")",
+    "including",
+    ",",
+    "in",
+    "particular",
+    ",",
+    "the",
+    "United",
+    "States",
+    ".",
+    "It",
+    "may",
+    "also",
+    "be",
+    "processed",
+    "by",
+    "staff",
+    "operating",
+    "outside",
+    "the",
+    "EEA",
+    "who",
+    "work",
+    "for",
+    "us",
+    "or",
+    "for",
+    "one",
+    "of",
+    "our",
+    "suppliers",
+    ".",
+    "Such",
+    "staff",
+    "may",
+    "be",
+    "engaged",
+    "in",
+    ",",
+    "among",
+    "other",
+    "things",
+    ",",
+    "the",
+    "fulfilment",
+    "of",
+    "your",
+    "order",
+    ",",
+    "the",
+    "processing",
+    "of",
+    "your",
+    "payment",
+    "details",
+    "and",
+    "the",
+    "provision",
+    "of",
+    "support",
+    "services",
+    ".",
+    "By",
+    "submitting",
+    "your",
+    "information",
+    ",",
+    "you",
+    "agree",
+    "to",
+    "this",
+    "transfer",
+    ",",
+    "storing",
+    "or",
+    "processing",
+    "."
+  ],
+  "lemma": [
+    "6",
+    ".",
+    "where",
+    "we",
+    "store",
+    "the",
+    "information",
+    "the",
+    "data",
+    "that",
+    "we",
+    "collect",
+    "from",
+    "you",
+    "may",
+    "be",
+    "transfer",
+    "to",
+    ",",
+    "and",
+    "store",
+    "at",
+    ",",
+    "a",
+    "destination",
+    "outside",
+    "of",
+    "you",
+    "country",
+    "and",
+    "the",
+    "european",
+    "economic",
+    "Area",
+    "(",
+    "\"",
+    "EEA",
+    "\"",
+    ")",
+    "include",
+    ",",
+    "in",
+    "particular",
+    ",",
+    "the",
+    "United",
+    "States",
+    ".",
+    "it",
+    "may",
+    "also",
+    "be",
+    "processe",
+    "by",
+    "staff",
+    "operate",
+    "outside",
+    "the",
+    "EEA",
+    "who",
+    "work",
+    "for",
+    "we",
+    "or",
+    "for",
+    "one",
+    "of",
+    "we",
+    "supplier",
+    ".",
+    "such",
+    "staff",
+    "may",
+    "be",
+    "engage",
+    "in",
+    ",",
+    "among",
+    "other",
+    "thing",
+    ",",
+    "the",
+    "fulfilment",
+    "of",
+    "you",
+    "order",
+    ",",
+    "the",
+    "processing",
+    "of",
+    "you",
+    "payment",
+    "detail",
+    "and",
+    "the",
+    "provision",
+    "of",
+    "support",
+    "service",
+    ".",
+    "by",
+    "submit",
+    "you",
+    "information",
+    ",",
+    "you",
+    "agree",
+    "to",
+    "this",
+    "transfer",
+    ",",
+    "storing",
+    "or",
+    "process",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "WRB",
+    "PRP",
+    "VBD",
+    "DT",
+    "NN",
+    "DT",
+    "NN",
+    "WDT",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP",
+    "MD",
+    "VB",
+    "VBN",
+    "IN",
+    ",",
+    "CC",
+    "VBN",
+    "IN",
+    ",",
+    "DT",
+    "NN",
+    "IN",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "DT",
+    "NNP",
+    "NNP",
+    "NNP",
+    "-LRB-",
+    "``",
+    "NNP",
+    "''",
+    "-RRB-",
+    "VBG",
+    ",",
+    "IN",
+    "JJ",
+    ",",
+    "DT",
+    "NNP",
+    "NNP",
+    ".",
+    "PRP",
+    "MD",
+    "RB",
+    "VB",
+    "VBN",
+    "IN",
+    "NNS",
+    "VBG",
+    "IN",
+    "DT",
+    "NNP",
+    "WP",
+    "VBP",
+    "IN",
+    "PRP",
+    "CC",
+    "IN",
+    "CD",
+    "IN",
+    "PRP$",
+    "NNS",
+    ".",
+    "JJ",
+    "NNS",
+    "MD",
+    "VB",
+    "VBN",
+    "IN",
+    ",",
+    "IN",
+    "JJ",
+    "NNS",
+    ",",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNS",
+    "CC",
+    "DT",
+    "NN",
+    "IN",
+    "NN",
+    "NNS",
+    ".",
+    "IN",
+    "VBG",
+    "PRP$",
+    "NN",
+    ",",
+    "PRP",
+    "VBP",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "advmod",
+    "nsubj",
+    "root",
+    "det",
+    "obj",
+    "det",
+    "nsubj:pass",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "obl",
+    "aux",
+    "aux:pass",
+    "root",
+    "obl",
+    "punct",
+    "cc",
+    "conj",
+    "case",
+    "punct",
+    "det",
+    "obl",
+    "case",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "det",
+    "compound",
+    "compound",
+    "conj",
+    "punct",
+    "punct",
+    "appos",
+    "punct",
+    "punct",
+    "case",
+    "punct",
+    "case",
+    "nmod",
+    "punct",
+    "det",
+    "compound",
+    "appos",
+    "punct",
+    "nsubj:pass",
+    "aux",
+    "advmod",
+    "aux:pass",
+    "root",
+    "case",
+    "obl",
+    "acl",
+    "case",
+    "det",
+    "obl",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "obl",
+    "cc",
+    "case",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "amod",
+    "nsubj:pass",
+    "aux",
+    "aux:pass",
+    "root",
+    "case",
+    "punct",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "det",
+    "appos",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "det",
+    "appos",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "cc",
+    "det",
+    "conj",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "mark",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "nsubj",
+    "root",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      12,
+      17
+    ],
+    [
+      18,
+      21
+    ],
+    [
+      22,
+      33
+    ],
+    [
+      35,
+      38
+    ],
+    [
+      39,
+      43
+    ],
+    [
+      44,
+      48
+    ],
+    [
+      49,
+      51
+    ],
+    [
+      52,
+      59
+    ],
+    [
+      60,
+      64
+    ],
+    [
+      65,
+      68
+    ],
+    [
+      69,
+      72
+    ],
+    [
+      73,
+      75
+    ],
+    [
+      76,
+      87
+    ],
+    [
+      88,
+      90
+    ],
+    [
+      90,
+      91
+    ],
+    [
+      92,
+      95
+    ],
+    [
+      96,
+      102
+    ],
+    [
+      103,
+      105
+    ],
+    [
+      105,
+      106
+    ],
+    [
+      107,
+      108
+    ],
+    [
+      109,
+      120
+    ],
+    [
+      121,
+      128
+    ],
+    [
+      129,
+      131
+    ],
+    [
+      132,
+      136
+    ],
+    [
+      137,
+      144
+    ],
+    [
+      145,
+      148
+    ],
+    [
+      149,
+      152
+    ],
+    [
+      153,
+      161
+    ],
+    [
+      162,
+      170
+    ],
+    [
+      171,
+      175
+    ],
+    [
+      176,
+      177
+    ],
+    [
+      177,
+      178
+    ],
+    [
+      179,
+      182
+    ],
+    [
+      183,
+      184
+    ],
+    [
+      184,
+      185
+    ],
+    [
+      186,
+      195
+    ],
+    [
+      195,
+      196
+    ],
+    [
+      197,
+      199
+    ],
+    [
+      200,
+      210
+    ],
+    [
+      210,
+      211
+    ],
+    [
+      212,
+      215
+    ],
+    [
+      216,
+      222
+    ],
+    [
+      223,
+      229
+    ],
+    [
+      229,
+      230
+    ],
+    [
+      231,
+      233
+    ],
+    [
+      234,
+      237
+    ],
+    [
+      238,
+      242
+    ],
+    [
+      243,
+      245
+    ],
+    [
+      246,
+      255
+    ],
+    [
+      256,
+      258
+    ],
+    [
+      259,
+      264
+    ],
+    [
+      265,
+      274
+    ],
+    [
+      275,
+      282
+    ],
+    [
+      283,
+      286
+    ],
+    [
+      287,
+      290
+    ],
+    [
+      291,
+      294
+    ],
+    [
+      295,
+      299
+    ],
+    [
+      300,
+      303
+    ],
+    [
+      304,
+      306
+    ],
+    [
+      307,
+      309
+    ],
+    [
+      310,
+      313
+    ],
+    [
+      314,
+      317
+    ],
+    [
+      318,
+      320
+    ],
+    [
+      321,
+      324
+    ],
+    [
+      325,
+      334
+    ],
+    [
+      334,
+      335
+    ],
+    [
+      336,
+      340
+    ],
+    [
+      341,
+      346
+    ],
+    [
+      347,
+      350
+    ],
+    [
+      351,
+      353
+    ],
+    [
+      354,
+      361
+    ],
+    [
+      362,
+      364
+    ],
+    [
+      364,
+      365
+    ],
+    [
+      366,
+      371
+    ],
+    [
+      372,
+      377
+    ],
+    [
+      378,
+      384
+    ],
+    [
+      384,
+      385
+    ],
+    [
+      386,
+      389
+    ],
+    [
+      390,
+      400
+    ],
+    [
+      401,
+      403
+    ],
+    [
+      404,
+      408
+    ],
+    [
+      409,
+      414
+    ],
+    [
+      414,
+      415
+    ],
+    [
+      416,
+      419
+    ],
+    [
+      420,
+      430
+    ],
+    [
+      431,
+      433
+    ],
+    [
+      434,
+      438
+    ],
+    [
+      439,
+      446
+    ],
+    [
+      447,
+      454
+    ],
+    [
+      455,
+      458
+    ],
+    [
+      459,
+      462
+    ],
+    [
+      463,
+      472
+    ],
+    [
+      473,
+      475
+    ],
+    [
+      476,
+      483
+    ],
+    [
+      484,
+      492
+    ],
+    [
+      492,
+      493
+    ],
+    [
+      494,
+      496
+    ],
+    [
+      497,
+      507
+    ],
+    [
+      508,
+      512
+    ],
+    [
+      513,
+      524
+    ],
+    [
+      524,
+      525
+    ],
+    [
+      526,
+      529
+    ],
+    [
+      530,
+      535
+    ],
+    [
+      536,
+      538
+    ],
+    [
+      539,
+      543
+    ],
+    [
+      544,
+      552
+    ],
+    [
+      552,
+      553
+    ],
+    [
+      554,
+      561
+    ],
+    [
+      562,
+      564
+    ],
+    [
+      565,
+      575
+    ],
+    [
+      575,
+      576
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      6
+    ],
+    [
+      7,
+      47
+    ],
+    [
+      48,
+      69
+    ],
+    [
+      70,
+      99
+    ],
+    [
+      100,
+      114
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 49,
+      "end_idx": 51,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T2",
+      "start_idx": 39,
+      "end_idx": 43,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T4",
+      "start_idx": 65,
+      "end_idx": 68,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        13
+      ]
+    },
+    {
+      "entity/argument_text": "a destination outside of your country and the European Economic Area (\" EEA \")",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T5",
+      "start_idx": 107,
+      "end_idx": 185,
+      "tokens": [
+        "a",
+        "destination",
+        "outside",
+        "of",
+        "your",
+        "country",
+        "and",
+        "the",
+        "European",
+        "Economic",
+        "Area",
+        "(",
+        "\"",
+        "EEA",
+        "\"",
+        ")"
+      ],
+      "token_idx": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "entity/argument_text": "the United States",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T6",
+      "start_idx": 212,
+      "end_idx": 229,
+      "tokens": [
+        "the",
+        "United",
+        "States"
+      ],
+      "token_idx": [
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "entity/argument_text": "outside the EEA",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T8",
+      "start_idx": 275,
+      "end_idx": 290,
+      "tokens": [
+        "outside",
+        "the",
+        "EEA"
+      ],
+      "token_idx": [
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "entity/argument_text": "It",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T10",
+      "start_idx": 231,
+      "end_idx": 233,
+      "tokens": [
+        "It"
+      ],
+      "token_idx": [
+        48
+      ]
+    },
+    {
+      "entity/argument_text": "the fulfilment of your order",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T11",
+      "start_idx": 386,
+      "end_idx": 414,
+      "tokens": [
+        "the",
+        "fulfilment",
+        "of",
+        "your",
+        "order"
+      ],
+      "token_idx": [
+        81,
+        82,
+        83,
+        84,
+        85
+      ]
+    },
+    {
+      "entity/argument_text": "the processing of your payment details",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T12",
+      "start_idx": 416,
+      "end_idx": 454,
+      "tokens": [
+        "the",
+        "processing",
+        "of",
+        "your",
+        "payment",
+        "details"
+      ],
+      "token_idx": [
+        87,
+        88,
+        89,
+        90,
+        91,
+        92
+      ]
+    },
+    {
+      "entity/argument_text": "the provision of support services",
+      "entity/argument_type": "Communications",
+      "entity/argument_id": "T13",
+      "start_idx": 459,
+      "end_idx": 492,
+      "tokens": [
+        "the",
+        "provision",
+        "of",
+        "support",
+        "services"
+      ],
+      "token_idx": [
+        94,
+        95,
+        96,
+        97,
+        98
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "stored",
+        "start_idx": 96,
+        "end_idx": 102,
+        "tokens": [
+          "stored"
+        ],
+        "token_idx": [
+          20
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "a destination outside of your country and the European Economic Area (\" EEA \")",
+          "start_idx": 107,
+          "end_idx": 185
+        },
+        {
+          "role": "Storage-Place2",
+          "type": "storage-place",
+          "text": "the United States",
+          "start_idx": 212,
+          "end_idx": 229
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 65,
+          "end_idx": 68
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 49,
+          "end_idx": 51
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 39,
+          "end_idx": 43
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "processed",
+        "start_idx": 246,
+        "end_idx": 255,
+        "tokens": [
+          "processed"
+        ],
+        "token_idx": [
+          52
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "outside the EEA",
+          "start_idx": 275,
+          "end_idx": 290
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "It",
+          "start_idx": 231,
+          "end_idx": 233
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "the fulfilment of your order",
+          "start_idx": 386,
+          "end_idx": 414
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Basic-service-feature",
+          "text": "the processing of your payment details",
+          "start_idx": 416,
+          "end_idx": 454
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Communications",
+          "text": "the provision of support services",
+          "start_idx": 459,
+          "end_idx": 492
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "transferred",
+        "start_idx": 76,
+        "end_idx": 87,
+        "tokens": [
+          "transferred"
+        ],
+        "token_idx": [
+          16
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 39,
+          "end_idx": 43
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 49,
+          "end_idx": 51
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 65,
+          "end_idx": 68
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

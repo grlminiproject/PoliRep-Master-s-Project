@@ -1,0 +1,20 @@
+T3	Data-general 89 100	information
+T11	Name 422 441	first and last name
+T12	PhysicalAddress 443 460	your home address
+T13	EmailAddress 462 475	email address
+T14	Data-general 485 507	additional information
+T18	ServiceConsumptionBehavior 597 648	technical information about your use of our Service
+T21	DeviceBased 689 721	information about your device(s)
+T22	Data-other 723 763	driving behavior while using our Service
+T23	Vehicle 765 784	vehicle information
+T24	Vehicle 796 828	on-board diagnostics information
+T25	BrowsingBehavior 830 854	browser type and version
+T26	Location 856 880	geo-location information
+T27	DeviceBased 882 917	computer and connection information
+T28	ServiceConsumptionBehavior 919 943	statistics on page views
+T30	Data-other 978 985	ad data
+T31	IPAddress 987 997	IP address
+T32	Data-general 1003 1031	standard web log information
+T38	Data-general 1312 1323	information
+T40	Data-general 1379 1390	information
+T19	Data-general 388 404	This information

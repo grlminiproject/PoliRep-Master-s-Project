@@ -1,0 +1,11 @@
+T1	Data 227 235	username
+T2	Data 237 250	email address
+T3	Data 255 263	password
+T4	Data 511 515	name
+T5	Data 517 525	location
+T6	Data 527 534	website
+T7	Data 536 571	links to your social media profiles
+T8	Data 577 594	other information
+T9	Data 761 769	messages
+T10	Purpose 935 1018	operate, maintain, and provide to you the features and functionality of the Service
+T11	Purpose 1034 1099	communicate directly with you, such as to send you email messages

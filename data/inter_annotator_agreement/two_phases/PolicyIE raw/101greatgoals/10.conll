@@ -1,0 +1,196 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = THIRD PARTY TRACKING TECHNOLOGIES
+1	THIRD	third	ADP	IN	_	4	case	_	TokenRange=0:5
+2	PARTY	party	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=6:11
+3	TRACKING	tracking	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=12:20
+4	TECHNOLOGIES	technology	PROPN	NNP	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=21:33
+
+# newpar
+# sent_id = 2
+# text = When you visit or access our Services (for example when you visit our websites), we use (and authorize third parties to use) web beacons, cookies, pixels, scripts, tags and other technologies ("Tracking Technologies").
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=35:39
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=40:43
+3	visit	visit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	19	advcl	_	TokenRange=44:49
+4	or	or	CCONJ	CC	_	5	cc	_	TokenRange=50:52
+5	access	access	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=53:59
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=60:63
+7	Services	service	NOUN	NNS	Number=Plur	5	obj	_	TokenRange=64:72
+8	(	(	PUNCT	-LRB-	_	10	punct	_	SpaceAfter=No|TokenRange=73:74
+9	for	for	ADP	IN	_	10	case	_	TokenRange=74:77
+10	example	example	NOUN	NN	Number=Sing	3	obl	_	TokenRange=78:85
+11	when	when	ADV	WRB	PronType=Int	13	mark	_	TokenRange=86:90
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	TokenRange=91:94
+13	visit	visit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	TokenRange=95:100
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=101:104
+15	websites	website	NOUN	NNS	Number=Plur	13	obj	_	SpaceAfter=No|TokenRange=105:113
+16	)	)	PUNCT	-RRB-	_	10	punct	_	SpaceAfter=No|TokenRange=113:114
+17	,	,	PUNCT	,	_	19	punct	_	TokenRange=114:115
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	TokenRange=116:118
+19	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=119:122
+20	(	(	PUNCT	-LRB-	_	19	punct	_	SpaceAfter=No|TokenRange=123:124
+21	and	and	CCONJ	CC	_	22	cc	_	TokenRange=124:127
+22	authorize	authorize	VERB	VB	VerbForm=Inf	19	conj	_	TokenRange=128:137
+23	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	24	amod	_	TokenRange=138:143
+24	parties	party	NOUN	NNS	Number=Plur	22	obj	_	TokenRange=144:151
+25	to	to	PART	TO	_	26	mark	_	TokenRange=152:154
+26	use	use	VERB	VB	VerbForm=Inf	22	xcomp	_	SpaceAfter=No|TokenRange=155:158
+27	)	)	PUNCT	-RRB-	_	19	punct	_	TokenRange=158:159
+28	web	web	NOUN	NN	Number=Sing	29	compound	_	TokenRange=160:163
+29	beacons	beacon	NOUN	NNS	Number=Plur	19	obj	_	SpaceAfter=No|TokenRange=164:171
+30	,	,	PUNCT	,	_	31	punct	_	TokenRange=171:172
+31	cookies	cookie	NOUN	NNS	Number=Plur	29	conj	_	SpaceAfter=No|TokenRange=173:180
+32	,	,	PUNCT	,	_	33	punct	_	TokenRange=180:181
+33	pixels	pixel	NOUN	NNS	Number=Plur	29	conj	_	SpaceAfter=No|TokenRange=182:188
+34	,	,	PUNCT	,	_	35	punct	_	TokenRange=188:189
+35	scripts	script	NOUN	NNS	Number=Plur	29	conj	_	SpaceAfter=No|TokenRange=190:197
+36	,	,	PUNCT	,	_	37	punct	_	TokenRange=197:198
+37	tags	tags	NOUN	NNS	Number=Plur	29	conj	_	TokenRange=199:203
+38	and	and	CCONJ	CC	_	40	cc	_	TokenRange=204:207
+39	other	other	ADJ	JJ	Degree=Pos	40	amod	_	TokenRange=208:213
+40	technologies	technology	NOUN	NNS	Number=Plur	29	conj	_	TokenRange=214:226
+41	(	(	PUNCT	-LRB-	_	19	punct	_	SpaceAfter=No|TokenRange=227:228
+42	"	"	PUNCT	``	_	19	punct	_	SpaceAfter=No|TokenRange=228:229
+43	Tracking	tracking	VERB	VBG	VerbForm=Ger	44	amod	_	TokenRange=229:237
+44	Technologies	Technologies	NOUN	NNS	Number=Plur	19	obj	_	SpaceAfter=No|TokenRange=238:250
+45	"	"	PUNCT	''	_	19	punct	_	SpaceAfter=No|TokenRange=250:251
+46	)	)	PUNCT	-RRB-	_	19	punct	_	SpaceAfter=No|TokenRange=251:252
+47	.	.	PUNCT	.	_	19	punct	_	SpacesAfter=\n|TokenRange=252:253
+
+# sent_id = 3
+# text = The Tracking Technologies allow us to automatically collect information about you and your online behavior, as well as your device (for example your computer or mobile device), for different purposes, such as in order to enhance your navigation on our Services, improve our Services' performance and customize your experience on our Services.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=254:257
+2	Tracking	tracking	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=258:266
+3	Technologies	Technologies	PROPN	NNPS	Number=Plur	4	nsubj	_	TokenRange=267:279
+4	allow	allow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=280:285
+5	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	4	obj	_	TokenRange=286:288
+6	to	to	PART	TO	_	8	mark	_	TokenRange=289:291
+7	automatically	automatically	ADV	RB	_	8	advmod	_	TokenRange=292:305
+8	collect	collect	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=306:313
+9	information	information	NOUN	NN	Number=Sing	8	obj	_	TokenRange=314:325
+10	about	about	ADP	IN	_	11	case	_	TokenRange=326:331
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	nmod	_	TokenRange=332:335
+12	and	and	CCONJ	CC	_	15	cc	_	TokenRange=336:339
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=340:344
+14	online	online	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=345:351
+15	behavior	behavior	NOUN	NN	Number=Sing	21	conj	_	SpaceAfter=No|TokenRange=352:360
+16	,	,	PUNCT	,	_	15	punct	_	TokenRange=360:361
+17	as	as	ADV	RB	_	21	cc	_	TokenRange=362:364
+18	well	well	ADV	RB	Degree=Pos	17	fixed	_	TokenRange=365:369
+19	as	as	ADP	IN	_	17	fixed	_	TokenRange=370:372
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=373:377
+21	device	device	NOUN	NN	Number=Sing	48	obj	_	TokenRange=378:384
+22	(	(	PUNCT	-LRB-	_	21	punct	_	SpaceAfter=No|TokenRange=385:386
+23	for	for	ADP	IN	_	24	case	_	TokenRange=386:389
+24	example	example	NOUN	NN	Number=Sing	26	nmod	_	TokenRange=390:397
+25	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	26	nmod:poss	_	TokenRange=398:402
+26	computer	computer	NOUN	NN	Number=Sing	21	appos	_	TokenRange=403:411
+27	or	or	CCONJ	CC	_	29	cc	_	TokenRange=412:414
+28	mobile	mobile	ADJ	JJ	Degree=Pos	29	amod	_	TokenRange=415:421
+29	device	device	NOUN	NN	Number=Sing	26	conj	_	SpaceAfter=No|TokenRange=422:428
+30	)	)	PUNCT	-RRB-	_	26	punct	_	SpaceAfter=No|TokenRange=428:429
+31	,	,	PUNCT	,	_	21	punct	_	TokenRange=429:430
+32	for	for	ADP	IN	_	34	case	_	TokenRange=431:434
+33	different	different	ADJ	JJ	Degree=Pos	34	amod	_	TokenRange=435:444
+34	purposes	purpose	NOUN	NNS	Number=Plur	21	nmod	_	SpaceAfter=No|TokenRange=445:453
+35	,	,	PUNCT	,	_	21	punct	_	TokenRange=453:454
+36	such	such	ADJ	JJ	Degree=Pos	41	mark	_	TokenRange=455:459
+37	as	as	ADP	IN	_	36	fixed	_	TokenRange=460:462
+38	in	in	ADP	IN	_	41	mark	_	TokenRange=463:465
+39	order	order	NOUN	NN	Number=Sing	38	fixed	_	TokenRange=466:471
+40	to	to	PART	TO	_	41	mark	_	TokenRange=472:474
+41	enhance	enhance	VERB	VB	VerbForm=Inf	21	acl	_	TokenRange=475:482
+42	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	43	nmod:poss	_	TokenRange=483:487
+43	navigation	navigation	NOUN	NN	Number=Sing	41	obj	_	TokenRange=488:498
+44	on	on	ADP	IN	_	46	case	_	TokenRange=499:501
+45	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	46	nmod:poss	_	TokenRange=502:505
+46	Services	service	NOUN	NNS	Number=Plur	43	nmod	_	SpaceAfter=No|TokenRange=506:514
+47	,	,	PUNCT	,	_	21	punct	_	TokenRange=514:515
+48	improve	improve	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=516:523
+49	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	52	nmod:poss	_	TokenRange=524:527
+50	Services	service	NOUN	NNS	Number=Plur	52	nmod:poss	_	SpaceAfter=No|TokenRange=528:536
+51	'	's	PART	POS	_	50	case	_	TokenRange=536:537
+52	performance	performance	NOUN	NN	Number=Sing	48	obj	_	TokenRange=538:549
+53	and	and	CCONJ	CC	_	54	cc	_	TokenRange=550:553
+54	customize	customize	VERB	VB	VerbForm=Inf	48	conj	_	TokenRange=554:563
+55	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	56	nmod:poss	_	TokenRange=564:568
+56	experience	experience	NOUN	NN	Number=Sing	54	obj	_	TokenRange=569:579
+57	on	on	ADP	IN	_	59	case	_	TokenRange=580:582
+58	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	59	nmod:poss	_	TokenRange=583:586
+59	Services	service	NOUN	NNS	Number=Plur	56	nmod	_	SpaceAfter=No|TokenRange=587:595
+60	.	.	PUNCT	.	_	4	punct	_	TokenRange=595:596
+
+# sent_id = 4
+# text = We also use this information to collect statistics about the usage of our Services, perform analytics, deliver content which is tailored to your interests and administer services to our Users, advertisers, publishers, customers and partners.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=597:599
+2	also	also	ADV	RB	_	3	advmod	_	TokenRange=600:604
+3	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=605:608
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	TokenRange=609:613
+5	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=614:625
+6	to	to	PART	TO	_	7	mark	_	TokenRange=626:628
+7	collect	collect	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=629:636
+8	statistics	statistic	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=637:647
+9	about	about	ADP	IN	_	11	case	_	TokenRange=648:653
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=654:657
+11	usage	usage	NOUN	NN	Number=Sing	7	obl	_	TokenRange=658:663
+12	of	of	ADP	IN	_	14	case	_	TokenRange=664:666
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=667:670
+14	Services	service	NOUN	NNS	Number=Plur	11	nmod	_	SpaceAfter=No|TokenRange=671:679
+15	,	,	PUNCT	,	_	16	punct	_	TokenRange=679:680
+16	perform	perform	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=681:688
+17	analytics	analytic	NOUN	NNS	Number=Plur	16	obj	_	SpaceAfter=No|TokenRange=689:698
+18	,	,	PUNCT	,	_	19	punct	_	TokenRange=698:699
+19	deliver	deliver	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=700:707
+20	content	content	NOUN	NN	Number=Sing	19	obj	_	TokenRange=708:715
+21	which	which	PRON	WDT	PronType=Rel	23	nsubj:pass	_	TokenRange=716:721
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	aux:pass	_	TokenRange=722:724
+23	tailored	tailor	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	acl:relcl	_	TokenRange=725:733
+24	to	to	ADP	IN	_	29	case	_	TokenRange=734:736
+25	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	29	nmod:poss	_	TokenRange=737:741
+26	interests	interest	NOUN	NNS	Number=Plur	29	compound	_	TokenRange=742:751
+27	and	and	CCONJ	CC	_	29	cc	_	TokenRange=752:755
+28	administer	administer	NOUN	NN	Number=Sing	29	compound	_	TokenRange=756:766
+29	services	service	NOUN	NNS	Number=Plur	23	obl	_	TokenRange=767:775
+30	to	to	ADP	IN	_	32	case	_	TokenRange=776:778
+31	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	32	nmod:poss	_	TokenRange=779:782
+32	Users	user	NOUN	NNS	Number=Plur	29	nmod	_	SpaceAfter=No|TokenRange=783:788
+33	,	,	PUNCT	,	_	34	punct	_	TokenRange=788:789
+34	advertisers	advertiser	NOUN	NNS	Number=Plur	32	conj	_	SpaceAfter=No|TokenRange=790:801
+35	,	,	PUNCT	,	_	36	punct	_	TokenRange=801:802
+36	publishers	publisher	NOUN	NNS	Number=Plur	32	conj	_	SpaceAfter=No|TokenRange=803:813
+37	,	,	PUNCT	,	_	38	punct	_	TokenRange=813:814
+38	customers	customer	NOUN	NNS	Number=Plur	32	conj	_	TokenRange=815:824
+39	and	and	CCONJ	CC	_	40	cc	_	TokenRange=825:828
+40	partners	partner	NOUN	NNS	Number=Plur	32	conj	_	SpaceAfter=No|TokenRange=829:837
+41	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=837:838
+
+# sent_id = 5
+# text = We also allow third parties to collect information about you through Tracking Technologies.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=839:841
+2	also	also	ADV	RB	_	3	advmod	_	TokenRange=842:846
+3	allow	allow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=847:852
+4	third	third	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=853:858
+5	parties	party	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=859:866
+6	to	to	PART	TO	_	7	mark	_	TokenRange=867:869
+7	collect	collect	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=870:877
+8	information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=878:889
+9	about	about	ADP	IN	_	10	case	_	TokenRange=890:895
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	nmod	_	TokenRange=896:899
+11	through	through	ADP	IN	_	13	case	_	TokenRange=900:907
+12	Tracking	tracking	PROPN	NNP	Number=Sing	13	compound	_	TokenRange=908:916
+13	Technologies	Technologies	PROPN	NNPS	Number=Plur	7	obl	_	SpaceAfter=No|TokenRange=917:929
+14	.	.	PUNCT	.	_	3	punct	_	TokenRange=929:930
+
+# sent_id = 6
+# text = To learn more please visit our Cookie Policy.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=931:933
+2	learn	learn	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=934:939
+3	more	more	ADJ	JJR	Degree=Cmp	2	obj	_	TokenRange=940:944
+4	please	please	INTJ	UH	_	5	discourse	_	TokenRange=945:951
+5	visit	visit	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=952:957
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=958:961
+7	Cookie	Cookie	NOUN	NN	Number=Sing	8	compound	_	TokenRange=962:968
+8	Policy	policy	NOUN	NN	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=969:975
+9	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|TokenRange=975:976
+

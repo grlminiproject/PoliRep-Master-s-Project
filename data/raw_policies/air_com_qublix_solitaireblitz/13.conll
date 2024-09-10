@@ -1,0 +1,58 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = OPTING OUT OF MARKETING
+1	OPTING	Opt	VERB	VBG	VerbForm=Ger	0	root	_	TokenRange=0:6
+2	OUT	out	ADP	IN	_	4	case	_	TokenRange=7:10
+3	OF	of	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=11:13
+4	MARKETING	Marketing	PROPN	NNP	Number=Sing	1	obl	_	SpacesAfter=\n\n|TokenRange=14:23
+
+# newpar
+# sent_id = 2
+# text = You may opt-out of receiving promotional emails from us by following the instructions in those emails.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=25:28
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=29:32
+3	opt	opt	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=33:36
+4	-	-	PUNCT	,	_	3	punct	_	SpaceAfter=No|TokenRange=36:37
+5	out	out	ADP	IN	_	7	mark	_	TokenRange=37:40
+6	of	of	SCONJ	IN	_	7	mark	_	TokenRange=41:43
+7	receiving	receive	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=44:53
+8	promotional	promotional	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=54:65
+9	emails	email	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=66:72
+10	from	from	ADP	IN	_	11	case	_	TokenRange=73:77
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obl	_	TokenRange=78:80
+12	by	by	SCONJ	IN	_	13	mark	_	TokenRange=81:83
+13	following	follow	VERB	VBG	VerbForm=Ger	7	advcl	_	TokenRange=84:93
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=94:97
+15	instructions	instruction	NOUN	NNS	Number=Plur	13	obj	_	TokenRange=98:110
+16	in	in	ADP	IN	_	18	case	_	TokenRange=111:113
+17	those	those	DET	DT	Number=Plur|PronType=Dem	18	det	_	TokenRange=114:119
+18	emails	email	NOUN	NNS	Number=Plur	15	nmod	_	SpaceAfter=No|TokenRange=120:126
+19	.	.	PUNCT	.	_	3	punct	_	TokenRange=126:127
+
+# sent_id = 3
+# text = If you opt-out, we may still send you non-promotional emails, such as emails about our ongoing business relations.
+1	If	if	SCONJ	IN	_	5	mark	_	TokenRange=128:130
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=131:134
+3	opt	opt	ADJ	JJ	Degree=Pos	5	amod	_	SpaceAfter=No|TokenRange=135:138
+4	-	-	PUNCT	HYPH	_	5	punct	_	SpaceAfter=No|TokenRange=138:139
+5	out	out	NOUN	NN	Number=Sing	10	advcl	_	SpaceAfter=No|TokenRange=139:142
+6	,	,	PUNCT	,	_	10	punct	_	TokenRange=142:143
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	TokenRange=144:146
+8	may	may	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=147:150
+9	still	still	ADV	RB	_	10	advmod	_	TokenRange=151:156
+10	send	send	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=157:161
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	iobj	_	TokenRange=162:165
+12	non-promotional	non-promotional	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=166:181
+13	emails	email	NOUN	NNS	Number=Plur	10	obj	_	SpaceAfter=No|TokenRange=182:188
+14	,	,	PUNCT	,	_	13	punct	_	TokenRange=188:189
+15	such	such	ADJ	JJ	Degree=Pos	17	case	_	TokenRange=190:194
+16	as	as	ADP	IN	_	15	fixed	_	TokenRange=195:197
+17	emails	email	NOUN	NNS	Number=Plur	13	nmod	_	TokenRange=198:204
+18	about	about	ADP	IN	_	22	case	_	TokenRange=205:210
+19	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=211:214
+20	ongoing	ongoing	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=215:222
+21	business	business	NOUN	NN	Number=Sing	22	compound	_	TokenRange=223:231
+22	relations	relation	NOUN	NNS	Number=Plur	17	nmod	_	SpaceAfter=No|TokenRange=232:241
+23	.	.	PUNCT	.	_	10	punct	_	SpacesAfter=\n\n|TokenRange=241:242
+

@@ -1,0 +1,31 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (1) Device information
+1	(	(	PUNCT	-LRB-	_	2	punct	_	SpaceAfter=No|TokenRange=0:1
+2	1	1	X	LS	_	5	nummod	_	SpaceAfter=No|TokenRange=1:2
+3	)	)	PUNCT	-RRB-	_	2	punct	_	TokenRange=2:3
+4	Device	device	NOUN	NN	Number=Sing	5	compound	_	TokenRange=4:10
+5	information	information	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=11:22
+
+# newpar
+# sent_id = 2
+# text = We collect device-specific information (such as your hardware model, operating system version etc).
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=24:26
+2	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=27:34
+3	device-specific	device-specific	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=35:50
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=51:62
+5	(	(	PUNCT	-LRB-	_	4	punct	_	SpaceAfter=No|TokenRange=63:64
+6	such	such	ADJ	JJ	Degree=Pos	10	case	_	TokenRange=64:68
+7	as	as	ADP	IN	_	6	fixed	_	TokenRange=69:71
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=72:76
+9	hardware	hardware	NOUN	NN	Number=Sing	10	compound	_	TokenRange=77:85
+10	model	model	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No|TokenRange=86:91
+11	,	,	PUNCT	,	_	10	punct	_	TokenRange=91:92
+12	operating	operating	VERB	VBG	VerbForm=Ger	14	amod	_	TokenRange=93:102
+13	system	system	NOUN	NN	Number=Sing	14	compound	_	TokenRange=103:109
+14	version	version	NOUN	NN	Number=Sing	10	conj	_	TokenRange=110:117
+15	etc	etc	X	FW	_	10	advmod	_	SpaceAfter=No|TokenRange=118:121
+16	)	)	PUNCT	-RRB-	_	2	punct	_	SpaceAfter=No|TokenRange=121:122
+17	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=122:123
+

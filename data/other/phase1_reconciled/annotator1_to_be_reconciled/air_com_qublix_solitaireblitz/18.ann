@@ -1,0 +1,6 @@
+T1	data-security-protection 156 162	notify
+E1	data-security-protection:T1 Condition-Argument:T3 Data-Protector:T2 Data-Provider:T4
+T3	Condition 116 147	If we make any material changes
+T2	First-party-entity 148 150	we
+T4	User 163 166	you
+T5	TODO 201 239	prior to the change becoming effective

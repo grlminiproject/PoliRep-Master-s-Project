@@ -1,0 +1,4 @@
+(1) Device information
+
+We collect device-specific information (such as your hardware model, operating system version etc).
+

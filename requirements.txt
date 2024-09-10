@@ -1,0 +1,6 @@
+anthropic==0.34.2
+bratiaa==0.1.4
+matplotlib==3.9.2
+networkx==3.3
+openai==1.44.1
+python-dotenv==1.0.1

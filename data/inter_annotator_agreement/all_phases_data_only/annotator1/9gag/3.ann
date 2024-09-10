@@ -1,0 +1,15 @@
+T5	Data-general 95 106	information
+T7	Data-general 242 269	important details about you
+T8	Username 289 297	username
+T9	Password 312 320	password
+T10	EmailAddress 325 339	e-mail address
+T11	BirthDate 350 363	date of birth
+T20	Data-general 452 463	information
+T21	Picture 525 540	profile picture
+T22	Name 544 548	name
+T23	Data-general 559 583	identifiable information
+T25	PaymentCardNumber 674 706	debit card or credit card number
+T26	FinancialAccount 726 745	account information
+T31	Data-general 771 782	information
+T33	SocialMediaCommunication 822 846	post and comment uploads
+T35	Data-general 1134 1145	information

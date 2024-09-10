@@ -1,0 +1,4 @@
+5. Additional Technical Information
+
+We use third-party analytics Service Providers (as more fully described below, and including Google Analytics and amplitude.com) to automatically log information about you and your computer or mobile device, and how you interact with the Service. For example, when you access the Service, we may log‎ your operating system type,‎ browser type and‎ language,‎ the pages you viewed,‎ how long you spent on a page,‎ access times,‎ Internet protocol (IP) address, your mobile device ID, mobile device serial number, unique user ID, wireless carrier, and information about your use of and actions on the Service. Marco Polo collects this additional technical data to analyze usage trends and give us more information about how people use the Service to better the user experience.
+

@@ -1,0 +1,8 @@
+T3	Data-general 70 90	personal information
+T7	Data-general 484 504	personal information
+T18	Data-general 269 280	information
+T21	Name 318 322	name
+T22	PhysicalAddress 324 331	address
+T23	TelephoneNumber 333 349	telephone number
+T24	EmailAddress 354 367	email address
+T28	Data-general 412 432	personal information

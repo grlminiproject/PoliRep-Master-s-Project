@@ -1,0 +1,18 @@
+T1	first-party-collection-use 113 116	use
+E1	first-party-collection-use:T1 Data-Provider:T5 Data-Provider2:T4 Data-Collected:T6 Purpose-Argument:T7 Purpose-Argument2:T8 Data-Collected2:T9 Data-Collected3:T10 Purpose-Argument3:T11 Purpose-Argument4:T12 Purpose-Argument5:T13 Data-Collector:T2 Data-Provider3:T3 Data-Collected4:T14 Data-Collected5:T15 Data-Collected6:T16 Data-Provider4:T17
+T2	First-party-entity 23 25	We
+T3	Third-party-entity 34 68	marketing and outsourcing partners
+T4	Third-party-entity 70 80	affiliates
+T5	Third-party-entity 85 112	analytics service providers
+T6	Data-cookies-web-beacons-and-other-technologies 138 145	cookies
+T7	Basic-service-feature 177 210	identify a user’s computer/device
+T8	Basic-service-feature 218 252	store information about your visit
+T9	Data-general 310 330	personal information
+T10	Data-user-online-activities-profiles 345 352	user ID
+T11	Analytics-research 375 411	improving the quality of our Service
+T12	Personalization-customization 413 456	tailoring recommendations to your interests
+T13	Basic-service-feature 462 494	making the Service easier to use
+T14	Data-cookies-web-beacons-and-other-technologies 147 154	beacons
+T15	Data-cookies-web-beacons-and-other-technologies 156 163	scripts
+T16	Data-cookies-web-beacons-and-other-technologies 169 173	tags
+T17	User 188 194	user’s

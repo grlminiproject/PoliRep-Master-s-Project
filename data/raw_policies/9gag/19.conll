@@ -1,0 +1,117 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Children
+1	Children	Children	PROPN	NNP	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:8
+
+# newpar
+# sent_id = 2
+# text = Our services are not intended for anyone under 13.
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=10:13
+2	services	service	NOUN	NNS	Number=Plur	5	nsubj:pass	_	TokenRange=14:22
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	TokenRange=23:26
+4	not	not	PART	RB	_	5	advmod	_	TokenRange=27:30
+5	intended	intend	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=31:39
+6	for	for	ADP	IN	_	7	case	_	TokenRange=40:43
+7	anyone	anyone	PRON	NN	Number=Sing	5	obl	_	TokenRange=44:50
+8	under	under	ADP	IN	_	9	case	_	TokenRange=51:56
+9	13	13	NUM	CD	NumType=Card	7	nmod	_	SpaceAfter=No|TokenRange=57:59
+10	.	.	PUNCT	.	_	5	punct	_	TokenRange=59:60
+
+# sent_id = 3
+# text = We don’t direct our services to anyone under 13.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=61:63
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No|TokenRange=64:66
+3	n’t	not	PART	RB	_	4	advmod	_	TokenRange=66:69
+4	direct	direct	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=70:76
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=77:80
+6	services	service	NOUN	NNS	Number=Plur	4	obj	_	TokenRange=81:89
+7	to	to	ADP	IN	_	8	case	_	TokenRange=90:92
+8	anyone	anyone	PRON	NN	Number=Sing	4	obl	_	TokenRange=93:99
+9	under	under	ADP	IN	_	10	case	_	TokenRange=100:105
+10	13	13	NUM	CD	NumType=Card	4	obl	_	SpaceAfter=No|TokenRange=106:108
+11	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=108:109
+
+# sent_id = 4
+# text = We do not knowingly collect personal information from anyone under 13.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=110:112
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=113:115
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=116:119
+4	knowingly	knowingly	ADV	RB	_	5	advmod	_	TokenRange=120:129
+5	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=130:137
+6	personal	personal	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=138:146
+7	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=147:158
+8	from	from	ADP	IN	_	9	case	_	TokenRange=159:163
+9	anyone	anyone	PRON	NN	Number=Sing	5	obl	_	TokenRange=164:170
+10	under	under	ADP	IN	_	11	case	_	TokenRange=171:176
+11	13	13	NUM	CD	NumType=Card	5	obl	_	SpaceAfter=No|TokenRange=177:179
+12	.	.	PUNCT	.	_	5	punct	_	TokenRange=179:180
+
+# sent_id = 5
+# text = We may limit how we collect, use and store some of the information of EUor EEA users between ages 13 and 16.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=181:183
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=184:187
+3	limit	limit	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=188:193
+4	how	how	ADV	WRB	PronType=Int	6	advmod	_	TokenRange=194:197
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=198:200
+6	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	ccomp	_	SpaceAfter=No|TokenRange=201:208
+7	,	,	PUNCT	,	_	8	punct	_	TokenRange=208:209
+8	use	use	VERB	VB	VerbForm=Inf	6	conj	_	TokenRange=210:213
+9	and	and	CCONJ	CC	_	10	cc	_	TokenRange=214:217
+10	store	store	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=218:223
+11	some	some	DET	DT	_	10	obj	_	TokenRange=224:228
+12	of	of	ADP	IN	_	14	case	_	TokenRange=229:231
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=232:235
+14	information	information	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=236:247
+15	of	of	ADP	IN	_	18	case	_	TokenRange=248:250
+16	EUor	EUor	PROPN	NNP	Number=Sing	18	compound	_	TokenRange=251:255
+17	EEA	EEA	PROPN	NNP	Number=Sing	18	compound	_	TokenRange=256:259
+18	users	user	NOUN	NNS	Number=Plur	14	nmod	_	TokenRange=260:265
+19	between	between	ADP	IN	_	20	case	_	TokenRange=266:273
+20	ages	age	NOUN	NNS	Number=Plur	18	nmod	_	TokenRange=274:278
+21	13	13	NUM	CD	NumType=Card	20	nummod	_	TokenRange=279:281
+22	and	and	CCONJ	CC	_	23	cc	_	TokenRange=282:285
+23	16	16	NUM	CD	NumType=Card	20	conj	_	SpaceAfter=No|TokenRange=286:288
+24	.	.	PUNCT	.	_	3	punct	_	TokenRange=288:289
+
+# sent_id = 6
+# text = If we need to rely on consent as a legal bases for processing your information and your country requires consent from a parent, we may require your parent’s consent before we collect and use that information
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=290:292
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=293:295
+3	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	advcl	_	TokenRange=296:300
+4	to	to	PART	TO	_	5	mark	_	TokenRange=301:303
+5	rely	rely	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=304:308
+6	on	on	ADP	IN	_	7	case	_	TokenRange=309:311
+7	consent	consent	NOUN	NN	Number=Sing	5	obl	_	TokenRange=312:319
+8	as	as	ADP	IN	_	11	case	_	TokenRange=320:322
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	TokenRange=323:324
+10	legal	legal	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=325:330
+11	bases	basis	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=331:336
+12	for	for	SCONJ	IN	_	13	mark	_	TokenRange=337:340
+13	processing	process	VERB	VBG	VerbForm=Ger	3	acl	_	TokenRange=341:351
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=352:356
+15	information	information	NOUN	NN	Number=Sing	13	obj	_	TokenRange=357:368
+16	and	and	CCONJ	CC	_	19	cc	_	TokenRange=369:372
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=373:377
+18	country	country	NOUN	NN	Number=Sing	19	nsubj	_	TokenRange=378:385
+19	requires	require	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=386:394
+20	consent	consent	ADJ	JJ	Degree=Pos	19	xcomp	_	TokenRange=395:402
+21	from	from	ADP	IN	_	23	case	_	TokenRange=403:407
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	TokenRange=408:409
+23	parent	parent	NOUN	NN	Number=Sing	20	obl	_	SpaceAfter=No|TokenRange=410:416
+24	,	,	PUNCT	,	_	27	punct	_	TokenRange=416:417
+25	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	TokenRange=418:420
+26	may	may	AUX	MD	VerbForm=Fin	27	aux	_	TokenRange=421:424
+27	require	require	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=425:432
+28	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	31	nmod:poss	_	TokenRange=433:437
+29	parent	parent	NOUN	NN	Number=Sing	31	nmod:poss	_	SpaceAfter=No|TokenRange=438:444
+30	’s	's	PART	POS	_	29	case	_	TokenRange=444:446
+31	consent	consent	NOUN	NN	Number=Sing	27	obj	_	TokenRange=447:454
+32	before	before	SCONJ	IN	_	34	mark	_	TokenRange=455:461
+33	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	34	nsubj	_	TokenRange=462:464
+34	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	advcl	_	TokenRange=465:472
+35	and	and	CCONJ	CC	_	36	cc	_	TokenRange=473:476
+36	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	34	conj	_	TokenRange=477:480
+37	that	that	DET	DT	Number=Sing|PronType=Dem	38	det	_	TokenRange=481:485
+38	information	information	NOUN	NN	Number=Sing	34	obj	_	SpacesAfter=\n\n|TokenRange=486:497
+

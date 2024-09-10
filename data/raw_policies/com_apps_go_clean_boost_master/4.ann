@@ -1,0 +1,18 @@
+T1	First-party-entity 82 84	We
+T2	first-party-collection-use 85 92	collect
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Purpose-Argument:T6 Purpose-Argument2:T4 Purpose-Argument3:T5
+T3	Data-user-online-activities-profiles 93 169	information about the product and services that you use and how you use them
+T4	Basic-service-feature 182 256	properly provide the core or important features of our product and service
+T5	Analytics-research 264 295	improve our product and service
+T6	Basic-service-feature 303 422	provide additional features to our product (such as socializing functions or value-added services and promotions, etc.)
+T7	first-party-collection-use 460 467	collect
+E2	first-party-collection-use:T7 Data-Collected2:T9 Data-Collector:T8 Purpose-Argument:T16 Purpose-Argument2:T15 Purpose-Argument3:T13 Purpose-Argument4:T12 Purpose-Argument5:T11 Purpose-Argument6:T10 Purpose-Argument7:T14
+T8	First-party-entity 457 459	we
+T9	Data-general 468 481	personal data
+T10	Basic-service-feature 622 702	Provide our product and services, including our app and related website (if any)
+T11	Analytics-research 708 730	improve them over time
+T12	Basic-service-feature 732 788	Allow you to download and purchase products and services
+T13	Personalization-customization 790 951	Personalize and manage our relationship with you, including introducing you to products or services that may be of interest to you or to provide customer support
+T14	Communications 953 1008	Investigate, respond to, and manage inquiries or events
+T15	Legal-requirement 1010 1065	Work with and respond to law enforcement and regulators
+T16	Analytics-research 1071 1226	Research matters relating to our prod and business, such as security threats and vulnerabilities, or conducting internal audit, data analysis, and research

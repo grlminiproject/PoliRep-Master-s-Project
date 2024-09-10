@@ -1,0 +1,947 @@
+{
+  "text": "International Transfers\n\nWe may collect your personal information from, transfer it to, and process it in the United States and other countries outside of where you live. When we share information of EU and EEA users outside the EU or EEA, we make sure an adequate transfer mechanism is in place. For internal transfers, we rely on the EU-U.S. and Swiss-U.S. Privacy Shield.\n\n",
+  "words": [
+    "International",
+    "Transfers",
+    "We",
+    "may",
+    "collect",
+    "your",
+    "personal",
+    "information",
+    "from",
+    ",",
+    "transfer",
+    "it",
+    "to",
+    ",",
+    "and",
+    "process",
+    "it",
+    "in",
+    "the",
+    "United",
+    "States",
+    "and",
+    "other",
+    "countries",
+    "outside",
+    "of",
+    "where",
+    "you",
+    "live",
+    ".",
+    "When",
+    "we",
+    "share",
+    "information",
+    "of",
+    "EU",
+    "and",
+    "EEA",
+    "users",
+    "outside",
+    "the",
+    "EU",
+    "or",
+    "EEA",
+    ",",
+    "we",
+    "make",
+    "sure",
+    "an",
+    "adequate",
+    "transfer",
+    "mechanism",
+    "is",
+    "in",
+    "place",
+    ".",
+    "For",
+    "internal",
+    "transfers",
+    ",",
+    "we",
+    "rely",
+    "on",
+    "the",
+    "EU",
+    "-",
+    "U.S.",
+    "and",
+    "Swiss",
+    "-",
+    "U.S.",
+    "Privacy",
+    "Shield",
+    "."
+  ],
+  "lemma": [
+    "International",
+    "transfers",
+    "we",
+    "may",
+    "collect",
+    "you",
+    "personal",
+    "information",
+    "from",
+    ",",
+    "transfer",
+    "it",
+    "to",
+    ",",
+    "and",
+    "process",
+    "it",
+    "in",
+    "the",
+    "United",
+    "States",
+    "and",
+    "other",
+    "country",
+    "outside",
+    "of",
+    "where",
+    "you",
+    "live",
+    ".",
+    "when",
+    "we",
+    "share",
+    "information",
+    "of",
+    "EU",
+    "and",
+    "EEA",
+    "user",
+    "outside",
+    "the",
+    "EU",
+    "or",
+    "EEA",
+    ",",
+    "we",
+    "make",
+    "sure",
+    "a",
+    "adequate",
+    "transfer",
+    "mechanism",
+    "be",
+    "in",
+    "place",
+    ".",
+    "for",
+    "internal",
+    "transfer",
+    ",",
+    "we",
+    "rely",
+    "on",
+    "the",
+    "EU",
+    "-",
+    "U.S.",
+    "and",
+    "Swiss",
+    "-",
+    "U.S.",
+    "privacy",
+    "Shield",
+    "."
+  ],
+  "pos-tags": [
+    "NNP",
+    "NNPS",
+    "PRP",
+    "MD",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "IN",
+    ",",
+    "VB",
+    "PRP",
+    "IN",
+    ",",
+    "CC",
+    "VBP",
+    "PRP",
+    "IN",
+    "DT",
+    "NNP",
+    "NNP",
+    "CC",
+    "JJ",
+    "NNS",
+    "IN",
+    "IN",
+    "WRB",
+    "PRP",
+    "VBP",
+    ".",
+    "WRB",
+    "PRP",
+    "VBP",
+    "NN",
+    "IN",
+    "NNP",
+    "CC",
+    "NNP",
+    "NNS",
+    "IN",
+    "DT",
+    "NNP",
+    "CC",
+    "NNP",
+    ",",
+    "PRP",
+    "VBP",
+    "JJ",
+    "DT",
+    "JJ",
+    "NN",
+    "NN",
+    "VBZ",
+    "IN",
+    "NN",
+    ".",
+    "IN",
+    "JJ",
+    "NNS",
+    ",",
+    "PRP",
+    "RB",
+    "IN",
+    "DT",
+    "NNP",
+    "HYPH",
+    "NNP",
+    "CC",
+    "NNP",
+    "HYPH",
+    "NNP",
+    "NNP",
+    "NNP",
+    "."
+  ],
+  "dependency-relation": [
+    "compound",
+    "root",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "punct",
+    "conj",
+    "obj",
+    "obl",
+    "punct",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "det",
+    "compound",
+    "obl",
+    "cc",
+    "amod",
+    "conj",
+    "mark",
+    "mark",
+    "advmod",
+    "nsubj",
+    "advcl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "obj",
+    "case",
+    "compound",
+    "cc",
+    "conj",
+    "nmod",
+    "case",
+    "det",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "nsubj",
+    "root",
+    "xcomp",
+    "det",
+    "amod",
+    "compound",
+    "nsubj",
+    "cop",
+    "case",
+    "ccomp",
+    "punct",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "nsubj",
+    "advmod",
+    "case",
+    "det",
+    "compound",
+    "punct",
+    "compound",
+    "cc",
+    "conj",
+    "punct",
+    "compound",
+    "compound",
+    "root",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      13
+    ],
+    [
+      14,
+      23
+    ],
+    [
+      25,
+      27
+    ],
+    [
+      28,
+      31
+    ],
+    [
+      32,
+      39
+    ],
+    [
+      40,
+      44
+    ],
+    [
+      45,
+      53
+    ],
+    [
+      54,
+      65
+    ],
+    [
+      66,
+      70
+    ],
+    [
+      70,
+      71
+    ],
+    [
+      72,
+      80
+    ],
+    [
+      81,
+      83
+    ],
+    [
+      84,
+      86
+    ],
+    [
+      86,
+      87
+    ],
+    [
+      88,
+      91
+    ],
+    [
+      92,
+      99
+    ],
+    [
+      100,
+      102
+    ],
+    [
+      103,
+      105
+    ],
+    [
+      106,
+      109
+    ],
+    [
+      110,
+      116
+    ],
+    [
+      117,
+      123
+    ],
+    [
+      124,
+      127
+    ],
+    [
+      128,
+      133
+    ],
+    [
+      134,
+      143
+    ],
+    [
+      144,
+      151
+    ],
+    [
+      152,
+      154
+    ],
+    [
+      155,
+      160
+    ],
+    [
+      161,
+      164
+    ],
+    [
+      165,
+      169
+    ],
+    [
+      169,
+      170
+    ],
+    [
+      171,
+      175
+    ],
+    [
+      176,
+      178
+    ],
+    [
+      179,
+      184
+    ],
+    [
+      185,
+      196
+    ],
+    [
+      197,
+      199
+    ],
+    [
+      200,
+      202
+    ],
+    [
+      203,
+      206
+    ],
+    [
+      207,
+      210
+    ],
+    [
+      211,
+      216
+    ],
+    [
+      217,
+      224
+    ],
+    [
+      225,
+      228
+    ],
+    [
+      229,
+      231
+    ],
+    [
+      232,
+      234
+    ],
+    [
+      235,
+      238
+    ],
+    [
+      238,
+      239
+    ],
+    [
+      240,
+      242
+    ],
+    [
+      243,
+      247
+    ],
+    [
+      248,
+      252
+    ],
+    [
+      253,
+      255
+    ],
+    [
+      256,
+      264
+    ],
+    [
+      265,
+      273
+    ],
+    [
+      274,
+      283
+    ],
+    [
+      284,
+      286
+    ],
+    [
+      287,
+      289
+    ],
+    [
+      290,
+      295
+    ],
+    [
+      295,
+      296
+    ],
+    [
+      297,
+      300
+    ],
+    [
+      301,
+      309
+    ],
+    [
+      310,
+      319
+    ],
+    [
+      319,
+      320
+    ],
+    [
+      321,
+      323
+    ],
+    [
+      324,
+      328
+    ],
+    [
+      329,
+      331
+    ],
+    [
+      332,
+      335
+    ],
+    [
+      336,
+      338
+    ],
+    [
+      338,
+      339
+    ],
+    [
+      339,
+      343
+    ],
+    [
+      344,
+      347
+    ],
+    [
+      348,
+      353
+    ],
+    [
+      353,
+      354
+    ],
+    [
+      354,
+      358
+    ],
+    [
+      359,
+      366
+    ],
+    [
+      367,
+      373
+    ],
+    [
+      373,
+      374
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      29
+    ],
+    [
+      30,
+      55
+    ],
+    [
+      56,
+      73
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 25,
+      "end_idx": 27,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        2
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T3",
+      "start_idx": 40,
+      "end_idx": 44,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T4",
+      "start_idx": 45,
+      "end_idx": 65,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        6,
+        7
+      ]
+    },
+    {
+      "entity/argument_text": "United States",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T5",
+      "start_idx": 110,
+      "end_idx": 123,
+      "tokens": [
+        "United",
+        "States"
+      ],
+      "token_idx": [
+        19,
+        20
+      ]
+    },
+    {
+      "entity/argument_text": "other countries",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T6",
+      "start_idx": 128,
+      "end_idx": 143,
+      "tokens": [
+        "other",
+        "countries"
+      ],
+      "token_idx": [
+        22,
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 176,
+      "end_idx": 178,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        31
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T9",
+      "start_idx": 185,
+      "end_idx": 196,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        33
+      ]
+    },
+    {
+      "entity/argument_text": "EU and EEA users",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T10",
+      "start_idx": 200,
+      "end_idx": 216,
+      "tokens": [
+        "EU",
+        "and",
+        "EEA",
+        "users"
+      ],
+      "token_idx": [
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "entity/argument_text": "we make sure an adequate transfer mechanism is in place",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T12",
+      "start_idx": 240,
+      "end_idx": 295,
+      "tokens": [
+        "we",
+        "make",
+        "sure",
+        "an",
+        "adequate",
+        "transfer",
+        "mechanism",
+        "is",
+        "in",
+        "place"
+      ],
+      "token_idx": [
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52,
+        53,
+        54
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 32,
+        "end_idx": 39,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          4
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 40,
+          "end_idx": 44
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 25,
+          "end_idx": 27
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 45,
+          "end_idx": 65
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 179,
+        "end_idx": 184,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          32
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "we make sure an adequate transfer mechanism is in place",
+          "start_idx": 240,
+          "end_idx": 295
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "EU and EEA users",
+          "start_idx": 200,
+          "end_idx": 216
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 185,
+          "end_idx": 196
+        },
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 176,
+          "end_idx": 178
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "process",
+        "start_idx": 92,
+        "end_idx": 99,
+        "tokens": [
+          "process"
+        ],
+        "token_idx": [
+          15
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "United States",
+          "start_idx": 110,
+          "end_idx": 123
+        },
+        {
+          "role": "Storage-Place2",
+          "type": "storage-place",
+          "text": "other countries",
+          "start_idx": 128,
+          "end_idx": 143
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 45,
+          "end_idx": 65
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 25,
+          "end_idx": 27
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 40,
+          "end_idx": 44
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "transfer",
+        "start_idx": 72,
+        "end_idx": 80,
+        "tokens": [
+          "transfer"
+        ],
+        "token_idx": [
+          10
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 25,
+          "end_idx": 27
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 40,
+          "end_idx": 44
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 45,
+          "end_idx": 65
+        }
+      ],
+      "event_id": "E4"
+    }
+  ]
+}

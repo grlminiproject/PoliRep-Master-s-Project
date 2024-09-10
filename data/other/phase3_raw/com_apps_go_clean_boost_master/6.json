@@ -1,0 +1,701 @@
+{
+  "text": "(2) Log information\n\nWhen you use our product and service or view the content provided by us, we automatically collect and store certain information in server logs. This includes: Details of how you used our service, such as your scanning number of junk files.\n\n",
+  "words": [
+    "(",
+    "2",
+    ")",
+    "Log",
+    "information",
+    "When",
+    "you",
+    "use",
+    "our",
+    "product",
+    "and",
+    "service",
+    "or",
+    "view",
+    "the",
+    "content",
+    "provided",
+    "by",
+    "us",
+    ",",
+    "we",
+    "automatically",
+    "collect",
+    "and",
+    "store",
+    "certain",
+    "information",
+    "in",
+    "server",
+    "logs",
+    ".",
+    "This",
+    "includes",
+    ":",
+    "Details",
+    "of",
+    "how",
+    "you",
+    "used",
+    "our",
+    "service",
+    ",",
+    "such",
+    "as",
+    "your",
+    "scanning",
+    "number",
+    "of",
+    "junk",
+    "files",
+    "."
+  ],
+  "lemma": [
+    "(",
+    "2",
+    ")",
+    "log",
+    "information",
+    "when",
+    "you",
+    "use",
+    "we",
+    "product",
+    "and",
+    "service",
+    "or",
+    "view",
+    "the",
+    "content",
+    "provide",
+    "by",
+    "we",
+    ",",
+    "we",
+    "automatically",
+    "collect",
+    "and",
+    "store",
+    "certain",
+    "information",
+    "in",
+    "server",
+    "logs",
+    ".",
+    "this",
+    "include",
+    ":",
+    "detail",
+    "of",
+    "how",
+    "you",
+    "use",
+    "we",
+    "service",
+    ",",
+    "such",
+    "as",
+    "you",
+    "scanning",
+    "number",
+    "of",
+    "junk",
+    "file",
+    "."
+  ],
+  "pos-tags": [
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "JJ",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    "CC",
+    "VB",
+    "DT",
+    "NN",
+    "VBN",
+    "IN",
+    "PRP",
+    ",",
+    "PRP",
+    "RB",
+    "NN",
+    "CC",
+    "NN",
+    "JJ",
+    "NN",
+    "IN",
+    "NN",
+    "NNS",
+    ".",
+    "DT",
+    "VBZ",
+    ":",
+    "NNS",
+    "IN",
+    "WRB",
+    "PRP",
+    "VBD",
+    "PRP$",
+    "NN",
+    ",",
+    "JJ",
+    "IN",
+    "PRP$",
+    "NN",
+    "NN",
+    "IN",
+    "NN",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "punct",
+    "nummod",
+    "punct",
+    "amod",
+    "root",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "conj",
+    "cc",
+    "conj",
+    "det",
+    "obj",
+    "acl",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "advmod",
+    "compound",
+    "cc",
+    "conj",
+    "amod",
+    "root",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "nsubj",
+    "root",
+    "punct",
+    "obj",
+    "mark",
+    "advmod",
+    "nsubj",
+    "acl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "case",
+    "fixed",
+    "nmod:poss",
+    "compound",
+    "obl",
+    "case",
+    "compound",
+    "nmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      8,
+      19
+    ],
+    [
+      21,
+      25
+    ],
+    [
+      26,
+      29
+    ],
+    [
+      30,
+      33
+    ],
+    [
+      34,
+      37
+    ],
+    [
+      38,
+      45
+    ],
+    [
+      46,
+      49
+    ],
+    [
+      50,
+      57
+    ],
+    [
+      58,
+      60
+    ],
+    [
+      61,
+      65
+    ],
+    [
+      66,
+      69
+    ],
+    [
+      70,
+      77
+    ],
+    [
+      78,
+      86
+    ],
+    [
+      87,
+      89
+    ],
+    [
+      90,
+      92
+    ],
+    [
+      92,
+      93
+    ],
+    [
+      94,
+      96
+    ],
+    [
+      97,
+      110
+    ],
+    [
+      111,
+      118
+    ],
+    [
+      119,
+      122
+    ],
+    [
+      123,
+      128
+    ],
+    [
+      129,
+      136
+    ],
+    [
+      137,
+      148
+    ],
+    [
+      149,
+      151
+    ],
+    [
+      152,
+      158
+    ],
+    [
+      159,
+      163
+    ],
+    [
+      163,
+      164
+    ],
+    [
+      165,
+      169
+    ],
+    [
+      170,
+      178
+    ],
+    [
+      178,
+      179
+    ],
+    [
+      180,
+      187
+    ],
+    [
+      188,
+      190
+    ],
+    [
+      191,
+      194
+    ],
+    [
+      195,
+      198
+    ],
+    [
+      199,
+      203
+    ],
+    [
+      204,
+      207
+    ],
+    [
+      208,
+      215
+    ],
+    [
+      215,
+      216
+    ],
+    [
+      217,
+      221
+    ],
+    [
+      222,
+      224
+    ],
+    [
+      225,
+      229
+    ],
+    [
+      230,
+      238
+    ],
+    [
+      239,
+      245
+    ],
+    [
+      246,
+      248
+    ],
+    [
+      249,
+      253
+    ],
+    [
+      254,
+      259
+    ],
+    [
+      259,
+      260
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      30
+    ],
+    [
+      31,
+      50
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 137,
+      "end_idx": 148,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        26
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T5",
+      "start_idx": 26,
+      "end_idx": 29,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        6
+      ]
+    },
+    {
+      "entity/argument_text": "our",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T6",
+      "start_idx": 34,
+      "end_idx": 37,
+      "tokens": [
+        "our"
+      ],
+      "token_idx": [
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "you use our product and service or view the content provided by us",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T7",
+      "start_idx": 26,
+      "end_idx": 92,
+      "tokens": [
+        "you",
+        "use",
+        "our",
+        "product",
+        "and",
+        "service",
+        "or",
+        "view",
+        "the",
+        "content",
+        "provided",
+        "by",
+        "us"
+      ],
+      "token_idx": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17,
+        18
+      ]
+    },
+    {
+      "entity/argument_text": "server logs",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T4",
+      "start_idx": 152,
+      "end_idx": 163,
+      "tokens": [
+        "server",
+        "logs"
+      ],
+      "token_idx": [
+        28,
+        29
+      ]
+    },
+    {
+      "entity/argument_text": "Details of how you used our service",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T2",
+      "start_idx": 180,
+      "end_idx": 215,
+      "tokens": [
+        "Details",
+        "of",
+        "how",
+        "you",
+        "used",
+        "our",
+        "service"
+      ],
+      "token_idx": [
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40
+      ]
+    },
+    {
+      "entity/argument_text": "scanning number of junk files",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T10",
+      "start_idx": 230,
+      "end_idx": 259,
+      "tokens": [
+        "scanning",
+        "number",
+        "of",
+        "junk",
+        "files"
+      ],
+      "token_idx": [
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 111,
+        "end_idx": 118,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          22
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Condition-Argument3",
+          "type": "Condition",
+          "text": "you use our product and service or view the content provided by us",
+          "start_idx": 26,
+          "end_idx": 92
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 34,
+          "end_idx": 37
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 26,
+          "end_idx": 29
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 137,
+          "end_idx": 148
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "scanning number of junk files",
+          "start_idx": 230,
+          "end_idx": 259
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Details of how you used our service",
+          "start_idx": 180,
+          "end_idx": 215
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 123,
+        "end_idx": 128,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          24
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "server logs",
+          "start_idx": 152,
+          "end_idx": 163
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 137,
+          "end_idx": 148
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 34,
+          "end_idx": 37
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 26,
+          "end_idx": 29
+        },
+        {
+          "role": "Condition-Argument3",
+          "type": "Condition",
+          "text": "you use our product and service or view the content provided by us",
+          "start_idx": 26,
+          "end_idx": 92
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "scanning number of junk files",
+          "start_idx": 230,
+          "end_idx": 259
+        },
+        {
+          "role": "Data-Retained3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Details of how you used our service",
+          "start_idx": 180,
+          "end_idx": 215
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

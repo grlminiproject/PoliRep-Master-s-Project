@@ -1,0 +1,513 @@
+{
+  "text": "No Ads\n\nWe don't use your Personal Information for ad targeting. Marco Polo only stores the Personal Information it needs to function as a video chat and messaging service.\n\n",
+  "words": [
+    "No",
+    "Ads",
+    "We",
+    "do",
+    "n't",
+    "use",
+    "your",
+    "Personal",
+    "Information",
+    "for",
+    "ad",
+    "targeting",
+    ".",
+    "Marco",
+    "Polo",
+    "only",
+    "stores",
+    "the",
+    "Personal",
+    "Information",
+    "it",
+    "needs",
+    "to",
+    "function",
+    "as",
+    "a",
+    "video",
+    "chat",
+    "and",
+    "messaging",
+    "service",
+    "."
+  ],
+  "lemma": [
+    "no",
+    "ads",
+    "we",
+    "do",
+    "not",
+    "use",
+    "you",
+    "Personal",
+    "information",
+    "for",
+    "ad",
+    "targeting",
+    ".",
+    "Marco",
+    "Polo",
+    "only",
+    "store",
+    "the",
+    "Personal",
+    "information",
+    "it",
+    "need",
+    "to",
+    "function",
+    "as",
+    "a",
+    "video",
+    "chat",
+    "and",
+    "message",
+    "service",
+    "."
+  ],
+  "pos-tags": [
+    "DT",
+    "NNS",
+    "PRP",
+    "VBP",
+    "RB",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "IN",
+    "NN",
+    "NN",
+    ".",
+    "NNP",
+    "NNP",
+    "RB",
+    "VBZ",
+    "DT",
+    "JJ",
+    "NN",
+    "PRP",
+    "VBZ",
+    "TO",
+    "VB",
+    "IN",
+    "DT",
+    "NN",
+    "VB",
+    "CC",
+    "VBG",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "det",
+    "root",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "compound",
+    "obl",
+    "punct",
+    "root",
+    "nsubj",
+    "advmod",
+    "root",
+    "det",
+    "amod",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "xcomp",
+    "case",
+    "det",
+    "obl",
+    "conj",
+    "cc",
+    "conj",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      11,
+      13
+    ],
+    [
+      13,
+      16
+    ],
+    [
+      17,
+      20
+    ],
+    [
+      21,
+      25
+    ],
+    [
+      26,
+      34
+    ],
+    [
+      35,
+      46
+    ],
+    [
+      47,
+      50
+    ],
+    [
+      51,
+      53
+    ],
+    [
+      54,
+      63
+    ],
+    [
+      63,
+      64
+    ],
+    [
+      65,
+      70
+    ],
+    [
+      71,
+      75
+    ],
+    [
+      76,
+      80
+    ],
+    [
+      81,
+      87
+    ],
+    [
+      88,
+      91
+    ],
+    [
+      92,
+      100
+    ],
+    [
+      101,
+      112
+    ],
+    [
+      113,
+      115
+    ],
+    [
+      116,
+      121
+    ],
+    [
+      122,
+      124
+    ],
+    [
+      125,
+      133
+    ],
+    [
+      134,
+      136
+    ],
+    [
+      137,
+      138
+    ],
+    [
+      139,
+      144
+    ],
+    [
+      145,
+      149
+    ],
+    [
+      150,
+      153
+    ],
+    [
+      154,
+      163
+    ],
+    [
+      164,
+      171
+    ],
+    [
+      171,
+      172
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      12
+    ],
+    [
+      13,
+      13
+    ],
+    [
+      14,
+      31
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 8,
+      "end_idx": 10,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        2
+      ]
+    },
+    {
+      "entity/argument_text": "don't",
+      "entity/argument_type": "Negation",
+      "entity/argument_id": "T2",
+      "start_idx": 11,
+      "end_idx": 16,
+      "tokens": [
+        "do",
+        "n't"
+      ],
+      "token_idx": [
+        3,
+        4
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T4",
+      "start_idx": 21,
+      "end_idx": 25,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        6
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T5",
+      "start_idx": 26,
+      "end_idx": 46,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        7,
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "ad targeting",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T6",
+      "start_idx": 51,
+      "end_idx": 63,
+      "tokens": [
+        "ad",
+        "targeting"
+      ],
+      "token_idx": [
+        10,
+        11
+      ]
+    },
+    {
+      "entity/argument_text": "Marco Polo",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 65,
+      "end_idx": 75,
+      "tokens": [
+        "Marco",
+        "Polo"
+      ],
+      "token_idx": [
+        13,
+        14
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T9",
+      "start_idx": 92,
+      "end_idx": 112,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        18,
+        19
+      ]
+    },
+    {
+      "entity/argument_text": "needs to function as a video chat and messaging service",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T10",
+      "start_idx": 116,
+      "end_idx": 171,
+      "tokens": [
+        "needs",
+        "to",
+        "function",
+        "as",
+        "a",
+        "video",
+        "chat",
+        "and",
+        "messaging",
+        "service"
+      ],
+      "token_idx": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29,
+        30
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 17,
+        "end_idx": 20,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          5
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Polarity",
+          "type": "Negation",
+          "text": "don't",
+          "start_idx": 11,
+          "end_idx": 16
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 8,
+          "end_idx": 10
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 21,
+          "end_idx": 25
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 26,
+          "end_idx": 46
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "ad targeting",
+          "start_idx": 51,
+          "end_idx": 63
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "stores",
+        "start_idx": 81,
+        "end_idx": 87,
+        "tokens": [
+          "stores"
+        ],
+        "token_idx": [
+          16
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "Marco Polo",
+          "start_idx": 65,
+          "end_idx": 75
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 92,
+          "end_idx": 112
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "needs to function as a video chat and messaging service",
+          "start_idx": 116,
+          "end_idx": 171
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

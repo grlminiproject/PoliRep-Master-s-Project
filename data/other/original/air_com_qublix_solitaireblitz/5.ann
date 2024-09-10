@@ -1,0 +1,24 @@
+T1	Third-party-entity 371 384	third parties
+T2	third-party-sharing-disclosure 394 400	access
+E1	third-party-sharing-disclosure:T2 Data-Receiver:T1 Data-Shared:T4 Data-Shared2:T3 Data-Shared3:T11 Data-Shared4:T12 Data-Shared5:T12 Data-Shared6:T13 Data-Shared7:T14 Data-Shared8:T15 Data-Shared9:T16 Data-Shared10:T17 Data-Shared11:T18 Data-Shared12:T19 Purpose-Argument:T20 Purpose-Argument2:T21 Data-Provider:T22
+T3	Data-general 425 436	information
+T4	Data-general 416 420	data
+T5	Third-party-entity 207 220	third parties
+T6	Data-cookies-web-beacons-and-other-technologies 229 252	cookies, APIs, and SDKs
+T7	first-party-collection-use 287 294	collect
+E2	first-party-collection-use:T7 Data-Collected:T6 Data-Provider:T5 Data-Collected2:T8 Data-Collected3:T9 Data-Collector:T10
+T8	Data-general 307 335	user and device related data
+T9	Data-general 340 351	information
+T11	Data-computer-device 461 478	device identifier
+T12	Data-computer-device 480 491	MAC address
+T13	Data-computer-device 493 497	IMEI
+T14	Data-location 499 505	locale
+T15	Data-computer-device 560 570	IP address
+T16	Data-user-online-activities-profiles 572 589	application usage
+T17	Data-user-online-activities-profiles 591 615	access and session times
+T18	Data-user-online-activities-profiles 617 696	applications present on the device or in use at a particular time on the device
+T19	Data-user-online-activities-profiles 702 751	your viewing of and interactions with advertising
+T20	Purpose 772 796	providing their services
+T21	Purpose 822 868	enabling, providing and delivering advertising
+T10	First-party-entity 256 259	our
+T22	User 443 446	you

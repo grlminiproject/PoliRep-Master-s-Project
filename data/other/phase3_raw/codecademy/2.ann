@@ -1,0 +1,39 @@
+T1	First-party-entity 183 185	We
+T2	first-party-collection-use 186 189	ask
+E1	first-party-collection-use:T2 Condition-Argument:T9 Condition-Argument2:T8 Data-Collected:T7 Data-Collected2:T6 Data-Provider:T4 Data-Collected3:T3 Data-Collector:T1 Data-Collected4:T5
+T3	Data-general 202 213	information
+T4	User 222 226	your
+T5	Data-user-online-activities-profiles 227 235	username
+T6	Data-contact 237 250	email address
+T7	Data-user-online-activities-profiles 255 263	password
+T8	Condition 269 300	you create a Codecademy account
+T9	Condition 308 330	you correspond with us
+T10	Condition 359 382	you set up your account
+T11	first-party-collection-use 422 429	provide
+E2	first-party-collection-use:T11 Condition-Argument:T10 Data-Collected:T17 Data-Provider:T18 Data-Collected2:T16 Data-Collected3:T15 Data-Collected4:T14 Data-Collected5:T13 Data-Collected6:T12 Data-Collector:T34
+T12	Data-general 441 452	information
+T13	Data-contact 511 515	name
+T14	Data-location 517 525	location
+T15	Data-user-online-activities-profiles 527 534	website
+T16	Data-user-online-activities-profiles 536 571	links to your social media profiles
+T17	Data-other 577 594	other information
+T18	User 359 362	you
+T19	First-party-entity 743 745	We
+T20	data-storage-retention-deletion 750 756	retain
+E3	data-storage-retention-deletion:T20 Data-Retained:T21 Data-Holder:T19 Data-Provider:T23 Condition-Argument:T22
+T21	Data-user-online-activities-profiles 761 769	messages
+T22	Condition 774 798	send through the Service
+T23	User 770 773	you
+T24	Data-general 816 827	information
+T25	Condition 828 879	you provide in User Content you post to the Service
+T26	first-party-collection-use 808 815	collect
+E4	first-party-collection-use:T26 Data-Collected:T24 Condition-Argument:T25 Data-Provider:T23 Data-Collector:T19
+T27	First-party-entity 908 910	We
+T28	first-party-collection-use 911 914	use
+E5	first-party-collection-use:T28 Purpose-Argument2:T31 Purpose-Argument3:T30 Data-Collected:T29 Data-Collector:T27
+T29	Data-general 920 931	information
+T30	Basic-service-feature 935 1018	operate, maintain, and provide to you the features and functionality of the Service
+T31	Communications 1034 1099	communicate directly with you, such as to send you email messages
+T33	third-party-sharing-disclosure 466 472	shared
+E6	third-party-sharing-disclosure:T33 Data-Provider:T18 Condition-Argument:T10 Data-Shared:T12 Data-Shared2:T13 Data-Shared3:T14 Data-Shared4:T15 Data-Shared5:T16 Data-Shared6:T17 Data-Sharer:T34
+T34	First-party-entity 384 394	Codecademy

@@ -1,0 +1,485 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Automated Decision Making
+1	Automated	automated	PROPN	NNP	Number=Sing	0	root	_	TokenRange=0:9
+2	Decision	decision	PROPN	NNP	Number=Sing	1	flat	_	TokenRange=10:18
+3	Making	making	PROPN	NNP	Number=Sing	1	flat	_	SpacesAfter=\n\n|TokenRange=19:25
+
+# newpar
+# sent_id = 2
+# text = You can ask not to be subject to a decision which is based solely on automated processing (see Section 8), but only where that decision: produces legal effects concerning you (such as the rejection of a claim); or otherwise significantly affects you.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=27:30
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=31:34
+3	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=35:38
+4	not	not	ADV	RB	_	7	advmod	_	TokenRange=39:42
+5	to	to	PART	TO	_	7	mark	_	TokenRange=43:45
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	TokenRange=46:48
+7	subject	subject	ADJ	JJ	Degree=Pos	3	xcomp	_	TokenRange=49:56
+8	to	to	ADP	IN	_	10	case	_	TokenRange=57:59
+9	a	a	DET	DT	Definite=Ind|PronType=Art	10	det	_	TokenRange=60:61
+10	decision	decision	NOUN	NN	Number=Sing	7	obl	_	TokenRange=62:70
+11	which	which	PRON	WDT	PronType=Rel	13	nsubj:pass	_	TokenRange=71:76
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	aux:pass	_	TokenRange=77:79
+13	based	base	VERB	VBN	Tense=Past|VerbForm=Part	10	acl:relcl	_	TokenRange=80:85
+14	solely	solely	ADV	RB	_	13	advmod	_	TokenRange=86:92
+15	on	on	ADP	IN	_	17	case	_	TokenRange=93:95
+16	automated	automated	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=96:105
+17	processing	processing	NOUN	NN	Number=Sing	13	obl	_	TokenRange=106:116
+18	(	(	PUNCT	-LRB-	_	19	punct	_	SpaceAfter=No|TokenRange=117:118
+19	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	TokenRange=118:121
+20	Section	section	NOUN	NN	Number=Sing	19	obj	_	TokenRange=122:129
+21	8	8	NUM	CD	NumType=Card	20	nummod	_	SpaceAfter=No|TokenRange=130:131
+22	)	)	PUNCT	-RRB-	_	19	punct	_	SpaceAfter=No|TokenRange=131:132
+23	,	,	PUNCT	,	_	48	punct	_	TokenRange=132:133
+24	but	but	CCONJ	CC	_	48	cc	_	TokenRange=134:137
+25	only	only	ADV	RB	_	48	advmod	_	TokenRange=138:142
+26	where	where	ADV	WRB	PronType=Int	48	advmod	_	TokenRange=143:148
+27	that	that	DET	DT	Number=Sing|PronType=Dem	28	det	_	TokenRange=149:153
+28	decision	decision	NOUN	NN	Number=Sing	48	nsubj	_	SpaceAfter=No|TokenRange=154:162
+29	:	:	PUNCT	:	_	28	punct	_	SpacesAfter=\n|TokenRange=162:163
+30	produces	produce	NOUN	NNS	Number=Plur	32	compound	_	TokenRange=164:172
+31	legal	legal	ADJ	JJ	Degree=Pos	32	amod	_	TokenRange=173:178
+32	effects	effect	NOUN	NNS	Number=Plur	28	appos	_	TokenRange=179:186
+33	concerning	concern	VERB	VBG	VerbForm=Ger	34	case	_	TokenRange=187:197
+34	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	32	nmod	_	TokenRange=198:201
+35	(	(	PUNCT	-LRB-	_	32	punct	_	SpaceAfter=No|TokenRange=202:203
+36	such	such	ADJ	JJ	Degree=Pos	39	case	_	TokenRange=203:207
+37	as	as	ADP	IN	_	36	fixed	_	TokenRange=208:210
+38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	TokenRange=211:214
+39	rejection	rejection	NOUN	NN	Number=Sing	32	nmod	_	TokenRange=215:224
+40	of	of	ADP	IN	_	42	case	_	TokenRange=225:227
+41	a	a	DET	DT	Definite=Ind|PronType=Art	42	det	_	TokenRange=228:229
+42	claim	claim	NOUN	NN	Number=Sing	39	nmod	_	SpaceAfter=No|TokenRange=230:235
+43	)	)	PUNCT	-RRB-	_	32	punct	_	SpaceAfter=No|TokenRange=235:236
+44	;	;	PUNCT	,	_	28	punct	_	TokenRange=236:237
+45	or	or	CCONJ	CC	_	47	cc	_	SpacesAfter=\n|TokenRange=238:240
+46	otherwise	otherwise	ADV	RB	_	47	advmod	_	TokenRange=241:250
+47	significantly	significantly	ADV	RB	_	28	conj	_	TokenRange=251:264
+48	affects	affect	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=265:272
+49	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	48	obj	_	SpaceAfter=No|TokenRange=273:276
+50	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=276:277
+
+# sent_id = 3
+# text = In such situations, you can obtain human intervention in the decision making, and we will ensure measures are in place to allow you to express your point of view, and / or contest the automated decision.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=278:280
+2	such	such	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=281:285
+3	situations	situation	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No|TokenRange=286:296
+4	,	,	PUNCT	,	_	7	punct	_	TokenRange=296:297
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	TokenRange=298:301
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=302:305
+7	obtain	obtain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=306:312
+8	human	human	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=313:318
+9	intervention	intervention	NOUN	NN	Number=Sing	7	obj	_	TokenRange=319:331
+10	in	in	ADP	IN	_	13	case	_	TokenRange=332:334
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=335:338
+12	decision	decision	NOUN	NN	Number=Sing	13	compound	_	TokenRange=339:347
+13	making	make	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=348:354
+14	,	,	PUNCT	,	_	18	punct	_	TokenRange=354:355
+15	and	and	CCONJ	CC	_	18	cc	_	TokenRange=356:359
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	TokenRange=360:362
+17	will	will	AUX	MD	VerbForm=Fin	18	aux	_	TokenRange=363:367
+18	ensure	ensure	VERB	VB	VerbForm=Inf	7	conj	_	TokenRange=368:374
+19	measures	measure	NOUN	NNS	Number=Plur	22	nsubj	_	TokenRange=375:383
+20	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	cop	_	TokenRange=384:387
+21	in	in	ADP	IN	_	22	case	_	TokenRange=388:390
+22	place	place	NOUN	NN	Number=Sing	18	ccomp	_	TokenRange=391:396
+23	to	to	PART	TO	_	24	mark	_	TokenRange=397:399
+24	allow	allow	VERB	VB	VerbForm=Inf	22	acl	_	TokenRange=400:405
+25	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	24	obj	_	TokenRange=406:409
+26	to	to	PART	TO	_	27	mark	_	TokenRange=410:412
+27	express	express	VERB	VB	VerbForm=Inf	24	xcomp	_	TokenRange=413:420
+28	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	29	nmod:poss	_	TokenRange=421:425
+29	point	point	NOUN	NN	Number=Sing	27	obj	_	TokenRange=426:431
+30	of	of	ADP	IN	_	31	case	_	TokenRange=432:434
+31	view	view	NOUN	NN	Number=Sing	29	nmod	_	SpaceAfter=No|TokenRange=435:439
+32	,	,	PUNCT	,	_	36	punct	_	TokenRange=439:440
+33	and	and	CCONJ	CC	_	36	cc	_	TokenRange=441:444
+34	/	/	PUNCT	,	_	35	cc	_	TokenRange=445:446
+35	or	or	CCONJ	CC	_	33	conj	_	TokenRange=447:449
+36	contest	contest	VERB	VB	VerbForm=Inf	29	conj	_	TokenRange=450:457
+37	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	TokenRange=458:461
+38	automated	automated	ADJ	JJ	Degree=Pos	39	amod	_	TokenRange=462:471
+39	decision	decision	NOUN	NN	Number=Sing	36	obj	_	SpaceAfter=No|TokenRange=472:480
+40	.	.	PUNCT	.	_	7	punct	_	TokenRange=480:481
+
+# sent_id = 4
+# text = Your right to obtain human intervention or to contest a decision does not apply where the decision which is made following automated decision making: is necessary for entering into or performing a contract with you; is authorized by law and there are suitable safeguards for your rights and freedoms; or is based on your explicit consent.
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=482:486
+2	right	right	NOUN	NN	Number=Sing	14	nsubj	_	TokenRange=487:492
+3	to	to	PART	TO	_	4	mark	_	TokenRange=493:495
+4	obtain	obtain	VERB	VB	VerbForm=Inf	2	acl	_	TokenRange=496:502
+5	human	human	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=503:508
+6	intervention	intervention	NOUN	NN	Number=Sing	4	obj	_	TokenRange=509:521
+7	or	or	CCONJ	CC	_	9	cc	_	TokenRange=522:524
+8	to	to	PART	TO	_	9	mark	_	TokenRange=525:527
+9	contest	contest	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=528:535
+10	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	TokenRange=536:537
+11	decision	decision	NOUN	NN	Number=Sing	9	obj	_	TokenRange=538:546
+12	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	14	aux	_	TokenRange=547:551
+13	not	not	PART	RB	_	14	advmod	_	TokenRange=552:555
+14	apply	apply	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=556:561
+15	where	where	ADV	WRB	PronType=Int	17	advmod	_	TokenRange=562:567
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=568:571
+17	decision	decision	NOUN	NN	Number=Sing	14	obj	_	TokenRange=572:580
+18	which	which	PRON	WDT	PronType=Rel	20	nsubj:pass	_	TokenRange=581:586
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	TokenRange=587:589
+20	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	acl:relcl	_	TokenRange=590:594
+21	following	follow	VERB	VBG	VerbForm=Ger	24	amod	_	TokenRange=595:604
+22	automated	automate	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=605:614
+23	decision	decision	NOUN	NN	Number=Sing	24	compound	_	TokenRange=615:623
+24	making	make	NOUN	NN	Number=Sing	20	obj	_	SpaceAfter=No|TokenRange=624:630
+25	:	:	PUNCT	:	_	14	punct	_	SpacesAfter=\n|TokenRange=630:631
+26	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	TokenRange=632:634
+27	necessary	necessary	ADJ	JJ	Degree=Pos	14	parataxis	_	TokenRange=635:644
+28	for	for	SCONJ	IN	_	29	mark	_	TokenRange=645:648
+29	entering	enter	VERB	VBG	VerbForm=Ger	27	advcl	_	TokenRange=649:657
+30	into	into	ADP	IN	_	29	compound:prt	_	TokenRange=658:662
+31	or	or	CCONJ	CC	_	32	cc	_	TokenRange=663:665
+32	performing	perform	VERB	VBG	VerbForm=Ger	29	conj	_	TokenRange=666:676
+33	a	a	DET	DT	Definite=Ind|PronType=Art	34	det	_	TokenRange=677:678
+34	contract	contract	NOUN	NN	Number=Sing	32	obj	_	TokenRange=679:687
+35	with	with	ADP	IN	_	36	case	_	TokenRange=688:692
+36	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	34	nmod	_	SpaceAfter=No|TokenRange=693:696
+37	;	;	PUNCT	,	_	14	punct	_	SpacesAfter=\n|TokenRange=696:697
+38	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	39	aux:pass	_	TokenRange=698:700
+39	authorized	authorize	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	conj	_	TokenRange=701:711
+40	by	by	ADP	IN	_	41	case	_	TokenRange=712:714
+41	law	law	NOUN	NN	Number=Sing	39	obl	_	TokenRange=715:718
+42	and	and	CCONJ	CC	_	44	cc	_	TokenRange=719:722
+43	there	there	PRON	EX	_	44	expl	_	TokenRange=723:728
+44	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	39	conj	_	TokenRange=729:732
+45	suitable	suitable	ADJ	JJ	Degree=Pos	46	amod	_	TokenRange=733:741
+46	safeguards	safeguard	NOUN	NNS	Number=Plur	44	nsubj	_	TokenRange=742:752
+47	for	for	ADP	IN	_	49	case	_	TokenRange=753:756
+48	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	49	nmod:poss	_	TokenRange=757:761
+49	rights	rights	NOUN	NNS	Number=Plur	46	nmod	_	TokenRange=762:768
+50	and	and	CCONJ	CC	_	51	cc	_	TokenRange=769:772
+51	freedoms	freedom	NOUN	NNS	Number=Plur	49	conj	_	SpaceAfter=No|TokenRange=773:781
+52	;	;	PUNCT	,	_	14	punct	_	TokenRange=781:782
+53	or	or	CCONJ	CC	_	55	cc	_	SpacesAfter=\n|TokenRange=783:785
+54	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	55	aux:pass	_	TokenRange=786:788
+55	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	conj	_	TokenRange=789:794
+56	on	on	ADP	IN	_	59	case	_	TokenRange=795:797
+57	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	59	nmod:poss	_	TokenRange=798:802
+58	explicit	explicit	ADJ	JJ	Degree=Pos	59	amod	_	TokenRange=803:811
+59	consent	consent	NOUN	NN	Number=Sing	55	obl	_	SpaceAfter=No|TokenRange=812:819
+60	.	.	PUNCT	.	_	14	punct	_	SpacesAfter=\n|TokenRange=819:820
+
+# sent_id = 5
+# text = To exercise your rights you may contact us as set out in Section 12.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=821:823
+2	exercise	exercise	VERB	VB	VerbForm=Inf	7	advcl	_	TokenRange=824:832
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=833:837
+4	rights	right	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=838:844
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	TokenRange=845:848
+6	may	may	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=849:852
+7	contact	contact	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=853:860
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	7	obj	_	TokenRange=861:863
+9	as	as	SCONJ	IN	_	10	mark	_	TokenRange=864:866
+10	set	set	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	_	TokenRange=867:870
+11	out	out	ADP	RP	_	10	compound:prt	_	TokenRange=871:874
+12	in	in	ADP	IN	_	13	case	_	TokenRange=875:877
+13	Section	section	NOUN	NN	Number=Sing	10	obl	_	TokenRange=878:885
+14	12	12	NUM	CD	NumType=Card	13	nummod	_	SpaceAfter=No|TokenRange=886:888
+15	.	.	PUNCT	.	_	7	punct	_	TokenRange=888:889
+
+# sent_id = 6
+# text = Please note the following if you do wish to exercise these rights: Identity.
+1	Please	please	INTJ	UH	_	2	discourse	_	TokenRange=890:896
+2	note	note	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=897:901
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=902:905
+4	following	follow	VERB	VBG	VerbForm=Ger	2	obj	_	TokenRange=906:915
+5	if	if	SCONJ	IN	_	8	mark	_	TokenRange=916:918
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=919:922
+7	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	aux	_	TokenRange=923:925
+8	wish	wish	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=926:930
+9	to	to	PART	TO	_	10	mark	_	TokenRange=931:933
+10	exercise	exercise	VERB	VB	VerbForm=Inf	8	xcomp	_	TokenRange=934:942
+11	these	these	DET	DT	Number=Plur|PronType=Dem	12	det	_	TokenRange=943:948
+12	rights	rights	NOUN	NNS	Number=Plur	10	obj	_	SpaceAfter=No|TokenRange=949:955
+13	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=955:956
+14	Identity	identity	NOUN	NN	Number=Sing	2	parataxis	_	SpaceAfter=No|TokenRange=957:965
+15	.	.	PUNCT	.	_	14	punct	_	TokenRange=965:966
+
+# sent_id = 7
+# text = We take the confidentiality of all records containing personal data seriously, and reserve the right to ask you for proof of your identity if you make a request.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=967:969
+2	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=970:974
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=975:978
+4	confidentiality	confidentiality	NOUN	NN	Number=Sing	2	obj	_	TokenRange=979:994
+5	of	of	ADP	IN	_	7	case	_	TokenRange=995:997
+6	all	all	DET	DT	_	7	det	_	TokenRange=998:1001
+7	records	record	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=1002:1009
+8	containing	contain	VERB	VBG	VerbForm=Ger	7	acl	_	TokenRange=1010:1020
+9	personal	personal	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=1021:1029
+10	data	data	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1030:1034
+11	seriously	seriously	ADV	RB	_	8	advmod	_	SpaceAfter=No|TokenRange=1035:1044
+12	,	,	PUNCT	,	_	14	punct	_	TokenRange=1044:1045
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=1046:1049
+14	reserve	reserve	VERB	VB	VerbForm=Inf	2	conj	_	TokenRange=1050:1057
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=1058:1061
+16	right	right	NOUN	NN	Number=Sing	14	obj	_	TokenRange=1062:1067
+17	to	to	PART	TO	_	18	mark	_	TokenRange=1068:1070
+18	ask	ask	VERB	VB	VerbForm=Inf	16	acl	_	TokenRange=1071:1074
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	obj	_	TokenRange=1075:1078
+20	for	for	ADP	IN	_	21	case	_	TokenRange=1079:1082
+21	proof	proof	NOUN	NN	Number=Sing	18	obl	_	TokenRange=1083:1088
+22	of	of	ADP	IN	_	24	case	_	TokenRange=1089:1091
+23	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	24	nmod:poss	_	TokenRange=1092:1096
+24	identity	identity	NOUN	NN	Number=Sing	21	nmod	_	TokenRange=1097:1105
+25	if	if	SCONJ	IN	_	27	mark	_	TokenRange=1106:1108
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	27	nsubj	_	TokenRange=1109:1112
+27	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	advcl	_	TokenRange=1113:1117
+28	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	TokenRange=1118:1119
+29	request	request	NOUN	NN	Number=Sing	27	obj	_	SpaceAfter=No|TokenRange=1120:1127
+30	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=1127:1128
+
+# sent_id = 8
+# text = Fees.
+1	Fees	fees	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=1129:1133
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1133:1134
+
+# sent_id = 9
+# text = We will not ask for a fee to exercise any of your rights in relation to your personal data, unless your request for access to information is unfounded, repetitive or excessive, in which case we will charge a reasonable amount in the circumstances.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=1135:1137
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=1138:1142
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=1143:1146
+4	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1147:1150
+5	for	for	ADP	IN	_	7	case	_	TokenRange=1151:1154
+6	a	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	TokenRange=1155:1156
+7	fee	fee	NOUN	NN	Number=Sing	4	obl	_	TokenRange=1157:1160
+8	to	to	PART	TO	_	9	mark	_	TokenRange=1161:1163
+9	exercise	exercise	VERB	VB	VerbForm=Inf	7	acl	_	TokenRange=1164:1172
+10	any	any	DET	DT	_	9	obj	_	TokenRange=1173:1176
+11	of	of	ADP	IN	_	13	case	_	TokenRange=1177:1179
+12	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=1180:1184
+13	rights	rights	NOUN	NNS	Number=Plur	10	nmod	_	TokenRange=1185:1191
+14	in	in	ADP	IN	_	15	case	_	TokenRange=1192:1194
+15	relation	relation	NOUN	NN	Number=Sing	13	nmod	_	TokenRange=1195:1203
+16	to	to	ADP	IN	_	19	case	_	TokenRange=1204:1206
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=1207:1211
+18	personal	personal	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=1212:1220
+19	data	data	NOUN	NN	Number=Sing	15	nmod	_	SpaceAfter=No|TokenRange=1221:1225
+20	,	,	PUNCT	,	_	4	punct	_	TokenRange=1225:1226
+21	unless	unless	SCONJ	IN	_	29	mark	_	TokenRange=1227:1233
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=1234:1238
+23	request	request	NOUN	NN	Number=Sing	29	nsubj	_	TokenRange=1239:1246
+24	for	for	ADP	IN	_	25	case	_	TokenRange=1247:1250
+25	access	access	NOUN	NN	Number=Sing	23	nmod	_	TokenRange=1251:1257
+26	to	to	ADP	IN	_	27	case	_	TokenRange=1258:1260
+27	information	information	NOUN	NN	Number=Sing	25	nmod	_	TokenRange=1261:1272
+28	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	29	cop	_	TokenRange=1273:1275
+29	unfounded	unfounded	ADJ	JJ	Degree=Pos	4	advcl	_	SpaceAfter=No|TokenRange=1276:1285
+30	,	,	PUNCT	,	_	31	punct	_	TokenRange=1285:1286
+31	repetitive	repetitive	ADJ	JJ	Degree=Pos	29	conj	_	TokenRange=1287:1297
+32	or	or	CCONJ	CC	_	33	cc	_	TokenRange=1298:1300
+33	excessive	excessive	ADJ	JJ	Degree=Pos	29	conj	_	SpaceAfter=No|TokenRange=1301:1310
+34	,	,	PUNCT	,	_	4	punct	_	TokenRange=1310:1311
+35	in	in	ADP	IN	_	37	case	_	TokenRange=1312:1314
+36	which	which	DET	WDT	PronType=Int	37	det	_	TokenRange=1315:1320
+37	case	case	NOUN	NN	Number=Sing	40	obl	_	TokenRange=1321:1325
+38	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	40	nsubj	_	TokenRange=1326:1328
+39	will	will	AUX	MD	VerbForm=Fin	40	aux	_	TokenRange=1329:1333
+40	charge	charge	VERB	VB	VerbForm=Inf	4	parataxis	_	TokenRange=1334:1340
+41	a	a	DET	DT	Definite=Ind|PronType=Art	43	det	_	TokenRange=1341:1342
+42	reasonable	reasonable	ADJ	JJ	Degree=Pos	43	amod	_	TokenRange=1343:1353
+43	amount	amount	NOUN	NN	Number=Sing	40	obj	_	TokenRange=1354:1360
+44	in	in	ADP	IN	_	46	case	_	TokenRange=1361:1363
+45	the	the	DET	DT	Definite=Def|PronType=Art	46	det	_	TokenRange=1364:1367
+46	circumstances	circumstance	NOUN	NNS	Number=Plur	40	obl	_	SpaceAfter=No|TokenRange=1368:1381
+47	.	.	PUNCT	.	_	4	punct	_	TokenRange=1381:1382
+
+# sent_id = 10
+# text = We will let you know of any charges before completing your request.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1383:1385
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1386:1390
+3	let	let	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1391:1394
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	obj	_	TokenRange=1395:1398
+5	know	know	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=1399:1403
+6	of	of	ADP	IN	_	8	case	_	TokenRange=1404:1406
+7	any	any	DET	DT	_	8	det	_	TokenRange=1407:1410
+8	charges	charge	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=1411:1418
+9	before	before	SCONJ	IN	_	10	mark	_	TokenRange=1419:1425
+10	completing	complete	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=1426:1436
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=1437:1441
+12	request	request	NOUN	NN	Number=Sing	10	obj	_	SpaceAfter=No|TokenRange=1442:1449
+13	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=1449:1450
+
+# sent_id = 11
+# text = Timescales.
+1	Timescales	Timescale	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=1451:1461
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1461:1462
+
+# sent_id = 12
+# text = We aim to respond to any valid requests within one month unless it is particularly complicated or you have made several requests, in which case we aim to respond within three months.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=1463:1465
+2	aim	aim	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1466:1469
+3	to	to	PART	TO	_	4	mark	_	TokenRange=1470:1472
+4	respond	respond	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=1473:1480
+5	to	to	ADP	IN	_	8	case	_	TokenRange=1481:1483
+6	any	any	DET	DT	_	8	det	_	TokenRange=1484:1487
+7	valid	valid	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=1488:1493
+8	requests	request	NOUN	NNS	Number=Plur	4	obl	_	TokenRange=1494:1502
+9	within	within	ADP	IN	_	11	case	_	TokenRange=1503:1509
+10	one	one	NUM	CD	NumType=Card	11	nummod	_	TokenRange=1510:1513
+11	month	month	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=1514:1519
+12	unless	unless	SCONJ	IN	_	16	mark	_	TokenRange=1520:1526
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj:pass	_	TokenRange=1527:1529
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	aux:pass	_	TokenRange=1530:1532
+15	particularly	particularly	ADV	RB	_	16	advmod	_	TokenRange=1533:1545
+16	complicated	complicated	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	TokenRange=1546:1557
+17	or	or	CCONJ	CC	_	20	cc	_	TokenRange=1558:1560
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	TokenRange=1561:1564
+19	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	TokenRange=1565:1569
+20	made	make	VERB	VBN	Tense=Past|VerbForm=Part	16	conj	_	TokenRange=1570:1574
+21	several	several	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=1575:1582
+22	requests	request	NOUN	NNS	Number=Plur	20	obj	_	SpaceAfter=No|TokenRange=1583:1591
+23	,	,	PUNCT	,	_	2	punct	_	TokenRange=1591:1592
+24	in	in	ADP	IN	_	26	case	_	TokenRange=1593:1595
+25	which	which	DET	WDT	PronType=Int	26	det	_	TokenRange=1596:1601
+26	case	case	NOUN	NN	Number=Sing	28	obl	_	TokenRange=1602:1606
+27	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	28	nsubj	_	TokenRange=1607:1609
+28	aim	aim	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	parataxis	_	TokenRange=1610:1613
+29	to	to	PART	TO	_	30	mark	_	TokenRange=1614:1616
+30	respond	respond	VERB	VB	VerbForm=Inf	28	xcomp	_	TokenRange=1617:1624
+31	within	within	ADP	IN	_	33	case	_	TokenRange=1625:1631
+32	three	three	NUM	CD	NumType=Card	33	nummod	_	TokenRange=1632:1637
+33	months	month	NOUN	NNS	Number=Plur	30	obl	_	SpaceAfter=No|TokenRange=1638:1644
+34	.	.	PUNCT	.	_	2	punct	_	TokenRange=1644:1645
+
+# sent_id = 13
+# text = We will let you know if we are going to take longer than one month.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1646:1648
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1649:1653
+3	let	let	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1654:1657
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	obj	_	TokenRange=1658:1661
+5	know	know	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=1662:1666
+6	if	if	SCONJ	IN	_	9	mark	_	TokenRange=1667:1669
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=1670:1672
+8	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	aux	_	TokenRange=1673:1676
+9	going	go	VERB	VBG	Tense=Pres|VerbForm=Part	5	ccomp	_	TokenRange=1677:1682
+10	to	to	PART	TO	_	11	mark	_	TokenRange=1683:1685
+11	take	take	VERB	VB	VerbForm=Inf	9	xcomp	_	TokenRange=1686:1690
+12	longer	longer	ADV	RBR	Degree=Cmp	11	advmod	_	TokenRange=1691:1697
+13	than	than	ADP	IN	_	15	case	_	TokenRange=1698:1702
+14	one	one	NUM	CD	NumType=Card	15	nummod	_	TokenRange=1703:1706
+15	month	month	NOUN	NN	Number=Sing	11	obl	_	SpaceAfter=No|TokenRange=1707:1712
+16	.	.	PUNCT	.	_	3	punct	_	TokenRange=1712:1713
+
+# sent_id = 14
+# text = We might ask you if you can help by telling us what exactly you want to receive or are concerned about.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1714:1716
+2	might	might	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1717:1722
+3	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1723:1726
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	TokenRange=1727:1730
+5	if	if	SCONJ	IN	_	8	mark	_	TokenRange=1731:1733
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=1734:1737
+7	can	can	AUX	MD	VerbForm=Fin	8	aux	_	TokenRange=1738:1741
+8	help	help	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=1742:1746
+9	by	by	SCONJ	IN	_	10	mark	_	TokenRange=1747:1749
+10	telling	tell	VERB	VBG	VerbForm=Ger	8	advcl	_	TokenRange=1750:1757
+11	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	iobj	_	TokenRange=1758:1760
+12	what	what	PRON	WP	PronType=Int	10	obj	_	TokenRange=1761:1765
+13	exactly	exactly	ADV	RB	_	15	advmod	_	TokenRange=1766:1773
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	TokenRange=1774:1777
+15	want	want	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	TokenRange=1778:1782
+16	to	to	PART	TO	_	17	mark	_	TokenRange=1783:1785
+17	receive	receive	VERB	VB	VerbForm=Inf	15	xcomp	_	TokenRange=1786:1793
+18	or	or	CCONJ	CC	_	20	cc	_	TokenRange=1794:1796
+19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	cop	_	TokenRange=1797:1800
+20	concerned	concerned	ADJ	JJ	Degree=Pos	17	conj	_	TokenRange=1801:1810
+21	about	about	ADV	RB	_	20	advmod	_	SpaceAfter=No|TokenRange=1811:1816
+22	.	.	PUNCT	.	_	3	punct	_	TokenRange=1816:1817
+
+# sent_id = 15
+# text = This will help us to action your request more quickly.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	TokenRange=1818:1822
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1823:1827
+3	help	help	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1828:1832
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	TokenRange=1833:1835
+5	to	to	PART	TO	_	6	mark	_	TokenRange=1836:1838
+6	action	action	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=1839:1845
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=1846:1850
+8	request	request	NOUN	NN	Number=Sing	6	obj	_	TokenRange=1851:1858
+9	more	more	ADV	RBR	_	10	advmod	_	TokenRange=1859:1863
+10	quickly	quickly	ADV	RB	_	6	advmod	_	SpaceAfter=No|TokenRange=1864:1871
+11	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=1871:1872
+
+# sent_id = 16
+# text = Exemptions.
+1	Exemptions	Exemption	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=1873:1883
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1883:1884
+
+# sent_id = 17
+# text = Local laws may provide additional exemptions, e.g. in the UK, where it is subject to legal privilege, the right of access to personal data can be withheld from you in certain circumstances.
+1	Local	local	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=1885:1890
+2	laws	law	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=1891:1895
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=1896:1899
+4	provide	provide	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1900:1907
+5	additional	additional	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=1908:1918
+6	exemptions	exemption	NOUN	NNS	Number=Plur	4	obj	_	SpaceAfter=No|TokenRange=1919:1929
+7	,	,	PUNCT	,	_	4	punct	_	TokenRange=1929:1930
+8	e.g.	e.g.	ADV	RB	_	11	advmod	_	TokenRange=1931:1935
+9	in	in	ADP	IN	_	11	case	_	TokenRange=1936:1938
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=1939:1942
+11	UK	UK	PROPN	NNP	Number=Sing	4	obl	_	SpaceAfter=No|TokenRange=1943:1945
+12	,	,	PUNCT	,	_	11	punct	_	TokenRange=1945:1946
+13	where	where	ADV	WRB	PronType=Rel	16	advmod	_	TokenRange=1947:1952
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	16	nsubj	_	TokenRange=1953:1955
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TokenRange=1956:1958
+16	subject	subject	ADJ	JJ	Degree=Pos	11	acl:relcl	_	TokenRange=1959:1966
+17	to	to	ADP	IN	_	19	case	_	TokenRange=1967:1969
+18	legal	legal	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=1970:1975
+19	privilege	privilege	NOUN	NN	Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=1976:1985
+20	,	,	PUNCT	,	_	11	punct	_	TokenRange=1985:1986
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	TokenRange=1987:1990
+22	right	right	NOUN	NN	Number=Sing	30	nsubj:pass	_	TokenRange=1991:1996
+23	of	of	ADP	IN	_	24	case	_	TokenRange=1997:1999
+24	access	access	NOUN	NN	Number=Sing	22	nmod	_	TokenRange=2000:2006
+25	to	to	ADP	IN	_	27	case	_	TokenRange=2007:2009
+26	personal	personal	ADJ	JJ	Degree=Pos	27	amod	_	TokenRange=2010:2018
+27	data	data	NOUN	NN	Number=Sing	24	nmod	_	TokenRange=2019:2023
+28	can	can	AUX	MD	VerbForm=Fin	30	aux	_	TokenRange=2024:2027
+29	be	be	AUX	VB	VerbForm=Inf	30	aux:pass	_	TokenRange=2028:2030
+30	withheld	withheld	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	ccomp	_	TokenRange=2031:2039
+31	from	from	ADP	IN	_	32	case	_	TokenRange=2040:2044
+32	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	30	obl	_	TokenRange=2045:2048
+33	in	in	ADP	IN	_	35	case	_	TokenRange=2049:2051
+34	certain	certain	ADJ	JJ	Degree=Pos	35	amod	_	TokenRange=2052:2059
+35	circumstances	circumstance	NOUN	NNS	Number=Plur	30	obl	_	SpaceAfter=No|TokenRange=2060:2073
+36	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=2073:2074
+
+# sent_id = 18
+# text = Third Party Rights.
+1	Third	third	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=2075:2080
+2	Party	party	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=2081:2086
+3	Rights	rights	PROPN	NNPS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=2087:2093
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=2093:2094
+
+# sent_id = 19
+# text = We do not have to comply with a request where it would adversely affect the rights and freedoms of other Data Subjects.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=2095:2097
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=2098:2100
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=2101:2104
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=2105:2109
+5	to	to	PART	TO	_	6	mark	_	TokenRange=2110:2112
+6	comply	comply	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=2113:2119
+7	with	with	ADP	IN	_	9	case	_	TokenRange=2120:2124
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=2125:2126
+9	request	request	NOUN	NN	Number=Sing	6	obl	_	TokenRange=2127:2134
+10	where	where	ADV	WRB	PronType=Rel	14	advmod	_	TokenRange=2135:2140
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	nsubj	_	TokenRange=2141:2143
+12	would	would	AUX	MD	VerbForm=Fin	14	aux	_	TokenRange=2144:2149
+13	adversely	adversely	ADV	RB	_	14	advmod	_	TokenRange=2150:2159
+14	affect	affect	VERB	VB	VerbForm=Inf	9	acl:relcl	_	TokenRange=2160:2166
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=2167:2170
+16	rights	rights	NOUN	NNS	Number=Plur	14	obj	_	TokenRange=2171:2177
+17	and	and	CCONJ	CC	_	18	cc	_	TokenRange=2178:2181
+18	freedoms	freedom	NOUN	NNS	Number=Plur	16	conj	_	TokenRange=2182:2190
+19	of	of	ADP	IN	_	22	case	_	TokenRange=2191:2193
+20	other	other	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=2194:2199
+21	Data	data	NOUN	NN	Number=Sing	22	compound	_	TokenRange=2200:2204
+22	Subjects	Subjects	NOUN	NNS	Number=Plur	16	nmod	_	SpaceAfter=No|TokenRange=2205:2213
+23	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=2213:2214
+

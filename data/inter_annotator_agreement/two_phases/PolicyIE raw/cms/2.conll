@@ -1,0 +1,269 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How CMS websites use information they collect
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	CMS	Cms	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	aux	_	TokenRange=4:7
+3	websites	websites	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=8:16
+4	use	use	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=17:20
+5	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=21:32
+6	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	7	nsubj	_	TokenRange=33:37
+7	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	acl:relcl	_	SpacesAfter=\n\n|TokenRange=38:45
+
+# newpar
+# sent_id = 2
+# text = CMS websites use a variety of Web measurement software tools.
+1	CMS	Cm	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=47:50
+2	websites	websites	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=51:59
+3	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=60:63
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=64:65
+5	variety	variety	NOUN	NN	Number=Sing	3	obj	_	TokenRange=66:73
+6	of	of	ADP	IN	_	10	case	_	TokenRange=74:76
+7	Web	web	NOUN	NN	Number=Sing	8	compound	_	TokenRange=77:80
+8	measurement	measurement	NOUN	NN	Number=Sing	10	compound	_	TokenRange=81:92
+9	software	software	NOUN	NN	Number=Sing	10	compound	_	TokenRange=93:101
+10	tools	tool	NOUN	NNS	Number=Plur	5	nmod	_	SpaceAfter=No|TokenRange=102:107
+11	.	.	PUNCT	.	_	3	punct	_	TokenRange=107:108
+
+# sent_id = 3
+# text = We use them to collect the information listed in the “Types of information collected” section above.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=109:111
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=112:115
+3	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	2	obj	_	TokenRange=116:120
+4	to	to	PART	TO	_	5	mark	_	TokenRange=121:123
+5	collect	collect	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=124:131
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=132:135
+7	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=136:147
+8	listed	list	VERB	VBN	Tense=Past|VerbForm=Part	7	acl	_	TokenRange=148:154
+9	in	in	ADP	IN	_	12	case	_	TokenRange=155:157
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=158:161
+11	“	"	PUNCT	``	_	12	punct	_	SpaceAfter=No|TokenRange=162:163
+12	Types	type	NOUN	NNS	Number=Plur	8	obl	_	TokenRange=163:168
+13	of	of	ADP	IN	_	14	case	_	TokenRange=169:171
+14	information	information	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=172:183
+15	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	12	acl	_	SpaceAfter=No|TokenRange=184:193
+16	”	"	PUNCT	``	_	12	punct	_	TokenRange=193:194
+17	section	section	NOUN	NN	Number=Sing	12	appos	_	TokenRange=195:202
+18	above	above	ADV	RB	_	17	advmod	_	SpaceAfter=No|TokenRange=203:208
+19	.	.	PUNCT	.	_	2	punct	_	TokenRange=208:209
+
+# sent_id = 4
+# text = The tools collect information automatically and continuously.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=210:213
+2	tools	tool	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=214:219
+3	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=220:227
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=228:239
+5	automatically	automatically	ADV	RB	_	3	advmod	_	TokenRange=240:253
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=254:257
+7	continuously	continuously	ADV	RB	_	5	conj	_	SpaceAfter=No|TokenRange=258:270
+8	.	.	PUNCT	.	_	3	punct	_	TokenRange=270:271
+
+# sent_id = 5
+# text = No personally identifiable information is collected by these tools.
+1	No	no	ADV	RB	_	3	advmod	_	TokenRange=272:274
+2	personally	personally	ADV	RB	_	3	advmod	_	TokenRange=275:285
+3	identifiable	identifiable	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=286:298
+4	information	information	NOUN	NN	Number=Sing	6	nsubj:pass	_	TokenRange=299:310
+5	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux:pass	_	TokenRange=311:313
+6	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=314:323
+7	by	by	ADP	IN	_	9	case	_	TokenRange=324:326
+8	these	these	DET	DT	Number=Plur|PronType=Dem	9	det	_	TokenRange=327:332
+9	tools	tool	NOUN	NNS	Number=Plur	6	obl	_	SpaceAfter=No|TokenRange=333:338
+10	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n|TokenRange=338:339
+
+# sent_id = 6
+# text = CMS website staff analyze and report on the collected data from these tools.
+1	CMS	Cm	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=340:343
+2	website	website	NOUN	NN	Number=Sing	4	compound	_	TokenRange=344:351
+3	staff	staff	NOUN	NN	Number=Sing	4	compound	_	TokenRange=352:357
+4	analyze	analyze	NOUN	NN	Number=Sing	1	obj	_	TokenRange=358:365
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=366:369
+6	report	report	NOUN	NN	Number=Sing	4	conj	_	TokenRange=370:376
+7	on	on	ADP	IN	_	10	case	_	TokenRange=377:379
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=380:383
+9	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	10	amod	_	TokenRange=384:393
+10	data	data	NOUN	NN	Number=Sing	1	obl	_	TokenRange=394:398
+11	from	from	ADP	IN	_	13	case	_	TokenRange=399:403
+12	these	these	DET	DT	Number=Plur|PronType=Dem	13	det	_	TokenRange=404:409
+13	tools	tool	NOUN	NNS	Number=Plur	1	obl	_	SpaceAfter=No|TokenRange=410:415
+14	.	.	PUNCT	.	_	1	punct	_	TokenRange=415:416
+
+# sent_id = 7
+# text = The reports are available only to CMS website managers, members of the CMS websites communications and web teams, and other designated staff who need this information to perform their duties.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=417:420
+2	reports	report	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=421:428
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=429:432
+4	available	available	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=433:442
+5	only	only	ADV	RB	_	7	advmod	_	TokenRange=443:447
+6	to	to	PART	TO	_	7	mark	_	TokenRange=448:450
+7	CMS	Cm	VERB	VB	VerbForm=Inf	4	advcl	_	TokenRange=451:454
+8	website	website	NOUN	NN	Number=Sing	9	compound	_	TokenRange=455:462
+9	managers	manager	NOUN	NNS	Number=Plur	15	nsubj	_	SpaceAfter=No|TokenRange=463:471
+10	,	,	PUNCT	,	_	9	punct	_	TokenRange=471:472
+11	members	member	NOUN	NNS	Number=Plur	9	appos	_	TokenRange=473:480
+12	of	of	ADP	IN	_	14	case	_	TokenRange=481:483
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=484:487
+14	CMS	CMS	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=488:491
+15	websites	website	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	ccomp	_	TokenRange=492:500
+16	communications	communication	NOUN	NNS	Number=Plur	15	obj	_	TokenRange=501:515
+17	and	and	CCONJ	CC	_	19	cc	_	TokenRange=516:519
+18	web	web	NOUN	NN	Number=Sing	19	compound	_	TokenRange=520:523
+19	teams	team	NOUN	NNS	Number=Plur	16	conj	_	SpaceAfter=No|TokenRange=524:529
+20	,	,	PUNCT	,	_	24	punct	_	TokenRange=529:530
+21	and	and	CCONJ	CC	_	24	cc	_	TokenRange=531:534
+22	other	other	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=535:540
+23	designated	designate	VERB	VBN	Tense=Past|VerbForm=Part	24	amod	_	TokenRange=541:551
+24	staff	staff	NOUN	NNS	Number=Plur	15	conj	_	TokenRange=552:557
+25	who	who	PRON	WP	PronType=Rel	26	nsubj	_	TokenRange=558:561
+26	need	need	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	TokenRange=562:566
+27	this	this	DET	DT	Number=Sing|PronType=Dem	28	det	_	TokenRange=567:571
+28	information	information	NOUN	NN	Number=Sing	26	obj	_	TokenRange=572:583
+29	to	to	PART	TO	_	30	mark	_	TokenRange=584:586
+30	perform	perform	VERB	VB	VerbForm=Inf	26	advcl	_	TokenRange=587:594
+31	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	32	nmod:poss	_	TokenRange=595:600
+32	duties	duty	NOUN	NNS	Number=Plur	30	obj	_	SpaceAfter=No|TokenRange=601:607
+33	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=607:608
+
+# sent_id = 8
+# text = CMS websites may also use an online survey to collect opinions and feedback.
+1	CMS	Cm	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=609:612
+2	websites	websites	NOUN	NNS	Number=Plur	5	nsubj	_	TokenRange=613:621
+3	may	may	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=622:625
+4	also	also	ADV	RB	_	5	advmod	_	TokenRange=626:630
+5	use	use	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=631:634
+6	an	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	TokenRange=635:637
+7	online	online	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=638:644
+8	survey	survey	NOUN	NN	Number=Sing	5	obj	_	TokenRange=645:651
+9	to	to	PART	TO	_	10	mark	_	TokenRange=652:654
+10	collect	collect	VERB	VB	VerbForm=Inf	8	acl	_	TokenRange=655:662
+11	opinions	opinion	NOUN	NNS	Number=Plur	10	obj	_	TokenRange=663:671
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=672:675
+13	feedback	feedback	NOUN	NN	Number=Sing	11	conj	_	SpaceAfter=No|TokenRange=676:684
+14	.	.	PUNCT	.	_	5	punct	_	TokenRange=684:685
+
+# sent_id = 9
+# text = This online survey appears on the bottom left of many pages on the site.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	3	det	_	TokenRange=686:690
+2	online	online	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=691:697
+3	survey	survey	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=698:704
+4	appears	appear	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=705:712
+5	on	on	ADP	IN	_	8	case	_	TokenRange=713:715
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=716:719
+7	bottom	bottom	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=720:726
+8	left	left	NOUN	NN	Number=Sing	4	obl	_	TokenRange=727:731
+9	of	of	ADP	IN	_	11	case	_	TokenRange=732:734
+10	many	many	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=735:739
+11	pages	page	NOUN	NNS	Number=Plur	8	nmod	_	TokenRange=740:745
+12	on	on	ADP	IN	_	14	case	_	TokenRange=746:748
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=749:752
+14	site	site	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=753:757
+15	.	.	PUNCT	.	_	4	punct	_	TokenRange=757:758
+
+# sent_id = 10
+# text = You don't have to answer these questions.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=759:762
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	SpaceAfter=No|TokenRange=763:765
+3	n't	not	PART	RB	_	4	advmod	_	TokenRange=765:768
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=769:773
+5	to	to	PART	TO	_	6	mark	_	TokenRange=774:776
+6	answer	answer	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=777:783
+7	these	these	DET	DT	Number=Plur|PronType=Dem	8	det	_	TokenRange=784:789
+8	questions	question	NOUN	NNS	Number=Plur	6	obj	_	SpaceAfter=No|TokenRange=790:799
+9	.	.	PUNCT	.	_	4	punct	_	TokenRange=799:800
+
+# sent_id = 11
+# text = Please do not to include any personally identifiable information (PII) in comments you make.
+1	Please	please	INTJ	UH	_	5	discourse	_	TokenRange=801:807
+2	do	do	AUX	VB	Mood=Imp|VerbForm=Fin	5	aux	_	TokenRange=808:810
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=811:814
+4	to	to	PART	TO	_	5	mark	_	TokenRange=815:817
+5	include	include	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=818:825
+6	any	any	DET	DT	_	9	det	_	TokenRange=826:829
+7	personally	personally	ADV	RB	_	8	advmod	_	TokenRange=830:840
+8	identifiable	identifiable	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=841:853
+9	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=854:865
+10	(	(	PUNCT	-LRB-	_	11	punct	_	SpaceAfter=No|TokenRange=866:867
+11	PII	PII	X	AFX	_	5	appos	_	SpaceAfter=No|TokenRange=867:870
+12	)	)	PUNCT	-RRB-	_	11	punct	_	TokenRange=870:871
+13	in	in	ADP	IN	_	14	case	_	TokenRange=872:874
+14	comments	comment	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=875:883
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	TokenRange=884:887
+16	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No|TokenRange=888:892
+17	.	.	PUNCT	.	_	5	punct	_	TokenRange=892:893
+
+# sent_id = 12
+# text = We analyze and use this information to improve the site's operation and content.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=894:896
+2	analyze	analyze	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=897:904
+3	and	and	CCONJ	CC	_	4	cc	_	TokenRange=905:908
+4	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=909:912
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	TokenRange=913:917
+6	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=918:929
+7	to	to	PART	TO	_	8	mark	_	TokenRange=930:932
+8	improve	improve	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=933:940
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=941:944
+10	site	site	NOUN	NN	Number=Sing	12	nmod:poss	_	SpaceAfter=No|TokenRange=945:949
+11	's	's	PART	POS	_	10	case	_	TokenRange=949:951
+12	operation	operation	NOUN	NN	Number=Sing	8	obj	_	TokenRange=952:961
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=962:965
+14	content	content	NOUN	NN	Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=966:973
+15	.	.	PUNCT	.	_	2	punct	_	TokenRange=973:974
+
+# sent_id = 13
+# text = The reports are available only to CMS website managers, members of the communications and Web teams, and other designated staff who require this information to perform their duties.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=975:978
+2	reports	report	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=979:986
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=987:990
+4	available	available	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=991:1000
+5	only	only	ADV	RB	_	7	advmod	_	TokenRange=1001:1005
+6	to	to	PART	TO	_	7	mark	_	TokenRange=1006:1008
+7	CMS	Cm	VERB	VB	VerbForm=Inf	4	advcl	_	TokenRange=1009:1012
+8	website	website	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1013:1020
+9	managers	manager	NOUN	NNS	Number=Plur	7	obj	_	SpaceAfter=No|TokenRange=1021:1029
+10	,	,	PUNCT	,	_	9	punct	_	TokenRange=1029:1030
+11	members	member	NOUN	NNS	Number=Plur	9	appos	_	TokenRange=1031:1038
+12	of	of	ADP	IN	_	14	case	_	TokenRange=1039:1041
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=1042:1045
+14	communications	communication	NOUN	NNS	Number=Plur	11	nmod	_	TokenRange=1046:1060
+15	and	and	CCONJ	CC	_	17	cc	_	TokenRange=1061:1064
+16	Web	web	NOUN	NN	Number=Sing	17	compound	_	TokenRange=1065:1068
+17	teams	team	NOUN	NNS	Number=Plur	14	conj	_	SpaceAfter=No|TokenRange=1069:1074
+18	,	,	PUNCT	,	_	22	punct	_	TokenRange=1074:1075
+19	and	and	CCONJ	CC	_	22	cc	_	TokenRange=1076:1079
+20	other	other	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=1080:1085
+21	designated	designate	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	_	TokenRange=1086:1096
+22	staff	staff	NOUN	NNS	Number=Plur	9	conj	_	TokenRange=1097:1102
+23	who	who	PRON	WP	PronType=Rel	24	nsubj	_	TokenRange=1103:1106
+24	require	require	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	acl:relcl	_	TokenRange=1107:1114
+25	this	this	DET	DT	Number=Sing|PronType=Dem	26	det	_	TokenRange=1115:1119
+26	information	information	NOUN	NN	Number=Sing	24	obj	_	TokenRange=1120:1131
+27	to	to	PART	TO	_	28	mark	_	TokenRange=1132:1134
+28	perform	perform	VERB	VB	VerbForm=Inf	24	advcl	_	TokenRange=1135:1142
+29	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	30	nmod:poss	_	TokenRange=1143:1148
+30	duties	duty	NOUN	NNS	Number=Plur	28	obj	_	SpaceAfter=No|TokenRange=1149:1155
+31	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=1155:1156
+
+# sent_id = 14
+# text = CMS websites keep the data from our measurement tools as long as needed to support the mission of the website.
+1	CMS	Cm	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=1157:1160
+2	websites	websites	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=1161:1169
+3	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1170:1174
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=1175:1178
+5	data	data	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1179:1183
+6	from	from	ADP	IN	_	9	case	_	TokenRange=1184:1188
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=1189:1192
+8	measurement	measurement	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1193:1204
+9	tools	tool	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=1205:1210
+10	as	as	ADV	RB	_	11	advmod	_	TokenRange=1211:1213
+11	long	long	ADV	RB	Degree=Pos	3	advmod	_	TokenRange=1214:1218
+12	as	as	SCONJ	IN	_	13	mark	_	TokenRange=1219:1221
+13	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	_	TokenRange=1222:1228
+14	to	to	PART	TO	_	15	mark	_	TokenRange=1229:1231
+15	support	support	VERB	VB	VerbForm=Inf	13	xcomp	_	TokenRange=1232:1239
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=1240:1243
+17	mission	mission	NOUN	NN	Number=Sing	15	obj	_	TokenRange=1244:1251
+18	of	of	ADP	IN	_	20	case	_	TokenRange=1252:1254
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	TokenRange=1255:1258
+20	website	website	NOUN	NN	Number=Sing	17	nmod	_	SpaceAfter=No|TokenRange=1259:1266
+21	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=1266:1267
+

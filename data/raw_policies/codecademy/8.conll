@@ -1,0 +1,332 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Your rights in respect of your personal data if you are located in the EU or Switzerland
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
+2	rights	right	NOUN	NNS	Number=Plur	12	nsubj:pass	_	TokenRange=5:11
+3	in	in	ADP	IN	_	4	case	_	TokenRange=12:14
+4	respect	respect	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=15:22
+5	of	of	ADP	IN	_	8	case	_	TokenRange=23:25
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=26:30
+7	personal	personal	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=31:39
+8	data	data	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=40:44
+9	if	if	SCONJ	IN	_	12	mark	_	TokenRange=45:47
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj:pass	_	TokenRange=48:51
+11	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	aux:pass	_	TokenRange=52:55
+12	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=56:63
+13	in	in	ADP	IN	_	15	case	_	TokenRange=64:66
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=67:70
+15	EU	EU	PROPN	NNP	Number=Sing	12	obl	_	TokenRange=71:73
+16	or	or	CCONJ	CC	_	17	cc	_	TokenRange=74:76
+17	Switzerland	Switzerland	PROPN	NNP	Number=Sing	15	conj	_	SpacesAfter=\n\n|TokenRange=77:88
+
+# newpar
+# sent_id = 2
+# text = If you are located in the EU or Switzerland, you have the following rights in respect of your personal data that we hold:
+1	If	if	SCONJ	IN	_	4	mark	_	TokenRange=90:92
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	_	TokenRange=93:96
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	TokenRange=97:100
+4	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	advcl	_	TokenRange=101:108
+5	in	in	ADP	IN	_	7	case	_	TokenRange=109:111
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=112:115
+7	EU	EU	PROPN	NNP	Number=Sing	4	obl	_	TokenRange=116:118
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=119:121
+9	Switzerland	Switzerland	PROPN	NNP	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=122:133
+10	,	,	PUNCT	,	_	12	punct	_	TokenRange=133:134
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	TokenRange=135:138
+12	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=139:143
+13	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=144:147
+14	following	follow	VERB	VBG	VerbForm=Ger	15	amod	_	TokenRange=148:157
+15	rights	rights	NOUN	NNS	Number=Plur	12	obj	_	TokenRange=158:164
+16	in	in	ADP	IN	_	17	case	_	TokenRange=165:167
+17	respect	respect	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=168:175
+18	of	of	ADP	IN	_	21	case	_	TokenRange=176:178
+19	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=179:183
+20	personal	personal	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=184:192
+21	data	data	NOUN	NN	Number=Sing	17	nmod	_	TokenRange=193:197
+22	that	that	PRON	WDT	PronType=Rel	24	obj	_	TokenRange=198:202
+23	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	24	nsubj	_	TokenRange=203:205
+24	hold	hold	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	acl:relcl	_	SpaceAfter=No|TokenRange=206:210
+25	:	:	PUNCT	:	_	12	punct	_	SpacesAfter=\n|TokenRange=210:211
+
+# sent_id = 3
+# text = Right of access.
+1	Right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=212:217
+2	of	of	ADP	IN	_	3	case	_	TokenRange=218:220
+3	access	access	NOUN	NN	Number=Sing	1	nmod	_	SpaceAfter=No|TokenRange=221:227
+4	.	.	PUNCT	.	_	1	punct	_	TokenRange=227:228
+
+# sent_id = 4
+# text = The right to obtain access to your personal data.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=229:232
+2	right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=233:238
+3	to	to	PART	TO	_	4	mark	_	TokenRange=239:241
+4	obtain	obtain	VERB	VB	VerbForm=Inf	2	acl	_	TokenRange=242:248
+5	access	access	NOUN	NN	Number=Sing	4	obj	_	TokenRange=249:255
+6	to	to	ADP	IN	_	9	case	_	TokenRange=256:258
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=259:263
+8	personal	personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=264:272
+9	data	data	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No|TokenRange=273:277
+10	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=277:278
+
+# sent_id = 5
+# text = Right to rectification.
+1	Right	right	ADV	RB	_	3	advmod	_	TokenRange=279:284
+2	to	to	ADP	IN	_	3	case	_	TokenRange=285:287
+3	rectification	rectification	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=288:301
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=301:302
+
+# sent_id = 6
+# text = The right to obtain rectification of your personal data without undue delay where that personal data is inaccurate or incomplete.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=303:306
+2	right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=307:312
+3	to	to	PART	TO	_	4	mark	_	TokenRange=313:315
+4	obtain	obtain	VERB	VB	VerbForm=Inf	2	acl	_	TokenRange=316:322
+5	rectification	rectification	NOUN	NN	Number=Sing	4	obj	_	TokenRange=323:336
+6	of	of	ADP	IN	_	9	case	_	TokenRange=337:339
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=340:344
+8	personal	personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=345:353
+9	data	data	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=354:358
+10	without	without	ADP	IN	_	12	case	_	TokenRange=359:366
+11	undue	undue	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=367:372
+12	delay	delay	NOUN	NN	Number=Sing	4	obl	_	TokenRange=373:378
+13	where	where	ADV	WRB	PronType=Rel	18	advmod	_	TokenRange=379:384
+14	that	that	SCONJ	IN	_	18	mark	_	TokenRange=385:389
+15	personal	personal	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=390:398
+16	data	data	NOUN	NN	Number=Sing	18	nsubj	_	TokenRange=399:403
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	cop	_	TokenRange=404:406
+18	inaccurate	inaccurate	ADJ	JJ	Degree=Pos	12	acl:relcl	_	TokenRange=407:417
+19	or	or	CCONJ	CC	_	20	cc	_	TokenRange=418:420
+20	incomplete	incomplete	ADV	RB	_	18	conj	_	SpaceAfter=No|TokenRange=421:431
+21	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=431:432
+
+# sent_id = 7
+# text = Right to erasure.
+1	Right	right	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=433:438
+2	to	to	PART	TO	_	3	mark	_	TokenRange=439:441
+3	erasure	erasure	VERB	VB	VerbForm=Inf	1	advcl	_	SpaceAfter=No|TokenRange=442:449
+4	.	.	PUNCT	.	_	1	punct	_	TokenRange=449:450
+
+# sent_id = 8
+# text = The right to obtain the erasure of your personal data without undue delay in certain circumstances, such as where the personal data is no longer necessary in relation to the purposes for which it was collected or processed.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=451:454
+2	right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=455:460
+3	to	to	PART	TO	_	4	mark	_	TokenRange=461:463
+4	obtain	obtain	VERB	VB	VerbForm=Inf	2	acl	_	TokenRange=464:470
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=471:474
+6	erasure	erasure	NOUN	NN	Number=Sing	4	obj	_	TokenRange=475:482
+7	of	of	ADP	IN	_	10	case	_	TokenRange=483:485
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=486:490
+9	personal	personal	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=491:499
+10	data	data	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=500:504
+11	without	without	ADP	IN	_	13	case	_	TokenRange=505:512
+12	undue	undue	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=513:518
+13	delay	delay	NOUN	NN	Number=Sing	4	obl	_	TokenRange=519:524
+14	in	in	ADP	IN	_	16	case	_	TokenRange=525:527
+15	certain	certain	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=528:535
+16	circumstances	circumstance	NOUN	NNS	Number=Plur	13	nmod	_	SpaceAfter=No|TokenRange=536:549
+17	,	,	PUNCT	,	_	4	punct	_	TokenRange=549:550
+18	such	such	ADJ	JJ	Degree=Pos	27	mark	_	TokenRange=551:555
+19	as	as	SCONJ	IN	_	18	fixed	_	TokenRange=556:558
+20	where	where	ADV	WRB	PronType=Int	27	mark	_	TokenRange=559:564
+21	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	TokenRange=565:568
+22	personal	personal	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=569:577
+23	data	data	NOUN	NN	Number=Sing	20	nsubj	_	TokenRange=578:582
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	TokenRange=583:585
+25	no	no	ADV	RB	_	26	advmod	_	TokenRange=586:588
+26	longer	longer	ADV	RBR	Degree=Cmp	27	advmod	_	TokenRange=589:595
+27	necessary	necessary	ADJ	JJ	Degree=Pos	4	advcl	_	TokenRange=596:605
+28	in	in	ADP	IN	_	29	case	_	TokenRange=606:608
+29	relation	relation	NOUN	NN	Number=Sing	27	obl	_	TokenRange=609:617
+30	to	to	ADP	IN	_	32	case	_	TokenRange=618:620
+31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	_	TokenRange=621:624
+32	purposes	purpose	NOUN	NNS	Number=Plur	29	nmod	_	TokenRange=625:633
+33	for	for	ADP	IN	_	34	case	_	TokenRange=634:637
+34	which	which	PRON	WDT	PronType=Int	37	obl	_	TokenRange=638:643
+35	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	37	nsubj:pass	_	TokenRange=644:646
+36	was	be	AUX	VBD	Mood=Ind|Number=Sing|Person=3|Tense=Past|VerbForm=Fin	37	aux:pass	_	TokenRange=647:650
+37	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	32	acl:relcl	_	TokenRange=651:660
+38	or	or	CCONJ	CC	_	39	cc	_	TokenRange=661:663
+39	processed	process	VERB	VBN	Tense=Past|VerbForm=Part	37	conj	_	SpaceAfter=No|TokenRange=664:673
+40	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=673:674
+
+# sent_id = 9
+# text = Right to restriction.
+1	Right	right	ADV	RB	_	3	advmod	_	TokenRange=675:680
+2	to	to	ADP	IN	_	3	case	_	TokenRange=681:683
+3	restriction	restriction	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=684:695
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=695:696
+
+# sent_id = 10
+# text = The right to obtain the restriction of the processing undertaken by us on your personal data in certain circumstances, such as where the accuracy of the personal data is contested by you, for a period enabling us to verify the accuracy of that personal data.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=697:700
+2	right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=701:706
+3	to	to	PART	TO	_	4	mark	_	TokenRange=707:709
+4	obtain	obtain	VERB	VB	VerbForm=Inf	2	acl	_	TokenRange=710:716
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=717:720
+6	restriction	restriction	NOUN	NN	Number=Sing	4	obj	_	TokenRange=721:732
+7	of	of	ADP	IN	_	9	case	_	TokenRange=733:735
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=736:739
+9	processing	processing	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=740:750
+10	undertaken	undertake	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	TokenRange=751:761
+11	by	by	ADP	IN	_	12	case	_	TokenRange=762:764
+12	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	obl	_	TokenRange=765:767
+13	on	on	ADP	IN	_	16	case	_	TokenRange=768:770
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=771:775
+15	personal	personal	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=776:784
+16	data	data	NOUN	NN	Number=Sing	10	obl	_	TokenRange=785:789
+17	in	in	ADP	IN	_	19	case	_	TokenRange=790:792
+18	certain	certain	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=793:800
+19	circumstances	circumstance	NOUN	NNS	Number=Plur	10	obl	_	SpaceAfter=No|TokenRange=801:814
+20	,	,	PUNCT	,	_	19	punct	_	TokenRange=814:815
+21	such	such	ADJ	JJ	Degree=Pos	31	mark	_	TokenRange=816:820
+22	as	as	SCONJ	IN	_	21	fixed	_	TokenRange=821:823
+23	where	where	ADV	WRB	PronType=Int	31	mark	_	TokenRange=824:829
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	TokenRange=830:833
+25	accuracy	accuracy	NOUN	NN	Number=Sing	31	nsubj:pass	_	TokenRange=834:842
+26	of	of	ADP	IN	_	29	case	_	TokenRange=843:845
+27	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	TokenRange=846:849
+28	personal	personal	ADJ	JJ	Degree=Pos	29	amod	_	TokenRange=850:858
+29	data	data	NOUN	NN	Number=Sing	25	nmod	_	TokenRange=859:863
+30	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	31	aux:pass	_	TokenRange=864:866
+31	contested	conteste	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	19	acl	_	TokenRange=867:876
+32	by	by	ADP	IN	_	33	case	_	TokenRange=877:879
+33	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	31	obl	_	SpaceAfter=No|TokenRange=880:883
+34	,	,	PUNCT	,	_	33	punct	_	TokenRange=883:884
+35	for	for	ADP	IN	_	37	case	_	TokenRange=885:888
+36	a	a	DET	DT	Definite=Ind|PronType=Art	37	det	_	TokenRange=889:890
+37	period	period	NOUN	NN	Number=Sing	31	obl	_	TokenRange=891:897
+38	enabling	enable	VERB	VBG	VerbForm=Ger	37	acl	_	TokenRange=898:906
+39	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	38	obj	_	TokenRange=907:909
+40	to	to	PART	TO	_	41	mark	_	TokenRange=910:912
+41	verify	verify	VERB	VB	VerbForm=Inf	38	xcomp	_	TokenRange=913:919
+42	the	the	DET	DT	Definite=Def|PronType=Art	43	det	_	TokenRange=920:923
+43	accuracy	accuracy	NOUN	NN	Number=Sing	41	obj	_	TokenRange=924:932
+44	of	of	ADP	IN	_	47	case	_	TokenRange=933:935
+45	that	that	DET	DT	Number=Sing|PronType=Dem	47	det	_	TokenRange=936:940
+46	personal	personal	ADJ	JJ	Degree=Pos	47	amod	_	TokenRange=941:949
+47	data	data	NOUN	NN	Number=Sing	43	nmod	_	SpaceAfter=No|TokenRange=950:954
+48	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=954:955
+
+# sent_id = 11
+# text = Right to portability.
+1	Right	right	ADV	RB	_	3	advmod	_	TokenRange=956:961
+2	to	to	ADP	IN	_	3	case	_	TokenRange=962:964
+3	portability	portability	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=965:976
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=976:977
+
+# sent_id = 12
+# text = The right to portability allows you to move, copy or transfer personal data easily from one organization to another.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=978:981
+2	right	right	NOUN	NN	Number=Sing	5	nsubj	_	TokenRange=982:987
+3	to	to	ADP	IN	_	4	case	_	TokenRange=988:990
+4	portability	portability	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=991:1002
+5	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1003:1009
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	_	TokenRange=1010:1013
+7	to	to	PART	TO	_	8	mark	_	TokenRange=1014:1016
+8	move	move	VERB	VB	VerbForm=Inf	5	xcomp	_	SpaceAfter=No|TokenRange=1017:1021
+9	,	,	PUNCT	,	_	10	punct	_	TokenRange=1021:1022
+10	copy	copy	VERB	VB	VerbForm=Inf	8	conj	_	TokenRange=1023:1027
+11	or	or	CCONJ	CC	_	12	cc	_	TokenRange=1028:1030
+12	transfer	transfer	VERB	VB	VerbForm=Inf	8	conj	_	TokenRange=1031:1039
+13	personal	personal	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=1040:1048
+14	data	data	NOUN	NN	Number=Sing	12	obj	_	TokenRange=1049:1053
+15	easily	easily	ADV	RB	_	18	advmod	_	TokenRange=1054:1060
+16	from	from	ADP	IN	_	18	case	_	TokenRange=1061:1065
+17	one	one	NUM	CD	NumType=Card	18	nummod	_	TokenRange=1066:1069
+18	organization	organization	NOUN	NN	Number=Sing	12	obl	_	TokenRange=1070:1082
+19	to	to	ADP	IN	_	20	case	_	TokenRange=1083:1085
+20	another	another	DET	DT	_	18	nmod	_	SpaceAfter=No|TokenRange=1086:1093
+21	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n|TokenRange=1093:1094
+
+# sent_id = 13
+# text = Right to object.
+1	Right	right	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=1095:1100
+2	to	to	PART	TO	_	3	mark	_	TokenRange=1101:1103
+3	object	object	VERB	VB	VerbForm=Inf	1	advcl	_	SpaceAfter=No|TokenRange=1104:1110
+4	.	.	PUNCT	.	_	1	punct	_	TokenRange=1110:1111
+
+# sent_id = 14
+# text = You have a right to object to processing based on legitimate interests and direct marketing.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	TokenRange=1112:1115
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1116:1120
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	TokenRange=1121:1122
+4	right	right	NOUN	NN	Number=Sing	2	obj	_	TokenRange=1123:1128
+5	to	to	PART	TO	_	6	mark	_	TokenRange=1129:1131
+6	object	object	VERB	VB	VerbForm=Inf	4	acl	_	TokenRange=1132:1138
+7	to	to	ADP	IN	_	8	case	_	TokenRange=1139:1141
+8	processing	process	NOUN	NN	Number=Sing	6	obl	_	TokenRange=1142:1152
+9	based	base	VERB	VBN	Tense=Past|VerbForm=Part	12	case	_	TokenRange=1153:1158
+10	on	on	ADP	IN	_	12	case	_	TokenRange=1159:1161
+11	legitimate	legitimate	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=1162:1172
+12	interests	interest	NOUN	NNS	Number=Plur	8	nmod	_	TokenRange=1173:1182
+13	and	and	CCONJ	CC	_	15	cc	_	TokenRange=1183:1186
+14	direct	direct	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=1187:1193
+15	marketing	marketing	NOUN	NN	Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=1194:1203
+16	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=1203:1204
+
+# sent_id = 15
+# text = If you wish to exercise one of these rights, please contact us using the contact details at the end of this Privacy Policy.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=1205:1207
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1208:1211
+3	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	_	TokenRange=1212:1216
+4	to	to	PART	TO	_	5	mark	_	TokenRange=1217:1219
+5	exercise	exercise	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=1220:1228
+6	one	one	NUM	CD	NumType=Card	5	obj	_	TokenRange=1229:1232
+7	of	of	ADP	IN	_	9	case	_	TokenRange=1233:1235
+8	these	these	DET	DT	Number=Plur|PronType=Dem	9	det	_	TokenRange=1236:1241
+9	rights	rights	NOUN	NNS	Number=Plur	6	nmod	_	SpaceAfter=No|TokenRange=1242:1248
+10	,	,	PUNCT	,	_	12	punct	_	TokenRange=1248:1249
+11	please	please	INTJ	UH	_	12	discourse	_	TokenRange=1250:1256
+12	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=1257:1264
+13	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	12	obj	_	TokenRange=1265:1267
+14	using	use	VERB	VBG	VerbForm=Ger	12	xcomp	_	TokenRange=1268:1273
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=1274:1277
+16	contact	contact	NOUN	NN	Number=Sing	17	compound	_	TokenRange=1278:1285
+17	details	detail	NOUN	NNS	Number=Plur	14	obj	_	TokenRange=1286:1293
+18	at	at	ADP	IN	_	20	case	_	TokenRange=1294:1296
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	TokenRange=1297:1300
+20	end	end	NOUN	NN	Number=Sing	14	obl	_	TokenRange=1301:1304
+21	of	of	ADP	IN	_	24	case	_	TokenRange=1305:1307
+22	this	this	DET	DT	Number=Sing|PronType=Dem	24	det	_	TokenRange=1308:1312
+23	Privacy	privacy	NOUN	NN	Number=Sing	24	compound	_	TokenRange=1313:1320
+24	Policy	policy	NOUN	NN	Number=Sing	20	nmod	_	SpaceAfter=No|TokenRange=1321:1327
+25	.	.	PUNCT	.	_	12	punct	_	SpacesAfter=\n|TokenRange=1327:1328
+
+# sent_id = 16
+# text = You also have the right to lodge a complaint to your local data protection authority.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1329:1332
+2	also	also	ADV	RB	_	3	advmod	_	TokenRange=1333:1337
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1338:1342
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=1343:1346
+5	right	right	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1347:1352
+6	to	to	PART	TO	_	7	mark	_	TokenRange=1353:1355
+7	lodge	lodge	VERB	VB	VerbForm=Inf	5	acl	_	TokenRange=1356:1361
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=1362:1363
+9	complaint	complaint	NOUN	NN	Number=Sing	7	obj	_	TokenRange=1364:1373
+10	to	to	ADP	IN	_	15	case	_	TokenRange=1374:1376
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=1377:1381
+12	local	local	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=1382:1387
+13	data	data	NOUN	NN	Number=Sing	14	compound	_	TokenRange=1388:1392
+14	protection	protection	NOUN	NN	Number=Sing	15	compound	_	TokenRange=1393:1403
+15	authority	authority	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=1404:1413
+16	.	.	PUNCT	.	_	3	punct	_	TokenRange=1413:1414
+
+# sent_id = 17
+# text = Further information about how to contact your local data protection authority is available at http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm
+1	Further	further	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=1415:1422
+2	information	information	NOUN	NN	Number=Sing	13	nsubj	_	TokenRange=1423:1434
+3	about	about	SCONJ	IN	_	6	mark	_	TokenRange=1435:1440
+4	how	how	ADV	WRB	PronType=Int	6	advmod	_	TokenRange=1441:1444
+5	to	to	PART	TO	_	6	mark	_	TokenRange=1445:1447
+6	contact	contact	VERB	VB	VerbForm=Inf	2	acl	_	TokenRange=1448:1455
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=1456:1460
+8	local	local	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=1461:1466
+9	data	data	NOUN	NN	Number=Sing	10	compound	_	TokenRange=1467:1471
+10	protection	protection	NOUN	NN	Number=Sing	11	compound	_	TokenRange=1472:1482
+11	authority	authority	NOUN	NN	Number=Sing	6	obj	_	TokenRange=1483:1492
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TokenRange=1493:1495
+13	available	available	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=1496:1505
+14	at	at	ADP	IN	_	15	case	_	TokenRange=1506:1508
+15	http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm	http://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm	X	ADD	_	13	obl	_	SpacesAfter=\n\n|TokenRange=1509:1584
+

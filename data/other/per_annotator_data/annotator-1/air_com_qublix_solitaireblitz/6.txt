@@ -1,0 +1,13 @@
+GAMES
+
+When you use any of the Qublix games or applications on a mobile platform or on Facebook, we may record certain information and data, such as:
+· your application usage, access, session times and in-app purchases;
+· your unique device ID (persistent / non-persistent);
+· hardware type;
+· media access control (“MAC”) address;
+· the version of your operating system (“OS”);
+· your email address (if you have connected to Facebook);
+This information is useful to us for troubleshooting and helps us understand usage trends and improve and optimize the Services and your user experience, and may also be utilized for other purposes, such as interest based advertising as described elsewhere in this Policy.
+In addition, we create a unique user ID to track your use of our Service. This unique user ID is stored in connection with your profile information to track the Qublix games you are playing.
+We may occasionally send you push notifications through our mobile applications to send you game updates or other service related notifications that may be of importance to you. You may at any time opt-out from receiving these types of communications by turning them off at the device level through your settings.
+

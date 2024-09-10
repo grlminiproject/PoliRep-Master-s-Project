@@ -1,0 +1,18 @@
+T1	Data-cookies-web-beacons-and-other-technologies 22 29	cookies
+T2	first-party-collection-use 33 36	use
+E1	first-party-collection-use:T2 Data-Collector:T4 Data-Collected:T1 Purpose-Argument:T3
+T3	Basic-service-feature 50 92	operate and provide our Service on the web
+T4	First-party-entity 30 32	we
+T5	First-party-entity 94 96	We
+T6	Negation 100 103	not
+T7	first-party-collection-use 104 107	use
+E2	first-party-collection-use:T7 Polarity:T6 Data-Collector:T5 Data-Collected:T8 Purpose-Argument:T9 Purpose-Argument2:T10
+T8	Data-cookies-web-beacons-and-other-technologies 108 115	cookies
+T9	Personalization-customization 120 129	profiling
+T10	Adverstising-Marketing 133 144	advertising
+T11	Data-cookies-web-beacons-and-other-technologies 150 157	cookies
+T12	first-party-collection-use 161 164	use
+E3	first-party-collection-use:T12 Data-Collector:T13 Data-Collected:T11 Purpose-Argument:T14 Purpose-Argument2:T15
+T13	First-party-entity 158 160	we
+T14	Personalization-customization 203 236	provide and customize our Service
+T15	Personalization-customization 255 296	provide you with a better user experience

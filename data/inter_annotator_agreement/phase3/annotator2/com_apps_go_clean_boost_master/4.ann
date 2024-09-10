@@ -1,0 +1,11 @@
+T1	ServiceConsumptionBehavior 93 169	information about the product and services that you use and how you use them
+T2	ServiceProvision 182 256	properly provide the core or important features of our product and service
+T3	ImproveExistingProductsAndServices 264 295	improve our product and service
+T4	ServiceOptimisation 303 422	provide additional features to our product (such as socializing functions or value-added services and promotions, etc.)
+T5	ServiceProvision 622 702	Provide our product and services, including our app and related website (if any)
+T6	ImproveExistingProductsAndServices 708 730	improve them over time
+T7	SellProductsToDataSubject 732 788	Allow you to download and purchase products and services
+T8	CustomerRelationshipManagement 790 951	Personalize and manage our relationship with you, including introducing you to products or services that may be of interest to you or to provide customer support
+T9	CustomerClaimsManagement 953 1008	Investigate, respond to, and manage inquiries or events
+T10	LegalCompliance 1010 1065	Work with and respond to law enforcement and regulators
+T11	CommercialResearch 1071 1226	Research matters relating to our prod and business, such as security threats and vulnerabilities, or conducting internal audit, data analysis, and research

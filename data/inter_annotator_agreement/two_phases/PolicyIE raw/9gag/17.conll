@@ -1,0 +1,89 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = International Transfers
+1	International	International	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=0:13
+2	Transfers	transfers	PROPN	NNPS	Number=Plur	0	root	_	SpacesAfter=\n\n|TokenRange=14:23
+
+# newpar
+# sent_id = 2
+# text = We may collect your personal information from, transfer it to, and process it in the United States and other countries outside of where you live.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=25:27
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=28:31
+3	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=32:39
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=40:44
+5	personal	personal	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=45:53
+6	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=54:65
+7	from	from	ADP	IN	_	9	case	_	SpaceAfter=No|TokenRange=66:70
+8	,	,	PUNCT	,	_	9	punct	_	TokenRange=70:71
+9	transfer	transfer	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=72:80
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	TokenRange=81:83
+11	to	to	ADP	IN	_	9	obl	_	SpaceAfter=No|TokenRange=84:86
+12	,	,	PUNCT	,	_	14	punct	_	TokenRange=86:87
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=88:91
+14	process	process	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=92:99
+15	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	14	obj	_	TokenRange=100:102
+16	in	in	ADP	IN	_	19	case	_	TokenRange=103:105
+17	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=106:109
+18	United	United	PROPN	NNP	Number=Sing	19	compound	_	TokenRange=110:116
+19	States	States	PROPN	NNP	Number=Sing	14	obl	_	TokenRange=117:123
+20	and	and	CCONJ	CC	_	22	cc	_	TokenRange=124:127
+21	other	other	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=128:133
+22	countries	country	NOUN	NNS	Number=Plur	19	conj	_	TokenRange=134:143
+23	outside	outside	ADP	IN	_	27	mark	_	TokenRange=144:151
+24	of	of	SCONJ	IN	_	27	mark	_	TokenRange=152:154
+25	where	where	ADV	WRB	PronType=Int	27	advmod	_	TokenRange=155:160
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	27	nsubj	_	TokenRange=161:164
+27	live	live	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	advcl	_	SpaceAfter=No|TokenRange=165:169
+28	.	.	PUNCT	.	_	3	punct	_	TokenRange=169:170
+
+# sent_id = 3
+# text = When we share information of EU and EEA users outside the EU or EEA, we make sure an adequate transfer mechanism is in place.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=171:175
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=176:178
+3	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	advcl	_	TokenRange=179:184
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=185:196
+5	of	of	ADP	IN	_	9	case	_	TokenRange=197:199
+6	EU	EU	PROPN	NNP	Number=Sing	9	compound	_	TokenRange=200:202
+7	and	and	CCONJ	CC	_	8	cc	_	TokenRange=203:206
+8	EEA	EEA	PROPN	NNP	Number=Sing	6	conj	_	TokenRange=207:210
+9	users	user	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=211:216
+10	outside	outside	ADP	IN	_	12	case	_	TokenRange=217:224
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=225:228
+12	EU	EU	PROPN	NNP	Number=Sing	9	nmod	_	TokenRange=229:231
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=232:234
+14	EEA	EEA	PROPN	NNP	Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=235:238
+15	,	,	PUNCT	,	_	17	punct	_	TokenRange=238:239
+16	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	TokenRange=240:242
+17	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=243:247
+18	sure	sure	ADJ	JJ	Degree=Pos	17	xcomp	_	TokenRange=248:252
+19	an	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	TokenRange=253:255
+20	adequate	adequate	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=256:264
+21	transfer	transfer	NOUN	NN	Number=Sing	22	compound	_	TokenRange=265:273
+22	mechanism	mechanism	NOUN	NN	Number=Sing	25	nsubj	_	TokenRange=274:283
+23	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	TokenRange=284:286
+24	in	in	ADP	IN	_	25	case	_	TokenRange=287:289
+25	place	place	NOUN	NN	Number=Sing	18	ccomp	_	SpaceAfter=No|TokenRange=290:295
+26	.	.	PUNCT	.	_	17	punct	_	TokenRange=295:296
+
+# sent_id = 4
+# text = For internal transfers, we rely on the EU-U.S. and Swiss-U.S. Privacy Shield.
+1	For	for	ADP	IN	_	3	case	_	TokenRange=297:300
+2	internal	internal	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=301:309
+3	transfers	transfer	NOUN	NNS	Number=Plur	17	obl	_	SpaceAfter=No|TokenRange=310:319
+4	,	,	PUNCT	,	_	17	punct	_	TokenRange=319:320
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	TokenRange=321:323
+6	rely	rely	ADV	RB	_	17	advmod	_	TokenRange=324:328
+7	on	on	ADP	IN	_	17	case	_	TokenRange=329:331
+8	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=332:335
+9	EU	EU	PROPN	NNP	Number=Sing	11	compound	_	SpaceAfter=No|TokenRange=336:338
+10	-	-	PUNCT	HYPH	_	11	punct	_	SpaceAfter=No|TokenRange=338:339
+11	U.S.	U.S.	PROPN	NNP	Number=Sing	17	compound	_	TokenRange=339:343
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=344:347
+13	Swiss	Swiss	PROPN	NNP	Number=Sing	11	conj	_	SpaceAfter=No|TokenRange=348:353
+14	-	-	PUNCT	HYPH	_	17	punct	_	SpaceAfter=No|TokenRange=353:354
+15	U.S.	U.S.	PROPN	NNP	Number=Sing	17	compound	_	TokenRange=354:358
+16	Privacy	privacy	PROPN	NNP	Number=Sing	17	compound	_	TokenRange=359:366
+17	Shield	Shield	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=367:373
+18	.	.	PUNCT	.	_	17	punct	_	SpacesAfter=\n\n|TokenRange=373:374
+

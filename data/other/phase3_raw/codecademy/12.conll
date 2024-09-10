@@ -1,0 +1,208 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Where can I find a list of Codecademy's subprocessors?
+1	Where	where	ADV	WRB	PronType=Int	4	advmod	_	TokenRange=0:5
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=6:9
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TokenRange=10:11
+4	find	find	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=12:16
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	TokenRange=17:18
+6	list	list	NOUN	NN	Number=Sing	4	obj	_	TokenRange=19:23
+7	of	of	ADP	IN	_	10	case	_	TokenRange=24:26
+8	Codecademy	Codecademy	PROPN	NNP	Number=Sing	10	nmod:poss	_	SpaceAfter=No|TokenRange=27:37
+9	's	's	PART	POS	_	8	case	_	TokenRange=37:39
+10	subprocessors	subprocessor	NOUN	NNS	Number=Plur	6	nmod	_	SpaceAfter=No|TokenRange=40:53
+11	?	?	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=53:54
+
+# newpar
+# sent_id = 2
+# text = Here is a non-exclusive list of our subprocessors and what they are used for.
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	TokenRange=56:60
+2	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	TokenRange=61:63
+3	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=64:65
+4	non-exclusive	non-exclusive	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=66:79
+5	list	list	NOUN	NN	Number=Sing	1	nsubj	_	TokenRange=80:84
+6	of	of	ADP	IN	_	8	case	_	TokenRange=85:87
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=88:91
+8	subprocessors	subprocessor	NOUN	NNS	Number=Plur	5	nmod	_	TokenRange=92:105
+9	and	and	CCONJ	CC	_	13	cc	_	TokenRange=106:109
+10	what	what	PRON	WP	PronType=Int	13	obl	_	TokenRange=110:114
+11	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	13	nsubj:pass	_	TokenRange=115:119
+12	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux:pass	_	TokenRange=120:123
+13	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	conj	_	TokenRange=124:128
+14	for	for	ADP	IN	_	13	case	_	SpaceAfter=No|TokenRange=129:132
+15	.	.	PUNCT	.	_	1	punct	_	TokenRange=132:133
+
+# sent_id = 3
+# text = This list is subject to change as our business evolves.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	TokenRange=134:138
+2	list	list	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=139:143
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=144:146
+4	subject	subject	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=147:154
+5	to	to	PART	TO	_	6	mark	_	TokenRange=155:157
+6	change	change	VERB	VB	VerbForm=Inf	4	ccomp	_	TokenRange=158:164
+7	as	as	ADP	IN	_	10	case	_	TokenRange=165:167
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=168:171
+9	business	business	NOUN	NN	Number=Sing	10	compound	_	TokenRange=172:180
+10	evolves	evolve	NOUN	NNS	Number=Plur	6	obl	_	SpaceAfter=No|TokenRange=181:188
+11	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=188:189
+
+# sent_id = 4
+# text = Subprocessor Name Nature of Processing New Relic Logging and security monitoring.
+1	Subprocessor	Subprocessor	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=190:202
+2	Name	name	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=203:207
+3	Nature	nature	PROPN	NNP	Number=Sing	0	root	_	TokenRange=208:214
+4	of	of	ADP	IN	_	11	case	_	TokenRange=215:217
+5	Processing	processing	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=218:228
+6	New	New	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=229:232
+7	Relic	Relic	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=233:238
+8	Logging	log	PROPN	NNP	Number=Sing	7	flat	_	TokenRange=239:246
+9	and	and	CCONJ	CC	_	10	cc	_	TokenRange=247:250
+10	security	security	NOUN	NN	Number=Sing	11	compound	_	TokenRange=251:259
+11	monitoring	monitoring	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=260:270
+12	.	.	PUNCT	.	_	3	punct	_	TokenRange=270:271
+
+# sent_id = 5
+# text = Amazon Web Services Storage and archival of Codecademy user data and metadata.
+1	Amazon	Amazon	ADP	IN	_	4	case	_	TokenRange=272:278
+2	Web	web	NOUN	NN	Number=Sing	3	compound	_	TokenRange=279:282
+3	Services	Service	NOUN	NNS	Number=Plur	4	compound	_	TokenRange=283:291
+4	Storage	storage	NOUN	NN	Number=Sing	0	root	_	TokenRange=292:299
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=300:303
+6	archival	archival	NOUN	NN	Number=Sing	4	conj	_	TokenRange=304:312
+7	of	of	ADP	IN	_	10	case	_	TokenRange=313:315
+8	Codecademy	Codecademy	PROPN	NNP	Number=Sing	10	compound	_	TokenRange=316:326
+9	user	user	ADJ	JJR	Degree=Cmp	10	amod	_	TokenRange=327:331
+10	data	data	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=332:336
+11	and	and	CCONJ	CC	_	12	cc	_	TokenRange=337:340
+12	metadata	metadata	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No|TokenRange=341:349
+13	.	.	PUNCT	.	_	4	punct	_	TokenRange=349:350
+
+# sent_id = 6
+# text = Github Repository of software code used to implement Looker software deployments, Authentication.
+1	Github	Github	PROPN	NNP	Number=Sing	0	root	_	TokenRange=351:357
+2	Repository	Repository	NOUN	NN	Number=Sing	1	flat	_	TokenRange=358:368
+3	of	of	ADP	IN	_	5	case	_	TokenRange=369:371
+4	software	software	NOUN	NN	Number=Sing	5	compound	_	TokenRange=372:380
+5	code	code	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=381:385
+6	used	use	VERB	VBN	Tense=Past|VerbForm=Part	1	acl	_	TokenRange=386:390
+7	to	to	PART	TO	_	8	mark	_	TokenRange=391:393
+8	implement	implement	VERB	VB	VerbForm=Inf	6	xcomp	_	TokenRange=394:403
+9	Looker	Looker	ADP	IN	_	11	case	_	TokenRange=404:410
+10	software	software	NOUN	NN	Number=Sing	11	compound	_	TokenRange=411:419
+11	deployments	deployment	NOUN	NNS	Number=Plur	8	obl	_	SpaceAfter=No|TokenRange=420:431
+12	,	,	PUNCT	,	_	11	punct	_	TokenRange=431:432
+13	Authentication	Authentication	PROPN	NNP	Number=Sing	11	appos	_	SpaceAfter=No|TokenRange=433:447
+14	.	.	PUNCT	.	_	1	punct	_	TokenRange=447:448
+
+# sent_id = 7
+# text = Google Authentication, business management, tracking, analytics.
+1	Google	Google	PROPN	NNP	Number=Sing	0	root	_	TokenRange=449:455
+2	Authentication	Authentication	PROPN	NNP	Number=Sing	1	flat	_	SpaceAfter=No|TokenRange=456:470
+3	,	,	PUNCT	,	_	1	punct	_	TokenRange=470:471
+4	business	business	NOUN	NN	Number=Sing	5	compound	_	TokenRange=472:480
+5	management	management	NOUN	NN	Number=Sing	1	list	_	SpaceAfter=No|TokenRange=481:491
+6	,	,	PUNCT	,	_	1	punct	_	TokenRange=491:492
+7	tracking	track	NOUN	NN	Number=Sing	1	list	_	SpaceAfter=No|TokenRange=493:501
+8	,	,	PUNCT	,	_	1	punct	_	TokenRange=501:502
+9	analytics	analytic	NOUN	NNS	Number=Plur	1	appos	_	SpaceAfter=No|TokenRange=503:512
+10	.	.	PUNCT	.	_	1	punct	_	TokenRange=512:513
+
+# sent_id = 8
+# text = Customer.io Email delivery services for communications to data exporter personnel involved in the data exporter-data importer relationship.
+1	Customer.io	Customer.io	NOUN	NN	Number=Sing	4	compound	_	TokenRange=514:525
+2	Email	email	NOUN	NN	Number=Sing	4	compound	_	TokenRange=526:531
+3	delivery	delivery	NOUN	NN	Number=Sing	4	compound	_	TokenRange=532:540
+4	services	service	NOUN	NNS	Number=Plur	0	root	_	TokenRange=541:549
+5	for	for	ADP	IN	_	6	case	_	TokenRange=550:553
+6	communications	communications	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=554:568
+7	to	to	ADP	IN	_	10	case	_	TokenRange=569:571
+8	data	data	NOUN	NN	Number=Sing	9	compound	_	TokenRange=572:576
+9	exporter	exporter	NOUN	NN	Number=Sing	10	compound	_	TokenRange=577:585
+10	personnel	personnel	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=586:595
+11	involved	involved	ADJ	JJ	Degree=Pos	4	acl	_	TokenRange=596:604
+12	in	in	ADP	IN	_	19	case	_	TokenRange=605:607
+13	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=608:611
+14	data	data	NOUN	NN	Number=Sing	15	compound	_	TokenRange=612:616
+15	exporter	exporter	NOUN	NN	Number=Sing	17	compound	_	SpaceAfter=No|TokenRange=617:625
+16	-	-	PUNCT	HYPH	_	17	punct	_	SpaceAfter=No|TokenRange=625:626
+17	data	data	NOUN	NN	Number=Sing	19	compound	_	TokenRange=626:630
+18	importer	importer	NOUN	NN	Number=Sing	19	compound	_	TokenRange=631:639
+19	relationship	relationship	NOUN	NN	Number=Sing	11	obl	_	SpaceAfter=No|TokenRange=640:652
+20	.	.	PUNCT	.	_	4	punct	_	TokenRange=652:653
+
+# sent_id = 9
+# text = Zendesk Support user feedback and issue tracking services within the platform.
+1	Zendesk	Zendesk	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=654:661
+2	Support	support	NOUN	NN	Number=Sing	3	compound	_	TokenRange=662:669
+3	user	user	NOUN	NN	Number=Sing	4	compound	_	TokenRange=670:674
+4	feedback	feedback	NOUN	NN	Number=Sing	1	obj	_	TokenRange=675:683
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=684:687
+6	issue	issue	NOUN	NN	Number=Sing	4	conj	_	TokenRange=688:693
+7	tracking	track	VERB	VBG	VerbForm=Ger	6	acl	_	TokenRange=694:702
+8	services	service	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=703:711
+9	within	within	ADP	IN	_	11	case	_	TokenRange=712:718
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=719:722
+11	platform	platform	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=723:731
+12	.	.	PUNCT	.	_	1	punct	_	TokenRange=731:732
+
+# sent_id = 10
+# text = Facebook Authentication and Advertising.
+1	Facebook	Facebook	PROPN	NNP	Number=Sing	0	root	_	TokenRange=733:741
+2	Authentication	Authentication	PROPN	NNP	Number=Sing	1	flat	_	TokenRange=742:756
+3	and	and	CCONJ	CC	_	4	cc	_	TokenRange=757:760
+4	Advertising	advertising	PROPN	NNP	Number=Sing	1	conj	_	SpaceAfter=No|TokenRange=761:772
+5	.	.	PUNCT	.	_	1	punct	_	TokenRange=772:773
+
+# sent_id = 11
+# text = Twitter Authentication.
+1	Twitter	Twitter	PROPN	NNP	Number=Sing	0	root	_	TokenRange=774:781
+2	Authentication	Authentication	PROPN	NNP	Number=Sing	1	flat	_	SpaceAfter=No|TokenRange=782:796
+3	.	.	PUNCT	.	_	1	punct	_	TokenRange=796:797
+
+# sent_id = 12
+# text = Linkedin Authentication Looker Analytics Tableau Analytics Intercom Direct to user communication on the platform Hotjar Engagement Analytics Recurly Subscription Management Avalara Tax calculation Braintree Payment Processing Segment Managing data between systems Mongo DB Storage of user related information Saasquatch User to User Referrals
+1	Linkedin	Linkedin	PROPN	NNP	Number=Sing	10	compound	_	TokenRange=798:806
+2	Authentication	Authentication	PROPN	NNP	Number=Sing	1	flat	_	TokenRange=807:821
+3	Looker	Looker	PROPN	NNP	Number=Sing	1	flat	_	TokenRange=822:828
+4	Analytics	Analytics	PROPN	NNPS	Number=Plur	8	compound	_	TokenRange=829:838
+5	Tableau	Tableau	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=839:846
+6	Analytics	Analytics	PROPN	NNPS	Number=Plur	8	compound	_	TokenRange=847:856
+7	Intercom	Intercom	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=857:865
+8	Direct	direct	PROPN	NNP	Number=Sing	1	flat	_	TokenRange=866:872
+9	to	to	PART	TO	_	10	mark	_	TokenRange=873:875
+10	user	user	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=876:880
+11	communication	communication	NOUN	NN	Number=Sing	10	obj	_	TokenRange=881:894
+12	on	on	ADP	IN	_	17	case	_	TokenRange=895:897
+13	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=898:901
+14	platform	platform	NOUN	NN	Number=Sing	15	compound	_	TokenRange=902:910
+15	Hotjar	Hotjar	NOUN	NN	Number=Sing	17	compound	_	TokenRange=911:917
+16	Engagement	engagement	NOUN	NN	Number=Sing	17	compound	_	TokenRange=918:928
+17	Analytics	Analytics	NOUN	NNS	Number=Plur	10	obl	_	TokenRange=929:938
+18	Recurly	Recurly	ADV	RB	_	20	advmod	_	TokenRange=939:946
+19	Subscription	subscription	NOUN	NN	Number=Sing	20	compound	_	TokenRange=947:959
+20	Management	management	NOUN	NN	Number=Sing	17	appos	_	TokenRange=960:970
+21	Avalara	Avalara	ADP	IN	_	27	case	_	TokenRange=971:978
+22	Tax	tax	NOUN	NN	Number=Sing	23	compound	_	TokenRange=979:982
+23	calculation	calculation	NOUN	NN	Number=Sing	24	compound	_	TokenRange=983:994
+24	Braintree	Braintree	NOUN	NN	Number=Sing	27	compound	_	TokenRange=995:1004
+25	Payment	payment	NOUN	NN	Number=Sing	27	compound	_	TokenRange=1005:1012
+26	Processing	processing	NOUN	NN	Number=Sing	27	compound	_	TokenRange=1013:1023
+27	Segment	segment	NOUN	NN	Number=Sing	20	nmod	_	TokenRange=1024:1031
+28	Managing	manage	VERB	VBG	VerbForm=Ger	27	acl	_	TokenRange=1032:1040
+29	data	data	NOUN	NN	Number=Sing	28	obj	_	TokenRange=1041:1045
+30	between	between	ADP	IN	_	34	case	_	TokenRange=1046:1053
+31	systems	system	NOUN	NNS	Number=Plur	34	compound	_	TokenRange=1054:1061
+32	Mongo	Mongo	PROPN	NNP	Number=Sing	33	compound	_	TokenRange=1062:1067
+33	DB	DB	PROPN	NNP	Number=Sing	34	compound	_	TokenRange=1068:1070
+34	Storage	storage	NOUN	NN	Number=Sing	29	nmod	_	TokenRange=1071:1078
+35	of	of	ADP	IN	_	40	case	_	TokenRange=1079:1081
+36	user	user	ADJ	JJ	Degree=Pos	40	amod	_	TokenRange=1082:1086
+37	related	related	ADJ	JJ	Degree=Pos	38	amod	_	TokenRange=1087:1094
+38	information	information	NOUN	NN	Number=Sing	40	compound	_	TokenRange=1095:1106
+39	Saasquatch	Saasquatch	NOUN	NN	Number=Sing	40	compound	_	TokenRange=1107:1117
+40	User	user	NOUN	NN	Number=Sing	34	nmod	_	TokenRange=1118:1122
+41	to	to	ADP	IN	_	43	case	_	TokenRange=1123:1125
+42	User	user	NOUN	NN	Number=Sing	43	compound	_	TokenRange=1126:1130
+43	Referrals	referral	NOUN	NNS	Number=Plur	40	nmod	_	SpacesAfter=\n\n|TokenRange=1131:1140
+

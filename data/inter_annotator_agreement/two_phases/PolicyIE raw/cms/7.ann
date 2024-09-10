@@ -1,0 +1,6 @@
+T1	First-party-entity 44 47	CMS
+T2	data-storage-retention-deletion 57 61	keep
+E1	data-storage-retention-deletion:T2 Retention-Period:T4 Data-Retained:T3 Data-Holder:T1 Purpose-Argument:T5
+T3	Data-general 62 66	data
+T4	retention-period 77 88	long enough
+T5	Other 92 153	achieve the specified objective for which they were collected

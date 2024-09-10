@@ -1,0 +1,238 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Accessing, Changing and Managing Your Information
+1	Accessing	access	VERB	VBG	VerbForm=Ger	0	root	_	SpaceAfter=No|TokenRange=0:9
+2	,	,	PUNCT	,	_	3	punct	_	TokenRange=9:10
+3	Changing	change	VERB	VBG	VerbForm=Ger	1	conj	_	TokenRange=11:19
+4	and	and	CCONJ	CC	_	5	cc	_	TokenRange=20:23
+5	Managing	manage	VERB	VBG	VerbForm=Ger	1	conj	_	TokenRange=24:32
+6	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=33:37
+7	Information	information	NOUN	NN	Number=Sing	5	obj	_	SpacesAfter=\n\n|TokenRange=38:49
+
+# newpar
+# sent_id = 2
+# text = Changing or Updating Your Information.
+1	Changing	change	VERB	VBG	VerbForm=Ger	0	root	_	TokenRange=51:59
+2	or	or	CCONJ	CC	_	3	cc	_	TokenRange=60:62
+3	Updating	update	VERB	VBG	VerbForm=Ger	1	conj	_	TokenRange=63:71
+4	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=72:76
+5	Information	information	NOUN	NN	Number=Sing	1	obj	_	SpaceAfter=No|TokenRange=77:88
+6	.	.	PUNCT	.	_	1	punct	_	TokenRange=88:89
+
+# sent_id = 3
+# text = You can access or change your personal information or delete your account through the profile settings page available via the Navdy mobile application.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=90:93
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=94:97
+3	access	access	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=98:104
+4	or	or	CCONJ	CC	_	5	cc	_	TokenRange=105:107
+5	change	change	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=108:114
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=115:119
+7	personal	personal	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=120:128
+8	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=129:140
+9	or	or	CCONJ	CC	_	10	cc	_	TokenRange=141:143
+10	delete	delete	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	TokenRange=144:150
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=151:155
+12	account	account	NOUN	NN	Number=Sing	10	obj	_	TokenRange=156:163
+13	through	through	ADP	IN	_	17	case	_	TokenRange=164:171
+14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=172:175
+15	profile	profile	NOUN	NN	Number=Sing	16	compound	_	TokenRange=176:183
+16	settings	setting	NOUN	NNS	Number=Plur	17	compound	_	TokenRange=184:192
+17	page	page	NOUN	NN	Number=Sing	10	obl	_	TokenRange=193:197
+18	available	available	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=198:207
+19	via	via	ADP	IN	_	23	case	_	TokenRange=208:211
+20	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	TokenRange=212:215
+21	Navdy	Navdy	PROPN	NNP	Number=Sing	23	compound	_	TokenRange=216:221
+22	mobile	mobile	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=222:228
+23	application	application	NOUN	NN	Number=Sing	18	obl	_	SpaceAfter=No|TokenRange=229:240
+24	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=240:241
+
+# sent_id = 4
+# text = Retention of Your Information.
+1	Retention	retention	NOUN	NN	Number=Sing	0	root	_	TokenRange=242:251
+2	of	of	ADP	IN	_	4	case	_	TokenRange=252:254
+3	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=255:259
+4	Information	Information	NOUN	NN	Number=Sing	1	nmod	_	SpaceAfter=No|TokenRange=260:271
+5	.	.	PUNCT	.	_	1	punct	_	TokenRange=271:272
+
+# sent_id = 5
+# text = We retain information about you for as long as it is necessary and relevant for Navdy's operations.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=273:275
+2	retain	retain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=276:282
+3	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=283:294
+4	about	about	ADP	IN	_	5	case	_	TokenRange=295:300
+5	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	nmod	_	TokenRange=301:304
+6	for	for	ADP	IN	_	8	case	_	TokenRange=305:308
+7	as	as	ADV	RB	_	8	advmod	_	TokenRange=309:311
+8	long	long	ADV	RB	Degree=Pos	2	obl	_	TokenRange=312:316
+9	as	as	SCONJ	IN	_	12	mark	_	TokenRange=317:319
+10	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	nsubj	_	TokenRange=320:322
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	TokenRange=323:325
+12	necessary	necessary	ADJ	JJ	Degree=Pos	2	advcl	_	TokenRange=326:335
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=336:339
+14	relevant	relevant	ADJ	JJ	Degree=Pos	12	conj	_	TokenRange=340:348
+15	for	for	ADP	IN	_	18	case	_	TokenRange=349:352
+16	Navdy	Navdy	PROPN	NNP	Number=Sing	18	nmod:poss	_	SpaceAfter=No|TokenRange=353:358
+17	's	's	PART	POS	_	16	case	_	TokenRange=358:360
+18	operations	operation	NOUN	NNS	Number=Plur	2	obl	_	SpaceAfter=No|TokenRange=361:371
+19	.	.	PUNCT	.	_	2	punct	_	TokenRange=371:372
+
+# sent_id = 6
+# text = We may retain information collected from you to comply with the law, prevent fraud, resolve disputes, troubleshoot problems, assist with any investigation, and take other actions permitted by law or disclosed in this Privacy Policy.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=373:375
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=376:379
+3	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=380:386
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=387:398
+5	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	4	acl	_	TokenRange=399:408
+6	from	from	ADP	IN	_	7	case	_	TokenRange=409:413
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obl	_	TokenRange=414:417
+8	to	to	PART	TO	_	9	mark	_	TokenRange=418:420
+9	comply	comply	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=421:427
+10	with	with	ADP	IN	_	12	case	_	TokenRange=428:432
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=433:436
+12	law	law	NOUN	NN	Number=Sing	9	obl	_	SpaceAfter=No|TokenRange=437:440
+13	,	,	PUNCT	,	_	14	punct	_	TokenRange=440:441
+14	prevent	prevent	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=442:449
+15	fraud	fraud	NOUN	NN	Number=Sing	14	obj	_	SpaceAfter=No|TokenRange=450:455
+16	,	,	PUNCT	,	_	17	punct	_	TokenRange=455:456
+17	resolve	resolve	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=457:464
+18	disputes	dispute	NOUN	NNS	Number=Plur	17	obj	_	SpaceAfter=No|TokenRange=465:473
+19	,	,	PUNCT	,	_	21	punct	_	TokenRange=473:474
+20	troubleshoot	troubleshoot	NOUN	NN	Number=Sing	21	compound	_	TokenRange=475:487
+21	problems	problem	NOUN	NNS	Number=Plur	18	conj	_	SpaceAfter=No|TokenRange=488:496
+22	,	,	PUNCT	,	_	23	punct	_	TokenRange=496:497
+23	assist	assist	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=498:504
+24	with	with	ADP	IN	_	26	case	_	TokenRange=505:509
+25	any	any	DET	DT	_	26	det	_	TokenRange=510:513
+26	investigation	investigation	NOUN	NN	Number=Sing	23	obl	_	SpaceAfter=No|TokenRange=514:527
+27	,	,	PUNCT	,	_	29	punct	_	TokenRange=527:528
+28	and	and	CCONJ	CC	_	29	cc	_	TokenRange=529:532
+29	take	take	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=533:537
+30	other	other	ADJ	JJ	Degree=Pos	31	amod	_	TokenRange=538:543
+31	actions	action	NOUN	NNS	Number=Plur	29	obj	_	TokenRange=544:551
+32	permitted	permit	VERB	VBN	Tense=Past|VerbForm=Part	31	acl	_	TokenRange=552:561
+33	by	by	ADP	IN	_	34	case	_	TokenRange=562:564
+34	law	law	NOUN	NN	Number=Sing	32	obl	_	TokenRange=565:568
+35	or	or	CCONJ	CC	_	36	cc	_	TokenRange=569:571
+36	disclosed	disclose	VERB	VBN	Tense=Past|VerbForm=Part	34	conj	_	TokenRange=572:581
+37	in	in	ADP	IN	_	40	case	_	TokenRange=582:584
+38	this	this	DET	DT	Number=Sing|PronType=Dem	40	det	_	TokenRange=585:589
+39	Privacy	privacy	NOUN	NN	Number=Sing	40	compound	_	TokenRange=590:597
+40	Policy	policy	NOUN	NN	Number=Sing	36	obl	_	SpaceAfter=No|TokenRange=598:604
+41	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=604:605
+
+# sent_id = 7
+# text = Notice of Privacy Rights to California Residents: Section 1798.83 of the California Civil Code permits California residents to request from a business, with whom the California resident has an established business relationship, information related to the personal information disclosed by Navdy to third parties for direct marketing purposes and the names and addresses of the third parties with whom the business has shared such information during the immediately preceding calendar year.
+1	Notice	notice	NOUN	NN	Number=Sing	0	root	_	TokenRange=606:612
+2	of	of	ADP	IN	_	4	case	_	TokenRange=613:615
+3	Privacy	privacy	NOUN	NN	Number=Sing	4	compound	_	TokenRange=616:623
+4	Rights	rights	NOUN	NNS	Number=Plur	1	nmod	_	TokenRange=624:630
+5	to	to	ADP	IN	_	7	case	_	TokenRange=631:633
+6	California	California	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=634:644
+7	Residents	resident	NOUN	NNS	Number=Plur	4	nmod	_	SpaceAfter=No|TokenRange=645:654
+8	:	:	PUNCT	:	_	1	punct	_	TokenRange=654:655
+9	Section	section	NOUN	NN	Number=Sing	16	nsubj	_	TokenRange=656:663
+10	1798.83	1798.83	NUM	CD	NumType=Card	9	nummod	_	TokenRange=664:671
+11	of	of	ADP	IN	_	15	case	_	TokenRange=672:674
+12	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=675:678
+13	California	California	PROPN	NNP	Number=Sing	14	compound	_	TokenRange=679:689
+14	Civil	civil	PROPN	NNP	Number=Sing	15	compound	_	TokenRange=690:695
+15	Code	code	PROPN	NNP	Number=Sing	9	nmod	_	TokenRange=696:700
+16	permits	permit	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	parataxis	_	TokenRange=701:708
+17	California	California	PROPN	NNP	Number=Sing	18	compound	_	TokenRange=709:719
+18	residents	resident	NOUN	NNS	Number=Plur	16	obj	_	TokenRange=720:729
+19	to	to	PART	TO	_	20	mark	_	TokenRange=730:732
+20	request	request	VERB	VB	VerbForm=Inf	16	advcl	_	TokenRange=733:740
+21	from	from	ADP	IN	_	23	case	_	TokenRange=741:745
+22	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	TokenRange=746:747
+23	business	business	NOUN	NN	Number=Sing	20	obl	_	SpaceAfter=No|TokenRange=748:756
+24	,	,	PUNCT	,	_	20	punct	_	TokenRange=756:757
+25	with	with	ADP	IN	_	26	case	_	TokenRange=758:762
+26	whom	whom	PRON	WP	PronType=Int	34	obl	_	TokenRange=763:767
+27	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	TokenRange=768:771
+28	California	California	PROPN	NNP	Number=Sing	29	compound	_	TokenRange=772:782
+29	resident	resident	PROPN	NNP	Number=Sing	34	nsubj	_	TokenRange=783:791
+30	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	aux	_	TokenRange=792:795
+31	an	a	DET	DT	Definite=Ind|PronType=Art	34	det	_	TokenRange=796:798
+32	established	establish	VERB	VBN	Tense=Past|VerbForm=Part	34	amod	_	TokenRange=799:810
+33	business	business	NOUN	NN	Number=Sing	34	compound	_	TokenRange=811:819
+34	relationship	relationship	NOUN	NN	Number=Sing	20	parataxis	_	SpaceAfter=No|TokenRange=820:832
+35	,	,	PUNCT	,	_	34	punct	_	TokenRange=832:833
+36	information	information	NOUN	NN	Number=Sing	34	conj	_	TokenRange=834:845
+37	related	related	ADJ	JJ	Degree=Pos	36	amod	_	TokenRange=846:853
+38	to	to	ADP	IN	_	41	case	_	TokenRange=854:856
+39	the	the	DET	DT	Definite=Def|PronType=Art	41	det	_	TokenRange=857:860
+40	personal	personal	ADJ	JJ	Degree=Pos	41	amod	_	TokenRange=861:869
+41	information	information	NOUN	NN	Number=Sing	37	obl	_	TokenRange=870:881
+42	disclosed	disclose	VERB	VBN	Tense=Past|VerbForm=Part	41	acl	_	TokenRange=882:891
+43	by	by	ADP	IN	_	44	case	_	TokenRange=892:894
+44	Navdy	Navdy	PROPN	NNP	Number=Sing	42	obl	_	TokenRange=895:900
+45	to	to	ADP	IN	_	47	case	_	TokenRange=901:903
+46	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	47	amod	_	TokenRange=904:909
+47	parties	party	NOUN	NNS	Number=Plur	42	obl	_	TokenRange=910:917
+48	for	for	ADP	IN	_	51	case	_	TokenRange=918:921
+49	direct	direct	ADJ	JJ	Degree=Pos	51	amod	_	TokenRange=922:928
+50	marketing	marketing	NOUN	NN	Number=Sing	51	compound	_	TokenRange=929:938
+51	purposes	purpose	NOUN	NNS	Number=Plur	47	nmod	_	TokenRange=939:947
+52	and	and	CCONJ	CC	_	54	cc	_	TokenRange=948:951
+53	the	the	DET	DT	Definite=Def|PronType=Art	54	det	_	TokenRange=952:955
+54	names	name	NOUN	NNS	Number=Plur	51	conj	_	TokenRange=956:961
+55	and	and	CCONJ	CC	_	56	cc	_	TokenRange=962:965
+56	addresses	address	NOUN	NNS	Number=Plur	54	conj	_	TokenRange=966:975
+57	of	of	ADP	IN	_	60	case	_	TokenRange=976:978
+58	the	the	DET	DT	Definite=Def|PronType=Art	60	det	_	TokenRange=979:982
+59	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	60	amod	_	TokenRange=983:988
+60	parties	party	NOUN	NNS	Number=Plur	54	nmod	_	TokenRange=989:996
+61	with	with	ADP	IN	_	62	case	_	TokenRange=997:1001
+62	whom	whom	PRON	WP	PronType=Rel	66	obl	_	TokenRange=1002:1006
+63	the	the	DET	DT	Definite=Def|PronType=Art	64	det	_	TokenRange=1007:1010
+64	business	business	NOUN	NN	Number=Sing	66	nsubj	_	TokenRange=1011:1019
+65	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	66	aux	_	TokenRange=1020:1023
+66	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	60	acl:relcl	_	TokenRange=1024:1030
+67	such	such	ADJ	JJ	Degree=Pos	68	amod	_	TokenRange=1031:1035
+68	information	information	NOUN	NN	Number=Sing	66	obj	_	TokenRange=1036:1047
+69	during	during	ADP	IN	_	74	case	_	TokenRange=1048:1054
+70	the	the	DET	DT	Definite=Def|PronType=Art	74	det	_	TokenRange=1055:1058
+71	immediately	immediately	ADJ	JJ	Degree=Pos	74	amod	_	TokenRange=1059:1070
+72	preceding	preceding	NOUN	NN	Number=Sing	73	compound	_	TokenRange=1071:1080
+73	calendar	calendar	NOUN	NN	Number=Sing	74	compound	_	TokenRange=1081:1089
+74	year	year	NOUN	NN	Number=Sing	68	nmod	_	SpaceAfter=No|TokenRange=1090:1094
+75	.	.	PUNCT	.	_	34	punct	_	TokenRange=1094:1095
+
+# sent_id = 8
+# text = You may make one request each year by emailing Navdy at notice@navdy.com or sending a letter to: Adam Terk 575 7th Street, San Francisco, CA 94103 notice@navdy.com (415) 746-9402
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1096:1099
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1100:1103
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1104:1108
+4	one	one	NUM	CD	NumType=Card	5	nummod	_	TokenRange=1109:1112
+5	request	request	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1113:1120
+6	each	each	DET	DT	_	7	det	_	TokenRange=1121:1125
+7	year	year	NOUN	NN	Number=Sing	3	obl:tmod	_	TokenRange=1126:1130
+8	by	by	SCONJ	IN	_	9	mark	_	TokenRange=1131:1133
+9	emailing	email	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=1134:1142
+10	Navdy	Navdy	PROPN	NNP	Number=Sing	9	obj	_	TokenRange=1143:1148
+11	at	at	ADP	IN	_	12	case	_	TokenRange=1149:1151
+12	notice@navdy.com	notice@navdy.com	X	ADD	_	9	obl	_	TokenRange=1152:1168
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=1169:1171
+14	sending	send	VERB	VBG	VerbForm=Ger	9	conj	_	TokenRange=1172:1179
+15	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	TokenRange=1180:1181
+16	letter	letter	NOUN	NN	Number=Sing	14	obj	_	TokenRange=1182:1188
+17	to	to	ADP	IN	_	20	case	_	SpaceAfter=No|TokenRange=1189:1191
+18	:	:	PUNCT	:	_	20	punct	_	SpacesAfter=\n|TokenRange=1191:1192
+19	Adam	Adam	PROPN	NNP	Number=Sing	20	compound	_	TokenRange=1193:1197
+20	Terk	Terk	PROPN	NNP	Number=Sing	14	obl	_	TokenRange=1198:1202
+21	575	575	NUM	CD	NumType=Card	23	nummod	_	TokenRange=1203:1206
+22	7th	7th	PROPN	NNP	Number=Sing	23	compound	_	TokenRange=1207:1210
+23	Street	Street	PROPN	NNP	Number=Sing	20	list	_	SpaceAfter=No|TokenRange=1211:1217
+24	,	,	PUNCT	,	_	25	punct	_	TokenRange=1217:1218
+25	San	San	PROPN	NNP	Number=Sing	20	conj	_	TokenRange=1219:1222
+26	Francisco	Francisco	PROPN	NNP	Number=Sing	25	flat	_	SpaceAfter=No|TokenRange=1223:1232
+27	,	,	PUNCT	,	_	20	punct	_	TokenRange=1232:1233
+28	CA	CA	PROPN	NNP	Number=Sing	20	appos	_	TokenRange=1234:1236
+29	94103	94103	NUM	CD	NumType=Card	30	nummod	_	TokenRange=1237:1242
+30	notice@navdy.com	notice@navdy.com	NOUN	NN	Number=Sing	20	list	_	TokenRange=1243:1259
+31	(	(	PUNCT	-LRB-	_	34	punct	_	SpaceAfter=No|TokenRange=1260:1261
+32	415	415	NUM	CD	NumType=Card	34	nummod	_	SpaceAfter=No|TokenRange=1261:1264
+33	)	)	PUNCT	-RRB-	_	34	punct	_	TokenRange=1264:1265
+34	746-9402	746-9402	NUM	CD	NumType=Card	20	list	_	SpacesAfter=\n\n|TokenRange=1266:1274
+

@@ -1,0 +1,21 @@
+T1	Data-general 58 69	information
+T2	Data-general 74 78	data
+T3	First-party-entity 79 81	we
+T4	first-party-collection-use 86 93	collect
+E1	first-party-collection-use:T4 Data-Collector:T3 Data-Collected:T2 Data-Collected2:T1 Data-Provider:T5 Data-Collected3:T6 Data-Collected4:T7 Data-Collected5:T8 Data-Collected6:T9 Data-Collected7:T10 Data-Collected8:T11 Data-Collected9:T12 Data-Collected10:T13 Data-Collected11:T14 Data-Collected12:T15 Data-Collected13:T16 Data-Collected14:T17 Data-Collected15:T18 Data-Collected16:T19 Data-Collected17:T20
+T5	User 99 102	you
+T6	Data-general 106 143	Data that are collected automatically
+T7	Data-computer-device 150 175	device’s operating system
+T8	Data-computer-device 177 202	browser type and language
+T9	Data-computer-device 207 218	Identifiers
+T10	Data-computer-device 277 293	unique device ID
+T11	Data-computer-device 323 336	hardware type
+T12	Data-computer-device 338 375	medial access control (“MAC”) address
+T13	Data-user-online-activities-profiles 379 398	Profile information
+T14	Data-contact 427 431	name
+T15	Data-contact 433 446	email address
+T16	Data-contact 448 461	profile photo
+T17	Data-demographic 463 469	gender
+T18	Data-demographic 471 474	age
+T19	Data-contact 478 486	birthday
+T20	Data-user-online-activities-profiles 488 541	links to profiles on other social networking websites

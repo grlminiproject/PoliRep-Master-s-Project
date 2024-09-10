@@ -1,0 +1,22 @@
+1. Data: username
+2. Data: email address
+3. Data: password
+4. Data: account information
+5. Data: name
+6. Data: location
+7. Data: website
+8. Data: links to your social media profiles
+9. Data: messages you send through the Service
+10. Data: information you provide in User Content you post to the Service
+11. Data: messages
+    Purpose: operate, maintain, and provide to you the features and functionality of the Service
+12. Data: message
+    Purpose: communicate directly with you
+13. Data: message
+    Purpose: send you email messages
+14. Data: user content
+    Purpose: operate, maintain, and provide to you the features and functionality of the Service
+15. Data: user content
+    Purpose: communicate directly with you
+16. Data: user content
+    Purpose: send you email messages

@@ -1,0 +1,11 @@
+T1	first-party-collection-use 111 118	collect
+E1	first-party-collection-use:T1 Condition-Argument3:T7 Data-Collector:T6 Data-Provider:T5 Data-Collected:T3 Data-Collected2:T10 Data-Collected3:T2
+T3	Data-general 137 148	information
+T5	User 26 29	you
+T6	First-party-entity 34 37	our
+T7	Condition 26 92	you use our product and service or view the content provided by us
+T9	data-storage-retention-deletion 123 128	store
+E3	data-storage-retention-deletion:T9 Storage-Place:T4 Data-Retained:T3 Data-Holder:T6 Data-Provider:T5 Condition-Argument3:T7 Data-Retained2:T10 Data-Retained3:T2
+T4	storage-place 152 163	server logs
+T2	Data-user-online-activities-profiles 180 215	Details of how you used our service
+T10	Data-user-online-activities-profiles 230 259	scanning number of junk files

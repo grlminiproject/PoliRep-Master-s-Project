@@ -1,0 +1,16 @@
+T1	First-party-entity 49 51	we
+T2	Data-general 39 43	data
+T3	data-storage-retention-deletion 96 102	stored
+E1	data-storage-retention-deletion:T3 Storage-Place:T5 Storage-Place2:T6 Data-Provider:T4 Data-Holder:T1 Data-Retained:T2
+T4	User 65 68	you
+T5	storage-place 107 185	a destination outside of your country and the European Economic Area (" EEA ")
+T6	storage-place 212 229	the United States
+T7	data-storage-retention-deletion 246 255	processed
+E2	data-storage-retention-deletion:T7 Storage-Place:T8 Data-Retained:T10 Purpose-Argument:T11 Purpose-Argument2:T12 Purpose-Argument3:T13
+T8	storage-place 275 290	outside the EEA
+T10	Data-general 231 233	It
+T11	Basic-service-feature 386 414	the fulfilment of your order
+T12	Basic-service-feature 416 454	the processing of your payment details
+T13	Communications 459 492	the provision of support services
+T14	first-party-collection-use 76 87	transferred
+E3	first-party-collection-use:T14 Data-Collected:T2 Data-Collector:T1 Data-Provider:T4

@@ -1,0 +1,67 @@
+T1	First-party-entity 64 66	We
+T2	data-storage-retention-deletion 83 88	store
+E1	data-storage-retention-deletion:T2 Data-Holder:T1 Data-Retained:T3 Data-Provider:T4 Data-Retained2:T43 Data-Retained3:T44 Data-Retained4:T45 Data-Retained5:T46 Data-Retained6:T47
+T3	Data-other 93 111	content you create
+T4	User 170 173	you
+T5	First-party-entity 248 250	We
+T6	data-storage-retention-deletion 251 256	store
+E2	data-storage-retention-deletion:T6 Data-Holder:T5 Data-Retained:T7 Storage-Place:T8 Purpose-Argument:T9 Data-Provider:T40
+T7	Data-general 262 282	Personal Information
+T8	storage-place 286 297	our servers
+T9	Basic-service-feature 306 363	you can access your data anytime from any of your devices
+T10	First-party-entity 978 980	We
+T11	data-storage-retention-deletion 981 986	store
+E3	data-storage-retention-deletion:T11 Data-Holder:T10 Data-Provider:T12 Data-Retained:T13 Storage-Place:T14 Purpose-Argument:T15 Purpose-Argument2:T16
+T12	User 987 991	your
+T13	Data-contact 992 1000	contacts
+T14	storage-place 1004 1015	our servers
+T15	Communications 1028 1099	notify you as soon as one of your contacts creates a Marco Polo Account
+T16	Basic-service-feature 1107 1135	properly display their names
+T17	First-party-entity 1137 1139	We
+T18	data-storage-retention-deletion 1140 1145	store
+E4	data-storage-retention-deletion:T18 Data-Provider:T19 Data-Holder:T17 Data-Retained:T20 Data-Retained2:T21 Data-Retained3:T22 Data-Retained4:T23 Purpose-Argument:T24
+T19	Third-party-entity 1146 1151	their
+T20	Data-contact 1152 1156	name
+T21	Data-contact 1158 1173	phone number(s)
+T22	Data-contact 1175 1192	email address(es)
+T23	Data-contact 1201 1220	birth day and month
+T24	Basic-service-feature 1225 1237	this to work
+T25	First-party-entity 1239 1242	Our
+T26	first-party-collection-use 1269 1272	use
+E5	first-party-collection-use:T26 Data-Collector:T25 Data-Collected:T27 Data-Provider:T29 Purpose-Argument:T28
+T27	Data-contact 1278 1282	data
+T28	Personalization-customization 1286 1365	suggest which of your contacts you might like to communicate with on Marco Polo
+T29	User 1303 1307	your
+T30	First-party-entity 1367 1369	We
+T31	first-party-collection-use 1370 1373	use
+E6	first-party-collection-use:T31 Data-Collector:T30 Data-Collected:T32 Purpose-Argument:T33 Data-Provider:T41
+T32	Data-contact 1379 1390	information
+T33	Adverstising-Marketing 1394 1437	suggest people to invite to join Marco Polo
+T34	Third-party-entity 1536 1553	Service Providers
+T35	third-party-sharing-disclosure 1588 1593	share
+E7	third-party-sharing-disclosure:T35 Data-Receiver:T34 Data-Provider:T36 Data-Shared:T37 Condition-Argument:T38 Data-Sharer:T39
+T36	User 1594 1598	your
+T37	Data-contact 1599 1607	contacts
+T38	Condition 1634 1736	required to do so in response to valid legal requests, such as through a court order or search warrant
+T40	User 306 309	you
+T41	User 1470 1474	your
+T42	first-party-collection-use 71 78	collect
+E8	first-party-collection-use:T42 Data-Collector:T1 Data-Collected:T3 Data-Collected2:T43 Data-Collected3:T44 Data-Collected4:T45 Data-Collected5:T46 Data-Collected6:T47 Data-Provider:T4
+T43	Data-user-online-activities-profiles 123 129	videos
+T44	Data-user-online-activities-profiles 134 141	"Polos"
+T45	Data-user-online-activities-profiles 144 150	photos
+T46	Data-user-online-activities-profiles 152 169	short video clips
+T47	Data-user-online-activities-profiles 233 246	text messages
+T48	first-party-collection-use 534 541	provide
+E9	first-party-collection-use:T48 Data-Provider:T49 Data-Collector:T50 Data-Collected:T51
+T49	User 516 519	You
+T50	First-party-entity 542 544	us
+T51	Data-contact 555 583	friends' contact information
+T52	First-party-entity 609 619	Marco Polo
+T53	first-party-collection-use 620 624	uses
+E10	first-party-collection-use:T53 Data-Collector:T52 Data-Collected:T54 Data-Collected2:T55 Data-Provider:T57 Purpose-Argument:T56
+T54	Data-contact 625 645	mobile phone numbers
+T55	Data-contact 650 665	email addresses
+T56	Basic-service-feature 718 765	find and communicate with other people you know
+T57	User 711 714	you
+T39	First-party-entity 1532 1535	our

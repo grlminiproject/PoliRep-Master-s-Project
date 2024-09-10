@@ -1,0 +1,17 @@
+T1	First-party-entity 273 275	We
+T2	data-storage-retention-deletion 276 282	retain
+E1	data-storage-retention-deletion:T2 Data-Holder:T1 Data-Retained:T3 Data-Provider:T4 Retention-Period:T5
+T3	Data-general 283 294	information
+T4	User 301 304	you
+T5	retention-period 309 371	as long as it is necessary and relevant for Navdy's operations
+T6	First-party-entity 373 375	We
+T7	data-storage-retention-deletion 380 386	retain
+E2	data-storage-retention-deletion:T7 Data-Holder:T6 Data-Retained:T8 Data-Provider:T9 Purpose-Argument:T10 Purpose-Argument2:T11 Purpose-Argument3:T12 Purpose-Argument4:T13 Purpose-Argument5:T14 Purpose-Argument6:T15
+T8	Data-general 387 398	information
+T9	User 414 417	you
+T10	LegalCompliance 421 440	comply with the law
+T11	FraudPreventionAndDetection 442 455	prevent fraud
+T12	DisputeManagement 457 473	resolve disputes
+T13	RepairImpairments 475 496	troubleshoot problems
+T14	FulfilmentOfContractualObligation 498 527	assist with any investigation
+T15	FulfilmentOfContractualObligation 533 604	take other actions permitted by law or disclosed in this Privacy Policy

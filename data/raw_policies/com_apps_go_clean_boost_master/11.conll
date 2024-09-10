@@ -1,0 +1,43 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2.4 Cookies and tracking technologies
+1	2.4	2.4	NUM	CD	NumType=Card	2	nummod	_	TokenRange=0:3
+2	Cookies	cookie	NOUN	NNS	Number=Plur	0	root	_	TokenRange=4:11
+3	and	and	CCONJ	CC	_	4	cc	_	TokenRange=12:15
+4	tracking	track	VERB	VBG	VerbForm=Ger	2	conj	_	TokenRange=16:24
+5	technologies	technology	NOUN	NNS	Number=Plur	4	obj	_	SpacesAfter=\n\n|TokenRange=25:37
+
+# newpar
+# sent_id = 2
+# text = We may use technologies cookies and web beacons - please see our separate Cookie Policy attached as an appendix of this Privacy Policy for further details on cookies.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=39:41
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=42:45
+3	use	use	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=46:49
+4	technologies	technology	NOUN	NNS	Number=Plur	5	compound	_	TokenRange=50:62
+5	cookies	cookie	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=63:70
+6	and	and	CCONJ	CC	_	8	cc	_	TokenRange=71:74
+7	web	web	NOUN	NN	Number=Sing	8	compound	_	TokenRange=75:78
+8	beacons	beacon	NOUN	NNS	Number=Plur	5	conj	_	TokenRange=79:86
+9	-	-	PUNCT	,	_	3	punct	_	TokenRange=87:88
+10	please	please	INTJ	UH	_	11	discourse	_	TokenRange=89:95
+11	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	TokenRange=96:99
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=100:103
+13	separate	separate	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=104:112
+14	Cookie	Cookie	NOUN	NN	Number=Sing	15	compound	_	TokenRange=113:119
+15	Policy	policy	NOUN	NN	Number=Sing	11	obj	_	TokenRange=120:126
+16	attached	attach	VERB	VBN	Tense=Past|VerbForm=Part	15	amod	_	TokenRange=127:135
+17	as	as	ADP	IN	_	19	case	_	TokenRange=136:138
+18	an	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	TokenRange=139:141
+19	appendix	appendix	NOUN	NN	Number=Sing	11	obl	_	TokenRange=142:150
+20	of	of	ADP	IN	_	23	case	_	TokenRange=151:153
+21	this	this	DET	DT	Number=Sing|PronType=Dem	23	det	_	TokenRange=154:158
+22	Privacy	privacy	NOUN	NN	Number=Sing	23	compound	_	TokenRange=159:166
+23	Policy	policy	NOUN	NN	Number=Sing	19	nmod	_	TokenRange=167:173
+24	for	for	ADP	IN	_	26	case	_	TokenRange=174:177
+25	further	further	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=178:185
+26	details	detail	NOUN	NNS	Number=Plur	23	nmod	_	TokenRange=186:193
+27	on	on	ADP	IN	_	28	case	_	TokenRange=194:196
+28	cookies	cookie	NOUN	NNS	Number=Plur	26	nmod	_	SpaceAfter=No|TokenRange=197:204
+29	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=204:205
+

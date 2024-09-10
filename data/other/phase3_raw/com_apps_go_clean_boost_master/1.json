@@ -1,0 +1,1005 @@
+{
+  "text": "1. WHO is responsible for looking after your personal data?\n\nHawk Internet Co., Limited (\u201c Hawk \u201d) is a China-based telecommunication company focusing on internet application services. As Hawk is the company which was originally responsible for collecting information about you, it will be the data controller. You should be aware that although Hawk may be principally responsible for looking after your personal data, information may be held in databases which can be accessed by other Hawk group our affiliate companies.\n\n",
+  "words": [
+    "1",
+    ".",
+    "WHO",
+    "is",
+    "responsible",
+    "for",
+    "looking",
+    "after",
+    "your",
+    "personal",
+    "data",
+    "?",
+    "Hawk",
+    "Internet",
+    "Co.",
+    ",",
+    "Limited",
+    "(",
+    "\u201c",
+    "Hawk",
+    "\u201d",
+    ")",
+    "is",
+    "a",
+    "China",
+    "-",
+    "based",
+    "telecommunication",
+    "company",
+    "focusing",
+    "on",
+    "internet",
+    "application",
+    "services",
+    ".",
+    "As",
+    "Hawk",
+    "is",
+    "the",
+    "company",
+    "which",
+    "was",
+    "originally",
+    "responsible",
+    "for",
+    "collecting",
+    "information",
+    "about",
+    "you",
+    ",",
+    "it",
+    "will",
+    "be",
+    "the",
+    "data",
+    "controller",
+    ".",
+    "You",
+    "should",
+    "be",
+    "aware",
+    "that",
+    "although",
+    "Hawk",
+    "may",
+    "be",
+    "principally",
+    "responsible",
+    "for",
+    "looking",
+    "after",
+    "your",
+    "personal",
+    "data",
+    ",",
+    "information",
+    "may",
+    "be",
+    "held",
+    "in",
+    "databases",
+    "which",
+    "can",
+    "be",
+    "accessed",
+    "by",
+    "other",
+    "Hawk",
+    "group",
+    "our",
+    "affiliate",
+    "companies",
+    "."
+  ],
+  "lemma": [
+    "1",
+    ".",
+    "who",
+    "be",
+    "responsible",
+    "for",
+    "look",
+    "after",
+    "you",
+    "personal",
+    "data",
+    "?",
+    "Hawk",
+    "internet",
+    "Co.",
+    ",",
+    "Limited",
+    "(",
+    "\"",
+    "Hawk",
+    "\"",
+    ")",
+    "be",
+    "a",
+    "China",
+    "-",
+    "base",
+    "telecommunication",
+    "company",
+    "focus",
+    "on",
+    "internet",
+    "application",
+    "service",
+    ".",
+    "as",
+    "Hawk",
+    "be",
+    "the",
+    "company",
+    "which",
+    "be",
+    "originally",
+    "responsible",
+    "for",
+    "collect",
+    "information",
+    "about",
+    "you",
+    ",",
+    "it",
+    "will",
+    "be",
+    "the",
+    "data",
+    "controller",
+    ".",
+    "you",
+    "should",
+    "be",
+    "aware",
+    "that",
+    "although",
+    "Hawk",
+    "may",
+    "be",
+    "principally",
+    "responsible",
+    "for",
+    "look",
+    "after",
+    "you",
+    "personal",
+    "data",
+    ",",
+    "information",
+    "may",
+    "be",
+    "hold",
+    "in",
+    "database",
+    "which",
+    "can",
+    "be",
+    "access",
+    "by",
+    "other",
+    "Hawk",
+    "group",
+    "we",
+    "affiliate",
+    "company",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "WP",
+    "VBZ",
+    "JJ",
+    "IN",
+    "VBG",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    ".",
+    "NNP",
+    "NNP",
+    "NNP",
+    ",",
+    "NNP",
+    "-LRB-",
+    "``",
+    "NNP",
+    "''",
+    "-RRB-",
+    "VBZ",
+    "DT",
+    "NNP",
+    "HYPH",
+    "VBN",
+    "NN",
+    "NN",
+    "VBG",
+    "IN",
+    "NN",
+    "NN",
+    "NNS",
+    ".",
+    "IN",
+    "NNP",
+    "VBZ",
+    "DT",
+    "NN",
+    "WDT",
+    "VBD",
+    "RB",
+    "JJ",
+    "IN",
+    "VBG",
+    "NN",
+    "IN",
+    "PRP",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "DT",
+    "NN",
+    "NN",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "IN",
+    "IN",
+    "NNP",
+    "MD",
+    "VB",
+    "RB",
+    "JJ",
+    "IN",
+    "VBG",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    ",",
+    "NN",
+    "MD",
+    "VB",
+    "VBN",
+    "IN",
+    "NNS",
+    "WDT",
+    "MD",
+    "VB",
+    "VBN",
+    "IN",
+    "JJ",
+    "NNP",
+    "NN",
+    "PRP$",
+    "JJ",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "nsubj",
+    "cop",
+    "root",
+    "mark",
+    "advcl",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct",
+    "compound",
+    "compound",
+    "nsubj",
+    "punct",
+    "list",
+    "punct",
+    "punct",
+    "appos",
+    "punct",
+    "punct",
+    "cop",
+    "det",
+    "obl:npmod",
+    "punct",
+    "amod",
+    "compound",
+    "root",
+    "acl",
+    "case",
+    "compound",
+    "compound",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "cop",
+    "det",
+    "advcl",
+    "nsubj",
+    "cop",
+    "advmod",
+    "acl:relcl",
+    "mark",
+    "advcl",
+    "obj",
+    "case",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "cop",
+    "det",
+    "compound",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "cop",
+    "root",
+    "mark",
+    "mark",
+    "nsubj",
+    "aux",
+    "cop",
+    "advmod",
+    "advcl",
+    "mark",
+    "advcl",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct",
+    "nsubj:pass",
+    "aux",
+    "aux:pass",
+    "ccomp",
+    "case",
+    "obl",
+    "nsubj:pass",
+    "aux",
+    "aux:pass",
+    "acl:relcl",
+    "case",
+    "amod",
+    "compound",
+    "obl",
+    "nmod:poss",
+    "amod",
+    "appos",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      7,
+      9
+    ],
+    [
+      10,
+      21
+    ],
+    [
+      22,
+      25
+    ],
+    [
+      26,
+      33
+    ],
+    [
+      34,
+      39
+    ],
+    [
+      40,
+      44
+    ],
+    [
+      45,
+      53
+    ],
+    [
+      54,
+      58
+    ],
+    [
+      58,
+      59
+    ],
+    [
+      61,
+      65
+    ],
+    [
+      66,
+      74
+    ],
+    [
+      75,
+      78
+    ],
+    [
+      78,
+      79
+    ],
+    [
+      80,
+      87
+    ],
+    [
+      88,
+      89
+    ],
+    [
+      89,
+      90
+    ],
+    [
+      91,
+      95
+    ],
+    [
+      96,
+      97
+    ],
+    [
+      97,
+      98
+    ],
+    [
+      99,
+      101
+    ],
+    [
+      102,
+      103
+    ],
+    [
+      104,
+      109
+    ],
+    [
+      109,
+      110
+    ],
+    [
+      110,
+      115
+    ],
+    [
+      116,
+      133
+    ],
+    [
+      134,
+      141
+    ],
+    [
+      142,
+      150
+    ],
+    [
+      151,
+      153
+    ],
+    [
+      154,
+      162
+    ],
+    [
+      163,
+      174
+    ],
+    [
+      175,
+      183
+    ],
+    [
+      183,
+      184
+    ],
+    [
+      185,
+      187
+    ],
+    [
+      188,
+      192
+    ],
+    [
+      193,
+      195
+    ],
+    [
+      196,
+      199
+    ],
+    [
+      200,
+      207
+    ],
+    [
+      208,
+      213
+    ],
+    [
+      214,
+      217
+    ],
+    [
+      218,
+      228
+    ],
+    [
+      229,
+      240
+    ],
+    [
+      241,
+      244
+    ],
+    [
+      245,
+      255
+    ],
+    [
+      256,
+      267
+    ],
+    [
+      268,
+      273
+    ],
+    [
+      274,
+      277
+    ],
+    [
+      277,
+      278
+    ],
+    [
+      279,
+      281
+    ],
+    [
+      282,
+      286
+    ],
+    [
+      287,
+      289
+    ],
+    [
+      290,
+      293
+    ],
+    [
+      294,
+      298
+    ],
+    [
+      299,
+      309
+    ],
+    [
+      309,
+      310
+    ],
+    [
+      311,
+      314
+    ],
+    [
+      315,
+      321
+    ],
+    [
+      322,
+      324
+    ],
+    [
+      325,
+      330
+    ],
+    [
+      331,
+      335
+    ],
+    [
+      336,
+      344
+    ],
+    [
+      345,
+      349
+    ],
+    [
+      350,
+      353
+    ],
+    [
+      354,
+      356
+    ],
+    [
+      357,
+      368
+    ],
+    [
+      369,
+      380
+    ],
+    [
+      381,
+      384
+    ],
+    [
+      385,
+      392
+    ],
+    [
+      393,
+      398
+    ],
+    [
+      399,
+      403
+    ],
+    [
+      404,
+      412
+    ],
+    [
+      413,
+      417
+    ],
+    [
+      417,
+      418
+    ],
+    [
+      419,
+      430
+    ],
+    [
+      431,
+      434
+    ],
+    [
+      435,
+      437
+    ],
+    [
+      438,
+      442
+    ],
+    [
+      443,
+      445
+    ],
+    [
+      446,
+      455
+    ],
+    [
+      456,
+      461
+    ],
+    [
+      462,
+      465
+    ],
+    [
+      466,
+      468
+    ],
+    [
+      469,
+      477
+    ],
+    [
+      478,
+      480
+    ],
+    [
+      481,
+      486
+    ],
+    [
+      487,
+      491
+    ],
+    [
+      492,
+      497
+    ],
+    [
+      498,
+      501
+    ],
+    [
+      502,
+      511
+    ],
+    [
+      512,
+      521
+    ],
+    [
+      521,
+      522
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      11
+    ],
+    [
+      12,
+      34
+    ],
+    [
+      35,
+      56
+    ],
+    [
+      57,
+      92
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T2",
+      "start_idx": 256,
+      "end_idx": 267,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        46
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T3",
+      "start_idx": 274,
+      "end_idx": 277,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        48
+      ]
+    },
+    {
+      "entity/argument_text": "Hawk",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T4",
+      "start_idx": 188,
+      "end_idx": 192,
+      "tokens": [
+        "Hawk"
+      ],
+      "token_idx": [
+        36
+      ]
+    },
+    {
+      "entity/argument_text": "databases",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T5",
+      "start_idx": 446,
+      "end_idx": 455,
+      "tokens": [
+        "databases"
+      ],
+      "token_idx": [
+        80
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T7",
+      "start_idx": 419,
+      "end_idx": 430,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        75
+      ]
+    },
+    {
+      "entity/argument_text": "other Hawk group",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T8",
+      "start_idx": 481,
+      "end_idx": 497,
+      "tokens": [
+        "other",
+        "Hawk",
+        "group"
+      ],
+      "token_idx": [
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "affiliate companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T9",
+      "start_idx": 502,
+      "end_idx": 521,
+      "tokens": [
+        "affiliate",
+        "companies"
+      ],
+      "token_idx": [
+        90,
+        91
+      ]
+    },
+    {
+      "entity/argument_text": "You",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T10",
+      "start_idx": 311,
+      "end_idx": 314,
+      "tokens": [
+        "You"
+      ],
+      "token_idx": [
+        57
+      ]
+    },
+    {
+      "entity/argument_text": "personal data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T11",
+      "start_idx": 404,
+      "end_idx": 417,
+      "tokens": [
+        "personal",
+        "data"
+      ],
+      "token_idx": [
+        72,
+        73
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collecting",
+        "start_idx": 245,
+        "end_idx": 255,
+        "tokens": [
+          "collecting"
+        ],
+        "token_idx": [
+          45
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "Hawk",
+          "start_idx": 188,
+          "end_idx": 192
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 274,
+          "end_idx": 277
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 256,
+          "end_idx": 267
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "held",
+        "start_idx": 438,
+        "end_idx": 442,
+        "tokens": [
+          "held"
+        ],
+        "token_idx": [
+          78
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "Third-party-entity",
+          "text": "other Hawk group",
+          "start_idx": 481,
+          "end_idx": 497
+        },
+        {
+          "role": "Data-Holder2",
+          "type": "Third-party-entity",
+          "text": "affiliate companies",
+          "start_idx": 502,
+          "end_idx": 521
+        },
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "databases",
+          "start_idx": 446,
+          "end_idx": 455
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 419,
+          "end_idx": 430
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "You",
+          "start_idx": 311,
+          "end_idx": 314
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-general",
+          "text": "personal data",
+          "start_idx": 404,
+          "end_idx": 417
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

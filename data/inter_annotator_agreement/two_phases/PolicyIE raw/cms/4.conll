@@ -1,0 +1,112 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How to opt out or disable cookies
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	to	to	PART	TO	_	3	mark	_	TokenRange=4:6
+3	opt	opt	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=7:10
+4	out	out	ADP	RP	_	3	compound:prt	_	TokenRange=11:14
+5	or	or	CCONJ	CC	_	6	cc	_	TokenRange=15:17
+6	disable	disable	ADJ	JJ	Degree=Pos	3	conj	_	TokenRange=18:25
+7	cookies	cookie	NOUN	NNS	Number=Plur	3	obj	_	SpacesAfter=\n\n|TokenRange=26:33
+
+# newpar
+# sent_id = 2
+# text = If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser.
+1	If	if	SCONJ	IN	_	5	mark	_	TokenRange=35:37
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=38:41
+3	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=42:44
+4	not	not	PART	RB	_	5	advmod	_	TokenRange=45:48
+5	wish	wish	VERB	VB	VerbForm=Inf	19	advcl	_	TokenRange=49:53
+6	to	to	PART	TO	_	7	mark	_	TokenRange=54:56
+7	have	have	VERB	VB	VerbForm=Inf	5	xcomp	_	TokenRange=57:61
+8	session	session	NOUN	NN	Number=Sing	7	obj	_	TokenRange=62:69
+9	or	or	CCONJ	CC	_	11	cc	_	TokenRange=70:72
+10	persistent	persistent	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=73:83
+11	cookies	cookie	NOUN	NNS	Number=Plur	8	conj	_	TokenRange=84:91
+12	placed	place	VERB	VBN	Tense=Past|VerbForm=Part	11	acl	_	TokenRange=92:98
+13	on	on	ADP	IN	_	15	case	_	TokenRange=99:101
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=102:106
+15	computer	computer	NOUN	NN	Number=Sing	12	obl	_	SpaceAfter=No|TokenRange=107:115
+16	,	,	PUNCT	,	_	19	punct	_	TokenRange=115:116
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	TokenRange=117:120
+18	can	can	AUX	MD	VerbForm=Fin	19	aux	_	TokenRange=121:124
+19	disable	disable	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=125:132
+20	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	19	obj	_	TokenRange=133:137
+21	using	use	VERB	VBG	VerbForm=Ger	19	xcomp	_	TokenRange=138:143
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	24	nmod:poss	_	TokenRange=144:148
+23	Web	web	NOUN	NN	Number=Sing	24	compound	_	TokenRange=149:152
+24	browser	browser	NOUN	NN	Number=Sing	21	obj	_	SpaceAfter=No|TokenRange=153:160
+25	.	.	PUNCT	.	_	19	punct	_	TokenRange=160:161
+
+# sent_id = 3
+# text = If you opt out of cookies, you will still have access to all information and resources on CMS websites.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=162:164
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=165:168
+3	opt	opt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	TokenRange=169:172
+4	out	out	ADP	IN	_	6	case	_	TokenRange=173:176
+5	of	of	ADP	IN	_	6	case	_	TokenRange=177:179
+6	cookies	cookie	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=180:187
+7	,	,	PUNCT	,	_	11	punct	_	TokenRange=187:188
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=189:192
+9	will	will	AUX	MD	VerbForm=Fin	11	aux	_	TokenRange=193:197
+10	still	still	ADV	RB	_	11	advmod	_	TokenRange=198:203
+11	have	have	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=204:208
+12	access	access	NOUN	NN	Number=Sing	11	obj	_	TokenRange=209:215
+13	to	to	ADP	IN	_	15	case	_	TokenRange=216:218
+14	all	all	DET	DT	_	15	det	_	TokenRange=219:222
+15	information	information	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=223:234
+16	and	and	CCONJ	CC	_	17	cc	_	TokenRange=235:238
+17	resources	resource	NOUN	NNS	Number=Plur	15	conj	_	TokenRange=239:248
+18	on	on	ADP	IN	_	20	case	_	TokenRange=249:251
+19	CMS	Cm	NOUN	NN	Number=Sing	20	compound	_	TokenRange=252:255
+20	websites	website	NOUN	NNS	Number=Plur	15	nmod	_	SpaceAfter=No|TokenRange=256:264
+21	.	.	PUNCT	.	_	11	punct	_	TokenRange=264:265
+
+# sent_id = 4
+# text = Instructions for disabling or opting out of cookies in the most popular browsers are located at http://www.usa.gov/optout_instructions.shtml.
+1	Instructions	Instruction	NOUN	NNS	Number=Plur	15	nsubj:pass	_	TokenRange=266:278
+2	for	for	SCONJ	IN	_	3	mark	_	TokenRange=279:282
+3	disabling	disabling	VERB	VBG	VerbForm=Ger	1	acl	_	TokenRange=283:292
+4	or	or	CCONJ	CC	_	5	cc	_	TokenRange=293:295
+5	opting	opt	VERB	VBG	VerbForm=Ger	3	conj	_	TokenRange=296:302
+6	out	out	ADP	IN	_	8	case	_	TokenRange=303:306
+7	of	of	ADP	IN	_	8	case	_	TokenRange=307:309
+8	cookies	cookie	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=310:317
+9	in	in	ADP	IN	_	13	case	_	TokenRange=318:320
+10	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=321:324
+11	most	most	ADV	RBS	_	12	advmod	_	TokenRange=325:329
+12	popular	popular	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=330:337
+13	browsers	browser	NOUN	NNS	Number=Plur	8	nmod	_	TokenRange=338:346
+14	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TokenRange=347:350
+15	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=351:358
+16	at	at	ADP	IN	_	17	case	_	TokenRange=359:361
+17	http://www.usa.gov/optout_instructions.shtml	http://www.usa.gov/optout_instructions.shtml	X	ADD	_	15	obl	_	SpaceAfter=No|TokenRange=362:406
+18	.	.	PUNCT	.	_	15	punct	_	SpacesAfter=\n|TokenRange=406:407
+
+# sent_id = 5
+# text = Please note that by opting out of cookies, you will disable cookies from all sources, not just from CMS websites.
+1	Please	please	INTJ	UH	_	2	discourse	_	TokenRange=408:414
+2	note	note	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=415:419
+3	that	that	SCONJ	IN	_	22	mark	_	TokenRange=420:424
+4	by	by	SCONJ	IN	_	5	mark	_	TokenRange=425:427
+5	opting	opt	VERB	VBG	VerbForm=Ger	22	advcl	_	TokenRange=428:434
+6	out	out	ADP	IN	_	8	case	_	TokenRange=435:438
+7	of	of	ADP	IN	_	8	case	_	TokenRange=439:441
+8	cookies	cookie	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No|TokenRange=442:449
+9	,	,	PUNCT	,	_	22	punct	_	TokenRange=449:450
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj	_	TokenRange=451:454
+11	will	will	AUX	MD	VerbForm=Fin	22	aux	_	TokenRange=455:459
+12	disable	disable	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=460:467
+13	cookies	cookie	NOUN	NNS	Number=Plur	22	nsubj	_	TokenRange=468:475
+14	from	from	ADP	IN	_	16	case	_	TokenRange=476:480
+15	all	all	DET	DT	_	16	det	_	TokenRange=481:484
+16	sources	source	NOUN	NNS	Number=Plur	13	nmod	_	SpaceAfter=No|TokenRange=485:492
+17	,	,	PUNCT	,	_	13	punct	_	TokenRange=492:493
+18	not	not	ADV	RB	_	22	advmod	_	TokenRange=494:497
+19	just	just	ADV	RB	_	22	advmod	_	TokenRange=498:502
+20	from	from	ADP	IN	_	22	case	_	TokenRange=503:507
+21	CMS	CMS	PROPN	NNP	Number=Sing	22	compound	_	TokenRange=508:511
+22	websites	website	NOUN	NNS	Number=Plur	2	ccomp	_	SpaceAfter=No|TokenRange=512:520
+23	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=520:521
+

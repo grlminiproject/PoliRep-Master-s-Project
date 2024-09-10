@@ -1,0 +1,44 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and a list of entities that have been previously annotated for this segment in json format.
+Your task is to annotate relations in this policy statement.
+
+For reference, the previously annotated entities are of the following types:
+1. Data - phrases in segment text that describe a concrete PERSONAL USER DATA that is protected by the first party by means of some protection method.
+2. Protection method - phrases in segment text that refer to the protection method used to protect PERSONAL USER DATA by the first party.
+
+You need to annotate relations of the following type:
+Protection - this is a relation between a Data entity (source) and Protection method entity (target) that captures the fact that this Datum is being protected by this Protection Method.
+
+Note the following!
+1. Multiple Protection method entities might apply to the same Data entity.
+2. Single Protection method entity might apply to multiple Data entities.
+
+Examples
+
+Question:
+"Personal Information – We use "Secure Socket Layer" encryption technology when collecting certain information about your vehicle through our websites. You can identify the use of such protection by looking for "https" in the Internet URLor page address or a closed lock symbol if you are using Internet Explorer. We protect PII found in our most sensitive databases in encrypted formats within controlled and secure environments with restricted access. While we attempt to ensure the integrity and security of our network and computer systems, we cannot guarantee that our security measures will prevent unauthorized access."
+
+Data entities:
+{
+  "entities": [
+    {"id": "D1", "text": "certain information about your vehicle"}
+  ]
+}
+
+Protection method entities:
+{
+  "entities": [
+    {"id": "M1", "text": "\"Secure Socket Layer\" encryption technology"},
+    {"id": "M2", "text": "encrypted formats within controlled and secure environments with restricted access"},
+  ]
+}
+"
+
+
+Answer:
+{
+  "relations": [
+    {"source": "D1", "target": "M1"}
+  ]
+}
+
+Please identify and annotate ALL Protection relations given following privacy policy segment and previously annotated entities.

@@ -1,0 +1,21 @@
+T1	first-party-collection-use 178 188	collection
+E1	first-party-collection-use:T1 Data-Collector:T5 Data-Provider:T6 Condition-Argument:T4 Data-Collected:T2 Purpose-Argument:T3
+T2	Data-general 166 177	information
+T3	Basic-service-feature 34 80	providing our product’s functions and services
+T4	Condition 101 143	allow certain “permissions” on your device
+T5	First-party-entity 82 84	we
+T6	User 94 97	you
+T7	Condition 1240 1266	allowing these permissions
+T8	first-party-collection-use 1310 1317	collect
+E2	first-party-collection-use:T8 Purpose-Argument:T10 Data-Collected:T9 Condition-Argument:T7 Data-Collector:T12 Data-Provider:T11
+T9	Data-general 1335 1346	information
+T10	Basic-service-feature 1350 1376	realize relevant functions
+T11	User 1285 1289	your
+T12	First-party-entity 1307 1309	us
+T13	Condition 1383 1438	you deny or disable the permissions in whole or in part
+T14	User 1449 1452	you
+T15	Negation 1458 1465	refused
+T16	first-party-collection-use 1469 1476	provide
+E3	first-party-collection-use:T16 Condition-Argument:T13 Data-Provider:T14 Polarity:T15 Data-Collected:T17 Data-Collector:T18
+T17	Data-general 1485 1496	information
+T18	First-party-entity 1500 1502	us

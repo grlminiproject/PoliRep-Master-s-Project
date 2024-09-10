@@ -1,0 +1,12 @@
+T1	First-party-entity 110 112	We
+T2	Negation 116 119	not
+T4	collection-use 130 137	collect
+E1	collection-use:T4 Data-Provider:T6 Data-Collected:T5 Polarity:T2 Data-Collector:T1
+T5	Data-general 138 158	personal information
+T6	User 164 179	anyone under 13
+T7	collection-use 465 472	collect
+E2	collection-use:T7 Data-Collected2:T12 Data-Provider:T11 Condition-Argument3:T9 Data-Collector:T8
+T8	First-party-entity 293 295	we
+T9	Condition 293 454	we need to rely on consent as a legal bases for processing your information and your country requires consent from a parent, we may require your parent’s consent
+T11	User 352 356	your
+T12	Data-general 357 368	information

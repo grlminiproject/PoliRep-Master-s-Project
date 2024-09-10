@@ -1,0 +1,43 @@
+T1	User 42 45	You
+T2	Negation 49 52	not
+T3	collection-use 61 65	give
+E1	collection-use:T3 Data-Collected:T5 Data-Collector:T4 Polarity:T2 Data-Provider:T1 Condition-Argument:T26
+T4	First-party-entity 66 68	us
+T5	Data-general 69 89	personal information
+T6	Opt-in 125 170	you choose to receive alerts or e-newsletters
+T7	First-party-entity 172 174	we
+T8	collection-use 175 182	collect
+E2	collection-use:T8 Purpose-Argument:T11 Data-Collected:T10 Data-Provider:T9 Data-Collector:T7 Condition-Argument:T6
+T9	User 183 187	your
+T10	EmailAddress 188 201	email address
+T11	ServiceRegistration 205 238	complete the subscription process
+T12	Condition 243 413	you choose to provide us with personally identifiable information through an email message, request for information, paper or electronic form, questionnaire, survey, etc.
+T14	User 243 246	you
+T13	First-party-entity 265 267	us
+T15	data-storage-retention-deletion 423 431	maintain
+E3	data-storage-retention-deletion:T15 Retention-Period2:T17 Data-Retained2:T19 Condition-Argument:T12 Data-Holder:T13 Data-Provider:T14 Purpose-Argument:T16 Purpose-Argument2:T31
+T17	retention-period 465 482	as long as needed
+T19	Identifying 273 308	personally identifiable information
+T20	data-security-protection 814 823	safeguard
+E4	data-security-protection:T20 Data-Protected:T25 Data-Protector:T24 Data-Provider:T23 method:T21 Data-Protected2:T30 Data-Protected3:T18 Data-Protected4:T27 Data-Protected5:T28 Data-Protected6:T29
+T21	general-safeguard-method 852 930	in accordance with the Privacy Act of 1974, as amended (5 U.S.C. Section 552a)
+T23	User 589 592	you
+T24	First-party-entity 593 595	we
+T25	Data-general 607 627	personal information
+T26	Condition 93 111	visit CMS websites
+T18	Name 714 718	name
+T27	EmailAddressPersonal 720 742	personal email address
+T28	PhysicalAddress 744 764	home mailing address
+T29	TelephoneNumber 766 797	personal or mobile phone number
+T30	Identifying 693 712	personal identifier
+T16	CustomerManagement 486 510	respond to your question
+T31	CommunicationForCustomerCare 517 564	fulfill the stated purpose of the communication
+T32	data-storage-retention-deletion 596 601	store
+E5	data-storage-retention-deletion:T32 Data-Provider:T23 Data-Holder:T24 Data-Retained:T25 Data-Retained2:T30 Storage-Place:T33 Data-Retained4:T18 Data-Retained5:T27 Data-Retained6:T28 Data-Retained7:T29 Condition-Argument:T22
+T33	storage-place 631 646	a record system
+T22	Condition 566 646	If in order to contact you we store your personal information in a record system
+#1	AnnotatorNotes T28	Potentially house number
+R1	SUBSUME Arg1:T30 Arg2:T18	
+R2	SUBSUME Arg1:T30 Arg2:T27	
+R3	SUBSUME Arg1:T30 Arg2:T28	
+R4	SUBSUME Arg1:T30 Arg2:T29	

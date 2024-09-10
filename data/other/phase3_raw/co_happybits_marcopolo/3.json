@@ -1,0 +1,2136 @@
+{
+  "text": "1. Basic Account Data\n\nTo create a Marco Polo account (\"Account\"), you provide your mobile number and your name, and may choose to provide your email address, photo, birth day and birth month. Only other registered Marco Polo users that:\nalready have your phone number in their phone\u2019s address book,\nare in a group with you, or\nyou invited to Marco Polo\nmay see your name, photo, mobile number, email, birth day and/or birth month. Note that users who have you in their contacts will see you by the name they\u2019ve saved and not by the name you provided to Marco Polo. For example, your spouse will still see you as \"Love\" when they use the app if that\u2019s how you appear in their phone\u2019s address book. If you chose to provide them, we collect your birth day and month so people you know get reminded when it\u2019s your birthday.\n\n",
+  "words": [
+    "1",
+    ".",
+    "Basic",
+    "Account",
+    "Data",
+    "To",
+    "create",
+    "a",
+    "Marco",
+    "Polo",
+    "account",
+    "(",
+    "\"",
+    "Account",
+    "\"",
+    ")",
+    ",",
+    "you",
+    "provide",
+    "your",
+    "mobile",
+    "number",
+    "and",
+    "your",
+    "name",
+    ",",
+    "and",
+    "may",
+    "choose",
+    "to",
+    "provide",
+    "your",
+    "email",
+    "address",
+    ",",
+    "photo",
+    ",",
+    "birth",
+    "day",
+    "and",
+    "birth",
+    "month",
+    ".",
+    "Only",
+    "other",
+    "registered",
+    "Marco",
+    "Polo",
+    "users",
+    "that",
+    ":",
+    "already",
+    "have",
+    "your",
+    "phone",
+    "number",
+    "in",
+    "their",
+    "phone",
+    "\u2019s",
+    "address",
+    "book",
+    ",",
+    "are",
+    "in",
+    "a",
+    "group",
+    "with",
+    "you",
+    ",",
+    "or",
+    "you",
+    "invited",
+    "to",
+    "Marco",
+    "Polo",
+    "may",
+    "see",
+    "your",
+    "name",
+    ",",
+    "photo",
+    ",",
+    "mobile",
+    "number",
+    ",",
+    "email",
+    ",",
+    "birth",
+    "day",
+    "and",
+    "/",
+    "or",
+    "birth",
+    "month",
+    ".",
+    "Note",
+    "that",
+    "users",
+    "who",
+    "have",
+    "you",
+    "in",
+    "their",
+    "contacts",
+    "will",
+    "see",
+    "you",
+    "by",
+    "the",
+    "name",
+    "they",
+    "\u2019ve",
+    "saved",
+    "and",
+    "not",
+    "by",
+    "the",
+    "name",
+    "you",
+    "provided",
+    "to",
+    "Marco",
+    "Polo",
+    ".",
+    "For",
+    "example",
+    ",",
+    "your",
+    "spouse",
+    "will",
+    "still",
+    "see",
+    "you",
+    "as",
+    "\"",
+    "Love",
+    "\"",
+    "when",
+    "they",
+    "use",
+    "the",
+    "app",
+    "if",
+    "that",
+    "\u2019s",
+    "how",
+    "you",
+    "appear",
+    "in",
+    "their",
+    "phone",
+    "\u2019s",
+    "address",
+    "book",
+    ".",
+    "If",
+    "you",
+    "chose",
+    "to",
+    "provide",
+    "them",
+    ",",
+    "we",
+    "collect",
+    "your",
+    "birth",
+    "day",
+    "and",
+    "month",
+    "so",
+    "people",
+    "you",
+    "know",
+    "get",
+    "reminded",
+    "when",
+    "it",
+    "\u2019s",
+    "your",
+    "birthday",
+    "."
+  ],
+  "lemma": [
+    "1",
+    ".",
+    "Basic",
+    "account",
+    "data",
+    "to",
+    "create",
+    "a",
+    "Marco",
+    "Polo",
+    "account",
+    "(",
+    "\"",
+    "account",
+    "\"",
+    ")",
+    ",",
+    "you",
+    "provide",
+    "you",
+    "mobile",
+    "number",
+    "and",
+    "you",
+    "name",
+    ",",
+    "and",
+    "may",
+    "choose",
+    "to",
+    "provide",
+    "you",
+    "email",
+    "address",
+    ",",
+    "photo",
+    ",",
+    "birth",
+    "day",
+    "and",
+    "birth",
+    "month",
+    ".",
+    "only",
+    "other",
+    "register",
+    "Marco",
+    "Polo",
+    "user",
+    "that",
+    ":",
+    "already",
+    "have",
+    "you",
+    "phone",
+    "number",
+    "in",
+    "they",
+    "phone",
+    "'s",
+    "address",
+    "book",
+    ",",
+    "be",
+    "in",
+    "a",
+    "group",
+    "with",
+    "you",
+    ",",
+    "or",
+    "you",
+    "invite",
+    "to",
+    "Marco",
+    "Polo",
+    "may",
+    "see",
+    "you",
+    "name",
+    ",",
+    "photo",
+    ",",
+    "mobile",
+    "number",
+    ",",
+    "email",
+    ",",
+    "birth",
+    "day",
+    "and",
+    "/",
+    "or",
+    "birth",
+    "month",
+    ".",
+    "note",
+    "that",
+    "user",
+    "who",
+    "have",
+    "you",
+    "in",
+    "they",
+    "contact",
+    "will",
+    "see",
+    "you",
+    "by",
+    "the",
+    "name",
+    "they",
+    "have",
+    "save",
+    "and",
+    "not",
+    "by",
+    "the",
+    "name",
+    "you",
+    "provide",
+    "to",
+    "Marco",
+    "Polo",
+    ".",
+    "for",
+    "example",
+    ",",
+    "you",
+    "spouse",
+    "will",
+    "still",
+    "see",
+    "you",
+    "as",
+    "\"",
+    "Love",
+    "\"",
+    "when",
+    "they",
+    "use",
+    "the",
+    "app",
+    "if",
+    "that",
+    "be",
+    "how",
+    "you",
+    "appear",
+    "in",
+    "they",
+    "phone",
+    "'s",
+    "address",
+    "book",
+    ".",
+    "if",
+    "you",
+    "choose",
+    "to",
+    "provide",
+    "they",
+    ",",
+    "we",
+    "collect",
+    "you",
+    "birth",
+    "day",
+    "and",
+    "month",
+    "so",
+    "people",
+    "you",
+    "know",
+    "get",
+    "remind",
+    "when",
+    "it",
+    "be",
+    "you",
+    "birthday",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "JJ",
+    "NN",
+    "NN",
+    "TO",
+    "VB",
+    "DT",
+    "NNP",
+    "NNP",
+    "NN",
+    "-LRB-",
+    "``",
+    "NN",
+    "''",
+    "-RRB-",
+    ",",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "JJ",
+    "NN",
+    "CC",
+    "PRP$",
+    "NN",
+    ",",
+    "CC",
+    "MD",
+    "VB",
+    "TO",
+    "VB",
+    "PRP$",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    "CC",
+    "NN",
+    "NN",
+    ".",
+    "RB",
+    "JJ",
+    "VBN",
+    "NNP",
+    "NNP",
+    "NNS",
+    "WDT",
+    ":",
+    "RB",
+    "VBP",
+    "PRP$",
+    "NN",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "POS",
+    "NN",
+    "NN",
+    ",",
+    "VBP",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "PRP",
+    ",",
+    "CC",
+    "PRP",
+    "VBD",
+    "IN",
+    "NNP",
+    "NNP",
+    "MD",
+    "VB",
+    "PRP$",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    "CC",
+    ",",
+    "CC",
+    "NN",
+    "NN",
+    ".",
+    "VB",
+    "IN",
+    "NNS",
+    "WP",
+    "VBP",
+    "PRP",
+    "IN",
+    "PRP$",
+    "NNS",
+    "MD",
+    "VB",
+    "PRP",
+    "IN",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    "VBN",
+    "CC",
+    "RB",
+    "IN",
+    "DT",
+    "NN",
+    "PRP",
+    "VBD",
+    "IN",
+    "NNP",
+    "NNP",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "PRP$",
+    "NN",
+    "MD",
+    "RB",
+    "VB",
+    "PRP",
+    "IN",
+    "``",
+    "NN",
+    "''",
+    "WRB",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    "IN",
+    "DT",
+    "VBZ",
+    "WRB",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP$",
+    "NN",
+    "POS",
+    "NN",
+    "NN",
+    ".",
+    "IN",
+    "PRP",
+    "VBD",
+    "TO",
+    "VB",
+    "PRP",
+    ",",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "NN",
+    "CC",
+    "NN",
+    "RB",
+    "NNS",
+    "PRP",
+    "VBP",
+    "VB",
+    "VBN",
+    "WRB",
+    "PRP",
+    "VBZ",
+    "PRP$",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "amod",
+    "compound",
+    "root",
+    "mark",
+    "advcl",
+    "det",
+    "compound",
+    "compound",
+    "obj",
+    "punct",
+    "punct",
+    "appos",
+    "punct",
+    "punct",
+    "punct",
+    "nsubj",
+    "root",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "punct",
+    "cc",
+    "aux",
+    "conj",
+    "mark",
+    "xcomp",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "punct",
+    "conj",
+    "punct",
+    "compound",
+    "conj",
+    "cc",
+    "compound",
+    "conj",
+    "punct",
+    "advmod",
+    "amod",
+    "amod",
+    "compound",
+    "flat",
+    "nsubj",
+    "nsubj",
+    "punct",
+    "advmod",
+    "acl:relcl",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "case",
+    "nmod:poss",
+    "nmod:poss",
+    "case",
+    "compound",
+    "obl",
+    "punct",
+    "cop",
+    "case",
+    "det",
+    "root",
+    "case",
+    "nmod",
+    "punct",
+    "cc",
+    "nsubj",
+    "conj",
+    "case",
+    "compound",
+    "obl",
+    "aux",
+    "ccomp",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "conj",
+    "punct",
+    "amod",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "compound",
+    "conj",
+    "cc",
+    "punct",
+    "cc",
+    "compound",
+    "conj",
+    "punct",
+    "root",
+    "mark",
+    "nsubj",
+    "nsubj",
+    "acl:relcl",
+    "obj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "aux",
+    "ccomp",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "nsubj:pass",
+    "aux:pass",
+    "ccomp",
+    "cc",
+    "advmod",
+    "case",
+    "det",
+    "conj",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "compound",
+    "obl",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "nmod:poss",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "obj",
+    "case",
+    "punct",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "det",
+    "obj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "advmod",
+    "nsubj",
+    "ccomp",
+    "case",
+    "nmod:poss",
+    "nmod:poss",
+    "case",
+    "compound",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "mark",
+    "xcomp",
+    "obj",
+    "punct",
+    "nsubj",
+    "root",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "cc",
+    "conj",
+    "advmod",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "aux:pass",
+    "ccomp",
+    "mark",
+    "expl",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      8
+    ],
+    [
+      9,
+      16
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      23,
+      25
+    ],
+    [
+      26,
+      32
+    ],
+    [
+      33,
+      34
+    ],
+    [
+      35,
+      40
+    ],
+    [
+      41,
+      45
+    ],
+    [
+      46,
+      53
+    ],
+    [
+      54,
+      55
+    ],
+    [
+      55,
+      56
+    ],
+    [
+      56,
+      63
+    ],
+    [
+      63,
+      64
+    ],
+    [
+      64,
+      65
+    ],
+    [
+      65,
+      66
+    ],
+    [
+      67,
+      70
+    ],
+    [
+      71,
+      78
+    ],
+    [
+      79,
+      83
+    ],
+    [
+      84,
+      90
+    ],
+    [
+      91,
+      97
+    ],
+    [
+      98,
+      101
+    ],
+    [
+      102,
+      106
+    ],
+    [
+      107,
+      111
+    ],
+    [
+      111,
+      112
+    ],
+    [
+      113,
+      116
+    ],
+    [
+      117,
+      120
+    ],
+    [
+      121,
+      127
+    ],
+    [
+      128,
+      130
+    ],
+    [
+      131,
+      138
+    ],
+    [
+      139,
+      143
+    ],
+    [
+      144,
+      149
+    ],
+    [
+      150,
+      157
+    ],
+    [
+      157,
+      158
+    ],
+    [
+      159,
+      164
+    ],
+    [
+      164,
+      165
+    ],
+    [
+      166,
+      171
+    ],
+    [
+      172,
+      175
+    ],
+    [
+      176,
+      179
+    ],
+    [
+      180,
+      185
+    ],
+    [
+      186,
+      191
+    ],
+    [
+      191,
+      192
+    ],
+    [
+      193,
+      197
+    ],
+    [
+      198,
+      203
+    ],
+    [
+      204,
+      214
+    ],
+    [
+      215,
+      220
+    ],
+    [
+      221,
+      225
+    ],
+    [
+      226,
+      231
+    ],
+    [
+      232,
+      236
+    ],
+    [
+      236,
+      237
+    ],
+    [
+      238,
+      245
+    ],
+    [
+      246,
+      250
+    ],
+    [
+      251,
+      255
+    ],
+    [
+      256,
+      261
+    ],
+    [
+      262,
+      268
+    ],
+    [
+      269,
+      271
+    ],
+    [
+      272,
+      277
+    ],
+    [
+      278,
+      283
+    ],
+    [
+      283,
+      285
+    ],
+    [
+      286,
+      293
+    ],
+    [
+      294,
+      298
+    ],
+    [
+      298,
+      299
+    ],
+    [
+      300,
+      303
+    ],
+    [
+      304,
+      306
+    ],
+    [
+      307,
+      308
+    ],
+    [
+      309,
+      314
+    ],
+    [
+      315,
+      319
+    ],
+    [
+      320,
+      323
+    ],
+    [
+      323,
+      324
+    ],
+    [
+      325,
+      327
+    ],
+    [
+      328,
+      331
+    ],
+    [
+      332,
+      339
+    ],
+    [
+      340,
+      342
+    ],
+    [
+      343,
+      348
+    ],
+    [
+      349,
+      353
+    ],
+    [
+      354,
+      357
+    ],
+    [
+      358,
+      361
+    ],
+    [
+      362,
+      366
+    ],
+    [
+      367,
+      371
+    ],
+    [
+      371,
+      372
+    ],
+    [
+      373,
+      378
+    ],
+    [
+      378,
+      379
+    ],
+    [
+      380,
+      386
+    ],
+    [
+      387,
+      393
+    ],
+    [
+      393,
+      394
+    ],
+    [
+      395,
+      400
+    ],
+    [
+      400,
+      401
+    ],
+    [
+      402,
+      407
+    ],
+    [
+      408,
+      411
+    ],
+    [
+      412,
+      415
+    ],
+    [
+      415,
+      416
+    ],
+    [
+      416,
+      418
+    ],
+    [
+      419,
+      424
+    ],
+    [
+      425,
+      430
+    ],
+    [
+      430,
+      431
+    ],
+    [
+      432,
+      436
+    ],
+    [
+      437,
+      441
+    ],
+    [
+      442,
+      447
+    ],
+    [
+      448,
+      451
+    ],
+    [
+      452,
+      456
+    ],
+    [
+      457,
+      460
+    ],
+    [
+      461,
+      463
+    ],
+    [
+      464,
+      469
+    ],
+    [
+      470,
+      478
+    ],
+    [
+      479,
+      483
+    ],
+    [
+      484,
+      487
+    ],
+    [
+      488,
+      491
+    ],
+    [
+      492,
+      494
+    ],
+    [
+      495,
+      498
+    ],
+    [
+      499,
+      503
+    ],
+    [
+      504,
+      508
+    ],
+    [
+      508,
+      511
+    ],
+    [
+      512,
+      517
+    ],
+    [
+      518,
+      521
+    ],
+    [
+      522,
+      525
+    ],
+    [
+      526,
+      528
+    ],
+    [
+      529,
+      532
+    ],
+    [
+      533,
+      537
+    ],
+    [
+      538,
+      541
+    ],
+    [
+      542,
+      550
+    ],
+    [
+      551,
+      553
+    ],
+    [
+      554,
+      559
+    ],
+    [
+      560,
+      564
+    ],
+    [
+      564,
+      565
+    ],
+    [
+      566,
+      569
+    ],
+    [
+      570,
+      577
+    ],
+    [
+      577,
+      578
+    ],
+    [
+      579,
+      583
+    ],
+    [
+      584,
+      590
+    ],
+    [
+      591,
+      595
+    ],
+    [
+      596,
+      601
+    ],
+    [
+      602,
+      605
+    ],
+    [
+      606,
+      609
+    ],
+    [
+      610,
+      612
+    ],
+    [
+      613,
+      614
+    ],
+    [
+      614,
+      618
+    ],
+    [
+      618,
+      619
+    ],
+    [
+      620,
+      624
+    ],
+    [
+      625,
+      629
+    ],
+    [
+      630,
+      633
+    ],
+    [
+      634,
+      637
+    ],
+    [
+      638,
+      641
+    ],
+    [
+      642,
+      644
+    ],
+    [
+      645,
+      649
+    ],
+    [
+      649,
+      651
+    ],
+    [
+      652,
+      655
+    ],
+    [
+      656,
+      659
+    ],
+    [
+      660,
+      666
+    ],
+    [
+      667,
+      669
+    ],
+    [
+      670,
+      675
+    ],
+    [
+      676,
+      681
+    ],
+    [
+      681,
+      683
+    ],
+    [
+      684,
+      691
+    ],
+    [
+      692,
+      696
+    ],
+    [
+      696,
+      697
+    ],
+    [
+      698,
+      700
+    ],
+    [
+      701,
+      704
+    ],
+    [
+      705,
+      710
+    ],
+    [
+      711,
+      713
+    ],
+    [
+      714,
+      721
+    ],
+    [
+      722,
+      726
+    ],
+    [
+      726,
+      727
+    ],
+    [
+      728,
+      730
+    ],
+    [
+      731,
+      738
+    ],
+    [
+      739,
+      743
+    ],
+    [
+      744,
+      749
+    ],
+    [
+      750,
+      753
+    ],
+    [
+      754,
+      757
+    ],
+    [
+      758,
+      763
+    ],
+    [
+      764,
+      766
+    ],
+    [
+      767,
+      773
+    ],
+    [
+      774,
+      777
+    ],
+    [
+      778,
+      782
+    ],
+    [
+      783,
+      786
+    ],
+    [
+      787,
+      795
+    ],
+    [
+      796,
+      800
+    ],
+    [
+      801,
+      803
+    ],
+    [
+      803,
+      805
+    ],
+    [
+      806,
+      810
+    ],
+    [
+      811,
+      819
+    ],
+    [
+      819,
+      820
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      42
+    ],
+    [
+      43,
+      95
+    ],
+    [
+      96,
+      124
+    ],
+    [
+      125,
+      155
+    ],
+    [
+      156,
+      181
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T2",
+      "start_idx": 67,
+      "end_idx": 70,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        17
+      ]
+    },
+    {
+      "entity/argument_text": "mobile number",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T3",
+      "start_idx": 84,
+      "end_idx": 97,
+      "tokens": [
+        "mobile",
+        "number"
+      ],
+      "token_idx": [
+        20,
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "name",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T4",
+      "start_idx": 107,
+      "end_idx": 111,
+      "tokens": [
+        "name"
+      ],
+      "token_idx": [
+        24
+      ]
+    },
+    {
+      "entity/argument_text": "email address",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T5",
+      "start_idx": 144,
+      "end_idx": 157,
+      "tokens": [
+        "email",
+        "address"
+      ],
+      "token_idx": [
+        32,
+        33
+      ]
+    },
+    {
+      "entity/argument_text": "photo",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T6",
+      "start_idx": 159,
+      "end_idx": 164,
+      "tokens": [
+        "photo"
+      ],
+      "token_idx": [
+        35
+      ]
+    },
+    {
+      "entity/argument_text": "birth day and birth month",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T7",
+      "start_idx": 166,
+      "end_idx": 191,
+      "tokens": [
+        "birth",
+        "day",
+        "and",
+        "birth",
+        "month"
+      ],
+      "token_idx": [
+        37,
+        38,
+        39,
+        40,
+        41
+      ]
+    },
+    {
+      "entity/argument_text": "registered Marco Polo users",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T9",
+      "start_idx": 204,
+      "end_idx": 231,
+      "tokens": [
+        "registered",
+        "Marco",
+        "Polo",
+        "users"
+      ],
+      "token_idx": [
+        45,
+        46,
+        47,
+        48
+      ]
+    },
+    {
+      "entity/argument_text": "already have your phone number in their phone\u2019s address book",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T10",
+      "start_idx": 238,
+      "end_idx": 298,
+      "tokens": [
+        "already",
+        "have",
+        "your",
+        "phone",
+        "number",
+        "in",
+        "their",
+        "phone",
+        "\u2019s",
+        "address",
+        "book"
+      ],
+      "token_idx": [
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61
+      ]
+    },
+    {
+      "entity/argument_text": "are in a group with you",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T11",
+      "start_idx": 300,
+      "end_idx": 323,
+      "tokens": [
+        "are",
+        "in",
+        "a",
+        "group",
+        "with",
+        "you"
+      ],
+      "token_idx": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68
+      ]
+    },
+    {
+      "entity/argument_text": "you invited to Marco Polo",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T12",
+      "start_idx": 328,
+      "end_idx": 353,
+      "tokens": [
+        "you",
+        "invited",
+        "to",
+        "Marco",
+        "Polo"
+      ],
+      "token_idx": [
+        71,
+        72,
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "entity/argument_text": "name",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T13",
+      "start_idx": 367,
+      "end_idx": 371,
+      "tokens": [
+        "name"
+      ],
+      "token_idx": [
+        79
+      ]
+    },
+    {
+      "entity/argument_text": "photo",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T14",
+      "start_idx": 373,
+      "end_idx": 378,
+      "tokens": [
+        "photo"
+      ],
+      "token_idx": [
+        81
+      ]
+    },
+    {
+      "entity/argument_text": "mobile number",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T15",
+      "start_idx": 380,
+      "end_idx": 393,
+      "tokens": [
+        "mobile",
+        "number"
+      ],
+      "token_idx": [
+        83,
+        84
+      ]
+    },
+    {
+      "entity/argument_text": "email",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T16",
+      "start_idx": 395,
+      "end_idx": 400,
+      "tokens": [
+        "email"
+      ],
+      "token_idx": [
+        86
+      ]
+    },
+    {
+      "entity/argument_text": "birth day and/or birth month",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T17",
+      "start_idx": 402,
+      "end_idx": 430,
+      "tokens": [
+        "birth",
+        "day",
+        "and",
+        "/",
+        "or",
+        "birth",
+        "month"
+      ],
+      "token_idx": [
+        88,
+        89,
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T19",
+      "start_idx": 728,
+      "end_idx": 730,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        163
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T20",
+      "start_idx": 701,
+      "end_idx": 704,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        157
+      ]
+    },
+    {
+      "entity/argument_text": "you chose to provide them",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T21",
+      "start_idx": 701,
+      "end_idx": 726,
+      "tokens": [
+        "you",
+        "chose",
+        "to",
+        "provide",
+        "them"
+      ],
+      "token_idx": [
+        157,
+        158,
+        159,
+        160,
+        161
+      ]
+    },
+    {
+      "entity/argument_text": "birth day and month",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T22",
+      "start_idx": 744,
+      "end_idx": 763,
+      "tokens": [
+        "birth",
+        "day",
+        "and",
+        "month"
+      ],
+      "token_idx": [
+        166,
+        167,
+        168,
+        169
+      ]
+    },
+    {
+      "entity/argument_text": "people you know get reminded when it\u2019s your birthday",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T23",
+      "start_idx": 767,
+      "end_idx": 819,
+      "tokens": [
+        "people",
+        "you",
+        "know",
+        "get",
+        "reminded",
+        "when",
+        "it",
+        "\u2019s",
+        "your",
+        "birthday"
+      ],
+      "token_idx": [
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180
+      ]
+    },
+    {
+      "entity/argument_text": "create a Marco Polo account (\"Account\")",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T24",
+      "start_idx": 26,
+      "end_idx": 65,
+      "tokens": [
+        "create",
+        "a",
+        "Marco",
+        "Polo",
+        "account",
+        "(",
+        "\"",
+        "Account",
+        "\"",
+        ")"
+      ],
+      "token_idx": [
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "entity/argument_text": "Marco Polo",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T25",
+      "start_idx": 35,
+      "end_idx": 45,
+      "tokens": [
+        "Marco",
+        "Polo"
+      ],
+      "token_idx": [
+        8,
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T26",
+      "start_idx": 251,
+      "end_idx": 255,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        53
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "provide",
+        "start_idx": 71,
+        "end_idx": 78,
+        "tokens": [
+          "provide"
+        ],
+        "token_idx": [
+          18
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 67,
+          "end_idx": 70
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-contact",
+          "text": "mobile number",
+          "start_idx": 84,
+          "end_idx": 97
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-contact",
+          "text": "name",
+          "start_idx": 107,
+          "end_idx": 111
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-contact",
+          "text": "photo",
+          "start_idx": 159,
+          "end_idx": 164
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-contact",
+          "text": "birth day and birth month",
+          "start_idx": 166,
+          "end_idx": 191
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-contact",
+          "text": "email address",
+          "start_idx": 144,
+          "end_idx": 157
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "create a Marco Polo account (\"Account\")",
+          "start_idx": 26,
+          "end_idx": 65
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "Marco Polo",
+          "start_idx": 35,
+          "end_idx": 45
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "see",
+        "start_idx": 358,
+        "end_idx": 361,
+        "tokens": [
+          "see"
+        ],
+        "token_idx": [
+          77
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "registered Marco Polo users",
+          "start_idx": 204,
+          "end_idx": 231
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "already have your phone number in their phone\u2019s address book",
+          "start_idx": 238,
+          "end_idx": 298
+        },
+        {
+          "role": "Condition-Argument2",
+          "type": "Condition",
+          "text": "are in a group with you",
+          "start_idx": 300,
+          "end_idx": 323
+        },
+        {
+          "role": "Condition-Argument3",
+          "type": "Condition",
+          "text": "you invited to Marco Polo",
+          "start_idx": 328,
+          "end_idx": 353
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-contact",
+          "text": "name",
+          "start_idx": 367,
+          "end_idx": 371
+        },
+        {
+          "role": "Data-Shared2",
+          "type": "Data-contact",
+          "text": "photo",
+          "start_idx": 373,
+          "end_idx": 378
+        },
+        {
+          "role": "Data-Shared3",
+          "type": "Data-contact",
+          "text": "mobile number",
+          "start_idx": 380,
+          "end_idx": 393
+        },
+        {
+          "role": "Data-Shared4",
+          "type": "Data-contact",
+          "text": "email",
+          "start_idx": 395,
+          "end_idx": 400
+        },
+        {
+          "role": "Data-Shared5",
+          "type": "Data-contact",
+          "text": "birth day and/or birth month",
+          "start_idx": 402,
+          "end_idx": 430
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 251,
+          "end_idx": 255
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 731,
+        "end_idx": 738,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          164
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-contact",
+          "text": "birth day and month",
+          "start_idx": 744,
+          "end_idx": 763
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 728,
+          "end_idx": 730
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you chose to provide them",
+          "start_idx": 701,
+          "end_idx": 726
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 701,
+          "end_idx": 704
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "people you know get reminded when it\u2019s your birthday",
+          "start_idx": 767,
+          "end_idx": 819
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

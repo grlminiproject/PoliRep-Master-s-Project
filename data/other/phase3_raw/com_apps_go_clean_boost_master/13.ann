@@ -1,0 +1,42 @@
+T1	First-party-entity 47 49	We
+T2	first-party-collection-use 55 62	collect
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Provider:T4 Condition-Argument2:T6 Condition-Argument3:T5
+T3	Data-general 63 74	information
+T4	User 80 83	you
+T5	Condition 98 131	you use our products and services
+T6	Condition 142 230	you contact us with questions, complaints or suggestions or provide us with any feedback
+T8	First-party-entity 236 238	We
+T9	first-party-collection-use 307 314	combine
+E2	first-party-collection-use:T9 Data-Collector:T8 Data-Provider:T11 Data-Collected:T10 Data-Provider2:T12 Purpose-Argument:T13 Data-Provider3:T34 Data-Provider4:T33 Data-Provider5:T32 Data-Provider6:T31 Data-Provider7:T30 Data-Collected2:T7
+T10	Data-general 251 262	information
+T11	User 269 272	you
+T12	Third-party-entity 289 302	other sources
+T13	Basic-service-feature 396 433	help manage our relationship with you
+T14	First-party-entity 572 574	We
+T15	Negation 580 583	not
+T17	first-party-collection-use 594 601	collect
+E3	first-party-collection-use:T17 Data-Collector:T14 Polarity:T15 Data-Collected:T18 Data-Provider:T19 Condition-Argument2:T36 Purpose-Argument:T37
+T18	Data-general 606 619	personal data
+T19	User 626 672	persons who are legally recognized as children
+T20	first-party-collection-use 1520 1523	use
+E4	first-party-collection-use:T20 Data-Provider:T23 Data-Collected:T22 Data-Collector:T21 Purpose-Argument:T24
+T21	First-party-entity 1505 1509	Hawk
+T22	Data-general 1528 1541	personal data
+T23	User 1545 1553	children
+T24	Legal-requirement 1567 1649	permitted by law where the required parental or guardian consent has been obtained
+T25	data-storage-retention-deletion 2047 2053	delete
+E5	data-storage-retention-deletion:T25 Data-Retained:T29 Retention-Period:T26 Data-Provider:T27 Data-Holder:T28 Condition-Argument:T35 Data-Retained2:T38
+T26	retention-period 2039 2046	quickly
+T28	First-party-entity 1909 1911	we
+T27	User 1942 1952	children’s
+T29	Data-general 1953 1964	information
+T30	Third-party-entity 467 500	third party software applications
+T31	Third-party-entity 505 527	social media platforms
+T32	Third-party-entity 536 544	Facebook
+T33	Third-party-entity 546 554	Google +
+T34	Third-party-entity 559 566	Twitter
+T35	Condition 1909 2015	we find out that we’ve collected children’s information without prior consents from their lawful guardians
+T36	Condition 673 764	without making it clear that such information should only be provided with parental consent
+T37	Legal-requirement 769 804	this is required by applicable laws
+T38	Data-general 2054 2067	relevant data
+T7	Data-general 325 336	information

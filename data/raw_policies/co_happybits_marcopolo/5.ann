@@ -1,0 +1,7 @@
+T1	Data-general 56 76	Personal Information
+T2	first-party-collection-use 102 106	used
+E1	first-party-collection-use:T2 Purpose-Argument:T4 Data-Collected:T1 Data-Provider:T3 Condition-Argument:T6 Data-Collector2:T8
+T3	User 20 23	you
+T4	Communications 132 191	researching the issue and contacting you about your request
+T6	Condition 20 50	you contact Marco Polo support
+T8	First-party-entity 32 42	Marco Polo

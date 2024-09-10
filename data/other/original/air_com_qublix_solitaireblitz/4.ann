@@ -1,0 +1,37 @@
+T1	First-party-entity 32 38	Qublix
+T2	first-party-collection-use 56 61	using
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Purpose-Argument:T4 Data-Provider:T5 Purpose-Argument2:T6 Purpose-Argument3:T7 Purpose-Argument4:T8 Purpose-Argument5:T9
+T3	Data-general 62 73	information
+T4	Purpose 81 107	provide the Service to you
+T5	User 104 107	you
+T6	Purpose 109 128	improve our Service
+T7	Purpose 130 141	contact you
+T8	Purpose 143 160	conduct marketing
+T9	Purpose 165 209	research and create reports for internal use
+T10	data-storage-retention-deletion 214 219	store
+E2	data-storage-retention-deletion:T10 Data-Holder:T11 Data-Retained:T12 Storage-Place:T13 Data-Holder2:T14 Data-Holder3:T15 Data-Holder4:T16
+T11	First-party-entity 211 213	We
+T12	Data-general 220 231	information
+T13	storage-place 235 271	servers located in the United States
+T14	Third-party-entity 276 289	third parties
+T15	Third-party-entity 299 314	Softlayer, Inc.
+T16	Third-party-entity 318 337	Amazon Web Services
+T17	First-party-entity 338 340	We
+T18	first-party-collection-use 341 344	use
+E3	first-party-collection-use:T18 Data-Collected:T19 Data-Collector:T17 Purpose-Argument:T20 Purpose-Argument2:T21 Data-Provider:T33
+T19	Data-general 345 356	information
+T20	Purpose 391 424	purposes described in this Policy
+T21	Purpose 428 475	disclosed to you in connection with our Service
+T22	First-party-entity 490 492	we
+T23	first-party-collection-use 497 500	use
+E4	first-party-collection-use:T23 Data-Collector:T22 Data-Provider:T24 Data-Collected:T25 Purpose-Argument:T26 Purpose-Argument2:T27 Purpose-Argument3:T28 Purpose-Argument4:T29 Purpose-Argument5:T30 Purpose-Argument6:T31 Purpose-Argument7:T32
+T24	User 501 505	your
+T25	Data-general 506 517	information
+T26	Purpose 524 551	Allow you to play our games
+T27	Purpose 555 611	Identify and suggest connections with other Qublix users
+T28	Purpose 615 646	Operate and improve our Service
+T29	Purpose 650 744	Understand you and your preferences to enhance your experience and enjoyment using our Service
+T30	Purpose 748 815	Respond to your comments and questions and provide customer service
+T31	Purpose 819 872	Provide and deliver products and services you request
+T32	Purpose 876 944	Deliver advertising and marketing and promotional information to you
+T33	User 441 444	you

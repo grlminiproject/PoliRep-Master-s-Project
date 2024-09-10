@@ -1,0 +1,18 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2.
+1	2	2	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = Legal basis for use of your personal information
+1	Legal	legal	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=3:8
+2	basis	basis	NOUN	NN	Number=Sing	0	root	_	TokenRange=9:14
+3	for	for	ADP	IN	_	4	case	_	TokenRange=15:18
+4	use	use	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=19:22
+5	of	of	ADP	IN	_	8	case	_	TokenRange=23:25
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=26:30
+7	personal	personal	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=31:39
+8	information	information	NOUN	NN	Number=Sing	4	nmod	_	SpacesAfter=\n\n\n|TokenRange=40:51
+

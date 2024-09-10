@@ -1,0 +1,11 @@
+T1	Username 227 235	username
+T2	EmailAddress 237 250	email address
+T3	Password 255 263	password
+T4	Name 511 515	name
+T5	Location 517 525	location
+T6	Data-other 527 534	website
+T7	SocialMedia 536 571	links to your social media profiles
+T8	Data-general 577 594	other information
+T9	Communication 761 769	messages
+T10	ServiceProvision 935 1018	operate, maintain, and provide to you the features and functionality of the Service
+T11	CommunicationManagement 1034 1099	communicate directly with you, such as to send you email messages

@@ -1,0 +1,35 @@
+T1	Third-party-entity 154 162	Features
+T2	collection-use 167 174	collect
+E1	collection-use:T2 Data-Provider:T1 Data-Collected:T3 Data-Collected2:T4 Purpose-Argument:T5 Data-Provider2:T17
+T3	IPAddress 180 190	IP address
+T4	Data-general 206 212	cookie
+T5	OptimisationForConsumer 216 255	enable the Feature to function properly
+T6	Contact 660 679	contact information
+T7	First-party-entity 422 428	Qublix
+T8	User 469 473	your
+T9	collection-use 688 692	used
+E2	collection-use:T9 Data-Collector:T7 Data-Provider:T8 Purpose-Argument:T10 Data-Collected:T11 Data-Collected2:T6 Data-Collected3:T21
+T10	CommunicationManagement 717 756	sending communications to the addressee
+T11	SocialNetwork 474 512	contacts from a Social Network Service
+T12	First-party-entity 793 795	us
+T14	User 758 761	You
+T15	Data-general 827 838	information
+T16	storage-place 844 856	our database
+T17	User 175 179	your
+T18	Third-party-entity 769 780	third party
+T19	Condition 758 795	You or the third party may contact us
+T21	Friend 522 543	your Facebook friends
+T20	TODO 154 162	Features
+#1	AnnotatorNotes T20	In the pre-annotated version, it equated features to a third-party entity… is this possible? A feature is not in and of itself a party.
+T22	data-storage-retention-deletion 362 370	governed
+E4	data-storage-retention-deletion:T22 Data-Provider:T25 Data-Retained:T26 Data-Holder:T24 Data-Retained2:T27
+T24	First-party-entity 396 420	the company providing it
+T25	User 320 324	Your
+T23	TODO 343 357	these Features
+#2	AnnotatorNotes T23	based on the logics from before, this would be a third party entity?
+T26	Interaction 325 337	interactions
+T27	PrivacyPreference 378 392	privacy policy
+T28	Data-general 892 909	this information.
+T13	data-storage-retention-deletion 878 884	stores
+E3	data-storage-retention-deletion:T13 Data-Provider:T14 Data-Holder:T18 Data-Holder2:T12 Data-Retained:T15 Storage-Place:T16 Data-Retained2:T28 Condition-Argument:T19 Data-Holder3:T29
+T29	First-party-entity 871 877	Qublix

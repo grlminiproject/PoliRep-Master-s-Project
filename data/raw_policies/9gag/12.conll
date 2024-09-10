@@ -1,0 +1,229 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How Long
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	TokenRange=0:3
+2	Long	long	ADV	RB	Degree=Pos	0	root	_	TokenRange=4:8
+
+# sent_id = 2
+# text = We Keep Your Information
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=9:11
+2	Keep	keep	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=12:16
+3	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=17:21
+4	Information	information	NOUN	NN	Number=Sing	2	obj	_	SpacesAfter=\n\n|TokenRange=22:33
+
+# newpar
+# sent_id = 3
+# text = 9GAG stores your information, the posts you upload, and the comments you upload for a period of time.
+1	9GAG	9gag	PRON	NN	Number=Sing	2	nsubj	_	TokenRange=35:39
+2	stores	store	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=40:46
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=47:51
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=52:63
+5	,	,	PUNCT	,	_	2	punct	_	TokenRange=63:64
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=65:68
+7	posts	post	NOUN	NNS	Number=Plur	2	appos	_	TokenRange=69:74
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	TokenRange=75:78
+9	upload	upload	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	SpaceAfter=No|TokenRange=79:85
+10	,	,	PUNCT	,	_	13	punct	_	TokenRange=85:86
+11	and	and	CCONJ	CC	_	13	cc	_	TokenRange=87:90
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=91:94
+13	comments	comment	NOUN	NNS	Number=Plur	7	conj	_	TokenRange=95:103
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	TokenRange=104:107
+15	upload	upload	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	TokenRange=108:114
+16	for	for	ADP	IN	_	18	case	_	TokenRange=115:118
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	TokenRange=119:120
+18	period	period	NOUN	NN	Number=Sing	15	obl	_	TokenRange=121:127
+19	of	of	ADP	IN	_	20	case	_	TokenRange=128:130
+20	time	time	NOUN	NN	Number=Sing	18	nmod	_	SpaceAfter=No|TokenRange=131:135
+21	.	.	PUNCT	.	_	2	punct	_	TokenRange=135:136
+
+# sent_id = 4
+# text = For example:
+1	For	for	ADP	IN	_	2	case	_	TokenRange=137:140
+2	example	example	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=141:148
+3	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=148:149
+
+# sent_id = 5
+# text = We store your basic account information, including your name, username, and email address until you ask us to delete them
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=150:152
+2	store	store	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=153:158
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=159:163
+4	basic	basic	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=164:169
+5	account	account	NOUN	NN	Number=Sing	6	compound	_	TokenRange=170:177
+6	information	information	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=178:189
+7	,	,	PUNCT	,	_	2	punct	_	TokenRange=189:190
+8	including	include	VERB	VBG	VerbForm=Ger	10	case	_	TokenRange=191:200
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=201:205
+10	name	name	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No|TokenRange=206:210
+11	,	,	PUNCT	,	_	12	punct	_	TokenRange=210:211
+12	username	username	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No|TokenRange=212:220
+13	,	,	PUNCT	,	_	16	punct	_	TokenRange=220:221
+14	and	and	CCONJ	CC	_	16	cc	_	TokenRange=222:225
+15	email	email	NOUN	NN	Number=Sing	16	compound	_	TokenRange=226:231
+16	address	address	NOUN	NN	Number=Sing	10	conj	_	TokenRange=232:239
+17	until	until	SCONJ	IN	_	19	mark	_	TokenRange=240:245
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nsubj	_	TokenRange=246:249
+19	ask	ask	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	TokenRange=250:253
+20	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	19	obj	_	TokenRange=254:256
+21	to	to	PART	TO	_	22	mark	_	TokenRange=257:259
+22	delete	delete	VERB	VB	VerbForm=Inf	19	xcomp	_	TokenRange=260:266
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	obj	_	SpacesAfter=\n|TokenRange=267:271
+
+# sent_id = 6
+# text = We store location information for different lengths of time based on how precise it is and which services you use.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nmod:poss	_	TokenRange=272:274
+2	store	store	NOUN	NN	Number=Sing	3	compound	_	TokenRange=275:280
+3	location	location	NOUN	NN	Number=Sing	4	compound	_	TokenRange=281:289
+4	information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=290:301
+5	for	for	ADP	IN	_	7	case	_	TokenRange=302:305
+6	different	different	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=306:315
+7	lengths	length	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=316:323
+8	of	of	ADP	IN	_	9	case	_	TokenRange=324:326
+9	time	time	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=327:331
+10	based	base	VERB	VBN	Tense=Past|VerbForm=Part	13	case	_	TokenRange=332:337
+11	on	on	ADP	IN	_	13	case	_	TokenRange=338:340
+12	how	how	ADV	WRB	PronType=Int	13	advmod	_	TokenRange=341:344
+13	precise	precise	ADJ	JJ	Degree=Pos	4	nmod	_	TokenRange=345:352
+14	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	TokenRange=353:355
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TokenRange=356:358
+16	and	and	CCONJ	CC	_	18	cc	_	TokenRange=359:362
+17	which	which	DET	WDT	PronType=Int	18	det	_	TokenRange=363:368
+18	services	service	NOUN	NNS	Number=Plur	13	conj	_	TokenRange=369:377
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	TokenRange=378:381
+20	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No|TokenRange=382:385
+21	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=385:386
+
+# sent_id = 7
+# text = We are constantly collecting and updating information about the things you like or dislike, so we can provide you with more relevant data, more relevant ads, and a better user experience.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=387:389
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=390:393
+3	constantly	constantly	ADV	RB	_	4	advmod	_	TokenRange=394:404
+4	collecting	collect	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	TokenRange=405:415
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=416:419
+6	updating	update	VERB	VBG	VerbForm=Ger	4	conj	_	TokenRange=420:428
+7	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=429:440
+8	about	about	ADP	IN	_	10	case	_	TokenRange=441:446
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=447:450
+10	things	thing	NOUN	NNS	Number=Plur	7	nmod	_	TokenRange=451:457
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	TokenRange=458:461
+12	like	like	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	TokenRange=462:466
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=467:469
+14	dislike	dislike	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	conj	_	SpaceAfter=No|TokenRange=470:477
+15	,	,	PUNCT	,	_	19	punct	_	TokenRange=477:478
+16	so	so	ADV	RB	_	19	advmod	_	TokenRange=479:481
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	19	nsubj	_	TokenRange=482:484
+18	can	can	AUX	MD	VerbForm=Fin	19	aux	_	TokenRange=485:488
+19	provide	provide	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=489:496
+20	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	19	obj	_	TokenRange=497:500
+21	with	with	ADP	IN	_	24	case	_	TokenRange=501:505
+22	more	more	ADJ	JJR	Degree=Cmp	24	amod	_	TokenRange=506:510
+23	relevant	relevant	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=511:519
+24	data	data	NOUN	NN	Number=Sing	19	obl	_	SpaceAfter=No|TokenRange=520:524
+25	,	,	PUNCT	,	_	28	punct	_	TokenRange=524:525
+26	more	more	ADV	RBR	_	27	advmod	_	TokenRange=526:530
+27	relevant	relevant	ADJ	JJ	Degree=Pos	28	amod	_	TokenRange=531:539
+28	ads	ad	NOUN	NNS	Number=Plur	4	conj	_	SpaceAfter=No|TokenRange=540:543
+29	,	,	PUNCT	,	_	34	punct	_	TokenRange=543:544
+30	and	and	CCONJ	CC	_	34	cc	_	TokenRange=545:548
+31	a	a	DET	DT	Definite=Ind|PronType=Art	34	det	_	TokenRange=549:550
+32	better	better	ADJ	JJR	Degree=Cmp	34	amod	_	TokenRange=551:557
+33	user	user	NOUN	NN	Number=Sing	34	compound	_	TokenRange=558:562
+34	experience	experience	NOUN	NN	Number=Sing	4	conj	_	SpaceAfter=No|TokenRange=563:573
+35	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=573:574
+
+# sent_id = 8
+# text = If you decide to stop using 9GAG, you can ask us to delete your account.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=575:577
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=578:581
+3	decide	decide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	TokenRange=582:588
+4	to	to	PART	TO	_	5	mark	_	TokenRange=589:591
+5	stop	stop	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=592:596
+6	using	use	VERB	VBG	VerbForm=Ger	5	xcomp	_	TokenRange=597:602
+7	9GAG	9gag	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=603:607
+8	,	,	PUNCT	,	_	11	punct	_	TokenRange=607:608
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=609:612
+10	can	can	AUX	MD	VerbForm=Fin	11	aux	_	TokenRange=613:616
+11	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=617:620
+12	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	11	obj	_	TokenRange=621:623
+13	to	to	PART	TO	_	14	mark	_	TokenRange=624:626
+14	delete	delete	VERB	VB	VerbForm=Inf	11	xcomp	_	TokenRange=627:633
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=634:638
+16	account	account	NOUN	NN	Number=Sing	14	obj	_	SpaceAfter=No|TokenRange=639:646
+17	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n|TokenRange=646:647
+
+# sent_id = 9
+# text = There may be legal requirements to store your data and we may need to suspend those deletion practices if we receive valid legal process or request asking us to preserve that content, or if we receive reports of abuse or other Terms of Service Violations.
+1	There	there	PRON	EX	_	3	expl	_	TokenRange=648:653
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=654:657
+3	be	be	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=658:660
+4	legal	legal	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=661:666
+5	requirements	requirement	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=667:679
+6	to	to	PART	TO	_	7	mark	_	TokenRange=680:682
+7	store	store	VERB	VB	VerbForm=Inf	5	acl	_	TokenRange=683:688
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=689:693
+9	data	data	NOUN	NN	Number=Sing	7	obj	_	TokenRange=694:698
+10	and	and	CCONJ	CC	_	13	cc	_	TokenRange=699:702
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	TokenRange=703:705
+12	may	may	AUX	MD	VerbForm=Fin	13	aux	_	TokenRange=706:709
+13	need	need	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=710:714
+14	to	to	PART	TO	_	15	mark	_	TokenRange=715:717
+15	suspend	suspend	VERB	VB	VerbForm=Inf	13	xcomp	_	TokenRange=718:725
+16	those	those	DET	DT	Number=Plur|PronType=Dem	18	det	_	TokenRange=726:731
+17	deletion	deletion	NOUN	NN	Number=Sing	18	compound	_	TokenRange=732:740
+18	practices	practice	NOUN	NNS	Number=Plur	15	obj	_	TokenRange=741:750
+19	if	if	SCONJ	IN	_	21	mark	_	TokenRange=751:753
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	TokenRange=754:756
+21	receive	receive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	advcl	_	TokenRange=757:764
+22	valid	valid	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=765:770
+23	legal	legal	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=771:776
+24	process	process	NOUN	NN	Number=Sing	21	obj	_	TokenRange=777:784
+25	or	or	CCONJ	CC	_	26	cc	_	TokenRange=785:787
+26	request	request	NOUN	NN	Number=Sing	24	conj	_	TokenRange=788:795
+27	asking	ask	VERB	VBG	VerbForm=Ger	24	acl	_	TokenRange=796:802
+28	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	27	obj	_	TokenRange=803:805
+29	to	to	PART	TO	_	30	mark	_	TokenRange=806:808
+30	preserve	preserve	VERB	VB	VerbForm=Inf	27	xcomp	_	TokenRange=809:817
+31	that	that	DET	DT	Number=Sing|PronType=Dem	32	det	_	TokenRange=818:822
+32	content	content	NOUN	NN	Number=Sing	30	obj	_	SpaceAfter=No|TokenRange=823:830
+33	,	,	PUNCT	,	_	37	punct	_	TokenRange=830:831
+34	or	or	CCONJ	CC	_	37	cc	_	TokenRange=832:834
+35	if	if	SCONJ	IN	_	37	mark	_	TokenRange=835:837
+36	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	37	nsubj	_	TokenRange=838:840
+37	receive	receive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	conj	_	TokenRange=841:848
+38	reports	report	NOUN	NNS	Number=Plur	37	obj	_	TokenRange=849:856
+39	of	of	ADP	IN	_	40	case	_	TokenRange=857:859
+40	abuse	abuse	NOUN	NN	Number=Sing	38	nmod	_	TokenRange=860:865
+41	or	or	CCONJ	CC	_	43	cc	_	TokenRange=866:868
+42	other	other	ADJ	JJ	Degree=Pos	43	amod	_	TokenRange=869:874
+43	Terms	term	NOUN	NNS	Number=Plur	38	conj	_	TokenRange=875:880
+44	of	of	ADP	IN	_	46	case	_	TokenRange=881:883
+45	Service	Service	NOUN	NN	Number=Sing	46	compound	_	TokenRange=884:891
+46	Violations	violations	NOUN	NNS	Number=Plur	43	nmod	_	SpaceAfter=No|TokenRange=892:902
+47	.	.	PUNCT	.	_	3	punct	_	TokenRange=902:903
+
+# sent_id = 10
+# text = We may also need to retain certain information in backup for a limited period of time, or as required by law.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=904:906
+2	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=907:910
+3	also	also	ADV	RB	_	4	advmod	_	TokenRange=911:915
+4	need	need	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=916:920
+5	to	to	PART	TO	_	6	mark	_	TokenRange=921:923
+6	retain	retain	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=924:930
+7	certain	certain	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=931:938
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=939:950
+9	in	in	ADP	IN	_	10	case	_	TokenRange=951:953
+10	backup	backup	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=954:960
+11	for	for	ADP	IN	_	14	case	_	TokenRange=961:964
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	TokenRange=965:966
+13	limited	limited	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=967:974
+14	period	period	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=975:981
+15	of	of	ADP	IN	_	16	case	_	TokenRange=982:984
+16	time	time	NOUN	NN	Number=Sing	14	nmod	_	SpaceAfter=No|TokenRange=985:989
+17	,	,	PUNCT	,	_	20	punct	_	TokenRange=989:990
+18	or	or	CCONJ	CC	_	20	cc	_	TokenRange=991:993
+19	as	as	SCONJ	IN	_	20	mark	_	TokenRange=994:996
+20	required	require	VERB	VBN	Tense=Past|VerbForm=Part	6	conj	_	TokenRange=997:1005
+21	by	by	ADP	IN	_	22	case	_	TokenRange=1006:1008
+22	law	law	NOUN	NN	Number=Sing	20	obl	_	SpaceAfter=No|TokenRange=1009:1012
+23	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=1012:1013
+

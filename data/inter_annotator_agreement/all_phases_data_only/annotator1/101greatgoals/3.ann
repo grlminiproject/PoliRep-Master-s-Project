@@ -1,0 +1,30 @@
+T8	Name 1155 1159	name
+T9	BirthDate 1161 1170	birthdate
+T10	SocialNetwork 1172 1187	profile picture
+T11	Friend 1192 1205	friends' list
+T15	Data-general 1451 1471	Personal Information
+T17	Name 1494 1498	name
+T18	EmailAddress 1500 1513	email address
+T19	TelephoneNumber 1515 1527	phone number
+T20	BirthDate 1532 1545	date of birth
+T24	Data-general 1563 1583	Personal Information
+T27	Data-general 1758 1778	Personal Information
+T29	CreditRecord 1823 1860	information about your credit history
+T31	Financial 1886 1913	other financial information
+T33	Data-general 1977 1988	information
+T38	Data-general 402 413	information
+T43	DeviceBased 730 790	information with regard to your device, software or hardware
+T44	UID 823 850	device's unique identifiers
+T45	BrowserFingerprint 883 905	browser fingerprinting
+T46	IPAddress 907 917	IP address
+T47	Location 922 939	geo-location data
+T4	Contact 304 319	contact details
+T7	Name 334 343	full name
+T53	EmailAddress 348 361	email address
+T54	Data-general 707 725	connection details
+T55	UID 857 861	UDID
+T56	DeviceBased 863 867	IMEI
+T57	MACAddress 869 880	MAC address
+T52	PubliclyAvailableSocialMedia 1218 1273	information you made publicly available on such account
+T61	Data-general 1634 1645	information
+T1	Data-general 168 188	Personal Information

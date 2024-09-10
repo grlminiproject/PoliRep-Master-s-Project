@@ -1,0 +1,13 @@
+T6	DeviceBased 1258 1280	data about your device
+T7	Location 1282 1290	location
+T8	ServiceConsumptionBehavior 1295 1310	use of our apps
+T9	IPAddress 1322 1332	IP address
+T10	DeviceIdentifier 1336 1352	unique device ID
+T11	GPSCoordinate 1354 1374	geo-location details
+T12	UID 1384 1391	User ID
+T13	Data-general 1426 1474	data which you provide to us when using our apps
+T14	AdInteractionBehavior 1486 1534	information on your interaction with advertising
+T15	Data-general 1539 1568	certain technical information
+T20	DeviceIdentifier 2626 2630	IDFA
+T23	Data-general 254 269	aggregated data
+T25	Data-general 2256 2266	other data

@@ -1,0 +1,16 @@
+T1	Data-other 93 111	content you create
+T3	Contact 992 1000	contacts
+T6	Name 1152 1156	name
+T7	TelephoneNumber 1158 1173	phone number(s)
+T8	EmailAddress 1175 1192	email address(es)
+T9	BirthDate 1201 1220	birth day and month
+T11	Data-general 1278 1282	data
+T13	Data-general 1379 1390	information
+T15	Contact 1599 1607	contacts
+T16	Data-other 123 129	videos
+T17	Identifying 134 141	"Polos"
+T18	Picture 144 150	photos
+T19	Data-other 152 169	short video clips
+T20	SocialMediaCommunication 233 246	text messages
+T22	TelephoneNumber 625 645	mobile phone numbers
+T23	EmailAddress 650 665	email addresses

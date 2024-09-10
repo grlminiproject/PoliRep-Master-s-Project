@@ -1,0 +1,54 @@
+T1	third-party-sharing-disclosure 74 79	share
+E1	third-party-sharing-disclosure:T1 Data-Sharer:T3 Data-Provider:T4 Data-Shared:T5 Condition-Argument:T6
+T3	First-party-entity 58 64	Qublix
+T4	User 80 84	your
+T5	Data-general 85 105	personal information
+T6	Condition 113 153	as approved by you or as described below
+T7	Purpose 406 460	connection with the performance of services for Qublix
+T8	First-party-entity 454 460	Qublix
+T9	Third-party-entity 340 357	service providers
+T10	Third-party-entity 329 335	agents
+T11	third-party-sharing-disclosure 367 373	access
+E2	third-party-sharing-disclosure:T11 Data-Receiver:T9 Data-Receiver2:T10 Data-Provider:T12 Data-Shared:T13 Purpose-Argument:T7 Data-Sharer:T8
+T12	User 377 381	your
+T13	Data-general 382 402	personal information
+T14	First-party-entity 464 466	We
+T15	third-party-sharing-disclosure 471 478	release
+E3	third-party-sharing-disclosure:T15 Data-Sharer:T14 Data-Provider:T16 Data-Shared:T17 Purpose-Argument:T18 Purpose-Argument2:T19 Purpose-Argument3:T20 Purpose-Argument4:T21 Purpose-Argument5:T23 Purpose-Argument6:T51 Purpose-Argument7:T50
+T16	User 479 483	your
+T17	Data-general 484 495	information
+T18	Purpose 499 515	permitted by law
+T19	Purpose 528 550	comply with a subpoena
+T20	Purpose 623 640	investigate fraud
+T21	Purpose 707 776	protect the rights, property, or safety of us or our users, or others
+T22	third-party-sharing-disclosure 792 802	exchanging
+E4	third-party-sharing-disclosure:T22 Data-Shared:T24 Data-Receiver:T25 Purpose-Argument:T26
+T23	Purpose 602 621	comply with the law
+T24	Data-general 803 814	information
+T25	Third-party-entity 820 853	other companies and organizations
+T26	Purpose 858 874	fraud protection
+T27	First-party-entity 899 905	Qublix
+T28	third-party-sharing-disclosure 925 933	disclose
+E5	third-party-sharing-disclosure:T28 Data-Sharer:T27 Data-Shared:T29 Purpose-Argument:T30 Purpose-Argument2:T31
+T29	Data-general 934 954	personal information
+T30	Purpose 970 1007	lawful requests by public authorities
+T31	Purpose 1015 1049	local law enforcement requirements
+T32	First-party-entity 1053 1059	Qublix
+T33	third-party-sharing-disclosure 1064 1069	share
+E6	third-party-sharing-disclosure:T33 Data-Sharer:T32 Data-Provider:T34 Data-Shared:T35 Purpose-Argument:T36 Data-Receiver:T39
+T34	User 1070 1074	your
+T35	Data-general 1075 1086	information
+T36	Purpose 1090 1222	connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company
+T39	Third-party-entity 1207 1222	another company
+T40	First-party-entity 1349 1351	We
+T41	third-party-sharing-disclosure 1356 1361	share
+E7	third-party-sharing-disclosure:T41 Data-Sharer:T40 Data-Shared:T42 Data-Provider:T43 Data-Receiver:T44 Data-Receiver2:T45 Data-Receiver3:T46 Data-Receiver4:T47 Data-Receiver5:T48
+T42	Data-aggregated-nonidentifiable 1362 1396	aggregate or anonymous information
+T43	User 1403 1406	you
+T44	Third-party-entity 1412 1423	advertisers
+T45	Third-party-entity 1425 1435	publishers
+T46	Third-party-entity 1437 1454	business partners
+T47	Third-party-entity 1456 1464	sponsors
+T48	Third-party-entity 1470 1489	other third parties
+T50	Purpose 675 702	enforce or apply our rights
+T51	Purpose 642 673	respond to a government request

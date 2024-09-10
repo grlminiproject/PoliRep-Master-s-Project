@@ -1,0 +1,38 @@
+T1	Condition 40 72	you visit or access our Services
+T2	User 40 43	you
+T3	First-party-entity 60 63	our
+T4	first-party-collection-use 119 122	use
+E1	first-party-collection-use:T4 Data-Collector:T3 Condition-Argument:T1 Data-Provider:T2 Data-Collected:T11 Data-Collected2:T10 Data-Collected3:T9 Data-Collected4:T8 Data-Collected5:T7 Data-Collected6:T6 Data-Collected7:T5 Data-Collected8:T12 Purpose-Argument:T14 Purpose-Argument2:T20 Purpose-Argument3:T19 Purpose-Argument4:T18 Data-Collected9:T16 Data-Collected10:T17
+T5	Data-cookies-web-beacons-and-other-technologies 160 171	web beacons
+T6	Data-cookies-web-beacons-and-other-technologies 173 180	cookies
+T7	Data-cookies-web-beacons-and-other-technologies 182 188	pixels
+T8	Data-cookies-web-beacons-and-other-technologies 190 197	scripts
+T9	Data-cookies-web-beacons-and-other-technologies 199 203	tags
+T10	Data-cookies-web-beacons-and-other-technologies 208 226	other technologies
+T11	Data-cookies-web-beacons-and-other-technologies 229 250	Tracking Technologies
+T12	Data-cookies-web-beacons-and-other-technologies 258 279	Tracking Technologies
+T14	Analytics-research 292 325	automatically collect information
+T16	Data-user-online-activities-profiles 345 360	online behavior
+T17	Data-computer-device 378 384	device
+T18	Basic-service-feature 475 514	enhance your navigation on our Services
+T19	Analytics-research 516 549	improve our Services' performance
+T20	Personalization-customization 554 595	customize your experience on our Services
+T13	First-party-entity 597 599	We
+T15	first-party-collection-use 605 608	use
+E2	first-party-collection-use:T15 Data-Collector:T13 Data-Collected:T21 Purpose-Argument:T22 Purpose-Argument2:T23 Purpose-Argument3:T24 Purpose-Argument4:T25 Data-Provider:T34
+T21	Data-general 614 625	information
+T22	Analytics-research 629 679	collect statistics about the usage of our Services
+T23	Analytics-research 681 698	perform analytics
+T24	Personalization-customization 700 751	deliver content which is tailored to your interests
+T25	Basic-service-feature 756 775	administer services
+T26	First-party-entity 839 841	We
+T27	Third-party-entity 853 866	third parties
+T28	third-party-sharing-disclosure 870 877	collect
+E3	third-party-sharing-disclosure:T28 Data-Provider:T30 Data-Sharer:T26 Data-Receiver:T27 Data-Shared:T29 Data-Shared2:T31
+T29	Data-general 878 889	information
+T30	User 896 899	you
+T31	Data-cookies-web-beacons-and-other-technologies 908 929	Tracking Technologies
+T32	third-party-sharing-disclosure 128 137	authorize
+E4	third-party-sharing-disclosure:T32 Data-Provider:T2 Data-Sharer:T3 Condition-Argument:T1 Data-Receiver:T33 Data-Shared:T5 Data-Shared2:T6 Data-Shared3:T7 Data-Shared4:T8 Data-Shared5:T9 Data-Shared6:T10 Data-Shared7:T11 Data-Shared8:T12 Purpose-Argument:T14 Data-Shared9:T16 Data-Shared10:T17 Purpose-Argument2:T18 Purpose-Argument3:T19 Purpose-Argument4:T20
+T33	Third-party-entity 138 151	third parties
+T34	User 783 788	Users

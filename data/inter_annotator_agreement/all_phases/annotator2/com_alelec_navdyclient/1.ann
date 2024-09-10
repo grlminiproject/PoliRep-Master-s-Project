@@ -1,0 +1,6 @@
+T5	Data-general 146 157	information
+T6	User 164 167	you
+T8	storage-place 191 207	notice@navdy.com
+T2	data-storage-retention-deletion 180 187	located
+E2	data-storage-retention-deletion:T2 Storage-Place:T8 Data-Provider:T6 Data-Retained:T5 Data-Holder:T1
+T1	First-party-entity 135 138	our

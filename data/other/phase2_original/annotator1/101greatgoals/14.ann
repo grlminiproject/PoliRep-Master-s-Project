@@ -1,0 +1,43 @@
+T1	general-safeguard-method 161 210	appropriate physical and technological safeguards
+T5	data-security-protection 200 210	safeguards
+E1	data-security-protection:T5 method:T1 Data-Protector:T6 Data-Protected:T7 protect-against:T23
+T6	First-party-entity 140 142	We
+T7	Data-general 300 311	information
+T8	data-security-protection 427 433	employ
+E2	data-security-protection:T8 Data-Protected:T12 method:T9 Data-Protector:T11 method2:T13 method3:T18 method4:T17 method5:T16 method6:T14 method7:T15 Data-Provider:T2 method8:T3
+T9	general-safeguard-method 434 475	industry standard procedures and controls
+T11	First-party-entity 424 426	We
+T12	Data-general 511 522	information
+T13	Access-limitation 533 556	Secure network topology
+T14	Access-limitation 573 593	intrusion prevention
+T15	Access-limitation 598 614	Firewall systems
+T16	encryptions 616 639	Encrypted communication
+T17	User-authentication 641 655	Authentication
+T18	Protection-other 676 709	External and Internal audit tests
+T19	data-security-protection 93 101	security
+E3	data-security-protection:T19 Data-Protected:T20 Data-Protector:T21 Data-Provider:T22
+T20	Data-general 127 138	information
+T21	First-party-entity 38 40	We
+T22	User 122 126	your
+T23	security-threat 227 246	unauthorized access
+T2	User 504 509	users
+T3	User-authentication 660 674	Access Control
+T4	First-party-entity 725 727	we
+T10	general-safeguard-method 733 749	reasonable steps
+T24	data-security-protection 753 762	safeguard
+E4	data-security-protection:T24 Data-Protected:T25 method:T10 Data-Protector:T4
+T25	Data-general 763 774	information
+R1	SUBSUME Arg1:T9 Arg2:T13	
+R2	SUBSUME Arg1:T9 Arg2:T14	
+R3	SUBSUME Arg1:T9 Arg2:T15	
+R4	SUBSUME Arg1:T9 Arg2:T16	
+R5	SUBSUME Arg1:T9 Arg2:T17	
+R6	SUBSUME Arg1:T9 Arg2:T3	
+R7	SUBSUME Arg1:T9 Arg2:T18	
+T26	Third-party-entity 817 851	those who gain unauthorized access
+T27	First-party-entity 879 881	we
+T28	data-security-protection 944 951	prevent
+E5	data-security-protection:T28 Data-Protector:T27 method:T29
+T29	Access-limitation 952 963	such access
+T30	TODO 887 889	no
+#1	AnnotatorNotes T30	Polarity -> no

@@ -1,0 +1,28 @@
+T1	Third-party-entity 371 384	third parties
+T3	Data-general 425 436	information
+T4	Data-general 416 420	data
+T5	Third-party-entity 207 220	third parties
+T6	Data-general 229 252	cookies, APIs, and SDKs
+T7	first-party-collection-use 287 294	collect
+E2	first-party-collection-use:T7 Data-Collected:T6 Data-Provider:T5 Data-Collected2:T8 Data-Collected3:T9 Data-Collector:T10
+T8	DeviceBased 307 335	user and device related data
+T9	Data-general 340 351	information
+T11	DeviceBased 461 478	device identifier
+T12	MACAddress 480 491	MAC address
+T13	TODO 493 497	IMEI
+T14	Location 499 505	locale
+T15	IPAddress 560 570	IP address
+T16	Data-general 572 589	application usage
+T17	TODO 591 615	access and session times
+T18	DeviceBased 617 696	applications present on the device or in use at a particular time on the device
+T19	Interaction 702 751	your viewing of and interactions with advertising
+T20	ServiceProvision 772 796	providing their services
+T21	ServiceProvision 822 868	enabling, providing and delivering advertising
+T10	First-party-entity 256 259	our
+T22	User 443 446	you
+T2	first-party-collection-use 408 415	collect
+E1	first-party-collection-use:T2 Data-Collected:T4 Data-Collected2:T3 Data-Provider2:T22 Data-Collected3:T11 Data-Collected4:T12 Data-Collected5:T13 Data-Collected6:T14 Data-Collected7:T15 Data-Collected8:T16 Data-Collected9:T17 Data-Collected10:T18 Data-Collected11:T19 Purpose-Argument:T20 Purpose-Argument2:T21 Data-Provider:T1
+T23	TODO 371 384	third parties
+#1	AnnotatorNotes T23	I believe that third parties should be the data-receiver here, but I cannot select this for some reason.
+#2	AnnotatorNotes T13	International Mobile Equipment Identity = Device based?
+#3	AnnotatorNotes T17	data general?

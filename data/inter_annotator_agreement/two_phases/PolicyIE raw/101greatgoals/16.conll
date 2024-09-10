@@ -1,0 +1,120 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = HOW TO CONTACT US
+1	HOW	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	TO	to	PART	TO	_	3	mark	_	TokenRange=4:6
+3	CONTACT	contact	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=7:14
+4	US	US	PROPN	NNP	Number=Sing	3	obj	_	SpacesAfter=\n\n|TokenRange=15:17
+
+# newpar
+# sent_id = 2
+# text = If you have any general questions about the Services or the information that we collect about you and how we use it, please contact us via email at dpo@domainsholdingsgroup.info or by sending a letter to our EU representative: Domains Holdings Group Limited Attn: Data Protection Officer 108 Premier Building, Seychelles
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=19:21
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=22:25
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	advcl	_	TokenRange=26:30
+4	any	any	DET	DT	_	6	det	_	TokenRange=31:34
+5	general	general	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=35:42
+6	questions	question	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=43:52
+7	about	about	ADP	IN	_	9	case	_	TokenRange=53:58
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=59:62
+9	Services	service	NOUN	NNS	Number=Plur	6	nmod	_	TokenRange=63:71
+10	or	or	CCONJ	CC	_	12	cc	_	TokenRange=72:74
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=75:78
+12	information	information	NOUN	NN	Number=Sing	3	conj	_	TokenRange=79:90
+13	that	that	PRON	WDT	PronType=Rel	15	obj	_	TokenRange=91:95
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	15	nsubj	_	TokenRange=96:98
+15	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	TokenRange=99:106
+16	about	about	ADP	IN	_	17	case	_	TokenRange=107:112
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	obl	_	TokenRange=113:116
+18	and	and	CCONJ	CC	_	21	cc	_	TokenRange=117:120
+19	how	how	ADV	WRB	PronType=Int	21	advmod	_	TokenRange=121:124
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	TokenRange=125:127
+21	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=128:131
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	21	obj	_	SpaceAfter=No|TokenRange=132:134
+23	,	,	PUNCT	,	_	25	punct	_	TokenRange=134:135
+24	please	please	INTJ	UH	_	25	discourse	_	TokenRange=136:142
+25	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=143:150
+26	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	25	obj	_	TokenRange=151:153
+27	via	via	ADP	IN	_	28	case	_	TokenRange=154:157
+28	email	email	NOUN	NN	Number=Sing	25	obl	_	TokenRange=158:163
+29	at	at	ADP	IN	_	30	case	_	TokenRange=164:166
+30	dpo@domainsholdingsgroup.info	dpo@domainsholdingsgroup.info	NOUN	NN	Number=Sing	28	nmod	_	TokenRange=167:196
+31	or	or	CCONJ	CC	_	33	cc	_	TokenRange=197:199
+32	by	by	SCONJ	IN	_	33	mark	_	TokenRange=200:202
+33	sending	send	VERB	VBG	VerbForm=Ger	28	conj	_	TokenRange=203:210
+34	a	a	DET	DT	Definite=Ind|PronType=Art	35	det	_	TokenRange=211:212
+35	letter	letter	NOUN	NN	Number=Sing	33	obj	_	TokenRange=213:219
+36	to	to	ADP	IN	_	39	case	_	TokenRange=220:222
+37	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	39	nmod:poss	_	TokenRange=223:226
+38	EU	Eu	PROPN	NNP	Number=Sing	39	compound	_	TokenRange=227:229
+39	representative	representative	NOUN	NN	Number=Sing	33	obl	_	SpaceAfter=No|TokenRange=230:244
+40	:	:	PUNCT	:	_	33	punct	_	SpacesAfter=\n|TokenRange=244:245
+41	Domains	domains	PROPN	NNP	Number=Sing	43	compound	_	TokenRange=246:253
+42	Holdings	Holdings	PROPN	NNP	Number=Sing	43	compound	_	TokenRange=254:262
+43	Group	Group	PROPN	NNP	Number=Sing	44	compound	_	TokenRange=263:268
+44	Limited	Limited	PROPN	NNP	Number=Sing	45	compound	_	SpacesAfter=\n|TokenRange=269:276
+45	Attn	Attn	PROPN	NNP	Number=Sing	54	compound	_	SpaceAfter=No|TokenRange=277:281
+46	:	:	PUNCT	:	_	45	punct	_	TokenRange=281:282
+47	Data	data	PROPN	NNP	Number=Sing	48	compound	_	TokenRange=283:287
+48	Protection	Protection	PROPN	NNP	Number=Sing	49	compound	_	TokenRange=288:298
+49	Officer	Officer	PROPN	NNP	Number=Sing	45	appos	_	SpacesAfter=\n|TokenRange=299:306
+50	108	108	NUM	CD	NumType=Card	52	nummod	_	TokenRange=307:310
+51	Premier	premier	PROPN	NNP	Number=Sing	52	compound	_	TokenRange=311:318
+52	Building	building	PROPN	NNP	Number=Sing	45	list	_	SpaceAfter=No|TokenRange=319:327
+53	,	,	PUNCT	,	_	45	punct	_	TokenRange=327:328
+54	Seychelles	Seychelles	PROPN	NNPS	Number=Plur	33	appos	_	SpacesAfter=\n|TokenRange=329:339
+
+# sent_id = 3
+# text = We will make an effort to reply within a reasonable timeframe.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=340:342
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=343:347
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=348:352
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=353:355
+5	effort	effort	NOUN	NN	Number=Sing	3	obj	_	TokenRange=356:362
+6	to	to	PART	TO	_	7	mark	_	TokenRange=363:365
+7	reply	reply	VERB	VB	VerbForm=Inf	5	acl	_	TokenRange=366:371
+8	within	within	ADP	IN	_	11	case	_	TokenRange=372:378
+9	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	TokenRange=379:380
+10	reasonable	reasonable	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=381:391
+11	timeframe	timeframe	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=392:401
+12	.	.	PUNCT	.	_	3	punct	_	TokenRange=401:402
+
+# sent_id = 4
+# text = Please feel free to reach out to us at any time.
+1	Please	please	INTJ	UH	_	2	discourse	_	TokenRange=403:409
+2	feel	feel	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=410:414
+3	free	free	ADJ	JJ	Degree=Pos	2	xcomp	_	TokenRange=415:419
+4	to	to	PART	TO	_	5	mark	_	TokenRange=420:422
+5	reach	reach	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=423:428
+6	out	out	ADP	RP	_	5	compound:prt	_	TokenRange=429:432
+7	to	to	ADP	IN	_	8	case	_	TokenRange=433:435
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	5	obl	_	TokenRange=436:438
+9	at	at	ADP	IN	_	11	case	_	TokenRange=439:441
+10	any	any	DET	DT	_	11	det	_	TokenRange=442:445
+11	time	time	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No|TokenRange=446:450
+12	.	.	PUNCT	.	_	2	punct	_	TokenRange=450:451
+
+# sent_id = 5
+# text = If you are unsatisfied with our response, you can reach out to the applicable data protection supervisory authority.
+1	If	if	SCONJ	IN	_	4	mark	_	TokenRange=452:454
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=455:458
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	cop	_	TokenRange=459:462
+4	unsatisfied	unsatisfied	ADJ	JJ	Degree=Pos	11	advcl	_	TokenRange=463:474
+5	with	with	ADP	IN	_	7	case	_	TokenRange=475:479
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=480:483
+7	response	response	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No|TokenRange=484:492
+8	,	,	PUNCT	,	_	11	punct	_	TokenRange=492:493
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=494:497
+10	can	can	AUX	MD	VerbForm=Fin	11	aux	_	TokenRange=498:501
+11	reach	reach	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=502:507
+12	out	out	ADP	RP	_	11	compound:prt	_	TokenRange=508:511
+13	to	to	ADP	IN	_	17	case	_	TokenRange=512:514
+14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=515:518
+15	applicable	applicable	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=519:529
+16	data	data	NOUN	NN	Number=Sing	17	compound	_	TokenRange=530:534
+17	protection	protection	NOUN	NN	Number=Sing	11	obl	_	TokenRange=535:545
+18	supervisory	supervisory	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=546:557
+19	authority	authority	NOUN	NN	Number=Sing	17	appos	_	SpaceAfter=No|TokenRange=558:567
+20	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n\n|TokenRange=567:568
+

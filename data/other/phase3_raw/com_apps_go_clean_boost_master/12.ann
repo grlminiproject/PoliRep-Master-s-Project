@@ -1,0 +1,39 @@
+T1	First-party-entity 68 70	We
+T2	first-party-collection-use 75 81	obtain
+E1	first-party-collection-use:T2 Condition-Argument:T8 Data-Collected:T7 Data-Collected2:T6 Data-Collected3:T5 Data-Provider:T4 Data-Provider2:T3 Data-Collector:T1 Purpose-Argument:T9 Purpose-Argument2:T41
+T3	Third-party-entity 98 111	third parties
+T4	User 112 116	your
+T5	Data-user-online-activities-profiles 117 136	account information
+T6	Data-user-online-activities-profiles 166 180	account avatar
+T7	Data-user-online-activities-profiles 182 190	nickname
+T8	Condition 203 231	you’ve allowed them to share
+T9	Basic-service-feature 362 468	directly log into (or by hyperlink) our account via the third party account to use our product and service
+T10	first-party-collection-use 572 578	obtain
+E2	first-party-collection-use:T10 Data-Collector:T13 Condition-Argument:T14 Data-Provider:T15 Data-Provider2:T16 Data-Collected:T11 Data-Provider3:T12
+T11	Data-general 599 610	information
+T12	Third-party-entity 616 629	third parties
+T13	First-party-entity 470 472	We
+T14	Condition 489 570	it is allowed by applicable law or according to your agreement with third parties
+T15	User 537 541	your
+T16	Third-party-entity 557 570	third parties
+T17	First-party-entity 631 633	We
+T18	first-party-collection-use 639 642	use
+E3	first-party-collection-use:T18 Data-Provider:T21 Data-Provider2:T20 Data-Collected:T19 Data-Collector:T17 Condition-Argument:T40 Condition-Argument2:T39
+T19	Data-general 653 664	information
+T20	User 668 673	yours
+T21	Third-party-entity 715 728	third parties
+T22	First-party-entity 791 793	We
+T23	third-party-sharing-disclosure 870 877	provide
+E4	third-party-sharing-disclosure:T23 Data-Receiver:T26 Data-Sharer:T22 Data-Shared:T25 Purpose-Argument:T24
+T25	Data-general 883 894	information
+T26	Third-party-entity 856 869	third parties
+T27	Third-party-entity 949 962	third parties
+T28	User 971 975	your
+T29	first-party-collection-use 963 970	collect
+E5	first-party-collection-use:T29 Data-Provider:T27 Data-Collected:T30 Data-Provider2:T28 Data-Collector:T31
+T30	Data-general 976 987	information
+T31	First-party-entity 1003 1005	us
+T39	Condition 687 728	our agreement with relevant third parties
+T40	Condition 742 789	compliance with applicable laws and regulations
+T41	Basic-service-feature 245 340	binding your account at the third parties with your personal account in our product and service
+T24	Legal-requirement 900 917	legitimate source

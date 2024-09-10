@@ -1,0 +1,262 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 8.
+1	8	8	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = Profiling
+1	Profiling	Profil	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=3:12
+
+# newpar
+# sent_id = 3
+# text = “Automated decision making” refers to a decision which is taken though the automated processing of your personal data alone.
+1	“	"	PUNCT	``	_	2	punct	_	SpaceAfter=No|TokenRange=14:15
+2	Automated	automate	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	TokenRange=15:24
+3	decision	decision	NOUN	NN	Number=Sing	4	compound	_	TokenRange=25:33
+4	making	make	NOUN	NN	Number=Sing	6	nsubj	_	SpaceAfter=No|TokenRange=34:40
+5	”	"	PUNCT	''	_	4	punct	_	TokenRange=40:41
+6	refers	refer	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=42:48
+7	to	to	ADP	IN	_	9	case	_	TokenRange=49:51
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=52:53
+9	decision	decision	NOUN	NN	Number=Sing	6	obl	_	TokenRange=54:62
+10	which	which	PRON	WDT	PronType=Rel	12	nsubj:pass	_	TokenRange=63:68
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	TokenRange=69:71
+12	taken	take	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	9	acl:relcl	_	TokenRange=72:77
+13	though	through	SCONJ	IN	_	16	mark	_	TokenRange=78:84
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=85:88
+15	automated	automated	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=89:98
+16	processing	processing	NOUN	NN	Number=Sing	12	advcl	_	TokenRange=99:109
+17	of	of	ADP	IN	_	20	case	_	TokenRange=110:112
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	TokenRange=113:117
+19	personal	personal	ADJ	JJ	Degree=Pos	20	amod	_	TokenRange=118:126
+20	data	data	NOUN	NN	Number=Sing	16	nmod	_	TokenRange=127:131
+21	alone	alone	ADV	RB	_	20	advmod	_	SpaceAfter=No|TokenRange=132:137
+22	.	.	PUNCT	.	_	6	punct	_	TokenRange=137:138
+
+# sent_id = 4
+# text = This means processing using, for example, software code or an algorithm, which does not involve any human intervention.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	TokenRange=139:143
+2	means	mean	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=144:149
+3	processing	process	VERB	VBG	VerbForm=Ger	2	ccomp	_	TokenRange=150:160
+4	using	use	VERB	VBG	VerbForm=Ger	3	conj	_	SpaceAfter=No|TokenRange=161:166
+5	,	,	PUNCT	,	_	4	punct	_	TokenRange=166:167
+6	for	for	ADP	IN	_	7	case	_	TokenRange=168:171
+7	example	example	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No|TokenRange=172:179
+8	,	,	PUNCT	,	_	10	punct	_	TokenRange=179:180
+9	software	software	NOUN	NN	Number=Sing	10	compound	_	TokenRange=181:189
+10	code	code	NOUN	NN	Number=Sing	7	conj	_	TokenRange=190:194
+11	or	or	CCONJ	CC	_	13	cc	_	TokenRange=195:197
+12	an	a	DET	DT	Definite=Ind|PronType=Art	13	det	_	TokenRange=198:200
+13	algorithm	algorithm	NOUN	NN	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=201:210
+14	,	,	PUNCT	,	_	7	punct	_	TokenRange=210:211
+15	which	which	PRON	WDT	PronType=Rel	18	nsubj	_	TokenRange=212:217
+16	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	18	aux	_	TokenRange=218:222
+17	not	not	PART	RB	_	18	advmod	_	TokenRange=223:226
+18	involve	involve	VERB	VB	VerbForm=Inf	7	acl:relcl	_	TokenRange=227:234
+19	any	any	DET	DT	_	21	det	_	TokenRange=235:238
+20	human	human	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=239:244
+21	intervention	intervention	NOUN	NN	Number=Sing	18	obj	_	SpaceAfter=No|TokenRange=245:257
+22	.	.	PUNCT	.	_	2	punct	_	TokenRange=257:258
+
+# sent_id = 5
+# text = As profiling uses automated processing, it is sometimes connected with automated decision making.
+1	As	as	SCONJ	IN	_	2	mark	_	TokenRange=259:261
+2	profiling	profiling	VERB	VBG	VerbForm=Ger	10	advcl	_	TokenRange=262:271
+3	uses	use	NOUN	NNS	Number=Plur	5	obl:npmod	_	TokenRange=272:276
+4	automated	automate	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	TokenRange=277:286
+5	processing	processing	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=287:297
+6	,	,	PUNCT	,	_	10	punct	_	TokenRange=297:298
+7	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj:pass	_	TokenRange=299:301
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	TokenRange=302:304
+9	sometimes	sometimes	ADV	RB	_	10	advmod	_	TokenRange=305:314
+10	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	TokenRange=315:324
+11	with	with	ADP	IN	_	14	case	_	TokenRange=325:329
+12	automated	automated	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	_	TokenRange=330:339
+13	decision	decision	NOUN	NN	Number=Sing	14	compound	_	TokenRange=340:348
+14	making	make	NOUN	NN	Number=Sing	10	obl	_	SpaceAfter=No|TokenRange=349:355
+15	.	.	PUNCT	.	_	10	punct	_	TokenRange=355:356
+
+# sent_id = 6
+# text = Not all profiling results in automated decision making, but it can do.
+1	Not	not	ADV	RB	_	4	advmod	_	TokenRange=357:360
+2	all	all	DET	DT	_	4	det	_	TokenRange=361:364
+3	profiling	profil	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=365:374
+4	results	result	NOUN	NNS	Number=Plur	0	root	_	TokenRange=375:382
+5	in	in	ADP	IN	_	8	case	_	TokenRange=383:385
+6	automated	automated	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=386:395
+7	decision	decision	NOUN	NN	Number=Sing	8	compound	_	TokenRange=396:404
+8	making	make	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No|TokenRange=405:411
+9	,	,	PUNCT	,	_	13	punct	_	TokenRange=411:412
+10	but	but	CCONJ	CC	_	13	cc	_	TokenRange=413:416
+11	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	nsubj	_	TokenRange=417:419
+12	can	can	AUX	MD	VerbForm=Fin	13	aux	_	TokenRange=420:423
+13	do	do	VERB	VB	VerbForm=Inf	4	conj	_	SpaceAfter=No|TokenRange=424:426
+14	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=426:427
+
+# sent_id = 7
+# text = If you are a consumer that has signed up to receive marketing updates, we may use profiling to ensure that marketing materials are tailored to your preferences and to what we think you will be interested in.
+1	If	if	SCONJ	IN	_	5	mark	_	TokenRange=428:430
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=431:434
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=435:438
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=439:440
+5	consumer	consumer	NOUN	NN	Number=Sing	17	advcl	_	TokenRange=441:449
+6	that	that	PRON	WDT	PronType=Rel	8	nsubj	_	TokenRange=450:454
+7	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	aux	_	TokenRange=455:458
+8	signed	sign	VERB	VBN	Tense=Past|VerbForm=Part	5	acl:relcl	_	TokenRange=459:465
+9	up	up	ADP	RP	_	8	compound:prt	_	TokenRange=466:468
+10	to	to	ADP	IN	_	13	case	_	TokenRange=469:471
+11	receive	receive	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=472:479
+12	marketing	marketing	NOUN	NN	Number=Sing	13	compound	_	TokenRange=480:489
+13	updates	update	NOUN	NNS	Number=Plur	8	obl	_	SpaceAfter=No|TokenRange=490:497
+14	,	,	PUNCT	,	_	17	punct	_	TokenRange=497:498
+15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	TokenRange=499:501
+16	may	may	AUX	MD	VerbForm=Fin	17	aux	_	TokenRange=502:505
+17	use	use	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=506:509
+18	profiling	profiling	VERB	VBG	VerbForm=Ger	17	advcl	_	TokenRange=510:519
+19	to	to	PART	TO	_	20	mark	_	TokenRange=520:522
+20	ensure	ensure	VERB	VB	VerbForm=Inf	18	xcomp	_	TokenRange=523:529
+21	that	that	SCONJ	IN	_	25	mark	_	TokenRange=530:534
+22	marketing	marketing	NOUN	NN	Number=Sing	23	compound	_	TokenRange=535:544
+23	materials	material	NOUN	NNS	Number=Plur	25	nsubj:pass	_	TokenRange=545:554
+24	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	25	aux:pass	_	TokenRange=555:558
+25	tailored	tailor	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	20	ccomp	_	TokenRange=559:567
+26	to	to	ADP	IN	_	28	case	_	TokenRange=568:570
+27	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	28	nmod:poss	_	TokenRange=571:575
+28	preferences	preference	NOUN	NNS	Number=Plur	25	obl	_	TokenRange=576:587
+29	and	and	CCONJ	CC	_	31	cc	_	TokenRange=588:591
+30	to	to	SCONJ	IN	_	31	case	_	TokenRange=592:594
+31	what	what	PRON	WP	PronType=Int	25	conj	_	TokenRange=595:599
+32	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	33	nsubj	_	TokenRange=600:602
+33	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	31	acl:relcl	_	TokenRange=603:608
+34	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	37	nsubj	_	TokenRange=609:612
+35	will	will	AUX	MD	VerbForm=Fin	37	aux	_	TokenRange=613:617
+36	be	be	AUX	VB	VerbForm=Inf	37	cop	_	TokenRange=618:620
+37	interested	interested	ADJ	JJ	Degree=Pos	33	ccomp	_	TokenRange=621:631
+38	in	in	ADP	IN	_	37	obl	_	SpaceAfter=No|TokenRange=632:634
+39	.	.	PUNCT	.	_	17	punct	_	TokenRange=634:635
+
+# sent_id = 8
+# text = This does not have any significant effect, or a legal effect on you.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	4	nsubj	_	TokenRange=636:640
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=641:645
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=646:649
+4	have	have	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=650:654
+5	any	any	DET	DT	_	7	det	_	TokenRange=655:658
+6	significant	significant	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=659:670
+7	effect	effect	NOUN	NN	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=671:677
+8	,	,	PUNCT	,	_	12	punct	_	TokenRange=677:678
+9	or	or	CCONJ	CC	_	12	cc	_	TokenRange=679:681
+10	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	TokenRange=682:683
+11	legal	legal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=684:689
+12	effect	effect	NOUN	NN	Number=Sing	7	conj	_	TokenRange=690:696
+13	on	on	ADP	IN	_	14	case	_	TokenRange=697:699
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	12	nmod	_	SpaceAfter=No|TokenRange=700:703
+15	.	.	PUNCT	.	_	4	punct	_	TokenRange=703:704
+
+# sent_id = 9
+# text = In certain circumstances it may be possible to infer certain information about you from the result of profiling, which may include special categories of data.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=705:707
+2	certain	certain	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=708:715
+3	circumstances	circumstance	NOUN	NNS	Number=Plur	7	obl	_	TokenRange=716:729
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	7	expl	_	TokenRange=730:732
+5	may	may	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=733:736
+6	be	be	AUX	VB	VerbForm=Inf	7	cop	_	TokenRange=737:739
+7	possible	possible	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=740:748
+8	to	to	PART	TO	_	9	mark	_	TokenRange=749:751
+9	infer	infer	VERB	VB	VerbForm=Inf	7	csubj	_	TokenRange=752:757
+10	certain	certain	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=758:765
+11	information	information	NOUN	NN	Number=Sing	9	obj	_	TokenRange=766:777
+12	about	about	ADP	IN	_	13	case	_	TokenRange=778:783
+13	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	nmod	_	TokenRange=784:787
+14	from	from	ADP	IN	_	16	case	_	TokenRange=788:792
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=793:796
+16	result	result	NOUN	NN	Number=Sing	9	obl	_	TokenRange=797:803
+17	of	of	ADP	IN	_	18	case	_	TokenRange=804:806
+18	profiling	profiling	NOUN	NN	Number=Sing	16	nmod	_	SpaceAfter=No|TokenRange=807:816
+19	,	,	PUNCT	,	_	18	punct	_	TokenRange=816:817
+20	which	which	PRON	WDT	PronType=Rel	22	nsubj	_	TokenRange=818:823
+21	may	may	AUX	MD	VerbForm=Fin	22	aux	_	TokenRange=824:827
+22	include	include	VERB	VB	VerbForm=Inf	18	acl:relcl	_	TokenRange=828:835
+23	special	special	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=836:843
+24	categories	category	NOUN	NNS	Number=Plur	22	obj	_	TokenRange=844:854
+25	of	of	ADP	IN	_	26	case	_	TokenRange=855:857
+26	data	data	NOUN	NN	Number=Sing	24	nmod	_	SpaceAfter=No|TokenRange=858:862
+27	.	.	PUNCT	.	_	7	punct	_	TokenRange=862:863
+
+# sent_id = 10
+# text = We will not however conduct profiling based on your special categories of data unless we have obtained your explicit consent to do so.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=864:866
+2	will	will	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=867:871
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=872:875
+4	however	however	ADV	RB	_	5	advmod	_	TokenRange=876:883
+5	conduct	conduct	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=884:891
+6	profiling	profiling	NOUN	NN	Number=Sing	5	obj	_	TokenRange=892:901
+7	based	base	VERB	VBN	Tense=Past|VerbForm=Part	11	case	_	TokenRange=902:907
+8	on	on	ADP	IN	_	11	case	_	TokenRange=908:910
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=911:915
+10	special	special	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=916:923
+11	categories	category	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=924:934
+12	of	of	ADP	IN	_	13	case	_	TokenRange=935:937
+13	data	data	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=938:942
+14	unless	unless	SCONJ	IN	_	17	mark	_	TokenRange=943:949
+15	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	TokenRange=950:952
+16	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	aux	_	TokenRange=953:957
+17	obtained	obtain	VERB	VBN	Tense=Past|VerbForm=Part	5	advcl	_	TokenRange=958:966
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	TokenRange=967:971
+19	explicit	explicit	ADJ	JJ	Degree=Pos	20	amod	_	TokenRange=972:980
+20	consent	consent	NOUN	NN	Number=Sing	17	obj	_	TokenRange=981:988
+21	to	to	PART	TO	_	22	mark	_	TokenRange=989:991
+22	do	do	VERB	VB	VerbForm=Inf	17	advcl	_	TokenRange=992:994
+23	so	so	ADV	RB	_	22	advmod	_	SpaceAfter=No|TokenRange=995:997
+24	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n|TokenRange=997:998
+
+# sent_id = 11
+# text = PLEASE NOTE:
+1	PLEASE	please	INTJ	UH	_	2	discourse	_	TokenRange=999:1005
+2	NOTE	note	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1006:1010
+3	:	:	PUNCT	:	_	2	punct	_	TokenRange=1010:1011
+
+# sent_id = 12
+# text = You have certain rights in respect of automated decision making, including profiling where that decision has significant effects on you, including where it produces a legal effect on you.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	TokenRange=1012:1015
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1016:1020
+3	certain	certain	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=1021:1028
+4	rights	rights	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=1029:1035
+5	in	in	ADP	IN	_	6	case	_	TokenRange=1036:1038
+6	respect	respect	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=1039:1046
+7	of	of	ADP	IN	_	10	case	_	TokenRange=1047:1049
+8	automated	automated	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=1050:1059
+9	decision	decision	NOUN	NN	Number=Sing	10	compound	_	TokenRange=1060:1068
+10	making	make	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=1069:1075
+11	,	,	PUNCT	,	_	10	punct	_	TokenRange=1075:1076
+12	including	include	VERB	VBG	VerbForm=Ger	13	case	_	TokenRange=1077:1086
+13	profiling	profiling	NOUN	NN	Number=Sing	10	nmod	_	TokenRange=1087:1096
+14	where	where	ADV	WRB	PronType=Rel	17	advmod	_	TokenRange=1097:1102
+15	that	that	DET	DT	Number=Sing|PronType=Dem	16	det	_	TokenRange=1103:1107
+16	decision	decision	NOUN	NN	Number=Sing	17	nsubj	_	TokenRange=1108:1116
+17	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	TokenRange=1117:1120
+18	significant	significant	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=1121:1132
+19	effects	effect	NOUN	NNS	Number=Plur	17	obj	_	TokenRange=1133:1140
+20	on	on	ADP	IN	_	21	case	_	TokenRange=1141:1143
+21	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17	obl	_	SpaceAfter=No|TokenRange=1144:1147
+22	,	,	PUNCT	,	_	17	punct	_	TokenRange=1147:1148
+23	including	include	VERB	VBG	VerbForm=Ger	24	case	_	TokenRange=1149:1158
+24	where	where	ADV	WRB	PronType=Int	26	advmod	_	TokenRange=1159:1164
+25	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	26	nsubj	_	TokenRange=1165:1167
+26	produces	produce	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	parataxis	_	TokenRange=1168:1176
+27	a	a	DET	DT	Definite=Ind|PronType=Art	29	det	_	TokenRange=1177:1178
+28	legal	legal	ADJ	JJ	Degree=Pos	29	amod	_	TokenRange=1179:1184
+29	effect	effect	NOUN	NN	Number=Sing	26	obj	_	TokenRange=1185:1191
+30	on	on	ADP	IN	_	31	case	_	TokenRange=1192:1194
+31	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	17	obl	_	SpaceAfter=No|TokenRange=1195:1198
+32	.	.	PUNCT	.	_	2	punct	_	TokenRange=1198:1199
+
+# sent_id = 13
+# text = See Section 10.
+1	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=1200:1203
+2	Section	section	NOUN	NN	Number=Sing	1	obj	_	TokenRange=1204:1211
+3	10	10	NUM	CD	NumType=Card	2	nummod	_	SpaceAfter=No|TokenRange=1212:1214
+4	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|TokenRange=1214:1215
+

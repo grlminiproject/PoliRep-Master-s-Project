@@ -1,0 +1,1232 @@
+{
+  "text": "5.1 Cookies\n\nThe only cookies we use are those to operate and provide our Service on the web. We do not use cookies for profiling or advertising. The cookies we use are small text files that allow us to provide and customize our Service, and in doing so, provide you with a better user experience. Your browser should allow you to control these cookies, including whether or not to accept them and how to remove them. You may choose to block cookies with your web browser and continue using the Service via the Marco Polo App and Website without interruption.\n\n",
+  "words": [
+    "5.1",
+    "Cookies",
+    "The",
+    "only",
+    "cookies",
+    "we",
+    "use",
+    "are",
+    "those",
+    "to",
+    "operate",
+    "and",
+    "provide",
+    "our",
+    "Service",
+    "on",
+    "the",
+    "web",
+    ".",
+    "We",
+    "do",
+    "not",
+    "use",
+    "cookies",
+    "for",
+    "profiling",
+    "or",
+    "advertising",
+    ".",
+    "The",
+    "cookies",
+    "we",
+    "use",
+    "are",
+    "small",
+    "text",
+    "files",
+    "that",
+    "allow",
+    "us",
+    "to",
+    "provide",
+    "and",
+    "customize",
+    "our",
+    "Service",
+    ",",
+    "and",
+    "in",
+    "doing",
+    "so",
+    ",",
+    "provide",
+    "you",
+    "with",
+    "a",
+    "better",
+    "user",
+    "experience",
+    ".",
+    "Your",
+    "browser",
+    "should",
+    "allow",
+    "you",
+    "to",
+    "control",
+    "these",
+    "cookies",
+    ",",
+    "including",
+    "whether",
+    "or",
+    "not",
+    "to",
+    "accept",
+    "them",
+    "and",
+    "how",
+    "to",
+    "remove",
+    "them",
+    ".",
+    "You",
+    "may",
+    "choose",
+    "to",
+    "block",
+    "cookies",
+    "with",
+    "your",
+    "web",
+    "browser",
+    "and",
+    "continue",
+    "using",
+    "the",
+    "Service",
+    "via",
+    "the",
+    "Marco",
+    "Polo",
+    "App",
+    "and",
+    "Website",
+    "without",
+    "interruption",
+    "."
+  ],
+  "lemma": [
+    "5.1",
+    "cookie",
+    "the",
+    "only",
+    "cookie",
+    "we",
+    "use",
+    "be",
+    "those",
+    "to",
+    "operate",
+    "and",
+    "provide",
+    "we",
+    "service",
+    "on",
+    "the",
+    "web",
+    ".",
+    "we",
+    "do",
+    "not",
+    "use",
+    "cookie",
+    "for",
+    "profiling",
+    "or",
+    "advertising",
+    ".",
+    "the",
+    "cookie",
+    "we",
+    "use",
+    "be",
+    "small",
+    "text",
+    "file",
+    "that",
+    "allow",
+    "we",
+    "to",
+    "provide",
+    "and",
+    "customize",
+    "we",
+    "service",
+    ",",
+    "and",
+    "in",
+    "do",
+    "so",
+    ",",
+    "provide",
+    "you",
+    "with",
+    "a",
+    "better",
+    "user",
+    "experience",
+    ".",
+    "you",
+    "browser",
+    "should",
+    "allow",
+    "you",
+    "to",
+    "control",
+    "these",
+    "cookie",
+    ",",
+    "include",
+    "whether",
+    "or",
+    "not",
+    "to",
+    "accept",
+    "they",
+    "and",
+    "how",
+    "to",
+    "remove",
+    "they",
+    ".",
+    "you",
+    "may",
+    "choose",
+    "to",
+    "block",
+    "cookie",
+    "with",
+    "you",
+    "web",
+    "browser",
+    "and",
+    "continue",
+    "use",
+    "the",
+    "service",
+    "via",
+    "the",
+    "Marco",
+    "Polo",
+    "App",
+    "and",
+    "website",
+    "without",
+    "interruption",
+    "."
+  ],
+  "pos-tags": [
+    "CD",
+    "NNS",
+    "DT",
+    "JJ",
+    "NNS",
+    "PRP",
+    "VBP",
+    "VBP",
+    "DT",
+    "TO",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    ".",
+    "PRP",
+    "VBP",
+    "RB",
+    "VB",
+    "NNS",
+    "IN",
+    "NN",
+    "CC",
+    "NN",
+    ".",
+    "DT",
+    "NNS",
+    "PRP",
+    "VBP",
+    "VBP",
+    "JJ",
+    "NN",
+    "NNS",
+    "WDT",
+    "VBP",
+    "PRP",
+    "TO",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    ",",
+    "CC",
+    "IN",
+    "VBG",
+    "RB",
+    ",",
+    "VB",
+    "PRP",
+    "IN",
+    "DT",
+    "JJR",
+    "NN",
+    "NN",
+    ".",
+    "PRP$",
+    "NN",
+    "MD",
+    "VB",
+    "PRP",
+    "TO",
+    "VB",
+    "DT",
+    "NNS",
+    ",",
+    "VBG",
+    "IN",
+    "CC",
+    "RB",
+    "TO",
+    "VB",
+    "PRP",
+    "CC",
+    "WRB",
+    "TO",
+    "VB",
+    "PRP",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "TO",
+    "VB",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    "RBR",
+    "CC",
+    "VB",
+    "VBG",
+    "DT",
+    "NN",
+    "IN",
+    "DT",
+    "NNP",
+    "NNP",
+    "NNP",
+    "CC",
+    "NN",
+    "IN",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "nummod",
+    "root",
+    "det",
+    "amod",
+    "nsubj",
+    "nsubj",
+    "acl:relcl",
+    "cop",
+    "root",
+    "mark",
+    "xcomp",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "obj",
+    "case",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "det",
+    "nsubj",
+    "nsubj",
+    "acl:relcl",
+    "cop",
+    "amod",
+    "compound",
+    "root",
+    "nsubj",
+    "acl:relcl",
+    "obj",
+    "mark",
+    "xcomp",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "cc",
+    "mark",
+    "advcl",
+    "advmod",
+    "punct",
+    "conj",
+    "obj",
+    "case",
+    "det",
+    "amod",
+    "compound",
+    "obl",
+    "punct",
+    "nmod:poss",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "mark",
+    "xcomp",
+    "det",
+    "obj",
+    "punct",
+    "case",
+    "mark",
+    "fixed",
+    "fixed",
+    "mark",
+    "acl",
+    "obj",
+    "cc",
+    "advmod",
+    "mark",
+    "conj",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "mark",
+    "xcomp",
+    "obj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "advmod",
+    "cc",
+    "conj",
+    "xcomp",
+    "det",
+    "obj",
+    "case",
+    "det",
+    "compound",
+    "obl",
+    "flat",
+    "cc",
+    "conj",
+    "case",
+    "obl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      13,
+      16
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      22,
+      29
+    ],
+    [
+      30,
+      32
+    ],
+    [
+      33,
+      36
+    ],
+    [
+      37,
+      40
+    ],
+    [
+      41,
+      46
+    ],
+    [
+      47,
+      49
+    ],
+    [
+      50,
+      57
+    ],
+    [
+      58,
+      61
+    ],
+    [
+      62,
+      69
+    ],
+    [
+      70,
+      73
+    ],
+    [
+      74,
+      81
+    ],
+    [
+      82,
+      84
+    ],
+    [
+      85,
+      88
+    ],
+    [
+      89,
+      92
+    ],
+    [
+      92,
+      93
+    ],
+    [
+      94,
+      96
+    ],
+    [
+      97,
+      99
+    ],
+    [
+      100,
+      103
+    ],
+    [
+      104,
+      107
+    ],
+    [
+      108,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      129
+    ],
+    [
+      130,
+      132
+    ],
+    [
+      133,
+      144
+    ],
+    [
+      144,
+      145
+    ],
+    [
+      146,
+      149
+    ],
+    [
+      150,
+      157
+    ],
+    [
+      158,
+      160
+    ],
+    [
+      161,
+      164
+    ],
+    [
+      165,
+      168
+    ],
+    [
+      169,
+      174
+    ],
+    [
+      175,
+      179
+    ],
+    [
+      180,
+      185
+    ],
+    [
+      186,
+      190
+    ],
+    [
+      191,
+      196
+    ],
+    [
+      197,
+      199
+    ],
+    [
+      200,
+      202
+    ],
+    [
+      203,
+      210
+    ],
+    [
+      211,
+      214
+    ],
+    [
+      215,
+      224
+    ],
+    [
+      225,
+      228
+    ],
+    [
+      229,
+      236
+    ],
+    [
+      236,
+      237
+    ],
+    [
+      238,
+      241
+    ],
+    [
+      242,
+      244
+    ],
+    [
+      245,
+      250
+    ],
+    [
+      251,
+      253
+    ],
+    [
+      253,
+      254
+    ],
+    [
+      255,
+      262
+    ],
+    [
+      263,
+      266
+    ],
+    [
+      267,
+      271
+    ],
+    [
+      272,
+      273
+    ],
+    [
+      274,
+      280
+    ],
+    [
+      281,
+      285
+    ],
+    [
+      286,
+      296
+    ],
+    [
+      296,
+      297
+    ],
+    [
+      298,
+      302
+    ],
+    [
+      303,
+      310
+    ],
+    [
+      311,
+      317
+    ],
+    [
+      318,
+      323
+    ],
+    [
+      324,
+      327
+    ],
+    [
+      328,
+      330
+    ],
+    [
+      331,
+      338
+    ],
+    [
+      339,
+      344
+    ],
+    [
+      345,
+      352
+    ],
+    [
+      352,
+      353
+    ],
+    [
+      354,
+      363
+    ],
+    [
+      364,
+      371
+    ],
+    [
+      372,
+      374
+    ],
+    [
+      375,
+      378
+    ],
+    [
+      379,
+      381
+    ],
+    [
+      382,
+      388
+    ],
+    [
+      389,
+      393
+    ],
+    [
+      394,
+      397
+    ],
+    [
+      398,
+      401
+    ],
+    [
+      402,
+      404
+    ],
+    [
+      405,
+      411
+    ],
+    [
+      412,
+      416
+    ],
+    [
+      416,
+      417
+    ],
+    [
+      418,
+      421
+    ],
+    [
+      422,
+      425
+    ],
+    [
+      426,
+      432
+    ],
+    [
+      433,
+      435
+    ],
+    [
+      436,
+      441
+    ],
+    [
+      442,
+      449
+    ],
+    [
+      450,
+      454
+    ],
+    [
+      455,
+      459
+    ],
+    [
+      460,
+      463
+    ],
+    [
+      464,
+      471
+    ],
+    [
+      472,
+      475
+    ],
+    [
+      476,
+      484
+    ],
+    [
+      485,
+      490
+    ],
+    [
+      491,
+      494
+    ],
+    [
+      495,
+      502
+    ],
+    [
+      503,
+      506
+    ],
+    [
+      507,
+      510
+    ],
+    [
+      511,
+      516
+    ],
+    [
+      517,
+      521
+    ],
+    [
+      522,
+      525
+    ],
+    [
+      526,
+      529
+    ],
+    [
+      530,
+      537
+    ],
+    [
+      538,
+      545
+    ],
+    [
+      546,
+      558
+    ],
+    [
+      558,
+      559
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      18
+    ],
+    [
+      19,
+      28
+    ],
+    [
+      29,
+      59
+    ],
+    [
+      60,
+      82
+    ],
+    [
+      83,
+      107
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T1",
+      "start_idx": 22,
+      "end_idx": 29,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        4
+      ]
+    },
+    {
+      "entity/argument_text": "operate and provide our Service on the web",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T3",
+      "start_idx": 50,
+      "end_idx": 92,
+      "tokens": [
+        "operate",
+        "and",
+        "provide",
+        "our",
+        "Service",
+        "on",
+        "the",
+        "web"
+      ],
+      "token_idx": [
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T4",
+      "start_idx": 30,
+      "end_idx": 32,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 94,
+      "end_idx": 96,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        19
+      ]
+    },
+    {
+      "entity/argument_text": "not",
+      "entity/argument_type": "Negation",
+      "entity/argument_id": "T6",
+      "start_idx": 100,
+      "end_idx": 103,
+      "tokens": [
+        "not"
+      ],
+      "token_idx": [
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T8",
+      "start_idx": 108,
+      "end_idx": 115,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "profiling",
+      "entity/argument_type": "Personalization-customization",
+      "entity/argument_id": "T9",
+      "start_idx": 120,
+      "end_idx": 129,
+      "tokens": [
+        "profiling"
+      ],
+      "token_idx": [
+        25
+      ]
+    },
+    {
+      "entity/argument_text": "advertising",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T10",
+      "start_idx": 133,
+      "end_idx": 144,
+      "tokens": [
+        "advertising"
+      ],
+      "token_idx": [
+        27
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T11",
+      "start_idx": 150,
+      "end_idx": 157,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        30
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T13",
+      "start_idx": 158,
+      "end_idx": 160,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        31
+      ]
+    },
+    {
+      "entity/argument_text": "provide and customize our Service",
+      "entity/argument_type": "Personalization-customization",
+      "entity/argument_id": "T14",
+      "start_idx": 203,
+      "end_idx": 236,
+      "tokens": [
+        "provide",
+        "and",
+        "customize",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        41,
+        42,
+        43,
+        44,
+        45
+      ]
+    },
+    {
+      "entity/argument_text": "provide you with a better user experience",
+      "entity/argument_type": "Personalization-customization",
+      "entity/argument_id": "T15",
+      "start_idx": 255,
+      "end_idx": 296,
+      "tokens": [
+        "provide",
+        "you",
+        "with",
+        "a",
+        "better",
+        "user",
+        "experience"
+      ],
+      "token_idx": [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 33,
+        "end_idx": 36,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          6
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 30,
+          "end_idx": 32
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 22,
+          "end_idx": 29
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "operate and provide our Service on the web",
+          "start_idx": 50,
+          "end_idx": 92
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 104,
+        "end_idx": 107,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          22
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Polarity",
+          "type": "Negation",
+          "text": "not",
+          "start_idx": 100,
+          "end_idx": 103
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 94,
+          "end_idx": 96
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 108,
+          "end_idx": 115
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Personalization-customization",
+          "text": "profiling",
+          "start_idx": 120,
+          "end_idx": 129
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Adverstising-Marketing",
+          "text": "advertising",
+          "start_idx": 133,
+          "end_idx": 144
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 161,
+        "end_idx": 164,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          32
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 158,
+          "end_idx": 160
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 150,
+          "end_idx": 157
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Personalization-customization",
+          "text": "provide and customize our Service",
+          "start_idx": 203,
+          "end_idx": 236
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Personalization-customization",
+          "text": "provide you with a better user experience",
+          "start_idx": 255,
+          "end_idx": 296
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

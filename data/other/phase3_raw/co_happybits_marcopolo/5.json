@@ -1,0 +1,464 @@
+{
+  "text": "4. User Support\n\nIf you contact Marco Polo support, any Personal Information you may share with us is used only for the purposes of researching the issue and contacting you about your request.\n\n",
+  "words": [
+    "4",
+    ".",
+    "User",
+    "Support",
+    "If",
+    "you",
+    "contact",
+    "Marco",
+    "Polo",
+    "support",
+    ",",
+    "any",
+    "Personal",
+    "Information",
+    "you",
+    "may",
+    "share",
+    "with",
+    "us",
+    "is",
+    "used",
+    "only",
+    "for",
+    "the",
+    "purposes",
+    "of",
+    "researching",
+    "the",
+    "issue",
+    "and",
+    "contacting",
+    "you",
+    "about",
+    "your",
+    "request",
+    "."
+  ],
+  "lemma": [
+    "4",
+    ".",
+    "user",
+    "support",
+    "if",
+    "you",
+    "contact",
+    "Marco",
+    "Polo",
+    "support",
+    ",",
+    "any",
+    "Personal",
+    "information",
+    "you",
+    "may",
+    "share",
+    "with",
+    "we",
+    "be",
+    "use",
+    "only",
+    "for",
+    "the",
+    "purpose",
+    "of",
+    "research",
+    "the",
+    "issue",
+    "and",
+    "contact",
+    "you",
+    "about",
+    "you",
+    "request",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "NN",
+    "NN",
+    "IN",
+    "PRP",
+    "VBP",
+    "NNP",
+    "NNP",
+    "NN",
+    ",",
+    "DT",
+    "JJ",
+    "NN",
+    "PRP",
+    "MD",
+    "VB",
+    "IN",
+    "PRP",
+    "VBZ",
+    "VBN",
+    "RB",
+    "IN",
+    "DT",
+    "NNS",
+    "IN",
+    "VBG",
+    "DT",
+    "NN",
+    "CC",
+    "VBG",
+    "PRP",
+    "IN",
+    "PRP$",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "compound",
+    "root",
+    "mark",
+    "nsubj",
+    "advcl",
+    "compound",
+    "obj",
+    "flat",
+    "punct",
+    "det",
+    "amod",
+    "nsubj:pass",
+    "nsubj",
+    "aux",
+    "acl:relcl",
+    "case",
+    "obl",
+    "aux:pass",
+    "root",
+    "advmod",
+    "case",
+    "det",
+    "obl",
+    "mark",
+    "acl",
+    "det",
+    "obj",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      8,
+      15
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      20,
+      23
+    ],
+    [
+      24,
+      31
+    ],
+    [
+      32,
+      37
+    ],
+    [
+      38,
+      42
+    ],
+    [
+      43,
+      50
+    ],
+    [
+      50,
+      51
+    ],
+    [
+      52,
+      55
+    ],
+    [
+      56,
+      64
+    ],
+    [
+      65,
+      76
+    ],
+    [
+      77,
+      80
+    ],
+    [
+      81,
+      84
+    ],
+    [
+      85,
+      90
+    ],
+    [
+      91,
+      95
+    ],
+    [
+      96,
+      98
+    ],
+    [
+      99,
+      101
+    ],
+    [
+      102,
+      106
+    ],
+    [
+      107,
+      111
+    ],
+    [
+      112,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      128
+    ],
+    [
+      129,
+      131
+    ],
+    [
+      132,
+      143
+    ],
+    [
+      144,
+      147
+    ],
+    [
+      148,
+      153
+    ],
+    [
+      154,
+      157
+    ],
+    [
+      158,
+      168
+    ],
+    [
+      169,
+      172
+    ],
+    [
+      173,
+      178
+    ],
+    [
+      179,
+      183
+    ],
+    [
+      184,
+      191
+    ],
+    [
+      191,
+      192
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      35
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T1",
+      "start_idx": 56,
+      "end_idx": 76,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        12,
+        13
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T3",
+      "start_idx": 20,
+      "end_idx": 23,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "researching the issue and contacting you about your request",
+      "entity/argument_type": "Communications",
+      "entity/argument_id": "T4",
+      "start_idx": 132,
+      "end_idx": 191,
+      "tokens": [
+        "researching",
+        "the",
+        "issue",
+        "and",
+        "contacting",
+        "you",
+        "about",
+        "your",
+        "request"
+      ],
+      "token_idx": [
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "entity/argument_text": "you contact Marco Polo support",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T6",
+      "start_idx": 20,
+      "end_idx": 50,
+      "tokens": [
+        "you",
+        "contact",
+        "Marco",
+        "Polo",
+        "support"
+      ],
+      "token_idx": [
+        5,
+        6,
+        7,
+        8,
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "Marco Polo",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T8",
+      "start_idx": 32,
+      "end_idx": 42,
+      "tokens": [
+        "Marco",
+        "Polo"
+      ],
+      "token_idx": [
+        7,
+        8
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "used",
+        "start_idx": 102,
+        "end_idx": 106,
+        "tokens": [
+          "used"
+        ],
+        "token_idx": [
+          20
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Communications",
+          "text": "researching the issue and contacting you about your request",
+          "start_idx": 132,
+          "end_idx": 191
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 56,
+          "end_idx": 76
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 20,
+          "end_idx": 23
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you contact Marco Polo support",
+          "start_idx": 20,
+          "end_idx": 50
+        },
+        {
+          "role": "Data-Collector2",
+          "type": "First-party-entity",
+          "text": "Marco Polo",
+          "start_idx": 32,
+          "end_idx": 42
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

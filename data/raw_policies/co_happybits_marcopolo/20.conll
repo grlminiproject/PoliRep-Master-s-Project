@@ -1,0 +1,177 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Retention
+1	Retention	retention	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:9
+
+# newpar
+# sent_id = 2
+# text = We may retain the Personal Information you provide as long as you have a Marco Polo Account.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=11:13
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=14:17
+3	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=18:24
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=25:28
+5	Personal	Personal	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=29:37
+6	Information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=38:49
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=50:53
+8	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	acl:relcl	_	TokenRange=54:61
+9	as	as	ADV	RB	_	10	advmod	_	TokenRange=62:64
+10	long	long	ADV	RB	Degree=Pos	3	advmod	_	TokenRange=65:69
+11	as	as	SCONJ	IN	_	13	mark	_	TokenRange=70:72
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	TokenRange=73:76
+13	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	TokenRange=77:81
+14	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	TokenRange=82:83
+15	Marco	Marco	PROPN	NNP	Number=Sing	16	compound	_	TokenRange=84:89
+16	Polo	Polo	PROPN	NNP	Number=Sing	17	compound	_	TokenRange=90:94
+17	Account	account	NOUN	NN	Number=Sing	13	obj	_	SpaceAfter=No|TokenRange=95:102
+18	.	.	PUNCT	.	_	3	punct	_	TokenRange=102:103
+
+# sent_id = 3
+# text = If you delete your Account, your Personal Information and any Scrapbooks you recorded will be deleted plus you will be removed from any Marco Polo groups; Polos, your name, profile picture, messages and information you have shared with other users through Marco Polo will remain accessible to them as described in the Terms of Service.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=104:106
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=107:110
+3	delete	delete	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	50	advcl	_	TokenRange=111:117
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=118:122
+5	Account	account	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=123:130
+6	,	,	PUNCT	,	_	9	punct	_	TokenRange=130:131
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=132:136
+8	Personal	Personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=137:145
+9	Information	information	NOUN	NN	Number=Sing	3	conj	_	TokenRange=146:157
+10	and	and	CCONJ	CC	_	17	cc	_	TokenRange=158:161
+11	any	any	DET	DT	_	12	det	_	TokenRange=162:165
+12	Scrapbooks	Scrapbook	NOUN	NNS	Number=Plur	17	nsubj:pass	_	TokenRange=166:176
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	TokenRange=177:180
+14	recorded	record	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	12	acl:relcl	_	TokenRange=181:189
+15	will	will	AUX	MD	VerbForm=Fin	17	aux	_	TokenRange=190:194
+16	be	be	AUX	VB	VerbForm=Inf	17	aux:pass	_	TokenRange=195:197
+17	deleted	delete	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	TokenRange=198:205
+18	plus	plus	CCONJ	CC	_	22	cc	_	TokenRange=206:210
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj:pass	_	TokenRange=211:214
+20	will	will	AUX	MD	VerbForm=Fin	22	aux	_	TokenRange=215:219
+21	be	be	AUX	VB	VerbForm=Inf	22	aux:pass	_	TokenRange=220:222
+22	removed	remove	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	17	conj	_	TokenRange=223:230
+23	from	from	ADP	IN	_	27	case	_	TokenRange=231:235
+24	any	any	DET	DT	_	27	det	_	TokenRange=236:239
+25	Marco	Marco	PROPN	NNP	Number=Sing	26	compound	_	TokenRange=240:245
+26	Polo	Polo	PROPN	NNP	Number=Sing	27	compound	_	TokenRange=246:250
+27	groups	group	NOUN	NNS	Number=Plur	22	obl	_	SpaceAfter=No|TokenRange=251:257
+28	;	;	PUNCT	,	_	29	punct	_	TokenRange=257:258
+29	Polos	Polo	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=259:264
+30	,	,	PUNCT	,	_	50	punct	_	TokenRange=264:265
+31	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	32	nmod:poss	_	TokenRange=266:270
+32	name	name	NOUN	NN	Number=Sing	50	nsubj	_	SpaceAfter=No|TokenRange=271:275
+33	,	,	PUNCT	,	_	35	punct	_	TokenRange=275:276
+34	profile	profile	NOUN	NN	Number=Sing	35	compound	_	TokenRange=277:284
+35	picture	picture	NOUN	NN	Number=Sing	32	conj	_	SpaceAfter=No|TokenRange=285:292
+36	,	,	PUNCT	,	_	37	punct	_	TokenRange=292:293
+37	messages	message	NOUN	NNS	Number=Plur	32	conj	_	TokenRange=294:302
+38	and	and	CCONJ	CC	_	39	cc	_	TokenRange=303:306
+39	information	information	NOUN	NN	Number=Sing	32	conj	_	TokenRange=307:318
+40	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	42	nsubj	_	TokenRange=319:322
+41	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	42	aux	_	TokenRange=323:327
+42	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	32	acl:relcl	_	TokenRange=328:334
+43	with	with	ADP	IN	_	45	case	_	TokenRange=335:339
+44	other	other	ADJ	JJ	Degree=Pos	45	amod	_	TokenRange=340:345
+45	users	user	NOUN	NNS	Number=Plur	42	obl	_	TokenRange=346:351
+46	through	through	ADP	IN	_	48	case	_	TokenRange=352:359
+47	Marco	Marco	PROPN	NNP	Number=Sing	48	compound	_	TokenRange=360:365
+48	Polo	Polo	PROPN	NNP	Number=Sing	45	nmod	_	TokenRange=366:370
+49	will	will	AUX	MD	VerbForm=Fin	50	aux	_	TokenRange=371:375
+50	remain	remain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=376:382
+51	accessible	accessible	ADJ	JJ	Degree=Pos	50	xcomp	_	TokenRange=383:393
+52	to	to	ADP	IN	_	53	case	_	TokenRange=394:396
+53	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	51	obl	_	TokenRange=397:401
+54	as	as	SCONJ	IN	_	55	mark	_	TokenRange=402:404
+55	described	describe	VERB	VBN	Tense=Past|VerbForm=Part	51	advcl	_	TokenRange=405:414
+56	in	in	ADP	IN	_	58	case	_	TokenRange=415:417
+57	the	the	DET	DT	Definite=Def|PronType=Art	58	det	_	TokenRange=418:421
+58	Terms	term	NOUN	NNS	Number=Plur	55	obl	_	TokenRange=422:427
+59	of	of	ADP	IN	_	60	case	_	TokenRange=428:430
+60	Service	service	NOUN	NN	Number=Sing	58	nmod	_	SpaceAfter=No|TokenRange=431:438
+61	.	.	PUNCT	.	_	50	punct	_	SpacesAfter=\n|TokenRange=438:439
+
+# sent_id = 4
+# text = You can also permanently delete any Polo or message you create in the Marco Polo App by pressing on the Polo tile, holding down, and then selecting and confirming "Delete."
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=440:443
+2	can	can	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=444:447
+3	also	also	ADV	RB	_	4	advmod	_	TokenRange=448:452
+4	permanently	permanently	ADV	RB	_	5	advmod	_	TokenRange=453:464
+5	delete	delete	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=465:471
+6	any	any	DET	DT	_	7	det	_	TokenRange=472:475
+7	Polo	Polo	NOUN	NN	Number=Sing	5	obj	_	TokenRange=476:480
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=481:483
+9	message	message	NOUN	NN	Number=Sing	7	conj	_	TokenRange=484:491
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=492:495
+11	create	create	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	acl:relcl	_	TokenRange=496:502
+12	in	in	ADP	IN	_	16	case	_	TokenRange=503:505
+13	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=506:509
+14	Marco	Marco	PROPN	NNP	Number=Sing	15	compound	_	TokenRange=510:515
+15	Polo	Polo	PROPN	NNP	Number=Sing	16	compound	_	TokenRange=516:520
+16	App	App	PROPN	NNP	Number=Sing	11	obl	_	TokenRange=521:524
+17	by	by	SCONJ	IN	_	18	mark	_	TokenRange=525:527
+18	pressing	pressing	VERB	VBG	VerbForm=Ger	11	advcl	_	TokenRange=528:536
+19	on	on	ADP	IN	_	22	case	_	TokenRange=537:539
+20	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	TokenRange=540:543
+21	Polo	Polo	PROPN	NNP	Number=Sing	22	compound	_	TokenRange=544:548
+22	tile	tile	NOUN	NN	Number=Sing	18	obl	_	SpaceAfter=No|TokenRange=549:553
+23	,	,	PUNCT	,	_	18	punct	_	TokenRange=553:554
+24	holding	hold	VERB	VBG	VerbForm=Ger	18	advcl	_	TokenRange=555:562
+25	down	down	ADP	RP	_	24	compound:prt	_	SpaceAfter=No|TokenRange=563:567
+26	,	,	PUNCT	,	_	29	punct	_	TokenRange=567:568
+27	and	and	CCONJ	CC	_	29	cc	_	TokenRange=569:572
+28	then	then	ADV	RB	PronType=Dem	29	advmod	_	TokenRange=573:577
+29	selecting	select	VERB	VBG	VerbForm=Ger	5	conj	_	TokenRange=578:587
+30	and	and	CCONJ	CC	_	31	cc	_	TokenRange=588:591
+31	confirming	confirm	VERB	VBG	VerbForm=Ger	29	conj	_	TokenRange=592:602
+32	"	"	PUNCT	``	_	33	punct	_	SpaceAfter=No|TokenRange=603:604
+33	Delete	delete	PROPN	NNP	Number=Sing	31	ccomp	_	SpaceAfter=No|TokenRange=604:610
+34	.	.	PUNCT	.	_	5	punct	_	SpaceAfter=No|TokenRange=610:611
+35	"	"	PUNCT	''	_	5	punct	_	TokenRange=611:612
+
+# sent_id = 5
+# text = Doing so will permanently remove it from our servers and the Marco Polo accounts of whomever you sent it to.
+1	Doing	do	NOUN	NN	Number=Sing	5	nsubj	_	TokenRange=613:618
+2	so	so	ADV	RB	_	1	advmod	_	TokenRange=619:621
+3	will	will	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=622:626
+4	permanently	permanently	ADV	RB	_	5	advmod	_	TokenRange=627:638
+5	remove	remove	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=639:645
+6	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	obj	_	TokenRange=646:648
+7	from	from	ADP	IN	_	9	case	_	TokenRange=649:653
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=654:657
+9	servers	server	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=658:665
+10	and	and	CCONJ	CC	_	14	cc	_	TokenRange=666:669
+11	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=670:673
+12	Marco	Marco	PROPN	NNP	Number=Sing	13	compound	_	TokenRange=674:679
+13	Polo	Polo	PROPN	NNP	Number=Sing	14	compound	_	TokenRange=680:684
+14	accounts	account	NOUN	NNS	Number=Plur	9	conj	_	TokenRange=685:693
+15	of	of	ADP	IN	_	16	case	_	TokenRange=694:696
+16	whomever	whomever	PRON	WP	PronType=Int	14	nmod	_	TokenRange=697:705
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	TokenRange=706:709
+18	sent	send	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	16	acl:relcl	_	TokenRange=710:714
+19	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obj	_	TokenRange=715:717
+20	to	to	ADP	IN	_	18	obl	_	SpaceAfter=No|TokenRange=718:720
+21	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n|TokenRange=720:721
+
+# sent_id = 6
+# text = We welcome your comments or questions about this Policy.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=722:724
+2	welcome	welcome	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=725:732
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=733:737
+4	comments	comment	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=738:746
+5	or	or	CCONJ	CC	_	6	cc	_	TokenRange=747:749
+6	questions	question	NOUN	NNS	Number=Plur	4	conj	_	TokenRange=750:759
+7	about	about	ADP	IN	_	9	case	_	TokenRange=760:765
+8	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	TokenRange=766:770
+9	Policy	policy	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No|TokenRange=771:777
+10	.	.	PUNCT	.	_	2	punct	_	TokenRange=777:778
+
+# sent_id = 7
+# text = You may contact us at privacy@marcopolo.me.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=779:782
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=783:786
+3	contact	contact	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=787:794
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	TokenRange=795:797
+5	at	at	ADP	IN	_	6	case	_	TokenRange=798:800
+6	privacy@marcopolo.me	privacy@marcopolo.me	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=801:821
+7	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=821:822
+

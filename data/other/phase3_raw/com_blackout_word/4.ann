@@ -1,0 +1,35 @@
+T1	First-party-entity 49 51	We
+T2	first-party-collection-use 57 64	collect
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Provider:T4 Data-Collected:T5 Purpose-Argument:T6 Purpose-Argument2:T13 Purpose-Argument3:T20 Purpose-Argument4:T19 Purpose-Argument5:T28 Purpose-Argument6:T21 Purpose-Argument7:T30 Purpose-Argument8:T29
+T3	data-storage-retention-deletion 74 79	store
+E2	data-storage-retention-deletion:T3 Data-Holder:T1 Data-Provider:T4 Data-Retained:T5 Purpose-Argument:T6 Purpose-Argument2:T13 Purpose-Argument3:T20 Purpose-Argument4:T19 Purpose-Argument5:T28 Purpose-Argument6:T21 Purpose-Argument7:T30 Purpose-Argument8:T29
+T4	User 80 84	your
+T5	Data-general 85 105	personal information
+T6	Communications 151 332	deal with any enquiries or issues you have about how we collect, store and use your personal information, or any requests made by you for a copy of the information we hold about you
+T7	First-party-entity 342 344	we
+T8	User 373 376	you
+T9	first-party-collection-use 385 392	process
+E3	first-party-collection-use:T9 Data-Collector:T7 Data-Provider:T8 Data-Collected:T10 Purpose-Argument:T11 Condition-Argument:T12
+T10	Data-general 398 418	personal information
+T11	Other 423 437	these purposes
+T13	Service-operation-and-security 519 751	internal corporate reporting, business administration, ensuring adequate insurance coverage for our business, ensuring the security of company facilities, research and development, and to identify and implement business efficiencies
+T14	First-party-entity 753 755	We
+T15	first-party-collection-use 760 767	process
+E4	first-party-collection-use:T15 Data-Collector:T14 Data-Provider:T16 Data-Collected:T17 Purpose-Argument:T18
+T16	User 768 772	your
+T17	Data-general 773 793	personal information
+T18	Other 798 812	these purposes
+T20	Legal-requirement 872 938	comply with any procedures, laws and regulations which apply to us
+T21	Legal-requirement 1133 1179	establish, exercise or defend our legal rights
+T22	First-party-entity 1356 1358	We
+T23	Negation 1364 1367	not
+T24	first-party-collection-use 1368 1371	use
+E5	first-party-collection-use:T24 Data-Collector:T22 Polarity:T23 Data-Provider:T25 Data-Collected:T26 Purpose-Argument:T27
+T25	User 1372 1376	your
+T26	Data-general 1377 1397	personal information
+T27	Other 1401 1473	any way that is incompatible with the purposes set out in this section 1
+T12	Condition 342 376	we do not have a contract with you
+T19	Legal-requirement 958 1068	where we reasonably consider it is in our legitimate interests or the legitimate interests of others to comply
+T28	Legal-requirement 1081 1119	where we are legally required to do so
+T29	Legal-requirement 1312 1350	where we are legally required to do so
+T30	Legal-requirement 1199 1299	where we reasonably consider it is in our legitimate interests or the legitimate interests of others

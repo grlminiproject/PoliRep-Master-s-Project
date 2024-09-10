@@ -1,0 +1,923 @@
+{
+  "text": "Our Commitment towards Children's Privacy\n\nWe do not direct the Service to, nor do we knowingly collect any Personal Information from children under 13. Children under 13 are not eligible to use the Service. If we learn that a user is under 13 years of age, we will take steps to remove that user's Personal Information from our databases and to prevent that user from utilizing the Service.\n\n",
+  "words": [
+    "Our",
+    "Commitment",
+    "towards",
+    "Children",
+    "'s",
+    "Privacy",
+    "We",
+    "do",
+    "not",
+    "direct",
+    "the",
+    "Service",
+    "to",
+    ",",
+    "nor",
+    "do",
+    "we",
+    "knowingly",
+    "collect",
+    "any",
+    "Personal",
+    "Information",
+    "from",
+    "children",
+    "under",
+    "13",
+    ".",
+    "Children",
+    "under",
+    "13",
+    "are",
+    "not",
+    "eligible",
+    "to",
+    "use",
+    "the",
+    "Service",
+    ".",
+    "If",
+    "we",
+    "learn",
+    "that",
+    "a",
+    "user",
+    "is",
+    "under",
+    "13",
+    "years",
+    "of",
+    "age",
+    ",",
+    "we",
+    "will",
+    "take",
+    "steps",
+    "to",
+    "remove",
+    "that",
+    "user",
+    "'s",
+    "Personal",
+    "Information",
+    "from",
+    "our",
+    "databases",
+    "and",
+    "to",
+    "prevent",
+    "that",
+    "user",
+    "from",
+    "utilizing",
+    "the",
+    "Service",
+    "."
+  ],
+  "lemma": [
+    "we",
+    "commitment",
+    "towards",
+    "Children",
+    "'s",
+    "privacy",
+    "we",
+    "do",
+    "not",
+    "direct",
+    "the",
+    "service",
+    "to",
+    ",",
+    "nor",
+    "do",
+    "we",
+    "knowingly",
+    "collect",
+    "any",
+    "Personal",
+    "information",
+    "from",
+    "child",
+    "under",
+    "13",
+    ".",
+    "child",
+    "under",
+    "13",
+    "be",
+    "not",
+    "eligible",
+    "to",
+    "use",
+    "the",
+    "service",
+    ".",
+    "if",
+    "we",
+    "learn",
+    "that",
+    "a",
+    "user",
+    "be",
+    "under",
+    "13",
+    "year",
+    "of",
+    "age",
+    ",",
+    "we",
+    "will",
+    "take",
+    "step",
+    "to",
+    "remove",
+    "that",
+    "user",
+    "'s",
+    "Personal",
+    "information",
+    "from",
+    "we",
+    "database",
+    "and",
+    "to",
+    "prevent",
+    "that",
+    "user",
+    "from",
+    "utilize",
+    "the",
+    "service",
+    "."
+  ],
+  "pos-tags": [
+    "PRP$",
+    "NN",
+    "IN",
+    "NNP",
+    "POS",
+    "NN",
+    "PRP",
+    "VBP",
+    "RB",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    ",",
+    "CC",
+    "VBP",
+    "PRP",
+    "RB",
+    "VB",
+    "DT",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS",
+    "IN",
+    "CD",
+    ".",
+    "NNS",
+    "IN",
+    "CD",
+    "VBP",
+    "RB",
+    "JJ",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    ".",
+    "IN",
+    "PRP",
+    "VBP",
+    "IN",
+    "DT",
+    "NN",
+    "VBZ",
+    "IN",
+    "CD",
+    "NNS",
+    "IN",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "NNS",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "POS",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "CC",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "VBG",
+    "DT",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "nmod:poss",
+    "root",
+    "case",
+    "nmod:poss",
+    "case",
+    "nmod",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "det",
+    "obj",
+    "obl",
+    "punct",
+    "cc",
+    "aux",
+    "nsubj",
+    "advmod",
+    "conj",
+    "det",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "case",
+    "nmod",
+    "cop",
+    "advmod",
+    "root",
+    "mark",
+    "xcomp",
+    "det",
+    "obj",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "mark",
+    "det",
+    "nsubj",
+    "cop",
+    "advmod",
+    "nummod",
+    "obj",
+    "case",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "mark",
+    "acl",
+    "det",
+    "nmod:poss",
+    "case",
+    "amod",
+    "obj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "cc",
+    "mark",
+    "conj",
+    "det",
+    "obj",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      14
+    ],
+    [
+      15,
+      22
+    ],
+    [
+      23,
+      31
+    ],
+    [
+      31,
+      33
+    ],
+    [
+      34,
+      41
+    ],
+    [
+      43,
+      45
+    ],
+    [
+      46,
+      48
+    ],
+    [
+      49,
+      52
+    ],
+    [
+      53,
+      59
+    ],
+    [
+      60,
+      63
+    ],
+    [
+      64,
+      71
+    ],
+    [
+      72,
+      74
+    ],
+    [
+      74,
+      75
+    ],
+    [
+      76,
+      79
+    ],
+    [
+      80,
+      82
+    ],
+    [
+      83,
+      85
+    ],
+    [
+      86,
+      95
+    ],
+    [
+      96,
+      103
+    ],
+    [
+      104,
+      107
+    ],
+    [
+      108,
+      116
+    ],
+    [
+      117,
+      128
+    ],
+    [
+      129,
+      133
+    ],
+    [
+      134,
+      142
+    ],
+    [
+      143,
+      148
+    ],
+    [
+      149,
+      151
+    ],
+    [
+      151,
+      152
+    ],
+    [
+      153,
+      161
+    ],
+    [
+      162,
+      167
+    ],
+    [
+      168,
+      170
+    ],
+    [
+      171,
+      174
+    ],
+    [
+      175,
+      178
+    ],
+    [
+      179,
+      187
+    ],
+    [
+      188,
+      190
+    ],
+    [
+      191,
+      194
+    ],
+    [
+      195,
+      198
+    ],
+    [
+      199,
+      206
+    ],
+    [
+      206,
+      207
+    ],
+    [
+      208,
+      210
+    ],
+    [
+      211,
+      213
+    ],
+    [
+      214,
+      219
+    ],
+    [
+      220,
+      224
+    ],
+    [
+      225,
+      226
+    ],
+    [
+      227,
+      231
+    ],
+    [
+      232,
+      234
+    ],
+    [
+      235,
+      240
+    ],
+    [
+      241,
+      243
+    ],
+    [
+      244,
+      249
+    ],
+    [
+      250,
+      252
+    ],
+    [
+      253,
+      256
+    ],
+    [
+      256,
+      257
+    ],
+    [
+      258,
+      260
+    ],
+    [
+      261,
+      265
+    ],
+    [
+      266,
+      270
+    ],
+    [
+      271,
+      276
+    ],
+    [
+      277,
+      279
+    ],
+    [
+      280,
+      286
+    ],
+    [
+      287,
+      291
+    ],
+    [
+      292,
+      296
+    ],
+    [
+      296,
+      298
+    ],
+    [
+      299,
+      307
+    ],
+    [
+      308,
+      319
+    ],
+    [
+      320,
+      324
+    ],
+    [
+      325,
+      328
+    ],
+    [
+      329,
+      338
+    ],
+    [
+      339,
+      342
+    ],
+    [
+      343,
+      345
+    ],
+    [
+      346,
+      353
+    ],
+    [
+      354,
+      358
+    ],
+    [
+      359,
+      363
+    ],
+    [
+      364,
+      368
+    ],
+    [
+      369,
+      378
+    ],
+    [
+      379,
+      382
+    ],
+    [
+      383,
+      390
+    ],
+    [
+      390,
+      391
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      26
+    ],
+    [
+      27,
+      37
+    ],
+    [
+      38,
+      74
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T2",
+      "start_idx": 43,
+      "end_idx": 45,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        6
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 108,
+      "end_idx": 128,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        20,
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "children under 13",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T4",
+      "start_idx": 134,
+      "end_idx": 151,
+      "tokens": [
+        "children",
+        "under",
+        "13"
+      ],
+      "token_idx": [
+        23,
+        24,
+        25
+      ]
+    },
+    {
+      "entity/argument_text": "not",
+      "entity/argument_type": "Negation",
+      "entity/argument_id": "T5",
+      "start_idx": 49,
+      "end_idx": 52,
+      "tokens": [
+        "not"
+      ],
+      "token_idx": [
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T8",
+      "start_idx": 211,
+      "end_idx": 213,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        39
+      ]
+    },
+    {
+      "entity/argument_text": "user is under 13 years of age",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T9",
+      "start_idx": 227,
+      "end_idx": 256,
+      "tokens": [
+        "user",
+        "is",
+        "under",
+        "13",
+        "years",
+        "of",
+        "age"
+      ],
+      "token_idx": [
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T10",
+      "start_idx": 299,
+      "end_idx": 319,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        60,
+        61
+      ]
+    },
+    {
+      "entity/argument_text": "our databases",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T11",
+      "start_idx": 325,
+      "end_idx": 338,
+      "tokens": [
+        "our",
+        "databases"
+      ],
+      "token_idx": [
+        63,
+        64
+      ]
+    },
+    {
+      "entity/argument_text": "we learn that a user is under 13 years of age",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T12",
+      "start_idx": 211,
+      "end_idx": 256,
+      "tokens": [
+        "we",
+        "learn",
+        "that",
+        "a",
+        "user",
+        "is",
+        "under",
+        "13",
+        "years",
+        "of",
+        "age"
+      ],
+      "token_idx": [
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "entity/argument_text": "prevent that user from utilizing the Service",
+      "entity/argument_type": "Legal-requirement",
+      "entity/argument_id": "T13",
+      "start_idx": 346,
+      "end_idx": 390,
+      "tokens": [
+        "prevent",
+        "that",
+        "user",
+        "from",
+        "utilizing",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 96,
+        "end_idx": 103,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          18
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Polarity",
+          "type": "Negation",
+          "text": "not",
+          "start_idx": 49,
+          "end_idx": 52
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 43,
+          "end_idx": 45
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 108,
+          "end_idx": 128
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "children under 13",
+          "start_idx": 134,
+          "end_idx": 151
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "remove",
+        "start_idx": 280,
+        "end_idx": 286,
+        "tokens": [
+          "remove"
+        ],
+        "token_idx": [
+          56
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 299,
+          "end_idx": 319
+        },
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "our databases",
+          "start_idx": 325,
+          "end_idx": 338
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "user is under 13 years of age",
+          "start_idx": 227,
+          "end_idx": 256
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 211,
+          "end_idx": 213
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "we learn that a user is under 13 years of age",
+          "start_idx": 211,
+          "end_idx": 256
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Legal-requirement",
+          "text": "prevent that user from utilizing the Service",
+          "start_idx": 346,
+          "end_idx": 390
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

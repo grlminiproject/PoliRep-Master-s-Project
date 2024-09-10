@@ -1,0 +1,112 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (4) Location information
+1	(	(	PUNCT	-LRB-	_	2	punct	_	SpaceAfter=No|TokenRange=0:1
+2	4	4	X	LS	_	5	nummod	_	SpaceAfter=No|TokenRange=1:2
+3	)	)	PUNCT	-RRB-	_	2	punct	_	TokenRange=2:3
+4	Location	location	NOUN	NN	Number=Sing	5	compound	_	TokenRange=4:12
+5	information	information	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=13:24
+
+# newpar
+# sent_id = 2
+# text = When you use Weather features or services, we may collect and process information about your actual location.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=26:30
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=31:34
+3	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	TokenRange=35:38
+4	Weather	weather	PROPN	NNP	Number=Sing	5	compound	_	TokenRange=39:46
+5	features	feature	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=47:55
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=56:58
+7	services	service	NOUN	NNS	Number=Plur	5	conj	_	SpaceAfter=No|TokenRange=59:67
+8	,	,	PUNCT	,	_	11	punct	_	TokenRange=67:68
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	TokenRange=69:71
+10	may	may	AUX	MD	VerbForm=Fin	11	aux	_	TokenRange=72:75
+11	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=76:83
+12	and	and	CCONJ	CC	_	14	cc	_	TokenRange=84:87
+13	process	process	NOUN	NN	Number=Sing	14	compound	_	TokenRange=88:95
+14	information	information	NOUN	NN	Number=Sing	11	conj	_	TokenRange=96:107
+15	about	about	ADP	IN	_	18	case	_	TokenRange=108:113
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=114:118
+17	actual	actual	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=119:125
+18	location	location	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=126:134
+19	.	.	PUNCT	.	_	11	punct	_	TokenRange=134:135
+
+# sent_id = 3
+# text = We use various technologies to determine location, including IP address, GPS.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=136:138
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=139:142
+3	various	various	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=143:150
+4	technologies	technology	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=151:163
+5	to	to	PART	TO	_	6	mark	_	TokenRange=164:166
+6	determine	determine	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=167:176
+7	location	location	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=177:185
+8	,	,	PUNCT	,	_	7	punct	_	TokenRange=185:186
+9	including	include	VERB	VBG	VerbForm=Ger	11	case	_	TokenRange=187:196
+10	IP	ip	NOUN	NN	Number=Sing	11	compound	_	TokenRange=197:199
+11	address	address	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No|TokenRange=200:207
+12	,	,	PUNCT	,	_	13	punct	_	TokenRange=207:208
+13	GPS	GPS	PROPN	NNP	Number=Sing	11	conj	_	SpaceAfter=No|TokenRange=209:212
+14	.	.	PUNCT	.	_	2	punct	_	TokenRange=212:213
+
+# sent_id = 4
+# text = The collection and use of location information is for weather report and if you refuse to or stop providing it, or we can’t provide any weather information at all.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=214:217
+2	collection	collection	NOUN	NN	Number=Sing	11	nsubj	_	TokenRange=218:228
+3	and	and	CCONJ	CC	_	4	cc	_	TokenRange=229:232
+4	use	use	NOUN	NN	Number=Sing	2	conj	_	TokenRange=233:236
+5	of	of	ADP	IN	_	7	case	_	TokenRange=237:239
+6	location	location	NOUN	NN	Number=Sing	7	compound	_	TokenRange=240:248
+7	information	information	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=249:260
+8	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	11	cop	_	TokenRange=261:263
+9	for	for	ADP	IN	_	11	case	_	TokenRange=264:267
+10	weather	weather	NOUN	NN	Number=Sing	11	compound	_	TokenRange=268:275
+11	report	report	NOUN	NN	Number=Sing	0	root	_	TokenRange=276:282
+12	and	and	CCONJ	CC	_	15	cc	_	TokenRange=283:286
+13	if	if	SCONJ	IN	_	15	mark	_	TokenRange=287:289
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	TokenRange=290:293
+15	refuse	refuse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	conj	_	TokenRange=294:300
+16	to	to	PART	TO	_	19	mark	_	TokenRange=301:303
+17	or	or	CCONJ	CC	_	18	cc	_	TokenRange=304:306
+18	stop	stop	VERB	VB	VerbForm=Inf	16	conj	_	TokenRange=307:311
+19	providing	provide	VERB	VBG	VerbForm=Ger	15	xcomp	_	TokenRange=312:321
+20	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	19	obj	_	SpaceAfter=No|TokenRange=322:324
+21	,	,	PUNCT	,	_	26	punct	_	TokenRange=324:325
+22	or	or	CCONJ	CC	_	26	cc	_	TokenRange=326:328
+23	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	26	nsubj	_	TokenRange=329:331
+24	ca	can	AUX	MD	VerbForm=Fin	26	aux	_	SpaceAfter=No|TokenRange=332:334
+25	n’t	not	PART	RB	_	26	advmod	_	TokenRange=334:337
+26	provide	provide	VERB	VB	VerbForm=Inf	19	conj	_	TokenRange=338:345
+27	any	any	DET	DT	_	29	det	_	TokenRange=346:349
+28	weather	weather	NOUN	NN	Number=Sing	29	compound	_	TokenRange=350:357
+29	information	information	NOUN	NN	Number=Sing	26	obj	_	TokenRange=358:369
+30	at	at	ADV	RB	_	31	case	_	TokenRange=370:372
+31	all	all	ADV	RB	_	29	nmod	_	SpaceAfter=No|TokenRange=373:376
+32	.	.	PUNCT	.	_	11	punct	_	TokenRange=376:377
+
+# sent_id = 5
+# text = For more details on location information, you can also find out in the following section of “Permissions on your device”.
+1	For	for	ADP	IN	_	3	case	_	TokenRange=378:381
+2	more	more	ADJ	JJR	Degree=Cmp	3	amod	_	TokenRange=382:386
+3	details	detail	NOUN	NNS	Number=Plur	11	obl	_	TokenRange=387:394
+4	on	on	ADP	IN	_	6	case	_	TokenRange=395:397
+5	location	location	NOUN	NN	Number=Sing	6	compound	_	TokenRange=398:406
+6	information	information	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=407:418
+7	,	,	PUNCT	,	_	11	punct	_	TokenRange=418:419
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=420:423
+9	can	can	AUX	MD	VerbForm=Fin	11	aux	_	TokenRange=424:427
+10	also	also	ADV	RB	_	11	advmod	_	TokenRange=428:432
+11	find	find	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=433:437
+12	out	out	ADP	RP	_	11	compound:prt	_	TokenRange=438:441
+13	in	in	ADP	IN	_	16	case	_	TokenRange=442:444
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=445:448
+15	following	follow	VERB	VBG	VerbForm=Ger	16	amod	_	TokenRange=449:458
+16	section	section	NOUN	NN	Number=Sing	11	obl	_	TokenRange=459:466
+17	of	of	ADP	IN	_	19	case	_	TokenRange=467:469
+18	“	"	PUNCT	``	_	19	punct	_	SpaceAfter=No|TokenRange=470:471
+19	Permissions	Permission	NOUN	NNS	Number=Plur	16	nmod	_	TokenRange=471:482
+20	on	on	ADP	IN	_	22	case	_	TokenRange=483:485
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=486:490
+22	device	device	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=491:497
+23	”	"	PUNCT	''	_	11	punct	_	SpaceAfter=No|TokenRange=497:498
+24	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n\n|TokenRange=498:499
+

@@ -1,0 +1,31 @@
+T1	First-party-entity 37 39	We
+T2	first-party-collection-use 183 186	log
+E1	first-party-collection-use:T2 Data-Provider:T3 Data-Collector:T1 Data-Collected:T4 Data-Provider2:T7 Data-Collected2:T5 Data-Collected3:T6 Data-Provider3:T28 Data-Provider4:T29
+T3	Third-party-entity 44 83	third-party analytics Service Providers
+T4	Data-general 187 198	information
+T5	Data-computer-device 218 243	computer or mobile device
+T6	Data-user-online-activities-profiles 249 282	how you interact with the Service
+T7	User 205 208	you
+T8	first-party-collection-use 333 337	log‎
+E2	first-party-collection-use:T8 Data-Provider:T9 Data-Collector:T10 Condition-Argument:T22 Data-Collected:T11 Data-Collected2:T12 Data-Collected3:T13 Data-Collected4:T14 Data-Collected5:T15 Data-Collected6:T16 Data-Collected7:T17 Data-Collected8:T18 Data-Collected9:T19 Data-Collected10:T20 Data-Collected11:T21
+T9	User 302 305	you
+T10	First-party-entity 326 328	we
+T11	Data-computer-device 343 364	operating system type
+T12	Data-computer-device 367 393	browser type and‎ language
+T13	Data-user-online-activities-profiles 400 416	pages you viewed
+T14	Data-user-online-activities-profiles 419 447	how long you spent on a page
+T15	Data-user-online-activities-profiles 450 462	access times
+T16	Data-computer-device 465 495	Internet protocol (IP) address
+T17	Data-computer-device 502 518	mobile device ID
+T18	Data-computer-device 520 547	mobile device serial number
+T19	Data-computer-device 549 563	unique user ID
+T20	Data-computer-device 565 581	wireless carrier
+T21	Data-user-online-activities-profiles 587 643	information about your use of and actions on the Service
+T22	Condition 302 324	you access the Service
+T23	First-party-entity 645 655	Marco Polo
+T24	first-party-collection-use 656 664	collects
+E3	first-party-collection-use:T24 Data-Collector:T23 Data-Collected:T25 Purpose-Argument:T26
+T25	Data-other 681 695	technical data
+T26	Analytics-research 699 811	analyze usage trends and give us more information about how people use the Service to better the user experience
+T28	Third-party-entity 130 146	Google Analytics
+T29	Third-party-entity 151 164	amplitude.com

@@ -1,0 +1,28 @@
+T1	First-party-entity 21 23	We
+T2	first-party-collection-use 28 31	use
+E1	first-party-collection-use:T2 Purpose-Argument:T5 Data-Collected:T4 Data-Provider:T3 Data-Collector:T1
+T3	User 32 36	your
+T4	Data-general 37 50	personal data
+T5	Adverstising-Marketing 54 232	send you direct marketing communications about our own or third party products and services or our related services including our latest product announcements and upcoming events
+T6	first-party-collection-use 551 561	processing
+E2	first-party-collection-use:T6 Purpose-Argument:T11 Data-Collected:T9 Data-Provider:T8 Data-Collector:T10 Purpose-Argument2:T21 Purpose-Argument3:T22 Condition-Argument:T23
+T8	User 565 569	your
+T9	Data-general 570 583	personal data
+T10	First-party-entity 547 550	our
+T11	Adverstising-Marketing 588 613	direct marketing purposes
+T7	First-party-entity 1398 1400	We
+T12	first-party-collection-use 1406 1409	use
+E3	first-party-collection-use:T12 Purpose-Argument:T15 Data-Collected:T14 Data-Provider:T13 Data-Collector:T7
+T13	User 1410 1414	your
+T14	Data-general 1415 1428	personal data
+T15	Adverstising-Marketing 1433 1690	customizing or personalizing ads, offers and content made available to you based on your usage of our mobile applications, websites, platforms or services, and analyzing the performance of those ads, offers and content, as well as your interaction with them
+T16	First-party-entity 1692 1694	We
+T17	first-party-collection-use 1758 1767	collected
+E4	first-party-collection-use:T17 Data-Collected:T19 Data-Provider:T20 Purpose-Argument:T18 Data-Collector:T16 Data-Collected2:T24
+T18	Personalization-customization 1692 1728	We may also recommend content to you
+T19	Data-general 1738 1749	information
+T20	User 1725 1728	you
+T21	Legal-requirement 542 546	GDPR
+T22	Legal-requirement 707 826	opt-in consent is required by the relevant laws such as the Privacy and Electronic Communications Regulations of Europe
+T23	Condition 828 859	we may ask you for your consent
+T24	Data-user-online-activities-profiles 1787 1801	viewing habits

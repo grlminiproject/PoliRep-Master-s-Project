@@ -1,0 +1,8 @@
+T1	First-party-entity 72 74	we
+T2	first-party-collection-use 75 82	process
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Provider:T3 Data-Collected:T4 Purpose-Argument:T5 Purpose-Argument2:T6 Purpose-Argument3:T7
+T3	User 83 87	your
+T4	Data-general 88 101	personal data
+T5	Basic-service-feature 124 217	perform the contract we are about to enter into or have entered into with you for the Service
+T6	Service-operation-and-security 245 371	our legitimate interests (or those of a third party) and your interests and fundamental rights do not override those interests
+T7	Legal-requirement 394 448	comply with a legal or regulatory obligation in the EU

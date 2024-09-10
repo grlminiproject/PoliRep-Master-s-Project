@@ -1,0 +1,11 @@
+T1	TelephoneNumber 84 97	mobile number
+T2	Name 107 111	name
+T3	EmailAddress 144 157	email address
+T4	Picture 159 164	photo
+T5	BirthDate 166 191	birth day and birth month
+T6	Name 367 371	name
+T7	Picture 373 378	photo
+T8	TelephoneNumber 380 393	mobile number
+T9	EmailAddress 395 400	email
+T10	BirthDate 402 430	birth day and/or birth month
+T11	BirthDate 744 763	birth day and month

@@ -1,0 +1,6 @@
+SECURITY SAFEGUARDS
+
+Qublix takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.
+Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.
+Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party hackers from illegally obtaining access to this information. We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties. However, no method of transmission over the Internet, or method of electronic storage, is 100% secure. Therefore, we cannot guarantee its absolute security.
+

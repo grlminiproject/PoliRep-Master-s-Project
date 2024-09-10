@@ -1,0 +1,398 @@
+{
+  "text": "2.4 Cookies and tracking technologies\n\nWe may use technologies cookies and web beacons - please see our separate Cookie Policy attached as an appendix of this Privacy Policy for further details on cookies.\n\n",
+  "words": [
+    "2.4",
+    "Cookies",
+    "and",
+    "tracking",
+    "technologies",
+    "We",
+    "may",
+    "use",
+    "technologies",
+    "cookies",
+    "and",
+    "web",
+    "beacons",
+    "-",
+    "please",
+    "see",
+    "our",
+    "separate",
+    "Cookie",
+    "Policy",
+    "attached",
+    "as",
+    "an",
+    "appendix",
+    "of",
+    "this",
+    "Privacy",
+    "Policy",
+    "for",
+    "further",
+    "details",
+    "on",
+    "cookies",
+    "."
+  ],
+  "lemma": [
+    "2.4",
+    "cookie",
+    "and",
+    "track",
+    "technology",
+    "we",
+    "may",
+    "use",
+    "technology",
+    "cookie",
+    "and",
+    "web",
+    "beacon",
+    "-",
+    "please",
+    "see",
+    "we",
+    "separate",
+    "Cookie",
+    "policy",
+    "attach",
+    "as",
+    "a",
+    "appendix",
+    "of",
+    "this",
+    "privacy",
+    "policy",
+    "for",
+    "further",
+    "detail",
+    "on",
+    "cookie",
+    "."
+  ],
+  "pos-tags": [
+    "CD",
+    "NNS",
+    "CC",
+    "VBG",
+    "NNS",
+    "PRP",
+    "MD",
+    "VB",
+    "NNS",
+    "NNS",
+    "CC",
+    "NN",
+    "NNS",
+    ",",
+    "UH",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "NN",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "NN",
+    "IN",
+    "JJ",
+    "NNS",
+    "IN",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "nummod",
+    "root",
+    "cc",
+    "conj",
+    "obj",
+    "nsubj",
+    "aux",
+    "root",
+    "compound",
+    "obj",
+    "cc",
+    "compound",
+    "conj",
+    "punct",
+    "discourse",
+    "parataxis",
+    "nmod:poss",
+    "amod",
+    "compound",
+    "obj",
+    "amod",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "det",
+    "compound",
+    "nmod",
+    "case",
+    "amod",
+    "nmod",
+    "case",
+    "nmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      11
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      16,
+      24
+    ],
+    [
+      25,
+      37
+    ],
+    [
+      39,
+      41
+    ],
+    [
+      42,
+      45
+    ],
+    [
+      46,
+      49
+    ],
+    [
+      50,
+      62
+    ],
+    [
+      63,
+      70
+    ],
+    [
+      71,
+      74
+    ],
+    [
+      75,
+      78
+    ],
+    [
+      79,
+      86
+    ],
+    [
+      87,
+      88
+    ],
+    [
+      89,
+      95
+    ],
+    [
+      96,
+      99
+    ],
+    [
+      100,
+      103
+    ],
+    [
+      104,
+      112
+    ],
+    [
+      113,
+      119
+    ],
+    [
+      120,
+      126
+    ],
+    [
+      127,
+      135
+    ],
+    [
+      136,
+      138
+    ],
+    [
+      139,
+      141
+    ],
+    [
+      142,
+      150
+    ],
+    [
+      151,
+      153
+    ],
+    [
+      154,
+      158
+    ],
+    [
+      159,
+      166
+    ],
+    [
+      167,
+      173
+    ],
+    [
+      174,
+      177
+    ],
+    [
+      178,
+      185
+    ],
+    [
+      186,
+      193
+    ],
+    [
+      194,
+      196
+    ],
+    [
+      197,
+      204
+    ],
+    [
+      204,
+      205
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      33
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 39,
+      "end_idx": 41,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T3",
+      "start_idx": 63,
+      "end_idx": 70,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "web beacons",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T4",
+      "start_idx": 75,
+      "end_idx": 86,
+      "tokens": [
+        "web",
+        "beacons"
+      ],
+      "token_idx": [
+        11,
+        12
+      ]
+    },
+    {
+      "entity/argument_text": "technologies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T5",
+      "start_idx": 50,
+      "end_idx": 62,
+      "tokens": [
+        "technologies"
+      ],
+      "token_idx": [
+        8
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 46,
+        "end_idx": 49,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          7
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "web beacons",
+          "start_idx": 75,
+          "end_idx": 86
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 63,
+          "end_idx": 70
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 39,
+          "end_idx": 41
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "technologies",
+          "start_idx": 50,
+          "end_idx": 62
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

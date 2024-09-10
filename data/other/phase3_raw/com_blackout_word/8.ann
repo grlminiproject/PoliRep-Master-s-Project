@@ -1,0 +1,88 @@
+T3	Data-general 396 400	data
+T5	Personalization-customization 423 514	build a profile of your preferences based on your activities when you visit or use our apps
+T6	First-party-entity 516 518	We
+T7	Third-party-entity 534 543	companies
+T8	first-party-collection-use 561 568	collect
+E2	first-party-collection-use:T8 Data-Collector:T6 Data-Provider:T7 Data-Collected:T9 Data-Provider2:T10 Purpose-Argument:T11 Condition-Argument:T1
+T9	Data-general 569 573	data
+T10	User 579 582	you
+T11	Adverstising-Marketing 625 719	identify the advertising that are served to you and what you do after seeing those advertising
+T12	First-party-entity 734 736	we
+T13	third-party-sharing-disclosure 737 742	share
+E3	third-party-sharing-disclosure:T13 Data-Sharer:T12 Data-Shared:T14 Data-Receiver:T15 Data-Receiver2:T16 Purpose-Argument:T17 Data-Receiver3:T18 Data-Receiver4:T20 Data-Receiver5:T19 Data-Receiver6:T21 Data-Receiver7:T22 Data-Provider:T66
+T14	Data-general 743 747	data
+T15	Third-party-entity 753 781	providers of analytics tools
+T16	Third-party-entity 791 797	Adjust
+T17	Analytics-research 815 843	analyse your use of the apps
+T18	Third-party-entity 942 953	Admob, Inc.
+T19	Third-party-entity 958 974	AppLovin Limited
+T20	Third-party-entity 979 993	Facebook, Inc.
+T21	Third-party-entity 998 1039	Unity Ads (Unity Technologies Finland Oy)
+T22	Third-party-entity 1044 1056	Vungle, Inc.
+T23	Third-party-entity 1067 1100	third party advertising companies
+T24	first-party-collection-use 1101 1108	collect
+E4	first-party-collection-use:T24 Data-Provider:T23 Data-Collected:T25 Data-Collected2:T26 Data-Collected3:T27
+T25	Data-general 1124 1128	data
+T26	Data-cookies-web-beacons-and-other-technologies 1144 1151	cookies
+T27	Data-cookies-web-beacons-and-other-technologies 1156 1179	other tracking software
+T28	Data-general 1206 1210	data
+T29	first-party-collection-use 1211 1220	collected
+E5	first-party-collection-use:T29 Data-Collected:T28 Data-Collected2:T40 Data-Collected3:T39 Data-Collected4:T37 Data-Collected5:T38 Data-Collected6:T32 Data-Collected7:T33 Data-Collected8:T36 Data-Collected9:T34 Data-Provider:T30 Data-Collected10:T31 Data-Collected11:T35 Data-Provider2:T68
+T30	Third-party-entity 1230 1243	third parties
+T31	Data-computer-device 1258 1280	data about your device
+T32	Data-location 1282 1290	location
+T33	Data-user-online-activities-profiles 1295 1310	use of our apps
+T34	Data-computer-device 1322 1332	IP address
+T35	Data-computer-device 1336 1352	unique device ID
+T36	Data-location 1354 1374	geo-location details
+T37	Data-user-online-activities-profiles 1384 1391	User ID
+T38	Data-other 1426 1474	data which you provide to us when using our apps
+T39	Data-user-online-activities-profiles 1486 1534	information on your interaction with advertising
+T40	Data-computer-device 1539 1568	certain technical information
+T41	Third-party-entity 1580 1613	third party advertising companies
+T42	first-party-collection-use 1619 1626	collect
+E6	first-party-collection-use:T42 Data-Provider:T41 Data-Provider2:T43 Data-Collected:T44 Purpose-Argument:T45
+T43	User 1635 1639	your
+T44	Data-general 1640 1644	data
+T45	Adverstising-Marketing 1648 1748	provide you with targeted advertising that is relevant to you and your preferences with your consent
+T47	Third-party-entity 2131 2144	third parties
+T48	first-party-collection-use 2155 2158	use
+E7	first-party-collection-use:T48 Data-Provider:T47 Data-Collected:T49 Purpose-Argument:T50
+T49	Data-general 2163 2167	data
+T50	Other 2190 2208	their own purposes
+T51	Adverstising-Marketing 2293 2354	inform advertising related services provided to other clients
+T52	First-party-entity 2360 2362	We
+T53	third-party-sharing-disclosure 2374 2379	share
+E8	third-party-sharing-disclosure:T53 Data-Sharer:T52 Data-Provider:T54 Data-Shared:T55 Data-Receiver:T56 Data-Receiver2:T57 Purpose-Argument:T58
+T54	User 2380 2384	your
+T55	Data-general 2385 2389	data
+T56	Third-party-entity 2395 2434	social media or other similar platforms
+T57	Third-party-entity 2451 2471	advertising partners
+T58	Adverstising-Marketing 2481 2547	you and other people can see relevant advertising on that platform
+T59	First-party-entity 2562 2564	we
+T60	third-party-sharing-disclosure 2615 2620	share
+E9	third-party-sharing-disclosure:T60 Data-Sharer:T59 Data-Provider:T61 Data-Shared:T62 Data-Receiver:T63 Purpose-Argument:T64 Purpose-Argument2:T65
+T61	User 2621 2625	your
+T62	Data-computer-device 2626 2630	IDFA
+T63	Third-party-entity 2636 2644	Facebook
+T64	Adverstising-Marketing 2661 2789	serve relevant advertising to you or include you in a custom audience that we will serve relevant advertising to you on Facebook
+T65	Adverstising-Marketing 2794 2886	create an audience of other Facebook users based on the information in your Facebook profile
+T66	User 823 827	your
+T67	data-storage-retention-deletion 1110 1115	store
+E10	data-storage-retention-deletion:T67 Data-Holder:T23 Data-Retained:T25 Data-Retained2:T26 Data-Retained3:T27
+T68	User 1379 1383	your
+T69	First-party-entity 162 164	we
+T70	Third-party-entity 169 217	third-party advertising and technology companies
+T71	User 308 311	you
+T72	Condition 308 333	you visit or use our apps
+T73	Data-aggregated-nonidentifiable 254 269	aggregated data
+T46	Adverstising-Marketing 273 302	assist in serving advertising
+T74	first-party-collection-use 165 168	use
+E11	first-party-collection-use:T74 Data-Collector:T69 Data-Provider:T70 Data-Collected:T73 Purpose-Argument:T46 Data-Provider2:T71 Condition-Argument:T72 Data-Collected2:T3 Purpose-Argument2:T5
+T1	Condition 588 604	you use our apps
+T2	first-party-collection-use 2231 2240	aggregate
+E1	first-party-collection-use:T2 Data-Provider:T4 Data-Provider2:T76 Data-Collected:T75 Data-Collected2:T77 Purpose-Argument:T51
+T4	Third-party-entity 2222 2226	they
+T75	Data-general 2246 2250	data
+T76	User 2241 2245	your
+T77	Data-other 2256 2266	other data

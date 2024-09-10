@@ -1,0 +1,64 @@
+T1	collection-use 125 132;133 140	collect and use
+E1	collection-use:T1 Data-Provider:T3 Data-Collector:T2 Data-Collected:T4 Data-Provider2:T5 Data-Collected2:T6 Data-Collected3:T7 Purpose-Argument:T8 Data-Collected4:T9 Purpose-Argument2:T10 Data-Collected5:T46
+T2	First-party-entity 13 15	We
+T3	Third-party-entity 111 119	partners
+T4	Data-general 141 145	data
+T5	User 168 171	you
+T6	DeviceBased 176 187	your device
+T7	DeviceApplications 199 241	the presence of applications on the device
+T8	TODO 312 323	advertising
+T9	TODO 335 392	your viewing of and interaction with any such advertising
+T10	PersonalisedAdvertising 406 585	deliver, enable, target and optimize advertising and promotional information that is more relevant to you and is based on your game and device usage, online behavior and interests
+T12	First-party-entity 669 671	We
+T13	Third-party-entity 680 688	partners
+T14	collection-use 698 701	use
+E2	collection-use:T14 Data-Provider:T13 Data-Collector:T12 Data-Collected:T15 Data-Collected2:T17 Data-Collected3:T18 Purpose-Argument:T16 Data-Provider2:T11
+T15	Data-general 702 742	cookies or similar tracking technologies
+T16	Advertising 815 841	interest based advertising
+T17	Data-general 756 774	content you access
+T18	Location 783 798	device location
+T19	Verification 2069 2088	verify the installs
+T20	DeviceBased 2092 2109	device identifier
+T21	third-party-sharing-disclosure 2117 2123	shared
+E3	third-party-sharing-disclosure:T21 Data-Shared:T20 Purpose-Argument:T19 Data-Receiver:T22 Data-Receiver2:T23 Data-Receiver3:T24
+T22	Third-party-entity 2133 2143	advertiser
+T23	Third-party-entity 2147 2169	third party advertiser
+T24	Third-party-entity 2173 2190	analytics partner
+T25	Third-party-entity 1464 1475	advertisers
+T26	Third-party-entity 1480 1526	third party advertising and analytics partners
+T27	collection-use 1531 1538;1539 1546	collect and use
+E4	collection-use:T27 Data-Provider:T26 Data-Provider2:T25 Data-Collected:T28 Data-Provider3:T29 Data-Collected2:T30 Data-Collected3:T31 Data-Collected4:T32 Data-Collected5:T33 Data-Collected6:T34 Data-Collected7:T35 Data-Collected8:T36 Data-Collected9:T37 Purpose-Argument:T38 Purpose-Argument2:T39 Data-Collected10:T45
+T28	Data-general 1547 1551	data
+T29	User 1574 1577	you
+T30	ServiceConsumptionBehavior 1592 1616	Service session activity
+T31	ServiceConsumptionBehavior 1618 1666	viewing of and interaction with an advertisement
+T32	DeviceBased 1668 1685	device identifier
+T33	MACAddress 1687 1698	MAC address
+T34	DeviceBased 1700 1704	IMEI
+T35	Location 1706 1730	geo-location information
+T36	IPAddress 1732 1742	IP address
+T37	TODO 1747 1760	crash reports
+T38	TODO 1781 1838	analyzing, tracking and measuring advertising performance
+T39	Advertising 1846 1880	provide interest based advertising
+T40	Third-party-entity 1172 1183	Advertisers
+T41	Third-party-entity 1222 1256	advertising and analytics partners
+T42	collection-use 1267 1274;1275 1282	collect and use
+E5	collection-use:T42 Data-Provider:T41 Data-Provider2:T40 Data-Collected:T43 Purpose-Argument:T44
+T43	OfficialID 1283 1298	Advertising IDs
+T44	Advertising 1302 1333	enable and optimize advertising
+T11	User 778 782	your
+T45	Data-general 1556 1567	information
+T46	Data-general 150 161	information
+#1	AnnotatorNotes T8	In the pre-annotated version, advertising is described as a purpose; i'd rather say it's a means
+T47	collection-use 961 964	use
+E6	collection-use:T47 Data-Provider:T48 Data-Collector2:T50 Data-Provider2:T51 Data-Collected:T53
+T48	Third-party-entity 871 879	partners
+T50	First-party-entity 1006 1008	we
+T51	User 1019 1022	you
+T53	Data-general 1123 1170	cookies and other similar tracking technologies
+#2	AnnotatorNotes T48	Should be data collector imo
+#3	AnnotatorNotes T37	I do not know which type of data crash reports are
+#4	AnnotatorNotes T38	Purpose: either advertising or service usage analtics?
+#5	AnnotatorNotes T9	do not know how to categorise advertising; maybe service consumption behaviour?
+#6	AnnotatorNotes T31	service consumption behaviour?
+#7	AnnotatorNotes T34	Device based?

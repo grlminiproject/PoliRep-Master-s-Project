@@ -1,0 +1,308 @@
+{
+  "text": "(1) Device information\n\nWe collect device-specific information (such as your hardware model, operating system version etc).\n\n",
+  "words": [
+    "(",
+    "1",
+    ")",
+    "Device",
+    "information",
+    "We",
+    "collect",
+    "device-specific",
+    "information",
+    "(",
+    "such",
+    "as",
+    "your",
+    "hardware",
+    "model",
+    ",",
+    "operating",
+    "system",
+    "version",
+    "etc",
+    ")",
+    "."
+  ],
+  "lemma": [
+    "(",
+    "1",
+    ")",
+    "device",
+    "information",
+    "we",
+    "collect",
+    "device-specific",
+    "information",
+    "(",
+    "such",
+    "as",
+    "you",
+    "hardware",
+    "model",
+    ",",
+    "operating",
+    "system",
+    "version",
+    "etc",
+    ")",
+    "."
+  ],
+  "pos-tags": [
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "NN",
+    "PRP",
+    "VBP",
+    "JJ",
+    "NN",
+    "-LRB-",
+    "JJ",
+    "IN",
+    "PRP$",
+    "NN",
+    "NN",
+    ",",
+    "VBG",
+    "NN",
+    "NN",
+    "FW",
+    "-RRB-",
+    "."
+  ],
+  "dependency-relation": [
+    "punct",
+    "nummod",
+    "punct",
+    "compound",
+    "root",
+    "nsubj",
+    "root",
+    "amod",
+    "obj",
+    "punct",
+    "case",
+    "fixed",
+    "nmod:poss",
+    "compound",
+    "obl",
+    "punct",
+    "amod",
+    "compound",
+    "conj",
+    "advmod",
+    "punct",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      10
+    ],
+    [
+      11,
+      22
+    ],
+    [
+      24,
+      26
+    ],
+    [
+      27,
+      34
+    ],
+    [
+      35,
+      50
+    ],
+    [
+      51,
+      62
+    ],
+    [
+      63,
+      64
+    ],
+    [
+      64,
+      68
+    ],
+    [
+      69,
+      71
+    ],
+    [
+      72,
+      76
+    ],
+    [
+      77,
+      85
+    ],
+    [
+      86,
+      91
+    ],
+    [
+      91,
+      92
+    ],
+    [
+      93,
+      102
+    ],
+    [
+      103,
+      109
+    ],
+    [
+      110,
+      117
+    ],
+    [
+      118,
+      121
+    ],
+    [
+      121,
+      122
+    ],
+    [
+      122,
+      123
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      21
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 24,
+      "end_idx": 26,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "device-specific information",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T3",
+      "start_idx": 35,
+      "end_idx": 62,
+      "tokens": [
+        "device-specific",
+        "information"
+      ],
+      "token_idx": [
+        7,
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "hardware model",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T4",
+      "start_idx": 77,
+      "end_idx": 91,
+      "tokens": [
+        "hardware",
+        "model"
+      ],
+      "token_idx": [
+        13,
+        14
+      ]
+    },
+    {
+      "entity/argument_text": "operating system version",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T5",
+      "start_idx": 93,
+      "end_idx": 117,
+      "tokens": [
+        "operating",
+        "system",
+        "version"
+      ],
+      "token_idx": [
+        16,
+        17,
+        18
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 27,
+        "end_idx": 34,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          6
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 24,
+          "end_idx": 26
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-computer-device",
+          "text": "operating system version",
+          "start_idx": 93,
+          "end_idx": 117
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-computer-device",
+          "text": "hardware model",
+          "start_idx": 77,
+          "end_idx": 91
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-computer-device",
+          "text": "device-specific information",
+          "start_idx": 35,
+          "end_idx": 62
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

@@ -1,0 +1,300 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = HOW WE MAY DISCLOSE THE DATA WE COLLECT TO THIRD PARTIES
+1	HOW	how	ADV	WRB	PronType=Int	4	advmod	_	TokenRange=0:3
+2	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=4:6
+3	MAY	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=7:10
+4	DISCLOSE	disclose	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=11:19
+5	THE	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=20:23
+6	DATA	data	NOUN	NN	Number=Sing	4	obj	_	TokenRange=24:28
+7	WE	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	TokenRange=29:31
+8	COLLECT	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	ccomp	_	TokenRange=32:39
+9	TO	to	PART	TO	_	10	mark	_	TokenRange=40:42
+10	THIRD	third	VERB	VB	VerbForm=Inf	8	xcomp	_	TokenRange=43:48
+11	PARTIES	party	NOUN	NN	Number=Sing	10	obj	_	SpacesAfter=\n\n|TokenRange=49:56
+
+# newpar
+# sent_id = 2
+# text = Qublix does not share your personal information except as approved by you or as described below: · Qublix may engage other companies and individuals to perform services on our behalf.
+1	Qublix	Qublix	SYM	NFP	_	4	nsubj	_	TokenRange=58:64
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=65:69
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=70:73
+4	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=74:79
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=80:84
+6	personal	personal	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=85:93
+7	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=94:105
+8	except	except	ADP	IN	_	10	case	_	TokenRange=106:112
+9	as	as	SCONJ	IN	_	10	mark	_	TokenRange=113:115
+10	approved	approve	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	TokenRange=116:124
+11	by	by	ADP	IN	_	12	case	_	TokenRange=125:127
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	10	obl	_	TokenRange=128:131
+13	or	or	CCONJ	CC	_	15	cc	_	TokenRange=132:134
+14	as	as	SCONJ	IN	_	15	mark	_	TokenRange=135:137
+15	described	describe	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	TokenRange=138:147
+16	below	below	ADP	IN	_	15	advmod	_	SpaceAfter=No|TokenRange=148:153
+17	:	:	PUNCT	:	_	4	punct	_	SpacesAfter=\n|TokenRange=153:154
+18	·	·	PUNCT	NFP	_	4	punct	_	TokenRange=155:156
+19	Qublix	Qublix	PROPN	NNP	Number=Sing	21	nsubj	_	TokenRange=157:163
+20	may	may	AUX	MD	VerbForm=Fin	21	aux	_	TokenRange=164:167
+21	engage	engage	VERB	VB	VerbForm=Inf	4	parataxis	_	TokenRange=168:174
+22	other	other	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=175:180
+23	companies	company	NOUN	NNS	Number=Plur	21	obj	_	TokenRange=181:190
+24	and	and	CCONJ	CC	_	25	cc	_	TokenRange=191:194
+25	individuals	individual	NOUN	NNS	Number=Plur	23	conj	_	TokenRange=195:206
+26	to	to	PART	TO	_	27	mark	_	TokenRange=207:209
+27	perform	perform	VERB	VB	VerbForm=Inf	23	acl	_	TokenRange=210:217
+28	services	service	NOUN	NNS	Number=Plur	27	obj	_	TokenRange=218:226
+29	on	on	ADP	IN	_	31	case	_	TokenRange=227:229
+30	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	31	nmod:poss	_	TokenRange=230:233
+31	behalf	behalf	NOUN	NN	Number=Sing	27	obl	_	SpaceAfter=No|TokenRange=234:240
+32	.	.	PUNCT	.	_	4	punct	_	TokenRange=240:241
+
+# sent_id = 3
+# text = Example of these services include analyzing data and providing customer support.
+1	Example	example	NOUN	NN	Number=Sing	5	nsubj	_	TokenRange=242:249
+2	of	of	ADP	IN	_	4	case	_	TokenRange=250:252
+3	these	these	DET	DT	Number=Plur|PronType=Dem	4	det	_	TokenRange=253:258
+4	services	service	NOUN	NNS	Number=Plur	1	nmod	_	TokenRange=259:267
+5	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=268:275
+6	analyzing	analyzing	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=276:285
+7	data	data	NOUN	NN	Number=Sing	5	obj	_	TokenRange=286:290
+8	and	and	CCONJ	CC	_	9	cc	_	TokenRange=291:294
+9	providing	provide	VERB	VBG	VerbForm=Ger	5	conj	_	TokenRange=295:304
+10	customer	customer	NOUN	NN	Number=Sing	11	compound	_	TokenRange=305:313
+11	support	support	NOUN	NN	Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=314:321
+12	.	.	PUNCT	.	_	5	punct	_	TokenRange=321:322
+
+# sent_id = 4
+# text = These agents and service providers may have access to your personal information in connection with the performance of services for Qublix.
+1	These	these	DET	DT	Number=Plur|PronType=Dem	2	det	_	TokenRange=323:328
+2	agents	agent	NOUN	NNS	Number=Plur	0	root	_	TokenRange=329:335
+3	and	and	CCONJ	CC	_	7	cc	_	TokenRange=336:339
+4	service	service	NOUN	NN	Number=Sing	5	compound	_	TokenRange=340:347
+5	providers	provider	NOUN	NNS	Number=Plur	7	nsubj	_	TokenRange=348:357
+6	may	may	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=358:361
+7	have	have	VERB	VB	VerbForm=Inf	2	conj	_	TokenRange=362:366
+8	access	access	NOUN	NN	Number=Sing	7	obj	_	TokenRange=367:373
+9	to	to	ADP	IN	_	12	case	_	TokenRange=374:376
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=377:381
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=382:390
+12	information	information	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=391:402
+13	in	in	ADP	IN	_	14	case	_	TokenRange=403:405
+14	connection	connection	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=406:416
+15	with	with	ADP	IN	_	17	case	_	TokenRange=417:421
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=422:425
+17	performance	performance	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=426:437
+18	of	of	ADP	IN	_	19	case	_	TokenRange=438:440
+19	services	service	NOUN	NNS	Number=Plur	17	nmod	_	TokenRange=441:449
+20	for	for	ADP	IN	_	21	case	_	TokenRange=450:453
+21	Qublix	Qublix	PROPN	NNP	Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=454:460
+22	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=460:461
+
+# sent_id = 5
+# text = · We may release your information as permitted by law, such as to comply with a subpoena, or when we believe that release is appropriate to comply with the law; investigate fraud, respond to a government request, enforce or apply our rights; or protect the rights, property, or safety of us or our users, or others.
+1	·	·	PUNCT	NFP	_	4	punct	_	TokenRange=462:463
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=464:466
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=467:470
+4	release	release	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=471:478
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=479:483
+6	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=484:495
+7	as	as	SCONJ	IN	_	8	mark	_	TokenRange=496:498
+8	permitted	permit	VERB	VBN	Tense=Past|VerbForm=Part	4	advcl	_	TokenRange=499:508
+9	by	by	ADP	IN	_	10	case	_	TokenRange=509:511
+10	law	law	NOUN	NN	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=512:515
+11	,	,	PUNCT	,	_	8	punct	_	TokenRange=515:516
+12	such	such	ADJ	JJ	Degree=Pos	15	mark	_	TokenRange=517:521
+13	as	as	SCONJ	IN	_	12	fixed	_	TokenRange=522:524
+14	to	to	PART	TO	_	15	mark	_	TokenRange=525:527
+15	comply	comply	VERB	VB	VerbForm=Inf	8	advcl	_	TokenRange=528:534
+16	with	with	ADP	IN	_	18	case	_	TokenRange=535:539
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	TokenRange=540:541
+18	subpoena	subpoena	NOUN	NN	Number=Sing	15	obl	_	SpaceAfter=No|TokenRange=542:550
+19	,	,	PUNCT	,	_	27	punct	_	TokenRange=550:551
+20	or	or	CCONJ	CC	_	27	cc	_	TokenRange=552:554
+21	when	when	ADV	WRB	PronType=Int	23	mark	_	TokenRange=555:559
+22	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	23	nsubj	_	TokenRange=560:562
+23	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	advcl	_	TokenRange=563:570
+24	that	that	DET	DT	Number=Sing|PronType=Dem	25	det	_	TokenRange=571:575
+25	release	release	NOUN	NN	Number=Sing	27	nsubj	_	TokenRange=576:583
+26	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	27	cop	_	TokenRange=584:586
+27	appropriate	appropriate	ADJ	JJ	Degree=Pos	4	conj	_	TokenRange=587:598
+28	to	to	PART	TO	_	29	mark	_	TokenRange=599:601
+29	comply	comply	VERB	VB	VerbForm=Inf	27	xcomp	_	TokenRange=602:608
+30	with	with	ADP	IN	_	32	case	_	TokenRange=609:613
+31	the	the	DET	DT	Definite=Def|PronType=Art	32	det	_	TokenRange=614:617
+32	law	law	NOUN	NN	Number=Sing	29	obl	_	SpaceAfter=No|TokenRange=618:621
+33	;	;	PUNCT	,	_	35	punct	_	TokenRange=621:622
+34	investigate	investigate	ADJ	JJ	Degree=Pos	35	amod	_	TokenRange=623:634
+35	fraud	fraud	NOUN	NN	Number=Sing	4	conj	_	SpaceAfter=No|TokenRange=635:640
+36	,	,	PUNCT	,	_	37	punct	_	TokenRange=640:641
+37	respond	respond	VERB	VB	Mood=Imp|VerbForm=Fin	4	conj	_	TokenRange=642:649
+38	to	to	ADP	IN	_	41	case	_	TokenRange=650:652
+39	a	a	DET	DT	Definite=Ind|PronType=Art	41	det	_	TokenRange=653:654
+40	government	government	NOUN	NN	Number=Sing	41	compound	_	TokenRange=655:665
+41	request	request	NOUN	NN	Number=Sing	37	obl	_	SpaceAfter=No|TokenRange=666:673
+42	,	,	PUNCT	,	_	43	punct	_	TokenRange=673:674
+43	enforce	enforce	NOUN	NN	Number=Sing	41	conj	_	TokenRange=675:682
+44	or	or	CCONJ	CC	_	45	cc	_	TokenRange=683:685
+45	apply	apply	VERB	VB	VerbForm=Inf	41	conj	_	TokenRange=686:691
+46	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	47	nmod:poss	_	TokenRange=692:695
+47	rights	rights	NOUN	NNS	Number=Plur	45	obj	_	SpaceAfter=No|TokenRange=696:702
+48	;	;	PUNCT	,	_	50	punct	_	TokenRange=702:703
+49	or	or	CCONJ	CC	_	50	cc	_	TokenRange=704:706
+50	protect	protect	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=707:714
+51	the	the	DET	DT	Definite=Def|PronType=Art	52	det	_	TokenRange=715:718
+52	rights	rights	NOUN	NNS	Number=Plur	50	obj	_	SpaceAfter=No|TokenRange=719:725
+53	,	,	PUNCT	,	_	54	punct	_	TokenRange=725:726
+54	property	property	NOUN	NN	Number=Sing	52	conj	_	SpaceAfter=No|TokenRange=727:735
+55	,	,	PUNCT	,	_	57	punct	_	TokenRange=735:736
+56	or	or	CCONJ	CC	_	57	cc	_	TokenRange=737:739
+57	safety	safety	NOUN	NN	Number=Sing	52	conj	_	TokenRange=740:746
+58	of	of	ADP	IN	_	59	case	_	TokenRange=747:749
+59	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	57	nmod	_	TokenRange=750:752
+60	or	or	CCONJ	CC	_	62	cc	_	TokenRange=753:755
+61	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	62	nmod:poss	_	TokenRange=756:759
+62	users	user	NOUN	NNS	Number=Plur	59	conj	_	SpaceAfter=No|TokenRange=760:765
+63	,	,	PUNCT	,	_	65	punct	_	TokenRange=765:766
+64	or	or	CCONJ	CC	_	65	cc	_	TokenRange=767:769
+65	others	other	NOUN	NNS	Number=Plur	52	conj	_	SpaceAfter=No|TokenRange=770:776
+66	.	.	PUNCT	.	_	4	punct	_	TokenRange=776:777
+
+# sent_id = 6
+# text = This includes exchanging information with other companies and organizations for fraud protection.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	2	nsubj	_	TokenRange=778:782
+2	includes	include	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=783:791
+3	exchanging	exchanging	VERB	VBG	VerbForm=Ger	4	amod	_	TokenRange=792:802
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=803:814
+5	with	with	ADP	IN	_	7	case	_	TokenRange=815:819
+6	other	other	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=820:825
+7	companies	company	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=826:835
+8	and	and	CCONJ	CC	_	9	cc	_	TokenRange=836:839
+9	organizations	organization	NOUN	NNS	Number=Plur	7	conj	_	TokenRange=840:853
+10	for	for	ADP	IN	_	12	case	_	TokenRange=854:857
+11	fraud	fraud	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=858:863
+12	protection	protection	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No|TokenRange=864:874
+13	.	.	PUNCT	.	_	2	punct	_	TokenRange=874:875
+
+# sent_id = 7
+# text = In certain situations, Qublix may be required to disclose personal information in response to lawful requests by public authorities or for local law enforcement requirements.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=876:878
+2	certain	certain	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=879:886
+3	situations	situation	NOUN	NNS	Number=Plur	8	obl	_	SpaceAfter=No|TokenRange=887:897
+4	,	,	PUNCT	,	_	8	punct	_	TokenRange=897:898
+5	Qublix	Qublix	PROPN	NNP	Number=Sing	8	nsubj:pass	_	TokenRange=899:905
+6	may	may	AUX	MD	VerbForm=Fin	8	aux	_	TokenRange=906:909
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	TokenRange=910:912
+8	required	require	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=913:921
+9	to	to	PART	TO	_	10	mark	_	TokenRange=922:924
+10	disclose	disclose	VERB	VB	VerbForm=Inf	8	xcomp	_	TokenRange=925:933
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=934:942
+12	information	information	NOUN	NN	Number=Sing	10	obj	_	TokenRange=943:954
+13	in	in	ADP	IN	_	14	case	_	TokenRange=955:957
+14	response	response	NOUN	NN	Number=Sing	10	obl	_	TokenRange=958:966
+15	to	to	ADP	IN	_	17	case	_	TokenRange=967:969
+16	lawful	lawful	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=970:976
+17	requests	request	NOUN	NNS	Number=Plur	14	nmod	_	TokenRange=977:985
+18	by	by	ADP	IN	_	20	case	_	TokenRange=986:988
+19	public	public	ADJ	JJ	Degree=Pos	20	amod	_	TokenRange=989:995
+20	authorities	authority	NOUN	NNS	Number=Plur	17	nmod	_	TokenRange=996:1007
+21	or	or	CCONJ	CC	_	26	cc	_	TokenRange=1008:1010
+22	for	for	ADP	IN	_	26	case	_	TokenRange=1011:1014
+23	local	local	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=1015:1020
+24	law	law	NOUN	NN	Number=Sing	25	compound	_	TokenRange=1021:1024
+25	enforcement	enforcement	NOUN	NN	Number=Sing	26	compound	_	TokenRange=1025:1036
+26	requirements	requirement	NOUN	NNS	Number=Plur	20	conj	_	SpaceAfter=No|TokenRange=1037:1049
+27	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n|TokenRange=1049:1050
+
+# sent_id = 8
+# text = · Qublix may share your information in connection with any merger, sale of our assets, or a financing or acquisition of all or a portion of our business to another company.
+1	·	·	PUNCT	NFP	_	4	punct	_	TokenRange=1051:1052
+2	Qublix	Qublix	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=1053:1059
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=1060:1063
+4	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1064:1069
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=1070:1074
+6	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=1075:1086
+7	in	in	ADP	IN	_	8	case	_	TokenRange=1087:1089
+8	connection	connection	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=1090:1100
+9	with	with	ADP	IN	_	11	case	_	TokenRange=1101:1105
+10	any	any	DET	DT	_	11	det	_	TokenRange=1106:1109
+11	merger	merger	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=1110:1116
+12	,	,	PUNCT	,	_	13	punct	_	TokenRange=1116:1117
+13	sale	sale	NOUN	NN	Number=Sing	8	conj	_	TokenRange=1118:1122
+14	of	of	ADP	IN	_	16	case	_	TokenRange=1123:1125
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=1126:1129
+16	assets	asset	NOUN	NNS	Number=Plur	13	nmod	_	SpaceAfter=No|TokenRange=1130:1136
+17	,	,	PUNCT	,	_	20	punct	_	TokenRange=1136:1137
+18	or	or	CCONJ	CC	_	20	cc	_	TokenRange=1138:1140
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	TokenRange=1141:1142
+20	financing	financing	NOUN	NN	Number=Sing	8	conj	_	TokenRange=1143:1152
+21	or	or	CCONJ	CC	_	22	cc	_	TokenRange=1153:1155
+22	acquisition	acquisition	NOUN	NN	Number=Sing	20	conj	_	TokenRange=1156:1167
+23	of	of	ADP	IN	_	24	case	_	TokenRange=1168:1170
+24	all	all	DET	DT	_	27	nmod	_	TokenRange=1171:1174
+25	or	or	CCONJ	CC	_	27	cc	_	TokenRange=1175:1177
+26	a	a	DET	DT	Definite=Ind|PronType=Art	27	det	_	TokenRange=1178:1179
+27	portion	portion	NOUN	NN	Number=Sing	20	conj	_	TokenRange=1180:1187
+28	of	of	ADP	IN	_	30	case	_	TokenRange=1188:1190
+29	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	30	nmod:poss	_	TokenRange=1191:1194
+30	business	business	NOUN	NN	Number=Sing	27	nmod	_	TokenRange=1195:1203
+31	to	to	ADP	IN	_	33	case	_	TokenRange=1204:1206
+32	another	another	DET	DT	_	33	det	_	TokenRange=1207:1214
+33	company	company	NOUN	NN	Number=Sing	27	nmod	_	SpaceAfter=No|TokenRange=1215:1222
+34	.	.	PUNCT	.	_	4	punct	_	TokenRange=1222:1223
+
+# sent_id = 9
+# text = You will be notified via email and/or notice on our Site of any change in ownership or users of your personal information.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj:pass	_	TokenRange=1224:1227
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=1228:1232
+3	be	be	AUX	VB	VerbForm=Inf	4	aux:pass	_	TokenRange=1233:1235
+4	notified	notify	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=1236:1244
+5	via	via	ADP	IN	_	6	case	_	TokenRange=1245:1248
+6	email	email	NOUN	NN	Number=Sing	4	obl	_	TokenRange=1249:1254
+7	and	and	CCONJ	CC	_	9	cc	_	SpaceAfter=No|TokenRange=1255:1258
+8	/	/	PUNCT	,	_	9	punct	_	SpaceAfter=No|TokenRange=1258:1259
+9	or	or	CCONJ	CC	_	10	cc	_	TokenRange=1259:1261
+10	notice	notice	NOUN	NN	Number=Sing	6	conj	_	TokenRange=1262:1268
+11	on	on	ADP	IN	_	13	case	_	TokenRange=1269:1271
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=1272:1275
+13	Site	site	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=1276:1280
+14	of	of	ADP	IN	_	16	case	_	TokenRange=1281:1283
+15	any	any	DET	DT	_	16	det	_	TokenRange=1284:1287
+16	change	change	NOUN	NN	Number=Sing	13	nmod	_	TokenRange=1288:1294
+17	in	in	ADP	IN	_	18	case	_	TokenRange=1295:1297
+18	ownership	ownership	NOUN	NN	Number=Sing	16	nmod	_	TokenRange=1298:1307
+19	or	or	CCONJ	CC	_	20	cc	_	TokenRange=1308:1310
+20	users	user	NOUN	NNS	Number=Plur	13	conj	_	TokenRange=1311:1316
+21	of	of	ADP	IN	_	24	case	_	TokenRange=1317:1319
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	24	nmod:poss	_	TokenRange=1320:1324
+23	personal	personal	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=1325:1333
+24	information	information	NOUN	NN	Number=Sing	20	nmod	_	SpaceAfter=No|TokenRange=1334:1345
+25	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=1345:1346
+
+# sent_id = 10
+# text = · We may share aggregate or anonymous information about you with advertisers, publishers, business partners, sponsors, and other third parties.
+1	·	·	PUNCT	NFP	_	4	punct	_	TokenRange=1347:1348
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=1349:1351
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=1352:1355
+4	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1356:1361
+5	aggregate	aggregate	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=1362:1371
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=1372:1374
+7	anonymous	anonymous	ADJ	JJ	Degree=Pos	5	conj	_	TokenRange=1375:1384
+8	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=1385:1396
+9	about	about	ADP	IN	_	10	case	_	TokenRange=1397:1402
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	8	nmod	_	TokenRange=1403:1406
+11	with	with	ADP	IN	_	12	case	_	TokenRange=1407:1411
+12	advertisers	advertiser	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=1412:1423
+13	,	,	PUNCT	,	_	14	punct	_	TokenRange=1423:1424
+14	publishers	publisher	NOUN	NNS	Number=Plur	12	conj	_	SpaceAfter=No|TokenRange=1425:1435
+15	,	,	PUNCT	,	_	17	punct	_	TokenRange=1435:1436
+16	business	business	NOUN	NN	Number=Sing	17	compound	_	TokenRange=1437:1445
+17	partners	partner	NOUN	NNS	Number=Plur	12	conj	_	SpaceAfter=No|TokenRange=1446:1454
+18	,	,	PUNCT	,	_	19	punct	_	TokenRange=1454:1455
+19	sponsors	sponsor	NOUN	NNS	Number=Plur	12	conj	_	SpaceAfter=No|TokenRange=1456:1464
+20	,	,	PUNCT	,	_	24	punct	_	TokenRange=1464:1465
+21	and	and	CCONJ	CC	_	24	cc	_	TokenRange=1466:1469
+22	other	other	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=1470:1475
+23	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	24	amod	_	TokenRange=1476:1481
+24	parties	party	NOUN	NNS	Number=Plur	12	conj	_	SpaceAfter=No|TokenRange=1482:1489
+25	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=1489:1490
+

@@ -1,0 +1,108 @@
+T1	First-party-entity 41 43	We
+T2	first-party-collection-use 44 51	collect
+E1	first-party-collection-use:T2 Purpose-Argument:T6 Data-Provider:T5 Purpose-Argument2:T4 Data-Collected:T3 Data-Collector:T1
+T3	Data-general 52 63	information
+T4	Basic-service-feature 67 121	provide better services to all of users of our Service
+T5	User 101 106	users
+T6	Personalization-customization 133 280	determining what types of editorial content and the products and services offered on our Service that are of the most interest and relevance to you
+T7	First-party-entity 282 284	We
+T8	first-party-collection-use 285 292	collect
+E2	first-party-collection-use:T8 Data-Provider:T10 Data-Collected:T9 Data-Collector:T7
+T9	Data-general 293 304	information
+T10	User 311 314	you
+T11	Condition 470 476	you do
+T12	First-party-entity 478 483	we'll
+T13	User 470 473	you
+T14	first-party-collection-use 484 487	ask
+E3	first-party-collection-use:T14 Data-Collected:T22 Data-Collected2:T21 Data-Collected3:T20 Data-Collected4:T19 Data-Collected5:T18 Data-Collected6:T17 Data-Collected7:T16 Data-Collected8:T15 Data-Collector:T12 Data-Provider:T13 Condition-Argument:T11 Condition-Argument2:T79
+T15	Data-general 492 512	personal information
+T16	Data-contact 524 528	name
+T17	Data-contact 530 543	email address
+T18	Data-contact 545 561	telephone number
+T19	Data-user-online-activities-profiles 627 647	purchase information
+T20	Data-user-online-activities-profiles 656 690	the products or services purchased
+T21	Data-user-online-activities-profiles 692 713	the dates of purchase
+T22	Data-user-online-activities-profiles 718 736	the purchase price
+T23	First-party-entity 757 759	we
+T24	first-party-collection-use 760 767	collect
+E4	first-party-collection-use:T24 Data-Provider:T25 Data-Collector:T23 Data-Collected:T27 Data-Collected2:T26 Data-Collected3:T80
+T25	User 773 777	your
+T26	Data-user-online-activities-profiles 836 883	what editorial and advertising content you view
+T27	Data-user-online-activities-profiles 889 966	the products and services you use that we and our third-party providers offer
+T29	First-party-entity 1019 1021	we
+T30	first-party-collection-use 1022 1029	collect
+E5	first-party-collection-use:T30 Data-Collected:T36 Data-Collected2:T35 Data-Collected3:T34 Data-Collected4:T33 Data-Collected5:T32 Data-Collected6:T31 Data-Collector:T29
+T31	Data-computer-device 1030 1089	information about the devices you use to access our Service
+T32	Data-computer-device 1099 1116	hardware settings
+T33	Data-computer-device 1118 1130	browser type
+T34	Data-computer-device 1132 1148	browser language
+T35	Data-computer-device 1154 1183	date and time of your request
+T36	Data-computer-device 1188 1200	referral URL
+T28	User 1229 1232	you
+T37	First-party-entity 1237 1240	our
+T38	first-party-collection-use 1267 1274	collect
+E6	first-party-collection-use:T38 Data-Collected:T40 Data-Collector:T37 Data-Provider:T28 Data-Collected2:T44 Data-Collected3:T43 Data-Collected4:T42 Data-Collected5:T41 Condition-Argument:T81 Purpose-Argument:T82 Purpose-Argument2:T83 Purpose-Argument3:T92
+T39	data-storage-retention-deletion 1279 1284	store
+E7	data-storage-retention-deletion:T39 Data-Retained:T40 Data-Holder:T37 Data-Provider:T28 Data-Retained2:T42 Data-Retained3:T44 Data-Retained4:T43 Data-Retained5:T41 Storage-Place:T72 Condition-Argument:T81 Purpose-Argument:T82 Purpose-Argument2:T83 Purpose-Argument3:T92
+T40	Data-general 1293 1304	information
+T41	Data-user-online-activities-profiles 1423 1466	details about how you have used our Service
+T42	Data-user-online-activities-profiles 1481 1495	search queries
+T43	Data-computer-device 1506 1516	IP address
+T44	Data-cookies-web-beacons-and-other-technologies 1679 1686	cookies
+T45	User 2236 2239	you
+T46	First-party-entity 2250 2257	Service
+T47	first-party-collection-use 2266 2273	collect
+E8	first-party-collection-use:T47 Data-Collected:T48 Data-Collector:T46 Data-Provider:T45 Condition-Argument:T84
+T48	Data-location 2286 2324	information about your actual location
+T49	First-party-entity 2419 2421	We
+T50	first-party-collection-use 2426 2433	collect
+E9	first-party-collection-use:T50 Data-Collector:T49 Data-Collected:T52 Data-Collected2:T53
+T51	data-storage-retention-deletion 2438 2443	store
+E10	data-storage-retention-deletion:T51 Storage-Place:T54 Data-Retained:T53 Data-Retained2:T52 Data-Holder:T49
+T52	Data-general 2444 2455	information
+T53	Data-general 2467 2487	personal information
+T54	storage-place 2489 2511	locally on your device
+T55	First-party-entity 2893 2895	We
+T56	Third-party-entity 2904 2912	partners
+T57	first-party-collection-use 2941 2948	collect
+E11	first-party-collection-use:T57 Data-Provider:T56 Data-Collector:T55 Data-Collected:T59 Data-Provider2:T60 Condition-Argument:T61 Purpose-Argument:T64 Data-Collected2:T63 Data-Collected3:T62 Data-Collected4:T91
+T58	data-storage-retention-deletion 2953 2958	store
+E12	data-storage-retention-deletion:T58 Purpose-Argument:T64 Data-Retained:T63 Data-Retained2:T62 Condition-Argument:T61 Data-Provider:T60 Data-Retained3:T59 Data-Holder:T56 Data-Holder2:T55 Data-Retained4:T91
+T59	Data-general 2959 2970	information
+T60	User 2976 2979	you
+T61	Condition 2976 3002	you access the EMI Service
+T62	Data-cookies-web-beacons-and-other-technologies 3031 3038	cookies
+T63	Data-cookies-web-beacons-and-other-technologies 3042 3060	other technologies
+T64	Basic-service-feature 3064 3095	identify your browser or device
+T65	First-party-entity 3097 3099	We
+T66	first-party-collection-use 3131 3138	collect
+E13	first-party-collection-use:T66 Condition-Argument:T71 Data-Collected:T69 Data-Provider:T70 Data-Collected2:T67 Data-Collector:T65
+T67	Data-cookies-web-beacons-and-other-technologies 3115 3127	technologies
+T68	data-storage-retention-deletion 3143 3148	store
+E14	data-storage-retention-deletion:T68 Data-Holder:T65 Data-Retained:T67 Data-Retained2:T69 Condition-Argument:T71 Data-Provider:T70
+T69	Data-general 3149 3160	information
+T70	User 3166 3169	you
+T71	Condition 3166 3283	you access our Service and interact with the content and products and services we offer, such as advertising services
+T72	storage-place 1308 1319	server logs
+T73	Condition 2019 2060	you visit our Service any time thereafter
+T74	User 2019 2022	you
+T75	First-party-entity 2033 2040	Service
+T76	data-storage-retention-deletion 2125 2130	store
+E15	data-storage-retention-deletion:T76 Data-Retained:T78 Data-Retained2:T77 Condition-Argument:T73 Data-Holder:T75 Data-Provider:T74
+T77	Data-user-online-activities-profiles 2131 2170	information about your user preferences
+T78	Data-other 2175 2201	other personal information
+T79	Condition 571 625	you are purchasing products or services on our Service
+T80	Data-general 745 756	information
+T81	Condition 1229 1248	you use our Service
+T82	Analytics-research 1696 1799	uniquely identify your browser and collect information about how our visitors interact with our Service
+T83	Service-operation-and-security 1820 1879	identify problems such as error messages from certain pages
+T84	Condition 2236 2257	you visit our Service
+T85	First-party-entity 2326 2328	We
+T86	first-party-collection-use 2329 2332	use
+E16	first-party-collection-use:T86 Data-Collector:T85 Data-Collected:T89 Data-Collected2:T87 Purpose-Argument:T90 Data-Collected3:T88
+T87	Data-cookies-web-beacons-and-other-technologies 2341 2353	technologies
+T88	Data-location 2367 2375	location
+T89	Data-computer-device 2387 2397	IP address
+T90	Basic-service-feature 2357 2375	determine location
+T91	Data-cookies-web-beacons-and-other-technologies 2925 2937	technologies
+T92	Basic-service-feature 1622 1669	identify the geographic location of that device

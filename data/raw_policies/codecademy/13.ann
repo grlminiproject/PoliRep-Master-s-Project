@@ -1,0 +1,6 @@
+T1	First-party-entity 50 52	We
+T2	first-party-collection-use 53 59	retain
+E1	first-party-collection-use:T2 Purpose-Argument:T4 Data-Collected:T3 Data-Collector:T1 Data-Provider:T5
+T3	Data-contact 71 90	contact information
+T4	Communications 94 216	communicate with our customers and their users about product and security updates, relevant marketing, training and events
+T5	User 66 70	user

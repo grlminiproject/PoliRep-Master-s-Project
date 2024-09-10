@@ -1,0 +1,29 @@
+T1	First-party-entity 39 41	We
+T2	collection-use 42 45	use
+E1	collection-use:T2 Purpose-Argument:T28 Purpose-Argument2:T27 Purpose-Argument3:T26 Purpose-Argument4:T25 Purpose-Argument5:T24 Purpose-Argument6:T23 Purpose-Argument7:T20 Purpose-Argument8:T22 Purpose-Argument9:T21 Purpose-Argument10:T19 Purpose-Argument11:T18 Purpose-Argument13:T16 Purpose-Argument14:T15 Purpose-Argument15:T14 Purpose-Argument16:T13 Purpose-Argument17:T12 Purpose-Argument18:T11 Purpose-Argument19:T10 Data-Collected:T4 Data-Provider:T3 Data-Collector:T1 Purpose-Argument12:T5 Purpose-Argument20:T6
+T3	User 46 50	your
+T4	Data-general 51 71	Personal Information
+T10	CommunicationForCustomerCare 296 316	communicate with you
+T11	DirectMarketing 324 398	keep you informed of our latest updates to our Services and special offers
+T12	Marketing 403 422	market our Services
+T13	PersonalisedAdvertising 473 531	serve you advertisements, including behavioral advertising
+T14	ResearchAndDevelopment 536 588	conduct analytics, statistical and research purposes
+T15	ImproveExistingProductsAndServices 602 664	improve and customize the Services to your needs and interests
+T16	TODO 763 831	support and troubleshoot the Services and to respond to your queries
+T18	OptimisationForConsumer 849 944	further develop, customize and improve the Services based on Users' common preferences and uses
+T19	IdentityAuthentication 949 1022	identify and authenticate your access to certain features of the Services
+T20	FraudPreventionAndDetection 1027 1178	detect and prevent fraudulent and illegal activity or any other type of activity that may jeopardize or negatively affect the integrity of the Services
+T21	EnforceSecurity 1193 1256	identifying risks associated with your activity on our Services
+T22	EnforceSecurity 1261 1318	investigate violations of our policies and User Agreement
+T23	Purpose-general 1330 1373	enforce our policies and the User Agreement
+T24	DisputeManagement 1378 1454	investigate and resolve disputes in connection with your use of the Services
+T25	LegalCompliance 1463 1492	required by law or regulation
+T26	FulfilmentOfObligation 1497 1542	as required by other governmental authorities
+T27	LegalCompliance 1550 1597	comply with a subpoena or similar legal process
+T28	FulfilmentOfObligation 1601 1632	respond to a government request
+T5	ServiceProvision 106 138	provide and operate the Services
+T6	TODO 148 291	to provide our clients with performance marketing, online user acquisition network, online promotions, and for the purposes of user attribution
+#1	AnnotatorNotes T6	Could be Purpose -> Marketing -> Direct Marketing
+R1	SUBSUME Arg1:T5 Arg2:T6	
+#2	AnnotatorNotes T16	There are too many options that this segment could be assigned to (e.g., data general, communicationForCustomerCare, service optimisation)
+R2	SUBSUME Arg1:T20 Arg2:T21	

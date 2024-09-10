@@ -1,0 +1,10 @@
+HOW WE KEEP YOUR INFORMATION SECURED
+
+We take great care in implementing and maintaining the security of the Services and your information. We have put in place appropriate physical and technological safeguards to help prevent unauthorized access, to maintain data security, and to use correctly the information we collect online. These safeguards vary based on the sensitivity of the information that we collect and store.
+We employ industry standard procedures and controls to ensure the safety of our users' information, such as:
+Secure network topology, which includes intrusion prevention and Firewall systems;
+Encrypted communication;
+Authentication and Access Control;
+External and Internal audit tests; etc.
+Although we take reasonable steps to safeguard information, we cannot be responsible for the acts of those who gain unauthorized access or abuse the Services, and we make no warranty, express, implied or otherwise, that we will prevent such access.
+

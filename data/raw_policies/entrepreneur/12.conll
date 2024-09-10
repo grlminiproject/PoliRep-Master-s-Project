@@ -1,0 +1,100 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 13.
+1	13	13	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=2:3
+
+# sent_id = 2
+# text = California Residents.
+1	California	California	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=4:14
+2	Residents	residents	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=15:24
+3	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=24:25
+
+# newpar
+# sent_id = 3
+# text = California residents may choose to request certain information regarding our disclosure of personal information to third parties for their direct marketing purposes or choose to opt out of such disclosure.
+1	California	California	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=27:37
+2	residents	resident	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=38:47
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=48:51
+4	choose	choose	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=52:58
+5	to	to	PART	TO	_	6	mark	_	TokenRange=59:61
+6	request	request	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=62:69
+7	certain	certain	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=70:77
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=78:89
+9	regarding	regard	VERB	VBG	VerbForm=Ger	11	case	_	TokenRange=90:99
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=100:103
+11	disclosure	disclosure	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=104:114
+12	of	of	ADP	IN	_	14	case	_	TokenRange=115:117
+13	personal	personal	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=118:126
+14	information	information	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=127:138
+15	to	to	ADP	IN	_	17	case	_	TokenRange=139:141
+16	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	17	amod	_	TokenRange=142:147
+17	parties	party	NOUN	NNS	Number=Plur	6	obl	_	TokenRange=148:155
+18	for	for	ADP	IN	_	22	case	_	TokenRange=156:159
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=160:165
+20	direct	direct	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=166:172
+21	marketing	marketing	NOUN	NN	Number=Sing	22	compound	_	TokenRange=173:182
+22	purposes	purpose	NOUN	NNS	Number=Plur	17	nmod	_	TokenRange=183:191
+23	or	or	CCONJ	CC	_	24	cc	_	TokenRange=192:194
+24	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	conj	_	TokenRange=195:201
+25	to	to	PART	TO	_	26	mark	_	TokenRange=202:204
+26	opt	opt	VERB	VB	VerbForm=Inf	24	xcomp	_	TokenRange=205:208
+27	out	out	ADP	IN	_	30	case	_	TokenRange=209:212
+28	of	of	ADP	IN	_	30	case	_	TokenRange=213:215
+29	such	such	ADJ	JJ	Degree=Pos	30	amod	_	TokenRange=216:220
+30	disclosure	disclosure	NOUN	NN	Number=Sing	26	obl	_	SpaceAfter=No|TokenRange=221:231
+31	.	.	PUNCT	.	_	4	punct	_	TokenRange=231:232
+
+# sent_id = 4
+# text = Our policy is not to disclose personal information collected online to a third party for directing marketing without your approval.
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=233:236
+2	policy	policy	NOUN	NN	Number=Sing	6	nsubj	_	TokenRange=237:243
+3	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	aux	_	TokenRange=244:246
+4	not	not	PART	RB	_	6	advmod	_	TokenRange=247:250
+5	to	to	PART	TO	_	6	mark	_	TokenRange=251:253
+6	disclose	disclose	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=254:262
+7	personal	personal	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=263:271
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=272:283
+9	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	6	xcomp	_	TokenRange=284:293
+10	online	online	ADV	RB	_	9	advmod	_	TokenRange=294:300
+11	to	to	ADP	IN	_	14	case	_	TokenRange=301:303
+12	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	TokenRange=304:305
+13	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	14	amod	_	TokenRange=306:311
+14	party	party	NOUN	NN	Number=Sing	9	obl	_	TokenRange=312:317
+15	for	for	SCONJ	IN	_	16	mark	_	TokenRange=318:321
+16	directing	directing	VERB	VBG	VerbForm=Ger	9	advcl	_	TokenRange=322:331
+17	marketing	marketing	NOUN	NN	Number=Sing	16	obj	_	TokenRange=332:341
+18	without	without	ADP	IN	_	20	case	_	TokenRange=342:349
+19	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	TokenRange=350:354
+20	approval	approval	NOUN	NN	Number=Sing	16	obl	_	SpaceAfter=No|TokenRange=355:363
+21	.	.	PUNCT	.	_	6	punct	_	TokenRange=363:364
+
+# sent_id = 5
+# text = To make a request or to opt out at any time, please contact us at legal@entrepreneur.com or the other contact information provided below.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=365:367
+2	make	make	VERB	VB	VerbForm=Inf	14	advcl	_	TokenRange=368:372
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	TokenRange=373:374
+4	request	request	NOUN	NN	Number=Sing	2	obj	_	TokenRange=375:382
+5	or	or	CCONJ	CC	_	7	cc	_	TokenRange=383:385
+6	to	to	PART	TO	_	7	mark	_	TokenRange=386:388
+7	opt	opt	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=389:392
+8	out	out	ADP	RP	_	7	compound:prt	_	TokenRange=393:396
+9	at	at	ADP	IN	_	11	case	_	TokenRange=397:399
+10	any	any	DET	DT	_	11	det	_	TokenRange=400:403
+11	time	time	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=404:408
+12	,	,	PUNCT	,	_	14	punct	_	TokenRange=408:409
+13	please	please	INTJ	UH	_	14	discourse	_	TokenRange=410:416
+14	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=417:424
+15	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	obj	_	TokenRange=425:427
+16	at	at	ADP	IN	_	17	case	_	TokenRange=428:430
+17	legal@entrepreneur.com	legal@entrepreneur.com	X	ADD	_	14	obl	_	TokenRange=431:453
+18	or	or	CCONJ	CC	_	22	cc	_	TokenRange=454:456
+19	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	TokenRange=457:460
+20	other	other	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=461:466
+21	contact	contact	NOUN	NN	Number=Sing	22	compound	_	TokenRange=467:474
+22	information	information	NOUN	NN	Number=Sing	17	conj	_	TokenRange=475:486
+23	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	17	acl	_	TokenRange=487:495
+24	below	below	ADV	RB	_	23	advmod	_	SpaceAfter=No|TokenRange=496:501
+25	.	.	PUNCT	.	_	14	punct	_	SpacesAfter=\n\n|TokenRange=501:502
+

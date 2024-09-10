@@ -1,0 +1,150 @@
+T1	First-party-entity 114 119	Navdy
+T2	third-party-sharing-disclosure 124 132	disclose
+E1	third-party-sharing-disclosure:T2 Data-Sharer:T1 Data-Shared:T3 Data-Provider:T4 Data-Receiver:T5
+T3	Data-general 137 148	information
+T4	User 165 168	you
+T5	Third-party-entity 186 199	third parties
+T8	Condition 390 471	you submit personal information in connection with purchases made via our Service
+T9	third-party-sharing-disclosure 528 532	sent
+E2	third-party-sharing-disclosure:T9 Data-Receiver:T10 Condition-Argument:T8 Data-Shared2:T12 Data-Provider:T11
+T10	Third-party-entity 545 552	Shopify
+T11	User 390 393	you
+T12	Data-general 401 421	personal information
+T14	Negation 493 496	not
+T15	collection-use 497 506	collected
+E3	collection-use:T15 Data-Collector:T16 Polarity:T14 Condition-Argument:T8 Data-Collected2:T12 Data-Provider:T11
+T16	First-party-entity 510 512	us
+T18	Third-party-entity 646 653	Shopify
+T19	Condition 559 599	you purchase something using our Service
+T20	User 559 562	you
+T21	third-party-sharing-disclosure 654 662	collects
+E5	third-party-sharing-disclosure:T21 Data-Receiver:T18 Data-Shared:T22 Condition-Argument:T19 Data-Provider:T20 Data-Shared2:T23 Data-Shared3:T24 Data-Shared4:T25 Data-Shared5:T26 Data-Shared6:T27 Data-Shared7:T28 Data-Shared8:T29
+T22	Data-general 663 674	information
+T23	Name 697 707	first name
+T24	Name 709 718	last name
+T25	Professional 720 732	company name
+T26	PhysicalAddress 734 749	mailing address
+T27	TelephoneNumber 751 763	phone number
+T28	EmailAddress 765 778	email address
+T29	FinancialAccountNumber 783 814	credit card payment information
+T30	User 816 820	Your
+T31	Data-general 821 825	data
+T32	data-storage-retention-deletion 829 835	stored
+E6	data-storage-retention-deletion:T32 Data-Provider:T30 Data-Retained:T31 Data-Holder:T33 Storage-Place:T34 Storage-Place2:T35 Storage-Place3:T36
+T33	Third-party-entity 844 853	Shopify's
+T34	storage-place 854 866	data storage
+T35	storage-place 868 877	databases
+T36	storage-place 882 913	the general Shopify application
+T41	data-security-protection 1163 1171	protects
+E7	data-security-protection:T41 Data-Protector:T42 Data-Protected:T43 method:T44
+T42	Third-party-entity 1155 1162	Shopify
+T43	Data-finance 1172 1195	credit card information
+T44	Protection-other 1209 1267	the Payment Card Industry Data Security Standard (PCI-DSS)
+T45	First-party-entity 1891 1893	We
+T46	third-party-sharing-disclosure 1898 1903	share
+E9	third-party-sharing-disclosure:T46 Data-Sharer:T45 Data-Provider:T47 Data-Receiver:T48 Data-Receiver2:T49 Data-Shared:T55 Data-Receiver3:T50 Data-Receiver4:T51 Data-Receiver5:T52 Data-Receiver6:T53 Purpose-Argument:T54 Purpose-Argument2:T6
+T47	User 1904 1908	your
+T48	Third-party-entity 1926 1949	third-party contractors
+T49	Third-party-entity 1951 1957	agents
+T50	Third-party-entity 1959 1972	collaborators
+T51	Third-party-entity 1974 1999	data processing providers
+T52	Third-party-entity 2001 2023	data storage providers
+T53	Third-party-entity 2027 2044	service providers
+T54	ServiceProvision 2106 2142	operating and supporting the Service
+T55	Data-general 1909 1920	information
+T56	First-party-entity 2144 2146	We
+T57	third-party-sharing-disclosure 2151 2156	share
+E10	third-party-sharing-disclosure:T57 Data-Sharer:T56 Data-Shared:T58 Data-Receiver:T59 Data-Shared2:T60 Data-Provider:T61
+T58	Data-general 2157 2168	information
+T59	Third-party-entity 2176 2193	service providers
+T60	Data-other 2202 2218	logs and reports
+T61	User 2224 2228	your
+T62	Third-party-entity 2328 2335	Zendesk
+T63	First-party-entity 2310 2312	We
+T64	third-party-sharing-disclosure 2317 2322	share
+E11	third-party-sharing-disclosure:T64 Data-Sharer:T63 Data-Receiver:T62 Data-Provider:T65 Data-Shared:T66 Data-Shared2:T67 Purpose-Argument:T7
+T65	User 2336 2340	your
+T66	EmailContent 2341 2368	e-mails that you send to us
+T67	FinancialAccount 2377 2396	account information
+T69	third-party-sharing-disclosure 2603 2608	share
+E12	third-party-sharing-disclosure:T69 Data-Receiver:T74 Data-Shared:T73 Data-Shared2:T72 Data-Shared3:T70 Data-Provider:T71 Purpose-Argument:T13 Data-Sharer:T17
+T70	Data-general 2609 2620	information
+T71	User 2629 2633	your
+T72	DeviceBased 2634 2652	device information
+T73	Location 2662 2670	location
+T74	Third-party-entity 2488 2533	Here Maps, a service run by Nokia Corporation
+T75	Condition 2896 3020	we become involved in a merger, acquisition, sale of assets, securities offering, bankruptcy, reorganization, or dissolution
+T76	Condition 3027 3126	the ownership of all or substantially all of our business relating to the Service otherwise changes
+T77	First-party-entity 3128 3133	Navdy
+T78	third-party-sharing-disclosure 3138 3145	provide
+E13	third-party-sharing-disclosure:T78 Data-Sharer:T77 Data-Provider:T79 Data-Shared:T80 Data-Receiver:T81 Data-Receiver2:T37 Condition-Argument:T75 Condition-Argument2:T76
+T79	User 3146 3150	your
+T80	Data-general 3151 3162	information
+T81	Third-party-entity 3168 3179	third party
+T82	First-party-entity 3258 3260	We
+T83	third-party-sharing-disclosure 3265 3270	share
+E14	third-party-sharing-disclosure:T83 Data-Sharer:T82 Data-Provider:T84 Data-Shared:T85 Data-Receiver:T86 Data-Receiver2:T87 Data-Receiver3:T88 Data-Receiver4:T89
+T84	User 3286 3290	your
+T85	Data-general 3291 3302	information
+T86	Third-party-entity 3312 3326	parent company
+T87	Third-party-entity 3328 3365	subsidiaries and corporate affiliates
+T88	Third-party-entity 3367 3382	joint venturers
+T89	Third-party-entity 3386 3401	other companies
+T90	First-party-entity 3455 3457	We
+T91	third-party-sharing-disclosure 3462 3467	share
+E15	third-party-sharing-disclosure:T91 Data-Sharer:T90 Data-Shared:T92 Data-Provider:T93 Data-Receiver:T94 Data-Provider2:T117 Data-Shared2:T118
+T92	Data-aggregated-nonidentifiable 3468 3479	information
+T93	User 3505 3510	users
+T94	Third-party-entity 3531 3571	affiliated or unaffiliated third parties
+T95	First-party-entity 3916 3921	Navdy
+T96	third-party-sharing-disclosure 3926 3931	share
+E16	third-party-sharing-disclosure:T96 Data-Sharer:T95 Data-Provider:T97 Data-Shared:T98 Data-Receiver:T99 Data-Receiver2:T100 Data-Receiver3:T101 Purpose-Argument:T103 Purpose-Argument2:T104 Purpose-Argument3:T105 Purpose-Argument4:T119
+T97	User 3932 3936	your
+T98	Data-general 3937 3948	information
+T99	Third-party-entity 3954 3969	law enforcement
+T100	Third-party-entity 3971 3992	governmental agencies
+T101	Third-party-entity 3997 4021	authorized third parties
+T103	LegalCompliance 4145 4231	meet any applicable law, regulation, legal process or enforceable governmental request
+T104	FulfilmentOfContractualObligation 4233 4331	enforce applicable provisions of the Navdy Terms of Service located at https://www.navdy.com/terms
+T105	FraudPreventionAndDetection 4382 4510	detect, prevent or otherwise address fraud, security or safety of Navdy, our users or the public as required or permitted by law
+T106	First-party-entity 4512 4514	We
+T108	Third-party-entity 4531 4542	third party
+T109	User 4560 4564	your
+T110	Data-general 4565 4576	information
+T111	Negation 4519 4526	dispute
+T112	User 4984 4988	Your
+T113	Data-general 4989 5000	information
+T114	third-party-sharing-disclosure 5013 5022	disclosed
+E18	third-party-sharing-disclosure:T114 Data-Provider:T112 Data-Shared:T113 Data-Receiver:T115 Condition-Argument:T116 Condition-Argument2:T107
+T115	Third-party-entity 5026 5039	third parties
+T116	Condition 5192 5252	Navdy or the Service is subject to a hacking or other attack
+T6	Purpose-general 2049 2096	provide certain services to us or on our behalf
+T7	CustomerCare 2430 2465	address your customer service needs
+T13	TechnicalServiceProvision 2537 2581	provide you with traffic and map information
+T17	First-party-entity 2481 2483	we
+T117	User 3492 3500	visitors
+T118	Data-general 3575 3593	an aggregate basis
+T119	FraudPreventionAndDetection 4343 4380	investigation of potential violations
+T120	Condition 4582 4697	we believe, in our sole discretion, that the requests may be enforceable, overbroad, vague or lack proper authority
+T121	third-party-sharing-disclosure 4554 4559	share
+E4	third-party-sharing-disclosure:T121 Data-Sharer:T106 Polarity:T111 Data-Receiver:T108 Data-Provider:T109 Data-Shared:T110 Condition-Argument:T120
+T107	Condition 5043 5106	unforeseeable situations or situations that are not preventable
+T37	Third-party-entity 3183 3236	parties in connection with the applicable transaction
+T40	Negation 5091 5094	not
+R1	SUBSUME Arg1:T22 Arg2:T23	
+R2	SUBSUME Arg1:T22 Arg2:T24	
+R3	SUBSUME Arg1:T22 Arg2:T25	
+R4	SUBSUME Arg1:T22 Arg2:T26	
+R5	SUBSUME Arg1:T22 Arg2:T27	
+R6	SUBSUME Arg1:T22 Arg2:T28	
+R7	SUBSUME Arg1:T22 Arg2:T29	
+R8	SUBSUME Arg1:T70 Arg2:T72	
+R9	SUBSUME Arg1:T70 Arg2:T73	
+T102	derivation 3705 3806	combine this information with other data they have about you, or that they receive from third parties
+E17	derivation:T102 Data-Derived:T125 Data-Derived2:T126 Purpose-Argument:T124
+T122	User 3762 3765	you
+T123	Third-party-entity 3676 3689	third parties
+T124	Personalisation 3840 3894	associate this aggregated data with your personal data
+T125	Data-general 3606 3617	information
+T126	Data-general 3741 3745	data
+T38	User 3636 3639	you

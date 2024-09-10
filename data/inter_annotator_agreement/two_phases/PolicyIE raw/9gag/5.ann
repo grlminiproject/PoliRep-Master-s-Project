@@ -1,0 +1,21 @@
+T1	First-party-entity 43 45	We
+T2	first-party-collection-use 50 57	collect
+E1	first-party-collection-use:T2 Data-Provider:T5 Data-Provider2:T4 Data-Collected:T3 Data-Collector:T1
+T3	Data-general 58 69	information
+T4	Third-party-entity 79 89	affiliates
+T5	Third-party-entity 94 107	third parties
+T6	Condition 125 202	you use your Google or Facebook account to sign up or sign in to our services
+T7	User 125 128	you
+T8	First-party-entity 204 206	we
+T9	first-party-collection-use 211 218	receive
+E2	first-party-collection-use:T9 Data-Provider:T7 Condition-Argument:T6 Data-Collector:T8 Data-Collected:T10 Purpose-Argument:T11
+T10	Data-general 219 230	information
+T11	Basic-service-feature 234 276	you can create or access your 9GAG account
+T12	Condition 281 321	you interact with one of our advertisers
+T13	User 281 284	you
+T14	Third-party-entity 310 321	advertisers
+T15	First-party-entity 306 309	our
+T16	first-party-collection-use 332 337	share
+E3	first-party-collection-use:T16 Purpose-Argument:T18 Data-Collected:T17 Data-Provider:T14 Data-Collector:T15 Condition-Argument:T12 Data-Provider2:T13
+T17	Data-general 338 349	information
+T18	Analytics-research 361 398	help target or measure ad performance

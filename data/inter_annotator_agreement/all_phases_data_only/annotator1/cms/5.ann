@@ -1,0 +1,9 @@
+T5	Data-general 69 89	personal information
+T10	EmailAddress 188 201	email address
+T19	Identifying 273 308	personally identifiable information
+T25	Data-general 607 627	personal information
+T18	Name 714 718	name
+T27	EmailAddressPersonal 720 742	personal email address
+T28	PhysicalAddress 744 764	home mailing address
+T29	TelephoneNumber 766 797	personal or mobile phone number
+T30	Identifying 693 712	personal identifier

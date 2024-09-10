@@ -1,0 +1,73 @@
+T1	first-party-collection-use 204 212	gathered
+E1	first-party-collection-use:T1 Data-Collected:T2
+T2	Data-general 168 188	Personal Information
+T8	Data-contact 1155 1159	name
+T9	Data-contact 1161 1170	birthdate
+T10	Data-user-online-activities-profiles 1172 1187	profile picture
+T11	Data-user-online-activities-profiles 1192 1205	friends' list
+T12	Condition 1402 1435	the person accept your invitation
+T13	First-party-entity 1437 1439	we
+T14	first-party-collection-use 1444 1450	obtain
+E2	first-party-collection-use:T14 Data-Provider:T16 Data-Collected:T17 Data-Collected2:T15 Data-Collector:T13 Condition-Argument:T12 Data-Collected3:T20 Data-Collected4:T19 Data-Collected5:T18 Data-Provider2:T59
+T15	Data-general 1451 1471	Personal Information
+T16	Third-party-entity 1477 1484	him/her
+T17	Data-contact 1494 1498	name
+T18	Data-contact 1500 1513	email address
+T19	Data-contact 1515 1527	phone number
+T20	Data-contact 1532 1545	date of birth
+T21	Other 1592 1615	purposes set out herein
+T22	First-party-entity 1547 1549	We
+T23	first-party-collection-use 1555 1558	use
+E3	first-party-collection-use:T23 Data-Collector:T22 Data-Collected:T24 Purpose-Argument:T21
+T24	Data-general 1563 1583	Personal Information
+T25	First-party-entity 1747 1749	We
+T26	first-party-collection-use 1750 1757	collect
+E4	first-party-collection-use:T26 Data-Collector:T25 Purpose-Argument:T35 Purpose-Argument2:T34 Data-Collected:T33 Condition-Argument:T32 Data-Collected2:T31 Data-Provider:T30 Data-Collected3:T29 Data-Provider2:T28 Data-Collected4:T27 Data-Provider3:T63
+T27	Data-general 1758 1778	Personal Information
+T28	Third-party-entity 1784 1813	third party service providers
+T29	Data-finance 1823 1860	information about your credit history
+T30	Third-party-entity 1866 1881	credit agencies
+T31	Data-finance 1886 1913	other financial information
+T32	Condition 1920 1964	is relevant to the provision of the Services
+T33	Data-general 1977 1988	information
+T34	Service-operation-and-security 2019 2039	verify your identity
+T35	Service-operation-and-security 2044 2082	prevent fraudulent or illegal activity
+T36	First-party-entity 386 388	We
+T37	first-party-collection-use 394 401	collect
+E5	first-party-collection-use:T37 Condition-Argument:T40 Data-Provider:T39 Data-Collected:T38 Data-Collector:T36
+T38	Data-general 402 413	information
+T39	User 420 423	you
+T40	Condition 420 446	you provide us voluntarily
+T41	First-party-entity 678 680	we
+T42	first-party-collection-use 681 688	collect
+E6	first-party-collection-use:T42 Data-Collected:T47 Data-Collected2:T46 Data-Collected3:T45 Data-Collected4:T44 Data-Collected5:T43 Data-Collector:T41 Data-Collected6:T54 Data-Collected7:T57 Data-Collected8:T56 Data-Collected9:T55
+T43	Data-computer-device 730 790	information with regard to your device, software or hardware
+T44	Data-computer-device 823 850	device's unique identifiers
+T45	Data-computer-device 883 905	browser fingerprinting
+T46	Data-computer-device 907 917	IP address
+T47	Data-location 922 939	geo-location data
+T48	Condition 963 1033	you voluntarily decide to register through your social network account
+T49	First-party-entity 1067 1069	we
+T50	first-party-collection-use 1080 1086	access
+E7	first-party-collection-use:T50 Data-Collected:T11 Data-Collected2:T10 Data-Collected3:T9 Data-Collected4:T8 Data-Collected5:T51 Data-Collector:T49 Condition-Argument:T48 Data-Provider:T58 Data-Collected6:T52
+T51	Data-general 1090 1140	basic information from your social network account
+T3	User 260 263	you
+T4	Data-contact 304 319	contact details
+T5	first-party-collection-use 280 287	provide
+E8	first-party-collection-use:T5 Data-Collected:T4 Data-Provider:T3 Data-Collector:T6 Data-Collected2:T53 Data-Collected3:T7 Condition-Argument:T64
+T6	First-party-entity 288 290	us
+T7	Data-contact 334 343	full name
+T53	Data-contact 348 361	email address
+T54	Data-computer-device 707 725	connection details
+T55	Data-computer-device 857 861	UDID
+T56	Data-computer-device 863 867	IMEI
+T57	Data-computer-device 869 880	MAC address
+T58	User 963 966	you
+T52	Data-general 1218 1273	information you made publicly available on such account
+T59	User 1420 1424	your
+T60	third-party-sharing-disclosure 1620 1628	disclose
+E9	third-party-sharing-disclosure:T60 Data-Sharer:T22 Data-Shared:T61 Data-Receiver:T62
+T61	Data-general 1634 1645	information
+T62	Third-party-entity 1654 1667	third parties
+T64	Condition 260 290	you may voluntarily provide us
+T63	User 2026 2030	your

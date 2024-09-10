@@ -1,0 +1,39 @@
+T1	First-party-entity 32 38	Qublix
+T2	collection-use 56 61	using
+E1	collection-use:T2 Data-Collector:T1 Data-Collected:T3 Purpose-Argument:T4 Data-Provider:T5 Purpose-Argument2:T6 Purpose-Argument3:T7 Purpose-Argument4:T8 Purpose-Argument5:T9 Data-Provider2:T34
+T3	Data-general 62 73	information
+T4	ServiceProvision 81 107	provide the Service to you
+T5	User 104 107	you
+T6	ServiceOptimisation 109 128	improve our Service
+T7	CommunicationManagement 130 141	contact you
+T8	DirectMarketing 143 160	conduct marketing
+T9	ResearchAndDevelopment 165 209	research and create reports for internal use
+T10	data-storage-retention-deletion 214 219	store
+E2	data-storage-retention-deletion:T10 Data-Holder:T11 Data-Retained:T12 Storage-Place:T13 Data-Holder2:T14 Data-Holder3:T15 Data-Holder4:T16
+T11	First-party-entity 211 213	We
+T12	Data-general 220 231	information
+T13	storage-place 235 271	servers located in the United States
+T14	Third-party-entity 276 289	third parties
+T15	Third-party-name 299 314	Softlayer, Inc.
+T16	Third-party-name 318 337	Amazon Web Services
+T17	First-party-entity 338 340	We
+T18	collection-use 341 344	use
+E3	collection-use:T18 Data-Collected:T19 Data-Collector:T17 Purpose-Argument:T20 Purpose-Argument2:T21 Data-Provider:T33
+T19	Data-general 345 386	information collected through our Service
+T20	Purpose-general 391 424	purposes described in this Policy
+T21	Purpose-general 428 475	disclosed to you in connection with our Service
+T22	First-party-entity 490 492	we
+T23	collection-use 497 500	use
+E4	collection-use:T23 Data-Collector:T22 Data-Provider:T24 Data-Collected:T25 Purpose-Argument:T26 Purpose-Argument2:T27 Purpose-Argument3:T28 Purpose-Argument4:T29 Purpose-Argument5:T30 Purpose-Argument6:T31 Purpose-Argument7:T32
+T24	User 501 505	your
+T25	Data-general 506 517	information
+T26	ServiceProvision 524 551	Allow you to play our games
+T27	ProvidePersonalisedRecommendations 555 611	Identify and suggest connections with other Qublix users
+T28	ServiceOptimisation 615 646	Operate and improve our Service
+T29	OptimisationForConsumer 650 744	Understand you and your preferences to enhance your experience and enjoyment using our Service
+T30	CommunicationForCustomerCare 748 815	Respond to your comments and questions and provide customer service
+T31	OptimisationForConsumer 819 872	Provide and deliver products and services you request
+T32	TargetedAdvertising 876 944	Deliver advertising and marketing and promotional information to you
+T33	User 441 444	you
+T34	User 138 141	you
+T36	First-party-entity 635 638	our

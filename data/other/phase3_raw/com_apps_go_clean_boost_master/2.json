@@ -1,0 +1,97 @@
+{
+  "text": "2. WHAT personal data do we collect?\n\n\n",
+  "words": [
+    "2",
+    ".",
+    "WHAT",
+    "personal",
+    "data",
+    "do",
+    "we",
+    "collect",
+    "?"
+  ],
+  "lemma": [
+    "2",
+    ".",
+    "what",
+    "personal",
+    "data",
+    "do",
+    "we",
+    "collect",
+    "?"
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "WP",
+    "JJ",
+    "NN",
+    "VBP",
+    "PRP",
+    "VB",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "aux",
+    "nsubj",
+    "root",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      7
+    ],
+    [
+      8,
+      16
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      22,
+      24
+    ],
+    [
+      25,
+      27
+    ],
+    [
+      28,
+      35
+    ],
+    [
+      35,
+      36
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      8
+    ]
+  ],
+  "entity/argument_mentions": [],
+  "event_mentions": []
+}

@@ -1,0 +1,14 @@
+T1	First-party-entity 679 681	We
+T2	data-storage-retention-deletion 687 693	retain
+E1	data-storage-retention-deletion:T2 Retention-Period:T6 Retention-Period2:T5 Data-Retained:T4 Data-Provider:T3 Data-Holder:T1
+T3	User 694 698	your
+T4	Data-general 699 710	information
+T5	retention-period 715 748	as long as your account is active
+T6	retention-period 752 785	as needed to provide you services
+T7	Condition 790 819	your account becomes inactive
+T8	First-party-entity 821 823	we
+T9	User 790 794	your
+T10	Data-general 843 863	personal information
+T11	data-storage-retention-deletion 829 837	maintain
+E2	data-storage-retention-deletion:T11 Data-Retained:T10 Purpose-Argument:T12 Data-Holder:T8 Condition-Argument:T7 Data-Provider:T9
+T12	Basic-service-feature 877 913	you wish to re-engage in our Service

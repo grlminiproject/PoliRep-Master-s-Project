@@ -1,0 +1,6 @@
+THIRD PARTY TRACKING TECHNOLOGIES
+
+When you visit or access our Services (for example when you visit our websites), we use (and authorize third parties to use) web beacons, cookies, pixels, scripts, tags and other technologies ("Tracking Technologies").
+The Tracking Technologies allow us to automatically collect information about you and your online behavior, as well as your device (for example your computer or mobile device), for different purposes, such as in order to enhance your navigation on our Services, improve our Services' performance and customize your experience on our Services. We also use this information to collect statistics about the usage of our Services, perform analytics, deliver content which is tailored to your interests and administer services to our Users, advertisers, publishers, customers and partners.
+We also allow third parties to collect information about you through Tracking Technologies. To learn more please visit our Cookie Policy.
+

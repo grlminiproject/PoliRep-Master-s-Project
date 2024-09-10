@@ -1,0 +1,41 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Contact
+1	Contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n\n|TokenRange=0:7
+
+# newpar
+# sent_id = 2
+# text = If you have questions or complaints regarding Navdy's Privacy Policy or practices, please contact Navdy at notice@navdy.com.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=9:11
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=12:15
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	TokenRange=16:20
+4	questions	question	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=21:30
+5	or	or	CCONJ	CC	_	6	cc	_	TokenRange=31:33
+6	complaints	complaint	NOUN	NNS	Number=Plur	4	conj	_	TokenRange=34:44
+7	regarding	regard	VERB	VBG	VerbForm=Ger	11	case	_	TokenRange=45:54
+8	Navdy	Navdy	PROPN	NNP	Number=Sing	11	nmod:poss	_	SpaceAfter=No|TokenRange=55:60
+9	's	's	PART	POS	_	8	case	_	TokenRange=60:62
+10	Privacy	privacy	NOUN	NN	Number=Sing	11	compound	_	TokenRange=63:70
+11	Policy	policy	NOUN	NN	Number=Sing	3	nmod	_	TokenRange=71:77
+12	or	or	CCONJ	CC	_	13	cc	_	TokenRange=78:80
+13	practices	practice	NOUN	NNS	Number=Plur	11	conj	_	SpaceAfter=No|TokenRange=81:90
+14	,	,	PUNCT	,	_	16	punct	_	TokenRange=90:91
+15	please	please	INTJ	UH	_	16	discourse	_	TokenRange=92:98
+16	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=99:106
+17	Navdy	Navdy	PROPN	NNP	Number=Sing	16	obj	_	TokenRange=107:112
+18	at	at	ADP	IN	_	19	case	_	TokenRange=113:115
+19	notice@navdy.com	notice@navdy.com	X	ADD	_	16	obl	_	SpaceAfter=No|TokenRange=116:132
+20	.	.	PUNCT	.	_	16	punct	_	SpacesAfter=\n|TokenRange=132:133
+
+# sent_id = 3
+# text = Effective Date: January 30th, 2016.
+1	Effective	effective	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=134:143
+2	Date	date	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=144:148
+3	:	:	PUNCT	:	_	2	punct	_	TokenRange=148:149
+4	January	January	PROPN	NNP	Number=Sing	5	compound	_	TokenRange=150:157
+5	30th	30th	NOUN	NN	Number=Sing	2	appos	_	SpaceAfter=No|TokenRange=158:162
+6	,	,	PUNCT	,	_	5	punct	_	TokenRange=162:163
+7	2016	2016	NUM	CD	NumType=Card	5	appos	_	SpaceAfter=No|TokenRange=164:168
+8	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=168:169
+

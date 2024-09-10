@@ -1,0 +1,101 @@
+{
+  "text": "ACCESSING, CORRECTING AND DELETING DATA WE COLLECT FROM YOU\n\n\n",
+  "words": [
+    "ACCESSING",
+    ",",
+    "CORRECTING",
+    "AND",
+    "DELETING",
+    "DATA",
+    "WE",
+    "COLLECT",
+    "FROM",
+    "YOU"
+  ],
+  "lemma": [
+    "accessing",
+    ",",
+    "Correcting",
+    "and",
+    "deleting",
+    "data",
+    "we",
+    "collect",
+    "from",
+    "you"
+  ],
+  "pos-tags": [
+    "NN",
+    ",",
+    "VBG",
+    "CC",
+    "NNP",
+    "NNP",
+    "NNP",
+    "NNP",
+    "IN",
+    "NNP"
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "conj",
+    "cc",
+    "compound",
+    "compound",
+    "compound",
+    "conj",
+    "case",
+    "nmod"
+  ],
+  "token-ranges": [
+    [
+      0,
+      9
+    ],
+    [
+      9,
+      10
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      22,
+      25
+    ],
+    [
+      26,
+      34
+    ],
+    [
+      35,
+      39
+    ],
+    [
+      40,
+      42
+    ],
+    [
+      43,
+      50
+    ],
+    [
+      51,
+      55
+    ],
+    [
+      56,
+      59
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      9
+    ]
+  ],
+  "entity/argument_mentions": [],
+  "event_mentions": []
+}

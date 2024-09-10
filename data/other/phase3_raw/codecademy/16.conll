@@ -1,0 +1,63 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How long does Codecademy retain Customer Data?
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	TokenRange=0:3
+2	long	long	ADV	RB	Degree=Pos	5	advmod	_	TokenRange=4:8
+3	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=9:13
+4	Codecademy	Codecademy	PROPN	NNP	Number=Sing	5	nsubj	_	TokenRange=14:24
+5	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=25:31
+6	Customer	customer	NOUN	NN	Number=Sing	7	compound	_	TokenRange=32:40
+7	Data	data	NOUN	NN	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=41:45
+8	?	?	PUNCT	.	_	5	punct	_	TokenRange=45:46
+
+# sent_id = 2
+# text = Will Codecademy delete customer data when requests?
+1	Will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=47:51
+2	Codecademy	Codecademy	PROPN	NNP	Number=Sing	3	nsubj	_	TokenRange=52:62
+3	delete	delete	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=63:69
+4	customer	customer	NOUN	NN	Number=Sing	5	compound	_	TokenRange=70:78
+5	data	data	NOUN	NN	Number=Sing	3	obj	_	TokenRange=79:83
+6	when	when	ADV	WRB	PronType=Int	7	advmod	_	TokenRange=84:88
+7	requests	request	NOUN	NNS	Number=Plur	3	advcl	_	SpaceAfter=No|TokenRange=89:97
+8	?	?	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=97:98
+
+# newpar
+# sent_id = 3
+# text = Codecademy maintains all customer data until we mark users as "non-active" or a customer deletes their own account.
+1	Codecademy	Codecademy	PROPN	NNP	Number=Sing	2	nsubj	_	TokenRange=100:110
+2	maintains	maintain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=111:120
+3	all	all	DET	DT	_	5	det	_	TokenRange=121:124
+4	customer	customer	NOUN	NN	Number=Sing	5	compound	_	TokenRange=125:133
+5	data	data	NOUN	NN	Number=Sing	2	obj	_	TokenRange=134:138
+6	until	until	SCONJ	IN	_	8	mark	_	TokenRange=139:144
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	TokenRange=145:147
+8	mark	mark	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	TokenRange=148:152
+9	users	user	NOUN	NNS	Number=Plur	8	obj	_	TokenRange=153:158
+10	as	as	SCONJ	IN	_	18	mark	_	TokenRange=159:161
+11	"	"	PUNCT	``	_	12	punct	_	SpaceAfter=No|TokenRange=162:163
+12	non-	non-	SYM	NFP	_	18	nsubj	_	SpaceAfter=No|TokenRange=163:167
+13	active	active	ADJ	JJ	Degree=Pos	12	amod	_	SpaceAfter=No|TokenRange=167:173
+14	"	"	PUNCT	''	_	13	punct	_	TokenRange=173:174
+15	or	or	CCONJ	CC	_	17	cc	_	TokenRange=175:177
+16	a	a	DET	DT	Definite=Ind|PronType=Art	17	det	_	TokenRange=178:179
+17	customer	customer	NOUN	NN	Number=Sing	13	conj	_	TokenRange=180:188
+18	deletes	delete	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	advcl	_	TokenRange=189:196
+19	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=197:202
+20	own	own	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=203:206
+21	account	account	NOUN	NN	Number=Sing	18	obj	_	SpaceAfter=No|TokenRange=207:214
+22	.	.	PUNCT	.	_	2	punct	_	TokenRange=214:215
+
+# sent_id = 4
+# text = User can delete their own accounts and data here.
+1	User	user	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=216:220
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=221:224
+3	delete	delete	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=225:231
+4	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=232:237
+5	own	own	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=238:241
+6	accounts	account	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=242:250
+7	and	and	CCONJ	CC	_	8	cc	_	TokenRange=251:254
+8	data	data	NOUN	NN	Number=Sing	6	conj	_	TokenRange=255:259
+9	here	here	ADV	RB	PronType=Dem	3	advmod	_	SpaceAfter=No|TokenRange=260:264
+10	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=264:265
+

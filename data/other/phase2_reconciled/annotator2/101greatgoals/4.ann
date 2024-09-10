@@ -1,0 +1,122 @@
+T1	Data-general 60 106	un-identified and non-identifiable information
+T2	User 123 127	User
+T3	collection-use 163 171	gathered
+E1	collection-use:T3 Data-Collector:T4 Data-Provider:T2 Data-Collected:T1
+T4	First-party-entity 198 206	Services
+T5	Data-general 237 261	Non-Personal Information
+T6	collection-use 277 286	collected
+E2	collection-use:T6 Data-Collected:T5 Data-Collected2:T16 Data-Collected4:T14 Data-Collected5:T13 Data-Collected7:T11 Data-Collected8:T10 Data-Collected9:T9 Data-Collected10:T8 Data-Collected11:T7 Data-Provider:T17
+T7	Data-general 299 320	technical information
+T8	ServiceConsumptionBehavior 325 353	aggregated usage information
+T9	DeviceOperatingSystem 403 419	operating system
+T10	Tracking 421 436	type of browser
+T11	DeviceBased 438 455	screen resolution
+T13	Language 457 486	browser and keyboard language
+T14	LinkClicked 492 544	User's 'click-stream' and activities on the Services
+T16	ServiceConsumptionBehavior 550 618	period of time the User visited the Services and related time stamps
+T17	User 396 402	User's
+T18	First-party-entity 845 847	we
+T19	collection-use 848 855	collect
+E3	collection-use:T19 Data-Collector:T18 Data-Provider:T20 Data-Collected:T26
+T20	User 870 873	you
+T22	ServiceOptimisation 910 951	enhance the functionality of the Services
+T23	OptimisationForConsumer 959 1000	provide you with a better user experience
+T26	Data-general 820 844	Non-Personal Information
+T21	DeviceBased 1013 1061	technical information transmitted by your device
+T28	DeviceBased 1073 1114	certain software and hardware information
+T29	Tracking 1125 1140	type of browser
+T30	DeviceOperatingSystem 1145 1161	operating system
+T31	Language 1180 1199	language preference
+T32	ServiceConsumptionBehavior 1201 1212	access time
+T33	BrowsingBehavior 1217 1285	the domain name of the website from which you linked to the Services
+T34	Identifier 1325 1353	anonymous online identifiers
+T35	Identifier 1363 1388	the Google Advertising ID
+T36	Identifier 1393 1401	the IDFA
+T37	DeviceBased 1460 1483	device's type and model
+T38	DeviceBased 1485 1500	system language
+T39	DeviceOperatingSystem 1502 1531	the device's operating system
+T40	DeviceBased 1558 1569	SDK version
+T41	Data-other 1571 1590	mobile carrier name
+T42	Tracking 1592 1631	mobile browsers installed on the device
+T43	BrowserHistory 1660 1671	app history
+T44	BrowsingBehavior 1676 1693	usage information
+T45	Data-other 1764 1836	information regarding downloads and installations of mobile applications
+T46	Data-other 1841 1880	any information regarding in-app events
+T47	Identifier 1913 1958	anonymous identifiers assigned to your device
+T48	Identifier 1972 2009	iOS Identifier for Advertising (IDFA)
+T49	Identifier 2011 2032	Google Advertising ID
+T50	Identifier 2037 2070	other types of device identifiers
+T24	Location 2129 2145	general location
+T25	IPAddress 2202 2212	IP address
+T27	Location 2414 2443	implicit location information
+T51	AdInteractionBehavior 2671 2728	information about the online ads and personalized content
+T52	First-party-entity 3112 3114	we
+T53	collection-use 3115 3122	collect
+E4	collection-use:T53 Data-Collector:T52 Data-Collected:T54 Data-Collected2:T60 Data-Collected3:T59 Data-Collected4:T56 Data-Collected5:T57 Data-Collected6:T58 Data-Collected7:T76 Data-Collected8:T75 Data-Collected9:T74 Data-Collected10:T73 Data-Collected11:T72 Data-Collected12:T71
+T54	ServiceConsumptionBehavior 3123 3165	information about your use of the Services
+T56	ServiceConsumptionBehavior 3175 3194	applications' usage
+T57	CallLog 3196 3205	log files
+T58	ServiceConsumptionBehavior 3207 3220	user activity
+T59	ServiceConsumptionBehavior 3342 3353	time stamps
+T60	ServiceConsumptionBehavior 3355 3361	alerts
+T61	Data-general 3373 3384	information
+T62	collection-use 3388 3397	collected
+E5	collection-use:T62 Data-Collected:T61 Data-Provider:T65 Purpose-Argument:T64 Purpose-Argument2:T63
+T63	ServiceOptimisation 3423 3454	troubleshooting errors and bugs
+T64	ResearchAndDevelopment 3470 3501	research and analytics purposes
+T65	User 3508 3512	your
+T66	collection-use 3611 3620	collected
+E6	collection-use:T66 Data-Collector:T67 Data-Provider:T69 Data-Collected:T104
+T67	First-party-entity 3563 3565	We
+T68	general-safeguard-method 3570 3610	anonymize or de-identify the information
+T69	User 3720 3723	you
+T71	BrowsingReferral 3227 3239	referral URL
+T72	BrowserHistory 3241 3253	pages viewed
+T73	BrowsingBehavior 3259 3299	amount of time spent on particular pages
+T74	BrowsingBehavior 3301 3316	online browsing
+T75	LinkClicked 3318 3324	clicks
+T76	BrowsingBehavior 3326 3333	actions
+T77	First-party-entity 2095 2097	we
+T78	collection-use 2098 2105	collect
+E7	collection-use:T78 Data-Collected:T24 Data-Collector:T77 Data-Provider:T79 Data-Collected3:T80 Data-Collected4:T81
+T79	User 2124 2128	your
+T80	City 2155 2159	city
+T81	Country 2164 2171	country
+T82	Purpose-other 2216 2246	identify your general location
+T83	First-party-entity 2398 2400	we
+T84	collection-use 2406 2413	collect
+E8	collection-use:T84 Data-Collector:T83 Data-Collected:T27 Purpose-Argument:T85 Data-Provider:T96
+T85	Purpose-other 2464 2545	infer that you are either interested in a place or that you might be at the place
+T86	AdInteractionBehavior 2800 2843	how many times an ad has been served to you
+T87	AdInteractionBehavior 2845 2873	what page the ad appeared on
+T88	AdInteractionBehavior 2875 2941	whether you viewed, clicked on or otherwise interacted with the ad
+T89	AdInteractionBehavior 2943 2964	ad engagement history
+T90	AdInteractionBehavior 2969 3079	whether you visited the advertiser's website, downloaded an app or purchased the product or service advertised
+T12	collection-use 1005 1012	collect
+E9	collection-use:T12 Purpose-Argument:T22 Purpose-Argument2:T23 Data-Collector:T15 Data-Provider:T91 Data-Collected:T21 Data-Collected2:T28 Data-Collected3:T29 Data-Collected4:T30 Data-Collected5:T31 Data-Collected6:T33 Data-Collected7:T32 Data-Collected8:T36 Data-Collected9:T35 Data-Collected10:T34
+T15	First-party-entity 1002 1004	we
+T91	User 967 970	you
+T92	collection-use 1446 1454	includes
+E10	collection-use:T92 Data-Collected:T50 Data-Collected2:T49 Data-Collected3:T48 Data-Collected4:T47 Data-Collected5:T46 Data-Provider:T93 Data-Collected6:T45 Data-Collected7:T44 Data-Collected8:T43 Data-Collected9:T42 Data-Collected10:T41 Data-Collected11:T40 Data-Collected12:T39 Data-Collected13:T38 Data-Collected14:T37
+T93	User 1455 1459	your
+T94	collection-use 2194 2197	use
+E11	collection-use:T94 Data-Collector:T95 Data-Collected:T25 Purpose-Argument:T82
+T95	First-party-entity 2187 2189	we
+T96	User 2475 2478	you
+T97	collection-use 2662 2670	includes
+E12	collection-use:T97 Data-Collected:T51 Data-Provider:T99 Data-Collector:T98 Data-Collected2:T90 Data-Collected3:T89 Data-Collected4:T88 Data-Collected5:T87 Data-Collected6:T86
+T98	First-party-entity 2729 2731	we
+T99	User 2771 2774	you
+T55	Data-general 3756 3795	aggregated or de-identified information
+T70	First-party-entity 3862 3864	we
+T100	third-party-sharing-disclosure 3869 3877	disclose
+E13	third-party-sharing-disclosure:T100 Purpose-Argument:T103 Purpose-Argument2:T102 Data-Receiver:T101 Data-Sharer:T70 Data-Shared:T55
+T101	Third-party-entity 3884 3890	others
+T102	Purpose-general 3918 3929	any purpose
+T103	Marketing 3943 3976	advertising or marketing purposes
+T107	derivation 2451 2469	allows us to infer
+E14	derivation:T107 Derived-From:T27 Purpose-Argument:T85 Data-Derived:T108
+T108	Data-general 2548 2564	this information
+R3	SUBSUME Arg1:T34 Arg2:T35	
+R4	SUBSUME Arg1:T34 Arg2:T36	
+T104	Data-general 3599 3610	information

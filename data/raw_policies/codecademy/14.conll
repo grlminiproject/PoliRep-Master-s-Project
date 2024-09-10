@@ -1,0 +1,47 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Where does Codecademy host customer data?
+1	Where	where	ADV	WRB	PronType=Int	2	advmod	_	TokenRange=0:5
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=6:10
+3	Codecademy	Codecademy	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=11:21
+4	host	host	NOUN	NN	Number=Sing	5	compound	_	TokenRange=22:26
+5	customer	customer	NOUN	NN	Number=Sing	6	compound	_	TokenRange=27:35
+6	data	data	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=36:40
+7	?	?	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=40:41
+
+# newpar
+# sent_id = 2
+# text = Looker-hosted instances are hosted in the Amazon Web Services cloud.
+1	Looker	Looker	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=43:49
+2	-	-	PUNCT	HYPH	_	1	punct	_	SpaceAfter=No|TokenRange=49:50
+3	hosted	hosted	VERB	VBN	Tense=Past|VerbForm=Part	4	amod	_	TokenRange=50:56
+4	instances	instance	NOUN	NNS	Number=Plur	1	obj	_	TokenRange=57:66
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	TokenRange=67:70
+6	hosted	host	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	conj	_	TokenRange=71:77
+7	in	in	ADP	IN	_	12	case	_	TokenRange=78:80
+8	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=81:84
+9	Amazon	Amazon	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=85:91
+10	Web	web	NOUN	NN	Number=Sing	11	compound	_	TokenRange=92:95
+11	Services	service	NOUN	NNS	Number=Plur	12	compound	_	TokenRange=96:104
+12	cloud	cloud	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=105:110
+13	.	.	PUNCT	.	_	1	punct	_	TokenRange=110:111
+
+# sent_id = 3
+# text = By default, Codecademy hosts in the Ohio and Virginia (US) regions.
+1	By	by	ADP	IN	_	2	case	_	TokenRange=112:114
+2	default	default	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No|TokenRange=115:122
+3	,	,	PUNCT	,	_	5	punct	_	TokenRange=122:123
+4	Codecademy	Codecademy	PROPN	NNP	Number=Sing	5	compound	_	TokenRange=124:134
+5	hosts	host	NOUN	NNS	Number=Plur	0	root	_	TokenRange=135:140
+6	in	in	ADP	IN	_	8	case	_	TokenRange=141:143
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=144:147
+8	Ohio	Ohio	PROPN	NNP	Number=Sing	5	nmod	_	TokenRange=148:152
+9	and	and	CCONJ	CC	_	10	cc	_	TokenRange=153:156
+10	Virginia	Virginia	PROPN	NNP	Number=Sing	8	conj	_	TokenRange=157:165
+11	(	(	PUNCT	-LRB-	_	14	punct	_	SpaceAfter=No|TokenRange=166:167
+12	US	US	PROPN	NNP	Number=Sing	14	compound	_	SpaceAfter=No|TokenRange=167:169
+13	)	)	PUNCT	-RRB-	_	14	punct	_	TokenRange=169:170
+14	regions	region	NOUN	NNS	Number=Plur	8	appos	_	SpaceAfter=No|TokenRange=171:178
+15	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|TokenRange=178:179
+

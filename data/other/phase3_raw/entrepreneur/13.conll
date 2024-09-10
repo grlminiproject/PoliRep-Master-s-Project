@@ -1,0 +1,88 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 14.
+1	14	14	NUM	CD	NumType=Card	0	root	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=2:3
+
+# sent_id = 2
+# text = Privacy Policy Revisions and Updates.
+1	Privacy	privacy	NOUN	NN	Number=Sing	2	compound	_	TokenRange=4:11
+2	Policy	policy	NOUN	NN	Number=Sing	3	compound	_	TokenRange=12:18
+3	Revisions	revision	NOUN	NNS	Number=Plur	0	root	_	TokenRange=19:28
+4	and	and	CCONJ	CC	_	5	cc	_	TokenRange=29:32
+5	Updates	updates	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=33:40
+6	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=40:41
+
+# newpar
+# sent_id = 3
+# text = Our Privacy Policy may be revised from time to time, in which case the Privacy Policy you view will be the most current version and the date of the latest such revision will be identified at the beginning of this Privacy Policy.
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=43:46
+2	Privacy	privacy	NOUN	NN	Number=Sing	3	compound	_	TokenRange=47:54
+3	Policy	policy	NOUN	NN	Number=Sing	6	nsubj:pass	_	TokenRange=55:61
+4	may	may	AUX	MD	VerbForm=Fin	6	aux	_	TokenRange=62:65
+5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	TokenRange=66:68
+6	revised	revise	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=69:76
+7	from	from	ADP	IN	_	8	case	_	TokenRange=77:81
+8	time	time	NOUN	NN	Number=Sing	6	obl	_	TokenRange=82:86
+9	to	to	ADP	IN	_	10	case	_	TokenRange=87:89
+10	time	time	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=90:94
+11	,	,	PUNCT	,	_	6	punct	_	TokenRange=94:95
+12	in	in	ADP	IN	_	14	case	_	TokenRange=96:98
+13	which	which	DET	WDT	PronType=Int	14	det	_	TokenRange=99:104
+14	case	case	NOUN	NN	Number=Sing	25	obl	_	TokenRange=105:109
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=110:113
+16	Privacy	privacy	NOUN	NN	Number=Sing	17	compound	_	TokenRange=114:121
+17	Policy	policy	NOUN	NN	Number=Sing	25	nsubj	_	TokenRange=122:128
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	19	nmod:poss	_	TokenRange=129:132
+19	view	view	NOUN	NN	Number=Sing	17	nsubj	_	TokenRange=133:137
+20	will	will	AUX	MD	VerbForm=Fin	25	aux	_	TokenRange=138:142
+21	be	be	AUX	VB	VerbForm=Inf	25	cop	_	TokenRange=143:145
+22	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	TokenRange=146:149
+23	most	most	ADV	RBS	_	24	advmod	_	TokenRange=150:154
+24	current	current	ADJ	JJ	Degree=Pos	25	amod	_	TokenRange=155:162
+25	version	version	NOUN	NN	Number=Sing	6	ccomp	_	TokenRange=163:170
+26	and	and	CCONJ	CC	_	28	cc	_	TokenRange=171:174
+27	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	TokenRange=175:178
+28	date	date	NOUN	NN	Number=Sing	25	conj	_	TokenRange=179:183
+29	of	of	ADP	IN	_	33	case	_	TokenRange=184:186
+30	the	the	DET	DT	Definite=Def|PronType=Art	33	det	_	TokenRange=187:190
+31	latest	latest	ADJ	JJS	Degree=Sup	33	amod	_	TokenRange=191:197
+32	such	such	ADJ	JJ	Degree=Pos	33	amod	_	TokenRange=198:202
+33	revision	revision	NOUN	NN	Number=Sing	28	nmod	_	TokenRange=203:211
+34	will	will	AUX	MD	VerbForm=Fin	36	aux	_	TokenRange=212:216
+35	be	be	AUX	VB	VerbForm=Inf	36	aux:pass	_	TokenRange=217:219
+36	identified	identify	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	conj	_	TokenRange=220:230
+37	at	at	ADP	IN	_	39	case	_	TokenRange=231:233
+38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	TokenRange=234:237
+39	beginning	beginning	NOUN	NN	Number=Sing	36	obl	_	TokenRange=238:247
+40	of	of	ADP	IN	_	43	case	_	TokenRange=248:250
+41	this	this	DET	DT	Number=Sing|PronType=Dem	43	det	_	TokenRange=251:255
+42	Privacy	privacy	NOUN	NN	Number=Sing	43	compound	_	TokenRange=256:263
+43	Policy	policy	NOUN	NN	Number=Sing	39	nmod	_	SpaceAfter=No|TokenRange=264:270
+44	.	.	PUNCT	.	_	6	punct	_	TokenRange=270:271
+
+# sent_id = 4
+# text = We will provide you with 30 days’ notice of any substantial changes to the terms of this Privacy Policy.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=272:274
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=275:279
+3	provide	provide	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=280:287
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	TokenRange=288:291
+5	with	with	ADP	IN	_	9	case	_	TokenRange=292:296
+6	30	30	NUM	CD	NumType=Card	7	nummod	_	TokenRange=297:299
+7	days	day	NOUN	NNS	Number=Plur	9	nmod:poss	_	SpaceAfter=No|TokenRange=300:304
+8	’	's	PART	POS	_	7	case	_	TokenRange=304:305
+9	notice	notice	NOUN	NN	Number=Sing	3	obl	_	TokenRange=306:312
+10	of	of	ADP	IN	_	13	case	_	TokenRange=313:315
+11	any	any	DET	DT	_	13	det	_	TokenRange=316:319
+12	substantial	substantial	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=320:331
+13	changes	change	NOUN	NNS	Number=Plur	9	nmod	_	TokenRange=332:339
+14	to	to	ADP	IN	_	16	case	_	TokenRange=340:342
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=343:346
+16	terms	term	NOUN	NNS	Number=Plur	13	nmod	_	TokenRange=347:352
+17	of	of	ADP	IN	_	20	case	_	TokenRange=353:355
+18	this	this	DET	DT	Number=Sing|PronType=Dem	20	det	_	TokenRange=356:360
+19	Privacy	privacy	NOUN	NN	Number=Sing	20	compound	_	TokenRange=361:368
+20	Policy	policy	NOUN	NN	Number=Sing	16	nmod	_	SpaceAfter=No|TokenRange=369:375
+21	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=375:376
+

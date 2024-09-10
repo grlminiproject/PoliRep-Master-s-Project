@@ -1,0 +1,46 @@
+T1	First-party-entity 28 30	We
+T2	Third-party-entity 45 65	third party partners
+T3	first-party-collection-use 70 77	collect
+E1	first-party-collection-use:T3 Data-Collected:T6 Data-Collected2:T5 Data-Provider:T4 Data-Provider2:T2 Data-Collector:T1 Data-Collected3:T35 Data-Collected4:T41
+T4	User 86 90	your
+T5	Data-general 91 102	information
+T6	Data-cookies-web-beacons-and-other-technologies 135 142	Cookies
+T7	Personalization-customization 224 275	provide more tailored services and user experiences
+T8	Basic-service-feature 302 335	remembering your account identity
+T9	Service-operation-and-security 339 372	analyzing your account’s security
+T10	Analytics-research 374 421	analyzing your usage of our product and service
+T11	Adverstising-Marketing 423 571	advertisement optimization (helping us to provide you with more targeted advertisements instead of general advertisements based on your information)
+T12	First-party-entity 196 198	We
+T13	Data-cookies-web-beacons-and-other-technologies 208 220	technologies
+T14	first-party-collection-use 199 202	use
+E2	first-party-collection-use:T14 Purpose-Argument:T11 Purpose-Argument2:T10 Purpose-Argument3:T9 Purpose-Argument4:T8 Purpose-Argument5:T7 Data-Collected:T13 Data-Collector:T12
+T15	First-party-entity 573 575	We
+T16	first-party-collection-use 585 592	process
+E3	first-party-collection-use:T16 Purpose-Argument:T21 Purpose-Argument2:T20 Data-Collected:T17 Data-Collector:T15 Data-Collected2:T36
+T17	Data-aggregated-nonidentifiable 611 628	non-personal data
+T18	Third-party-entity 687 698	advertisers
+T19	Third-party-entity 702 716	other partners
+T20	Analytics-research 731 765	analyze how users use our services
+T21	Adverstising-Marketing 774 795	advertisement purpose
+T22	first-party-collection-use 928 935	collect
+E4	first-party-collection-use:T22 Data-Collected:T23 Data-Provider:T24 Purpose-Argument:T25 Purpose-Argument2:T27 Purpose-Argument3:T26 Data-Collected2:T38
+T23	Data-aggregated-nonidentifiable 940 962	non-person information
+T24	User 974 977	you
+T25	Analytics-research 997 1033	analyzing how users use the services
+T26	Adverstising-Marketing 1038 1098	sending to you the advertisements you might find interest in
+T27	Adverstising-Marketing 1103 1147	evaluating the effects of the advertisements
+T28	Data-general 1176 1187	information
+T29	first-party-collection-use 1149 1159	Collection
+E5	first-party-collection-use:T29 Data-Collector:T34 Condition-Argument2:T32 Condition-Argument3:T31 Data-Provider:T30 Data-Collected:T28 Data-Collected2:T39 Data-Provider2:T40
+T30	Third-party-entity 1192 1203	third party
+T31	Condition 1224 1265	will not be subject to our Privacy Policy
+T32	Condition 1271 1342	will be subject to third-party privacy policies applicable to the users
+T34	First-party-entity 1348 1350	we
+T35	Data-cookies-web-beacons-and-other-technologies 107 126	tracking technology
+T36	Data-cookies-web-beacons-and-other-technologies 643 662	tracking technology
+T37	third-party-sharing-disclosure 667 674	provide
+E6	third-party-sharing-disclosure:T37 Data-Shared:T36 Data-Shared2:T17 Data-Receiver:T18 Data-Receiver2:T19 Purpose-Argument:T20 Purpose-Argument2:T21
+T38	Data-cookies-web-beacons-and-other-technologies 904 923	tracking technology
+T39	Data-cookies-web-beacons-and-other-technologies 1204 1223	tracking technology
+T40	User 1337 1342	users
+T41	Data-user-online-activities-profiles 179 194	log information

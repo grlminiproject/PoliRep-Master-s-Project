@@ -1,0 +1,23 @@
+T1	Condition 38 94	you have registered with an account through our Services
+T2	First-party-entity 100 107	Company
+T3	data-storage-retention-deletion 113 119	retain
+E1	data-storage-retention-deletion:T3 Retention-Period:T6 Data-Retained:T5 Data-Holder:T2 Condition-Argument:T1 Data-Provider2:T19
+T5	Data-general 125 145	Personal Information
+T6	retention-period 153 186	the period your account is active
+T7	First-party-entity 205 212	Company
+T8	data-storage-retention-deletion 218 224	retain
+E2	data-storage-retention-deletion:T8 Data-Holder:T7 Data-Provider:T9 Data-Retained:T10 Retention-Period:T11 Purpose-Argument:T12
+T9	User 225 229	your
+T10	Data-general 230 243	Personal Data
+T11	retention-period 248 266	additional periods
+T12	LegalCompliance 293 459	meet its legal obligations under applicable laws or regulations, such as the applicable gambling regulations, Know-Your-Customer and Anti-Money Laundering regulations
+T13	First-party-entity 478 485	Company
+T14	data-storage-retention-deletion 490 496	retain
+E3	data-storage-retention-deletion:T14 Data-Holder:T13 Data-Provider:T15 Data-Retained:T16 Retention-Period:T17 Purpose-Argument:T20 Purpose-Argument2:T4 Purpose-Argument3:T18
+T15	User 497 501	your
+T16	Data-general 502 522	Personal Information
+T17	retention-period 527 541	longer periods
+T18	OrganisationRiskManagement 557 635	retaining such information is necessary for the Company's legitimate interests
+T19	User 38 41	you
+T4	FraudPreventionAndDetection 645 661	fraud prevention
+T20	RecordManagement 666 680	record keeping

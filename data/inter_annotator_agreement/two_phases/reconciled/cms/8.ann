@@ -1,0 +1,46 @@
+T1	third-party-sharing-disclosure 520 525	share
+E1	third-party-sharing-disclosure:T1 Data-Receiver:T5 Data-Receiver2:T7 Data-Receiver3:T6 Data-Shared:T4 Data-Provider:T2
+T2	User 499 513	Users of TPWAs
+T4	Data-general 526 537	information
+T5	Third-party-entity 590 601	third party
+T6	Third-party-entity 547 561	general public
+T7	Third-party-entity 563 577	user community
+T8	Third-party-entity 631 637	actors
+T9	collection-use 642 645	use
+E2	collection-use:T9 Data-Collected:T10 Data-Provider:T8
+T10	Data-general 651 662	information
+T11	collection-use 877 884	collect
+E3	collection-use:T11 Data-Collector:T15 Condition-Argument:T14 Data-Collected:T13 Data-Provider:T12
+T12	User 893 897	your
+T13	Identifying 898 901	PII
+T14	Condition 905 955	you made it available through third-party websites
+T15	First-party-entity 855 858	CMS
+T16	First-party-entity 966 968	we
+T17	Negation 972 975	not
+T18	third-party-sharing-disclosure 976 981	share
+E4	third-party-sharing-disclosure:T18 Condition-Argument:T20 Data-Shared:T19 Polarity:T17 Data-Sharer:T16
+T19	Identifying 982 985	PII
+T20	Condition 986 1029	made available through third-party websites
+T21	Condition 1287 1384	you have an account with a third-party website and choose to “like,” “friend,” follow, or comment
+T23	Identifying 1394 1397	PII
+T24	User 1287 1290	you
+T25	Third-party-entity 1314 1325	third-party
+T26	third-party-sharing-disclosure 1439 1448	available
+E5	third-party-sharing-disclosure:T26 Data-Sharer:T27 Condition-Argument2:T28 Data-Shared:T23 Data-Receiver:T25 Condition-Argument4:T21 Data-Provider:T24
+T27	First-party-entity 1452 1455	CMS
+T28	Condition 1465 1565	based on the privacy policy of the third-party website and your privacy settings within that website
+T30	First-party-entity 1645 1647	We
+T31	collection-use 1653 1660	collect
+E6	collection-use:T31 Data-Collected:T33 Data-Collected2:T32 Data-Collector:T30
+T32	Data-other 1661 1700	non-personally identifiable information
+T33	Tracking 1720 1735	tracking pixels
+T34	First-party-entity 2003 2005	We
+T35	collection-use 2006 2009	use
+E7	collection-use:T35 Purpose-Argument:T37 Data-Collected:T36 Data-Collector:T34
+T36	Tracking 2010 2025	tracking pixels
+T37	ServiceUsageAnalytics 2029 2130	tell when an advertisement we run on another website has been clicked on or otherwise interacted with
+T38	First-party-entity 2132 2134	We
+T39	collection-use 2135 2138	use
+E8	collection-use:T39 Purpose-Argument:T41 Data-Collected:T40 Data-Collector:T38
+T40	Data-general 2144 2155	information
+T41	ResearchAndDevelopment 2159 2213	judge which advertisements are more appealing to users

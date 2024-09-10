@@ -1,0 +1,20 @@
+T1	collection-use 542 549	collect
+E1	collection-use:T1 Data-Collected:T2 Data-Collector:T3
+T2	BrowsingBehavior 555 605	information about your browser's visit to the site
+T3	First-party-entity 529 532	CMS
+T5	Negation 615 618	not
+T6	collection-use 619 626	collect
+E2	collection-use:T6 Data-Provider:T8 Data-Collected:T7 Polarity:T5 Data-Collected2:T15
+T7	Data-general 627 647	personal information
+T8	User 654 657	you
+T4	First-party-entity 949 951	We
+T9	collection-use 952 955	use
+E3	collection-use:T9 Purpose-Argument:T11 Purpose-Argument2:T12 Data-Collector:T4
+T11	TechnicalServiceProvision 976 994	technical purposes
+T12	ServiceOptimisation 1006 1046	allow better navigation through our site
+T13	First-party-entity 1360 1362	We
+T14	collection-use 1363 1366	use
+E4	collection-use:T14 Purpose-Argument:T17 Data-Collector:T13
+T17	ImproveInternalCRMProcesses 1389 1462	understand the differences between new and returning CMS website visitors
+T15	Tracking 607 611	They
+#1	AnnotatorNotes T2	Potentially browser history.

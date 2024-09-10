@@ -1,0 +1,37 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Rectification
+1	Rectification	Rectification	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:13
+
+# newpar
+# sent_id = 2
+# text = You can ask us to rectify inaccurate personal data.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=15:18
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=19:22
+3	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=23:26
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	TokenRange=27:29
+5	to	to	PART	TO	_	6	mark	_	TokenRange=30:32
+6	rectify	rectify	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=33:40
+7	inaccurate	inaccurate	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=41:51
+8	personal	personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=52:60
+9	data	data	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=61:65
+10	.	.	PUNCT	.	_	3	punct	_	TokenRange=65:66
+
+# sent_id = 3
+# text = We may seek to verify the accuracy of the data before rectifying it.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=67:69
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=70:73
+3	seek	seek	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=74:78
+4	to	to	PART	TO	_	5	mark	_	TokenRange=79:81
+5	verify	verify	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=82:88
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=89:92
+7	accuracy	accuracy	NOUN	NN	Number=Sing	5	obj	_	TokenRange=93:101
+8	of	of	ADP	IN	_	10	case	_	TokenRange=102:104
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=105:108
+10	data	data	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=109:113
+11	before	before	SCONJ	IN	_	12	mark	_	TokenRange=114:120
+12	rectifying	rectify	VERB	VBG	VerbForm=Ger	5	advcl	_	TokenRange=121:131
+13	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	12	obj	_	SpaceAfter=No|TokenRange=132:134
+14	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=134:135
+

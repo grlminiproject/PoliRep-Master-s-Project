@@ -1,0 +1,562 @@
+{
+  "text": "How long does Codecademy retain Customer Data? Will Codecademy delete customer data when requests?\n\nCodecademy maintains all customer data until we mark users as \"non-active\" or a customer deletes their own account. User can delete their own accounts and data here.\n\n",
+  "words": [
+    "How",
+    "long",
+    "does",
+    "Codecademy",
+    "retain",
+    "Customer",
+    "Data",
+    "?",
+    "Will",
+    "Codecademy",
+    "delete",
+    "customer",
+    "data",
+    "when",
+    "requests",
+    "?",
+    "Codecademy",
+    "maintains",
+    "all",
+    "customer",
+    "data",
+    "until",
+    "we",
+    "mark",
+    "users",
+    "as",
+    "\"",
+    "non-",
+    "active",
+    "\"",
+    "or",
+    "a",
+    "customer",
+    "deletes",
+    "their",
+    "own",
+    "account",
+    ".",
+    "User",
+    "can",
+    "delete",
+    "their",
+    "own",
+    "accounts",
+    "and",
+    "data",
+    "here",
+    "."
+  ],
+  "lemma": [
+    "how",
+    "long",
+    "do",
+    "Codecademy",
+    "retain",
+    "customer",
+    "data",
+    "?",
+    "will",
+    "Codecademy",
+    "delete",
+    "customer",
+    "data",
+    "when",
+    "request",
+    "?",
+    "Codecademy",
+    "maintain",
+    "all",
+    "customer",
+    "data",
+    "until",
+    "we",
+    "mark",
+    "user",
+    "as",
+    "\"",
+    "non-",
+    "active",
+    "\"",
+    "or",
+    "a",
+    "customer",
+    "delete",
+    "they",
+    "own",
+    "account",
+    ".",
+    "user",
+    "can",
+    "delete",
+    "they",
+    "own",
+    "account",
+    "and",
+    "data",
+    "here",
+    "."
+  ],
+  "pos-tags": [
+    "WRB",
+    "RB",
+    "VBZ",
+    "NNP",
+    "VB",
+    "NN",
+    "NN",
+    ".",
+    "MD",
+    "NNP",
+    "VB",
+    "NN",
+    "NN",
+    "WRB",
+    "NNS",
+    ".",
+    "NNP",
+    "VBZ",
+    "DT",
+    "NN",
+    "NN",
+    "IN",
+    "PRP",
+    "VBP",
+    "NNS",
+    "IN",
+    "``",
+    "NFP",
+    "JJ",
+    "''",
+    "CC",
+    "DT",
+    "NN",
+    "VBZ",
+    "PRP$",
+    "JJ",
+    "NN",
+    ".",
+    "NN",
+    "MD",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NNS",
+    "CC",
+    "NN",
+    "RB",
+    "."
+  ],
+  "dependency-relation": [
+    "advmod",
+    "advmod",
+    "aux",
+    "nsubj",
+    "root",
+    "compound",
+    "obj",
+    "punct",
+    "aux",
+    "nsubj",
+    "root",
+    "compound",
+    "obj",
+    "advmod",
+    "advcl",
+    "punct",
+    "nsubj",
+    "root",
+    "det",
+    "compound",
+    "obj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "obj",
+    "mark",
+    "punct",
+    "nsubj",
+    "amod",
+    "punct",
+    "cc",
+    "det",
+    "conj",
+    "advcl",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "cc",
+    "conj",
+    "advmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      8
+    ],
+    [
+      9,
+      13
+    ],
+    [
+      14,
+      24
+    ],
+    [
+      25,
+      31
+    ],
+    [
+      32,
+      40
+    ],
+    [
+      41,
+      45
+    ],
+    [
+      45,
+      46
+    ],
+    [
+      47,
+      51
+    ],
+    [
+      52,
+      62
+    ],
+    [
+      63,
+      69
+    ],
+    [
+      70,
+      78
+    ],
+    [
+      79,
+      83
+    ],
+    [
+      84,
+      88
+    ],
+    [
+      89,
+      97
+    ],
+    [
+      97,
+      98
+    ],
+    [
+      100,
+      110
+    ],
+    [
+      111,
+      120
+    ],
+    [
+      121,
+      124
+    ],
+    [
+      125,
+      133
+    ],
+    [
+      134,
+      138
+    ],
+    [
+      139,
+      144
+    ],
+    [
+      145,
+      147
+    ],
+    [
+      148,
+      152
+    ],
+    [
+      153,
+      158
+    ],
+    [
+      159,
+      161
+    ],
+    [
+      162,
+      163
+    ],
+    [
+      163,
+      167
+    ],
+    [
+      167,
+      173
+    ],
+    [
+      173,
+      174
+    ],
+    [
+      175,
+      177
+    ],
+    [
+      178,
+      179
+    ],
+    [
+      180,
+      188
+    ],
+    [
+      189,
+      196
+    ],
+    [
+      197,
+      202
+    ],
+    [
+      203,
+      206
+    ],
+    [
+      207,
+      214
+    ],
+    [
+      214,
+      215
+    ],
+    [
+      216,
+      220
+    ],
+    [
+      221,
+      224
+    ],
+    [
+      225,
+      231
+    ],
+    [
+      232,
+      237
+    ],
+    [
+      238,
+      241
+    ],
+    [
+      242,
+      250
+    ],
+    [
+      251,
+      254
+    ],
+    [
+      255,
+      259
+    ],
+    [
+      260,
+      264
+    ],
+    [
+      264,
+      265
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      7
+    ],
+    [
+      8,
+      15
+    ],
+    [
+      16,
+      37
+    ],
+    [
+      38,
+      47
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Codecademy",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 100,
+      "end_idx": 110,
+      "tokens": [
+        "Codecademy"
+      ],
+      "token_idx": [
+        16
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 134,
+      "end_idx": 138,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        20
+      ]
+    },
+    {
+      "entity/argument_text": "until we mark users as \"non-active\"",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T4",
+      "start_idx": 139,
+      "end_idx": 174,
+      "tokens": [
+        "until",
+        "we",
+        "mark",
+        "users",
+        "as",
+        "\"",
+        "non-",
+        "active",
+        "\""
+      ],
+      "token_idx": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27,
+        28,
+        29
+      ]
+    },
+    {
+      "entity/argument_text": "a customer deletes their own account",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T5",
+      "start_idx": 178,
+      "end_idx": 214,
+      "tokens": [
+        "a",
+        "customer",
+        "deletes",
+        "their",
+        "own",
+        "account"
+      ],
+      "token_idx": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36
+      ]
+    },
+    {
+      "entity/argument_text": "customer",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T6",
+      "start_idx": 125,
+      "end_idx": 133,
+      "tokens": [
+        "customer"
+      ],
+      "token_idx": [
+        19
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "maintains",
+        "start_idx": 111,
+        "end_idx": 120,
+        "tokens": [
+          "maintains"
+        ],
+        "token_idx": [
+          17
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Retention-Period",
+          "type": "retention-period",
+          "text": "a customer deletes their own account",
+          "start_idx": 178,
+          "end_idx": 214
+        },
+        {
+          "role": "Retention-Period2",
+          "type": "retention-period",
+          "text": "until we mark users as \"non-active\"",
+          "start_idx": 139,
+          "end_idx": 174
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 134,
+          "end_idx": 138
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "Codecademy",
+          "start_idx": 100,
+          "end_idx": 110
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "customer",
+          "start_idx": 125,
+          "end_idx": 133
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

@@ -1,0 +1,155 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = OUR POLICY REGARDING CHILDREN
+1	OUR	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:3
+2	POLICY	policy	NOUN	NN	Number=Sing	0	root	_	TokenRange=4:10
+3	REGARDING	regard	PROPN	NNP	Number=Sing	2	appos	_	TokenRange=11:20
+4	CHILDREN	child	PROPN	NNP	Number=Sing	3	flat	_	SpacesAfter=\n\n|TokenRange=21:29
+
+# newpar
+# sent_id = 2
+# text = We do not knowingly collect or solicit personal information from or direct or target interest based advertising to anyone under the age of 13 or knowingly allow such persons to use our Service.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=31:33
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=34:36
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=37:40
+4	knowingly	knowingly	ADV	RB	_	5	advmod	_	TokenRange=41:50
+5	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=51:58
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=59:61
+7	solicit	solicit	VERB	VB	VerbForm=Inf	5	conj	_	TokenRange=62:69
+8	personal	personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=70:78
+9	information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=79:90
+10	from	from	ADP	IN	_	17	case	_	TokenRange=91:95
+11	or	or	CCONJ	CC	_	12	cc	_	TokenRange=96:98
+12	direct	direct	NOUN	NN	Number=Sing	10	conj	_	TokenRange=99:105
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=106:108
+14	target	target	NOUN	NN	Number=Sing	10	conj	_	TokenRange=109:115
+15	interest	interest	NOUN	NN	Number=Sing	16	compound	_	TokenRange=116:124
+16	based	base	VERB	VBN	Tense=Past|VerbForm=Part	17	amod	_	TokenRange=125:130
+17	advertising	advertising	NOUN	NN	Number=Sing	5	obl	_	TokenRange=131:142
+18	to	to	ADP	IN	_	19	case	_	TokenRange=143:145
+19	anyone	anyone	PRON	NN	Number=Sing	17	nmod	_	TokenRange=146:152
+20	under	under	ADP	IN	_	22	case	_	TokenRange=153:158
+21	the	the	DET	DT	Definite=Def|PronType=Art	22	det	_	TokenRange=159:162
+22	age	age	NOUN	NN	Number=Sing	19	nmod	_	TokenRange=163:166
+23	of	of	ADP	IN	_	24	case	_	TokenRange=167:169
+24	13	13	NUM	CD	NumType=Card	22	nmod	_	TokenRange=170:172
+25	or	or	CCONJ	CC	_	26	cc	_	TokenRange=173:175
+26	knowingly	knowingly	ADV	RB	_	19	conj	_	TokenRange=176:185
+27	allow	allow	VERB	VB	VerbForm=Inf	19	acl	_	TokenRange=186:191
+28	such	such	ADJ	JJ	Degree=Pos	29	amod	_	TokenRange=192:196
+29	persons	person	NOUN	NNS	Number=Plur	27	obj	_	TokenRange=197:204
+30	to	to	PART	TO	_	31	mark	_	TokenRange=205:207
+31	use	use	VERB	VB	VerbForm=Inf	29	acl	_	TokenRange=208:211
+32	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	TokenRange=212:215
+33	Service	service	NOUN	NN	Number=Sing	31	obj	_	SpaceAfter=No|TokenRange=216:223
+34	.	.	PUNCT	.	_	5	punct	_	TokenRange=223:224
+
+# sent_id = 3
+# text = If you are under 13, please do not send any information about yourself to us, including your name, address, telephone number, or email address.
+1	If	if	SCONJ	IN	_	5	mark	_	TokenRange=225:227
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=228:231
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	cop	_	TokenRange=232:235
+4	under	under	ADP	IN	_	5	advmod	_	TokenRange=236:241
+5	13	13	NUM	CD	NumType=Card	10	advcl	_	SpaceAfter=No|TokenRange=242:244
+6	,	,	PUNCT	,	_	10	punct	_	TokenRange=244:245
+7	please	please	INTJ	UH	_	10	discourse	_	TokenRange=246:252
+8	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	TokenRange=253:255
+9	not	not	PART	RB	_	10	advmod	_	TokenRange=256:259
+10	send	send	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=260:264
+11	any	any	DET	DT	_	12	det	_	TokenRange=265:268
+12	information	information	NOUN	NN	Number=Sing	10	obj	_	TokenRange=269:280
+13	about	about	ADP	IN	_	14	case	_	TokenRange=281:286
+14	yourself	yourself	PRON	PRP	Case=Acc|Number=Sing|Person=2|PronType=Prs|Reflex=Yes	12	nmod	_	TokenRange=287:295
+15	to	to	ADP	IN	_	16	case	_	TokenRange=296:298
+16	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	10	obl	_	SpaceAfter=No|TokenRange=299:301
+17	,	,	PUNCT	,	_	10	punct	_	TokenRange=301:302
+18	including	include	VERB	VBG	VerbForm=Ger	20	case	_	TokenRange=303:312
+19	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	20	nmod:poss	_	TokenRange=313:317
+20	name	name	NOUN	NN	Number=Sing	10	obj	_	SpaceAfter=No|TokenRange=318:322
+21	,	,	PUNCT	,	_	22	punct	_	TokenRange=322:323
+22	address	address	NOUN	NN	Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=324:331
+23	,	,	PUNCT	,	_	25	punct	_	TokenRange=331:332
+24	telephone	telephone	NOUN	NN	Number=Sing	25	compound	_	TokenRange=333:342
+25	number	number	NOUN	NN	Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=343:349
+26	,	,	PUNCT	,	_	29	punct	_	TokenRange=349:350
+27	or	or	CCONJ	CC	_	29	cc	_	TokenRange=351:353
+28	email	email	NOUN	NN	Number=Sing	29	compound	_	TokenRange=354:359
+29	address	address	NOUN	NN	Number=Sing	20	conj	_	SpaceAfter=No|TokenRange=360:367
+30	.	.	PUNCT	.	_	10	punct	_	TokenRange=367:368
+
+# sent_id = 4
+# text = No one under the age of 13 may provide any personal information.
+1	No	no	DET	DT	_	2	det	_	TokenRange=369:371
+2	one	one	NOUN	NN	Number=Sing	9	nsubj	_	TokenRange=372:375
+3	under	under	ADP	IN	_	5	case	_	TokenRange=376:381
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=382:385
+5	age	age	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=386:389
+6	of	of	ADP	IN	_	7	case	_	TokenRange=390:392
+7	13	13	NUM	CD	NumType=Card	5	nmod	_	TokenRange=393:395
+8	may	may	AUX	MD	VerbForm=Fin	9	aux	_	TokenRange=396:399
+9	provide	provide	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=400:407
+10	any	any	DET	DT	_	12	det	_	TokenRange=408:411
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=412:420
+12	information	information	NOUN	NN	Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=421:432
+13	.	.	PUNCT	.	_	9	punct	_	TokenRange=432:433
+
+# sent_id = 5
+# text = In the event that we learn that we have collected personal information from a child under age 13, we will delete that information as quickly as possible.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=434:436
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=437:440
+3	event	event	NOUN	NN	Number=Sing	22	obl	_	TokenRange=441:446
+4	that	that	PRON	WDT	PronType=Rel	6	obj	_	TokenRange=447:451
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=452:454
+6	learn	learn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	TokenRange=455:460
+7	that	that	SCONJ	IN	_	10	mark	_	TokenRange=461:465
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	TokenRange=466:468
+9	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	TokenRange=469:473
+10	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	TokenRange=474:483
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=484:492
+12	information	information	NOUN	NN	Number=Sing	10	obj	_	TokenRange=493:504
+13	from	from	ADP	IN	_	15	case	_	TokenRange=505:509
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	TokenRange=510:511
+15	child	child	NOUN	NN	Number=Sing	10	obl	_	TokenRange=512:517
+16	under	under	ADP	IN	_	17	case	_	TokenRange=518:523
+17	age	age	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=524:527
+18	13	13	NUM	CD	NumType=Card	15	nummod	_	SpaceAfter=No|TokenRange=528:530
+19	,	,	PUNCT	,	_	22	punct	_	TokenRange=530:531
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	_	TokenRange=532:534
+21	will	will	AUX	MD	VerbForm=Fin	22	aux	_	TokenRange=535:539
+22	delete	delete	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=540:546
+23	that	that	DET	DT	Number=Sing|PronType=Dem	24	det	_	TokenRange=547:551
+24	information	information	NOUN	NN	Number=Sing	22	obj	_	TokenRange=552:563
+25	as	as	ADV	RB	_	26	advmod	_	TokenRange=564:566
+26	quickly	quickly	ADV	RB	_	22	advmod	_	TokenRange=567:574
+27	as	as	SCONJ	IN	_	28	mark	_	TokenRange=575:577
+28	possible	possible	ADJ	JJ	Degree=Pos	22	advcl	_	SpaceAfter=No|TokenRange=578:586
+29	.	.	PUNCT	.	_	22	punct	_	TokenRange=586:587
+
+# sent_id = 6
+# text = If you believe that we might have any information from or about a child under the age of 13, please contact us.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=588:590
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=591:594
+3	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	advcl	_	TokenRange=595:602
+4	that	that	SCONJ	IN	_	7	mark	_	TokenRange=603:607
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TokenRange=608:610
+6	might	might	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=611:616
+7	have	have	VERB	VB	VerbForm=Inf	3	ccomp	_	TokenRange=617:621
+8	any	any	DET	DT	_	9	det	_	TokenRange=622:625
+9	information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=626:637
+10	from	from	ADP	IN	_	14	case	_	TokenRange=638:642
+11	or	or	CCONJ	CC	_	12	cc	_	TokenRange=643:645
+12	about	about	ADP	IN	_	10	conj	_	TokenRange=646:651
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	TokenRange=652:653
+14	child	child	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=654:659
+15	under	under	ADP	IN	_	17	case	_	TokenRange=660:665
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=666:669
+17	age	age	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=670:673
+18	of	of	ADP	IN	_	19	case	_	TokenRange=674:676
+19	13	13	NUM	CD	NumType=Card	17	nmod	_	SpaceAfter=No|TokenRange=677:679
+20	,	,	PUNCT	,	_	22	punct	_	TokenRange=679:680
+21	please	please	INTJ	UH	_	22	discourse	_	TokenRange=681:687
+22	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=688:695
+23	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	22	obj	_	SpaceAfter=No|TokenRange=696:698
+24	.	.	PUNCT	.	_	22	punct	_	SpacesAfter=\n\n|TokenRange=698:699
+

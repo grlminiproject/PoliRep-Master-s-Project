@@ -1,0 +1,7 @@
+T1	first-party-collection-use 87 94	collect
+E1	first-party-collection-use:T1 Purpose-Argument:T5 Data-Collector:T4 Data-Collected:T2 Data-Provider:T3 Condition-Argument:T6
+T2	Data-general 95 115	Personal Information
+T3	User 116 119	you
+T4	First-party-entity 80 82	we
+T5	Basic-service-feature 59 78	operate the Service
+T6	Condition 116 140	you choose to provide us

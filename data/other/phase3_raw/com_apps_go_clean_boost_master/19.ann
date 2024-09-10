@@ -1,0 +1,28 @@
+T1	First-party-entity 44 46	We
+T2	data-storage-retention-deletion 52 58	retain
+E1	data-storage-retention-deletion:T2 Retention-Period:T5 Data-Retained:T4 Data-Provider:T3 Data-Holder:T1 Purpose-Argument:T11
+T3	User 59 63	your
+T4	Data-general 64 77	personal data
+T5	retention-period 82 116	as long as is reasonably necessary
+T6	data-storage-retention-deletion 223 229	retain
+E2	data-storage-retention-deletion:T6 Purpose-Argument:T12 Retention-Period:T10 Data-Retained:T9 Data-Provider:T8 Data-Holder:T7
+T7	First-party-entity 216 218	we
+T8	User 230 234	your
+T9	Data-general 235 248	personal data
+T10	retention-period 253 275	longer periods of time
+T12	Legal-requirement 295 377	we are required to do so to meet legal, regulatory, tax or accounting requirements
+T13	First-party-entity 405 407	we
+T14	data-storage-retention-deletion 417 423	retain
+E3	data-storage-retention-deletion:T14 Purpose-Argument:T19 Purpose-Argument2:T18 Retention-Period:T17 Data-Retained:T16 Data-Provider:T15 Data-Holder:T13
+T15	User 424 428	your
+T16	Data-general 429 442	personal data
+T17	retention-period 447 469	longer periods of time
+T18	Basic-service-feature 478 574	we have an accurate record of your dealings with us in the event of any complaints or challenges
+T19	Legal-requirement 582 685	we reasonably believe there is a possibility of legal action relating to your personal data or dealings
+T20	data-storage-retention-deletion 771 778	deleted
+E4	data-storage-retention-deletion:T20 Data-Holder:T23 Condition-Argument:T21 Data-Provider:T22 Data-Retained:T24
+T21	Condition 693 733	your personal data is no longer required
+T22	User 693 697	your
+T23	First-party-entity 734 736	we
+T24	Data-general 698 711	personal data
+T11	Other 121 192	the purposes listed in Section 4 and relevant Appendixes of this Policy

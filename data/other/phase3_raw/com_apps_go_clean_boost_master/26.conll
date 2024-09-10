@@ -1,0 +1,79 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Objection
+1	Objection	objection	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:9
+
+# newpar
+# sent_id = 2
+# text = You can object to any processing of your personal data which has our legitimate interests as its legal basis (see Section 4 or contact us for further details), if you believe your fundamental rights and freedoms outweigh our legitimate interests.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=11:14
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=15:18
+3	object	object	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=19:25
+4	to	to	ADP	IN	_	6	case	_	TokenRange=26:28
+5	any	any	DET	DT	_	6	det	_	TokenRange=29:32
+6	processing	processing	NOUN	NN	Number=Sing	3	obl	_	TokenRange=33:43
+7	of	of	ADP	IN	_	10	case	_	TokenRange=44:46
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=47:51
+9	personal	personal	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=52:60
+10	data	data	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=61:65
+11	which	which	PRON	WDT	PronType=Rel	12	nsubj	_	TokenRange=66:71
+12	has	have	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	acl:relcl	_	TokenRange=72:75
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=76:79
+14	legitimate	legitimate	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=80:90
+15	interests	interest	NOUN	NNS	Number=Plur	12	obj	_	TokenRange=91:100
+16	as	as	ADP	IN	_	19	case	_	TokenRange=101:103
+17	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=104:107
+18	legal	legal	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=108:113
+19	basis	basis	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=114:119
+20	(	(	PUNCT	-LRB-	_	21	punct	_	SpaceAfter=No|TokenRange=120:121
+21	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	3	parataxis	_	TokenRange=121:124
+22	Section	section	NOUN	NN	Number=Sing	21	obj	_	TokenRange=125:132
+23	4	4	NUM	CD	NumType=Card	22	nummod	_	TokenRange=133:134
+24	or	or	CCONJ	CC	_	25	cc	_	TokenRange=135:137
+25	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	21	conj	_	TokenRange=138:145
+26	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	25	obj	_	TokenRange=146:148
+27	for	for	ADP	IN	_	29	case	_	TokenRange=149:152
+28	further	further	ADJ	JJR	Degree=Cmp	29	amod	_	TokenRange=153:160
+29	details	detail	NOUN	NNS	Number=Plur	25	obl	_	SpaceAfter=No|TokenRange=161:168
+30	)	)	PUNCT	-RRB-	_	21	punct	_	SpaceAfter=No|TokenRange=168:169
+31	,	,	PUNCT	,	_	3	punct	_	TokenRange=169:170
+32	if	if	SCONJ	IN	_	34	mark	_	TokenRange=171:173
+33	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	34	nsubj	_	TokenRange=174:177
+34	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	TokenRange=178:185
+35	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	37	nmod:poss	_	TokenRange=186:190
+36	fundamental	fundamental	ADJ	JJ	Degree=Pos	37	amod	_	TokenRange=191:202
+37	rights	rights	NOUN	NNS	Number=Plur	34	obj	_	TokenRange=203:209
+38	and	and	CCONJ	CC	_	39	cc	_	TokenRange=210:213
+39	freedoms	freedom	NOUN	NNS	Number=Plur	37	conj	_	TokenRange=214:222
+40	outweigh	outweigh	ADP	IN	_	43	case	_	TokenRange=223:231
+41	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	43	nmod:poss	_	TokenRange=232:235
+42	legitimate	legitimate	ADJ	JJ	Degree=Pos	43	amod	_	TokenRange=236:246
+43	interests	interest	NOUN	NNS	Number=Plur	37	nmod	_	SpaceAfter=No|TokenRange=247:256
+44	.	.	PUNCT	.	_	3	punct	_	TokenRange=256:257
+
+# sent_id = 3
+# text = Once you have objected, we have an opportunity to demonstrate that we have compelling legitimate interests which override your rights.
+1	Once	once	SCONJ	IN	_	4	mark	_	TokenRange=258:262
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=263:266
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=267:271
+4	objected	object	VERB	VBN	Tense=Past|VerbForm=Part	7	advcl	_	SpaceAfter=No|TokenRange=272:280
+5	,	,	PUNCT	,	_	7	punct	_	TokenRange=280:281
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TokenRange=282:284
+7	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=285:289
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=290:292
+9	opportunity	opportunity	NOUN	NN	Number=Sing	7	obj	_	TokenRange=293:304
+10	to	to	PART	TO	_	11	mark	_	TokenRange=305:307
+11	demonstrate	demonstrate	VERB	VB	VerbForm=Inf	9	acl	_	TokenRange=308:319
+12	that	that	SCONJ	IN	_	14	mark	_	TokenRange=320:324
+13	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	TokenRange=325:327
+14	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	ccomp	_	TokenRange=328:332
+15	compelling	compelle	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=333:343
+16	legitimate	legitimate	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=344:354
+17	interests	interest	NOUN	NNS	Number=Plur	14	obj	_	TokenRange=355:364
+18	which	which	PRON	WDT	PronType=Rel	19	nsubj	_	TokenRange=365:370
+19	override	override	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	17	acl:relcl	_	TokenRange=371:379
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=380:384
+21	rights	right	NOUN	NNS	Number=Plur	19	obj	_	SpaceAfter=No|TokenRange=385:391
+22	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n\n|TokenRange=391:392
+

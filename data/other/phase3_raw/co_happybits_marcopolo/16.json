@@ -1,0 +1,664 @@
+{
+  "text": "Security of your Personal Information\n\nWe are committed to protecting the security of your Personal Information. We have taken certain physical, administrative, and technical steps to help safeguard the information we collect from and about you. While we take steps to help ensure the integrity and security of our network and systems, we cannot guarantee our security measures.\n\n",
+  "words": [
+    "Security",
+    "of",
+    "your",
+    "Personal",
+    "Information",
+    "We",
+    "are",
+    "committed",
+    "to",
+    "protecting",
+    "the",
+    "security",
+    "of",
+    "your",
+    "Personal",
+    "Information",
+    ".",
+    "We",
+    "have",
+    "taken",
+    "certain",
+    "physical",
+    ",",
+    "administrative",
+    ",",
+    "and",
+    "technical",
+    "steps",
+    "to",
+    "help",
+    "safeguard",
+    "the",
+    "information",
+    "we",
+    "collect",
+    "from",
+    "and",
+    "about",
+    "you",
+    ".",
+    "While",
+    "we",
+    "take",
+    "steps",
+    "to",
+    "help",
+    "ensure",
+    "the",
+    "integrity",
+    "and",
+    "security",
+    "of",
+    "our",
+    "network",
+    "and",
+    "systems",
+    ",",
+    "we",
+    "can",
+    "not",
+    "guarantee",
+    "our",
+    "security",
+    "measures",
+    "."
+  ],
+  "lemma": [
+    "security",
+    "of",
+    "you",
+    "personal",
+    "information",
+    "we",
+    "be",
+    "committ",
+    "to",
+    "protect",
+    "the",
+    "security",
+    "of",
+    "you",
+    "Personal",
+    "information",
+    ".",
+    "we",
+    "have",
+    "take",
+    "certain",
+    "physical",
+    ",",
+    "administrative",
+    ",",
+    "and",
+    "technical",
+    "step",
+    "to",
+    "help",
+    "safeguard",
+    "the",
+    "information",
+    "we",
+    "collect",
+    "from",
+    "and",
+    "about",
+    "you",
+    ".",
+    "while",
+    "we",
+    "take",
+    "step",
+    "to",
+    "help",
+    "ensure",
+    "the",
+    "integrity",
+    "and",
+    "security",
+    "of",
+    "we",
+    "network",
+    "and",
+    "system",
+    ",",
+    "we",
+    "can",
+    "not",
+    "guarantee",
+    "we",
+    "security",
+    "measure",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    "PRP",
+    "VBP",
+    "JJ",
+    "IN",
+    "VBG",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNP",
+    "NNP",
+    ".",
+    "PRP",
+    "VBP",
+    "VBN",
+    "JJ",
+    "JJ",
+    ",",
+    "JJ",
+    ",",
+    "CC",
+    "JJ",
+    "NNS",
+    "TO",
+    "VB",
+    "VB",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    "IN",
+    "CC",
+    "IN",
+    "PRP",
+    ".",
+    "IN",
+    "PRP",
+    "VBP",
+    "NNS",
+    "TO",
+    "VB",
+    "VB",
+    "DT",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "NNS",
+    ",",
+    "PRP",
+    "MD",
+    "RB",
+    "VB",
+    "PRP$",
+    "NN",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "case",
+    "nmod:poss",
+    "amod",
+    "nmod",
+    "nsubj",
+    "cop",
+    "root",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "amod",
+    "punct",
+    "conj",
+    "punct",
+    "cc",
+    "amod",
+    "obj",
+    "mark",
+    "advcl",
+    "xcomp",
+    "det",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "cc",
+    "case",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "obj",
+    "mark",
+    "advcl",
+    "ccomp",
+    "det",
+    "obj",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      12,
+      16
+    ],
+    [
+      17,
+      25
+    ],
+    [
+      26,
+      37
+    ],
+    [
+      39,
+      41
+    ],
+    [
+      42,
+      45
+    ],
+    [
+      46,
+      55
+    ],
+    [
+      56,
+      58
+    ],
+    [
+      59,
+      69
+    ],
+    [
+      70,
+      73
+    ],
+    [
+      74,
+      82
+    ],
+    [
+      83,
+      85
+    ],
+    [
+      86,
+      90
+    ],
+    [
+      91,
+      99
+    ],
+    [
+      100,
+      111
+    ],
+    [
+      111,
+      112
+    ],
+    [
+      113,
+      115
+    ],
+    [
+      116,
+      120
+    ],
+    [
+      121,
+      126
+    ],
+    [
+      127,
+      134
+    ],
+    [
+      135,
+      143
+    ],
+    [
+      143,
+      144
+    ],
+    [
+      145,
+      159
+    ],
+    [
+      159,
+      160
+    ],
+    [
+      161,
+      164
+    ],
+    [
+      165,
+      174
+    ],
+    [
+      175,
+      180
+    ],
+    [
+      181,
+      183
+    ],
+    [
+      184,
+      188
+    ],
+    [
+      189,
+      198
+    ],
+    [
+      199,
+      202
+    ],
+    [
+      203,
+      214
+    ],
+    [
+      215,
+      217
+    ],
+    [
+      218,
+      225
+    ],
+    [
+      226,
+      230
+    ],
+    [
+      231,
+      234
+    ],
+    [
+      235,
+      240
+    ],
+    [
+      241,
+      244
+    ],
+    [
+      244,
+      245
+    ],
+    [
+      246,
+      251
+    ],
+    [
+      252,
+      254
+    ],
+    [
+      255,
+      259
+    ],
+    [
+      260,
+      265
+    ],
+    [
+      266,
+      268
+    ],
+    [
+      269,
+      273
+    ],
+    [
+      274,
+      280
+    ],
+    [
+      281,
+      284
+    ],
+    [
+      285,
+      294
+    ],
+    [
+      295,
+      298
+    ],
+    [
+      299,
+      307
+    ],
+    [
+      308,
+      310
+    ],
+    [
+      311,
+      314
+    ],
+    [
+      315,
+      322
+    ],
+    [
+      323,
+      326
+    ],
+    [
+      327,
+      334
+    ],
+    [
+      334,
+      335
+    ],
+    [
+      336,
+      338
+    ],
+    [
+      339,
+      342
+    ],
+    [
+      342,
+      345
+    ],
+    [
+      346,
+      355
+    ],
+    [
+      356,
+      359
+    ],
+    [
+      360,
+      368
+    ],
+    [
+      369,
+      377
+    ],
+    [
+      377,
+      378
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      16
+    ],
+    [
+      17,
+      39
+    ],
+    [
+      40,
+      64
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T3",
+      "start_idx": 113,
+      "end_idx": 115,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        17
+      ]
+    },
+    {
+      "entity/argument_text": "physical, administrative, and technical steps",
+      "entity/argument_type": "general-safeguard-method",
+      "entity/argument_id": "T4",
+      "start_idx": 135,
+      "end_idx": 180,
+      "tokens": [
+        "physical",
+        ",",
+        "administrative",
+        ",",
+        "and",
+        "technical",
+        "steps"
+      ],
+      "token_idx": [
+        21,
+        22,
+        23,
+        24,
+        25,
+        26,
+        27
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T5",
+      "start_idx": 203,
+      "end_idx": 214,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        32
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T6",
+      "start_idx": 241,
+      "end_idx": 244,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        38
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "safeguard",
+        "start_idx": 189,
+        "end_idx": 198,
+        "tokens": [
+          "safeguard"
+        ],
+        "token_idx": [
+          30
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 241,
+          "end_idx": 244
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 203,
+          "end_idx": 214
+        },
+        {
+          "role": "method",
+          "type": "general-safeguard-method",
+          "text": "physical, administrative, and technical steps",
+          "start_idx": 135,
+          "end_idx": 180
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 113,
+          "end_idx": 115
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

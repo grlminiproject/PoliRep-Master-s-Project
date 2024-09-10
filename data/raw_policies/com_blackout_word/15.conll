@@ -1,0 +1,78 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 9.
+1	9	9	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = Changes to our privacy policy
+1	Changes	change	NOUN	NNS	Number=Plur	0	root	_	TokenRange=3:10
+2	to	to	ADP	IN	_	5	case	_	TokenRange=11:13
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=14:17
+4	privacy	privacy	NOUN	NN	Number=Sing	5	compound	_	TokenRange=18:25
+5	policy	policy	NOUN	NN	Number=Sing	1	nmod	_	SpacesAfter=\n\n|TokenRange=26:32
+
+# newpar
+# sent_id = 3
+# text = We may update our privacy policy from time to time.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=34:36
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=37:40
+3	update	update	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=41:47
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=48:51
+5	privacy	privacy	NOUN	NN	Number=Sing	6	compound	_	TokenRange=52:59
+6	policy	policy	NOUN	NN	Number=Sing	3	obj	_	TokenRange=60:66
+7	from	from	ADP	IN	_	8	case	_	TokenRange=67:71
+8	time	time	NOUN	NN	Number=Sing	3	obl	_	TokenRange=72:76
+9	to	to	ADP	IN	_	10	case	_	TokenRange=77:79
+10	time	time	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=80:84
+11	.	.	PUNCT	.	_	3	punct	_	TokenRange=84:85
+
+# sent_id = 4
+# text = Any changes we make to our privacy policy in the future will be made available to you via the privacy policy, accessible in our app.
+1	Any	any	DET	DT	_	2	det	_	TokenRange=86:89
+2	changes	change	NOUN	NNS	Number=Plur	14	nsubj:pass	_	TokenRange=90:97
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=98:100
+4	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	TokenRange=101:105
+5	to	to	ADP	IN	_	8	case	_	TokenRange=106:108
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=109:112
+7	privacy	privacy	NOUN	NN	Number=Sing	8	compound	_	TokenRange=113:120
+8	policy	policy	NOUN	NN	Number=Sing	4	obl	_	TokenRange=121:127
+9	in	in	ADP	IN	_	11	case	_	TokenRange=128:130
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=131:134
+11	future	future	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=135:141
+12	will	will	AUX	MD	VerbForm=Fin	14	aux	_	TokenRange=142:146
+13	be	be	AUX	VB	VerbForm=Inf	14	aux:pass	_	TokenRange=147:149
+14	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=150:154
+15	available	available	ADJ	JJ	Degree=Pos	14	xcomp	_	TokenRange=155:164
+16	to	to	ADP	IN	_	17	case	_	TokenRange=165:167
+17	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	15	obl	_	TokenRange=168:171
+18	via	via	ADP	IN	_	21	case	_	TokenRange=172:175
+19	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	TokenRange=176:179
+20	privacy	privacy	NOUN	NN	Number=Sing	21	compound	_	TokenRange=180:187
+21	policy	policy	NOUN	NN	Number=Sing	14	obl	_	SpaceAfter=No|TokenRange=188:194
+22	,	,	PUNCT	,	_	21	punct	_	TokenRange=194:195
+23	accessible	accessible	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=196:206
+24	in	in	ADP	IN	_	26	case	_	TokenRange=207:209
+25	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	TokenRange=210:213
+26	app	app	NOUN	NN	Number=Sing	23	obl	_	SpaceAfter=No|TokenRange=214:217
+27	.	.	PUNCT	.	_	14	punct	_	TokenRange=217:218
+
+# sent_id = 5
+# text = Please check back frequently to see any updates or changes to our privacy policy.
+1	Please	please	INTJ	UH	_	2	discourse	_	TokenRange=219:225
+2	check	check	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=226:231
+3	back	back	ADP	RP	_	2	compound:prt	_	TokenRange=232:236
+4	frequently	frequently	ADV	RB	_	2	advmod	_	TokenRange=237:247
+5	to	to	PART	TO	_	6	mark	_	TokenRange=248:250
+6	see	see	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=251:254
+7	any	any	DET	DT	_	8	det	_	TokenRange=255:258
+8	updates	update	NOUN	NNS	Number=Plur	6	obj	_	TokenRange=259:266
+9	or	or	CCONJ	CC	_	10	cc	_	TokenRange=267:269
+10	changes	change	NOUN	NNS	Number=Plur	8	conj	_	TokenRange=270:277
+11	to	to	ADP	IN	_	14	case	_	TokenRange=278:280
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=281:284
+13	privacy	privacy	NOUN	NN	Number=Sing	14	compound	_	TokenRange=285:292
+14	policy	policy	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=293:299
+15	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=299:300
+

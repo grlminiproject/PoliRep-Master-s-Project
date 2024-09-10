@@ -1,0 +1,9 @@
+T4	Data-general 526 537	information
+T10	Data-general 651 662	information
+T13	Identifying 898 901	PII
+T19	Identifying 982 985	PII
+T23	Identifying 1394 1397	PII
+T32	Identifying 1661 1700	non-personally identifiable information
+T33	Tracking 1720 1735	tracking pixels
+T36	Tracking 2010 2025	tracking pixels
+T40	Data-general 2144 2155	information

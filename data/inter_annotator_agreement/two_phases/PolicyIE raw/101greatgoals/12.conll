@@ -1,0 +1,127 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = RETENTION OF PERSONAL INFORMATION
+1	RETENTION	retention	NOUN	NN	Number=Sing	0	root	_	TokenRange=0:9
+2	OF	of	ADP	IN	_	4	case	_	TokenRange=10:12
+3	PERSONAL	personal	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=13:21
+4	INFORMATION	information	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n\n|TokenRange=22:33
+
+# newpar
+# sent_id = 2
+# text = If you have registered with an account through our Services, the Company will retain your Personal Information during the period your account is active.
+1	If	if	SCONJ	IN	_	4	mark	_	TokenRange=35:37
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=38:41
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=42:46
+4	registered	register	VERB	VBN	Tense=Past|VerbForm=Part	15	advcl	_	TokenRange=47:57
+5	with	with	ADP	IN	_	7	case	_	TokenRange=58:62
+6	an	a	DET	DT	Definite=Ind|PronType=Art	7	det	_	TokenRange=63:65
+7	account	account	NOUN	NN	Number=Sing	4	obl	_	TokenRange=66:73
+8	through	through	ADP	IN	_	10	case	_	TokenRange=74:81
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=82:85
+10	Services	service	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=86:94
+11	,	,	PUNCT	,	_	15	punct	_	TokenRange=94:95
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=96:99
+13	Company	company	NOUN	NN	Number=Sing	15	nsubj	_	TokenRange=100:107
+14	will	will	AUX	MD	VerbForm=Fin	15	aux	_	TokenRange=108:112
+15	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=113:119
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=120:124
+17	Personal	Personal	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=125:133
+18	Information	information	NOUN	NN	Number=Sing	15	obj	_	TokenRange=134:145
+19	during	during	ADP	IN	_	21	case	_	TokenRange=146:152
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	TokenRange=153:156
+21	period	period	NOUN	NN	Number=Sing	15	obl	_	TokenRange=157:163
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=164:168
+23	account	account	NOUN	NN	Number=Sing	25	nsubj	_	TokenRange=169:176
+24	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	25	cop	_	TokenRange=177:179
+25	active	active	ADJ	JJ	Degree=Pos	21	acl:relcl	_	SpaceAfter=No|TokenRange=180:186
+26	.	.	PUNCT	.	_	15	punct	_	TokenRange=186:187
+
+# sent_id = 3
+# text = In addition, the Company will retain your Personal Data for additional periods, to enable the Company to meet its legal obligations under applicable laws or regulations, such as the applicable gambling regulations, Know-Your-Customer and Anti-Money Laundering regulations.
+1	In	in	ADP	IN	_	2	case	_	TokenRange=188:190
+2	addition	addition	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=191:199
+3	,	,	PUNCT	,	_	7	punct	_	TokenRange=199:200
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=201:204
+5	Company	company	NOUN	NN	Number=Sing	7	nsubj	_	TokenRange=205:212
+6	will	will	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=213:217
+7	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=218:224
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=225:229
+9	Personal	Personal	PROPN	NNP	Number=Sing	10	compound	_	TokenRange=230:238
+10	Data	data	PROPN	NNP	Number=Sing	7	obj	_	TokenRange=239:243
+11	for	for	ADP	IN	_	13	case	_	TokenRange=244:247
+12	additional	additional	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=248:258
+13	periods	period	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No|TokenRange=259:266
+14	,	,	PUNCT	,	_	7	punct	_	TokenRange=266:267
+15	to	to	PART	TO	_	16	mark	_	TokenRange=268:270
+16	enable	enable	VERB	VB	VerbForm=Inf	7	advcl	_	TokenRange=271:277
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=278:281
+18	Company	company	NOUN	NN	Number=Sing	16	obj	_	TokenRange=282:289
+19	to	to	PART	TO	_	20	mark	_	TokenRange=290:292
+20	meet	meet	VERB	VB	VerbForm=Inf	16	advcl	_	TokenRange=293:297
+21	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=298:301
+22	legal	legal	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=302:307
+23	obligations	obligation	NOUN	NNS	Number=Plur	20	obj	_	TokenRange=308:319
+24	under	under	ADP	IN	_	26	case	_	TokenRange=320:325
+25	applicable	applicable	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=326:336
+26	laws	law	NOUN	NNS	Number=Plur	23	nmod	_	TokenRange=337:341
+27	or	or	CCONJ	CC	_	28	cc	_	TokenRange=342:344
+28	regulations	regulation	NOUN	NNS	Number=Plur	26	conj	_	SpaceAfter=No|TokenRange=345:356
+29	,	,	PUNCT	,	_	23	punct	_	TokenRange=356:357
+30	such	such	ADJ	JJ	Degree=Pos	35	case	_	TokenRange=358:362
+31	as	as	ADP	IN	_	30	fixed	_	TokenRange=363:365
+32	the	the	DET	DT	Definite=Def|PronType=Art	35	det	_	TokenRange=366:369
+33	applicable	applicable	ADJ	JJ	Degree=Pos	35	amod	_	TokenRange=370:380
+34	gambling	gambling	NOUN	NN	Number=Sing	35	compound	_	TokenRange=381:389
+35	regulations	regulation	NOUN	NNS	Number=Plur	23	nmod	_	SpaceAfter=No|TokenRange=390:401
+36	,	,	PUNCT	,	_	7	punct	_	TokenRange=401:402
+37	Know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	45	compound	_	SpaceAfter=No|TokenRange=403:407
+38	-	-	PUNCT	HYPH	_	37	punct	_	SpaceAfter=No|TokenRange=407:408
+39	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	41	nmod:poss	_	SpaceAfter=No|TokenRange=408:412
+40	-	-	PUNCT	HYPH	_	41	punct	_	SpaceAfter=No|TokenRange=412:413
+41	Customer	customer	NOUN	NN	Number=Sing	44	compound	_	TokenRange=413:421
+42	and	and	CCONJ	CC	_	43	cc	_	TokenRange=422:425
+43	Anti-Money	Anti-Money	NOUN	NN	Number=Sing	41	conj	_	TokenRange=426:436
+44	Laundering	Laundering	VERB	VBG	VerbForm=Ger	37	amod	_	TokenRange=437:447
+45	regulations	regulation	NOUN	NNS	Number=Plur	7	obj	_	SpaceAfter=No|TokenRange=448:459
+46	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n|TokenRange=459:460
+
+# sent_id = 4
+# text = In addition, the Company may retain your Personal Information for longer periods, provided that retaining such information is necessary for the Company's legitimate interests, such as fraud prevention and record keeping.
+1	In	in	ADP	IN	_	2	case	_	TokenRange=461:463
+2	addition	addition	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=464:472
+3	,	,	PUNCT	,	_	7	punct	_	TokenRange=472:473
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=474:477
+5	Company	company	NOUN	NN	Number=Sing	7	nsubj	_	TokenRange=478:485
+6	may	may	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=486:489
+7	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=490:496
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=497:501
+9	Personal	Personal	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=502:510
+10	Information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=511:522
+11	for	for	ADP	IN	_	13	case	_	TokenRange=523:526
+12	longer	longer	ADJ	JJR	Degree=Cmp	13	amod	_	TokenRange=527:533
+13	periods	period	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No|TokenRange=534:541
+14	,	,	PUNCT	,	_	7	punct	_	TokenRange=541:542
+15	provided	provide	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	7	advcl	_	TokenRange=543:551
+16	that	that	SCONJ	IN	_	21	mark	_	TokenRange=552:556
+17	retaining	retain	VERB	VBG	VerbForm=Ger	21	csubj	_	TokenRange=557:566
+18	such	such	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=567:571
+19	information	information	NOUN	NN	Number=Sing	17	obj	_	TokenRange=572:583
+20	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	21	cop	_	TokenRange=584:586
+21	necessary	necessary	ADJ	JJ	Degree=Pos	15	ccomp	_	TokenRange=587:596
+22	for	for	ADP	IN	_	27	case	_	TokenRange=597:600
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	TokenRange=601:604
+24	Company	company	NOUN	NN	Number=Sing	27	nmod:poss	_	SpaceAfter=No|TokenRange=605:612
+25	's	's	PART	POS	_	24	case	_	TokenRange=612:614
+26	legitimate	legitimate	ADJ	JJ	Degree=Pos	27	amod	_	TokenRange=615:625
+27	interests	interest	NOUN	NNS	Number=Plur	21	obl	_	SpaceAfter=No|TokenRange=626:635
+28	,	,	PUNCT	,	_	27	punct	_	TokenRange=635:636
+29	such	such	ADJ	JJ	Degree=Pos	32	case	_	TokenRange=637:641
+30	as	as	ADP	IN	_	29	fixed	_	TokenRange=642:644
+31	fraud	fraud	ADJ	JJ	Degree=Pos	32	amod	_	TokenRange=645:650
+32	prevention	prevention	NOUN	NN	Number=Sing	27	nmod	_	TokenRange=651:661
+33	and	and	CCONJ	CC	_	34	cc	_	TokenRange=662:665
+34	record	record	NOUN	NN	Number=Sing	32	conj	_	TokenRange=666:672
+35	keeping	keep	VERB	VBG	VerbForm=Ger	32	acl	_	SpaceAfter=No|TokenRange=673:680
+36	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n\n|TokenRange=680:681
+

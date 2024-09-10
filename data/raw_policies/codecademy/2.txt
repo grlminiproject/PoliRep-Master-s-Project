@@ -1,0 +1,7 @@
+1. INFORMATION WE COLLECT FROM YOU DIRECTLY
+
+You can browse our site without providing personal information, but you must register in order to access most of the features of Service. We ask for certain information such as your username, email address and password when you create a Codecademy account, or if you correspond with us.
+Account information: After you set up your account, Codecademy members may also choose to provide additional information which may be shared through public profiles, such as your name, location, website, links to your social media profiles, and other information. You control how much personally identifying information you wish to provide in your public profile.
+Data collected through the use of the Service: We may retain any messages you send through the Service, and may collect information you provide in User Content you post to the Service.
+Messages and User Content: We use this information to operate, maintain, and provide to you the features and functionality of the Service, as well as to communicate directly with you, such as to send you email messages. You can control your receipt of email messages by visiting "Settings" within "Edit Account Settings" page on our website. We may also send you Service-related emails (e.g. account verification, change or updates to features of the Service, technical and security notices). You may not opt-out of Service-related e-mails. For more information about your communication preferences, see "Your Choices Regarding Your Information" below.
+

@@ -1,0 +1,13 @@
+T2	ProvidePersonalisedRecommendations 224 275	provide more tailored services and user experiences
+T3	IdentityAuthentication 302 335	remembering your account identity
+T4	EnforceSecurity 339 372	analyzing your account’s security
+T5	ServiceUsageAnalytics 374 421	analyzing your usage of our product and service
+T6	TargetedAdvertising 423 571	advertisement optimization (helping us to provide you with more targeted advertisements instead of general advertisements based on your information)
+T8	Data-general 611 628	non-personal data
+T9	ServiceUsageAnalytics 731 765	analyze how users use our services
+T10	Advertising 774 795	advertisement purpose
+T11	Data-general 940 962	non-person information
+T12	ServiceUsageAnalytics 997 1033	analyzing how users use the services
+T13	PersonalisedAdvertising 1038 1098	sending to you the advertisements you might find interest in
+T14	Advertising 1103 1147	evaluating the effects of the advertisements
+T19	Tracking 179 194	log information

@@ -1,0 +1,7 @@
+T1	First-party-entity 100 110	Codecademy
+T2	data-storage-retention-deletion 111 120	maintains
+E1	data-storage-retention-deletion:T2 Retention-Period:T5 Retention-Period2:T4 Data-Retained:T3 Data-Holder:T1 Data-Provider:T6
+T3	Data-general 134 138	data
+T4	retention-period 139 174	until we mark users as "non-active"
+T5	retention-period 178 214	a customer deletes their own account
+T6	User 125 133	customer

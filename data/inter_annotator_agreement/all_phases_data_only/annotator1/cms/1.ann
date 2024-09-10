@@ -1,0 +1,10 @@
+T3	BrowsingBehavior 78 106	information about your visit
+T7	Data-general 195 223	information about your visit
+T9	Tracking 225 266	Domain from which you access the Internet
+T10	IPAddress 267 277	IP address
+T11	DeviceOperatingSystem 390 423	Operating system on your computer
+T12	Tracking 428 466	information about the browser you used
+T13	BrowsingBehavior 490 517	Date and time of your visit
+T14	BrowserHistory 518 535	Pages you visited
+T15	BrowsingReferral 536 594	Address of the website that connected you to a CMS website
+T20	Data-general 640 651	information

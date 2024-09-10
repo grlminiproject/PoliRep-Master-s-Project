@@ -1,0 +1,31 @@
+T1	First-party-entity 11 13	We
+T2	data-storage-retention-deletion 18 24	retain
+E1	data-storage-retention-deletion:T2 Data-Holder:T1 Data-Retained:T3 Data-Provider:T4 Retention-Period:T5
+T3	Data-general 29 49	Personal Information
+T4	User 50 53	you
+T5	retention-period 62 102	as long as you have a Marco Polo Account
+T6	data-storage-retention-deletion 198 205	deleted
+E2	data-storage-retention-deletion:T6 Data-Provider:T7 Condition-Argument:T10 Data-Retained:T8 Data-Retained2:T9 Data-Holder:T19
+T7	User 107 110	you
+T8	Data-general 137 157	Personal Information
+T9	Data-user-online-activities-profiles 166 176	Scrapbooks
+T10	Condition 107 130	you delete your Account
+T11	data-storage-retention-deletion 383 393	accessible
+E3	data-storage-retention-deletion:T11 Data-Provider:T18 Data-Holder:T20 Data-Retained:T13 Data-Retained2:T14 Data-Retained3:T15 Data-Retained4:T16 Data-Retained5:T17 Data-Holder2:T12
+T12	Third-party-entity 340 351	other users
+T13	Data-user-online-activities-profiles 259 264	Polos
+T14	Data-contact 271 275	name
+T15	Data-contact 277 292	profile picture
+T16	Data-user-online-activities-profiles 294 302	messages
+T17	Data-general 307 318	information
+T18	User 266 270	your
+T19	First-party-entity 240 250	Marco Polo
+T20	First-party-entity 360 370	Marco Polo
+T21	data-storage-retention-deletion 465 471	delete
+E4	data-storage-retention-deletion:T21 Data-Provider:T22 Retention-Period:T23 Data-Retained:T24 Data-Retained2:T25 Data-Holder:T27 Condition-Argument:T26
+T22	User 440 443	You
+T23	retention-period 453 464	permanently
+T24	Data-user-online-activities-profiles 476 480	Polo
+T25	Data-user-online-activities-profiles 484 491	message
+T26	Condition 528 612	pressing on the Polo tile, holding down, and then selecting and confirming "Delete."
+T27	First-party-entity 510 520	Marco Polo

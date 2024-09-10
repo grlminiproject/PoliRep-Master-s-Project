@@ -1,0 +1,12 @@
+T1	ServiceProvision 179 224	help manage our business and deliver services
+T2	OrganisationGovernance 2019 2093	carrying out relevant deals such as merger, acquisition or asset transfers
+T4	CustomerOrderManagement 420 437	fulfilling orders
+T5	DeliveryOfGoods 439 458	delivering packages
+T6	ServiceProvision 460 490	sending postal mail and e-mail
+T7	RecordManagement 492 543	removing repetitive information from customer lists
+T8	ServiceUsageAnalytics 545 559	analyzing data
+T9	Marketing 561 591	providing marketing assistance
+T10	ServiceProvision 593 663	providing search results and links (including paid listings and links)
+T11	PaymentManagement 665 696	processing credit card payments
+T12	CustomerManagement 702 812	providing customer services or other activities as necessary part of the functioning in our product or service
+T13	FraudPreventionAndDetection 1462 1746	detecting, preventing or otherwise addressing fraud, security or technical issues (such as cyber-attack, or other illegal or immoral acts), targeting at or related to protecting against harm to the rights, property or safety of our users or us, our affiliates, employees or the public

@@ -1,0 +1,19 @@
+T4	Data-general 141 145	data
+T6	DeviceBased 176 187	your device
+T7	DeviceApplications 199 241	the presence of applications on the device
+T9	BrowsingBehavior 335 392	your viewing of and interaction with any such advertising
+T15	Data-other 702 742	cookies or similar tracking technologies
+T17	BrowsingBehavior 756 774	content you access
+T18	Location 783 798	device location
+T20	Identifier 2092 2109	device identifier
+T28	Data-general 1547 1551	data
+T30	Data-user-online-activities-profiles 1592 1616	Service session activity
+T31	BrowsingBehavior 1618 1666	viewing of and interaction with an advertisement
+T32	Identifier 1668 1685	device identifier
+T33	MACAddress 1687 1698	MAC address
+T34	Contact 1700 1704	IMEI
+T35	GPSCoordinate 1706 1730	geo-location information
+T36	IPAddress 1732 1742	IP address
+T37	Data-other 1747 1760	crash reports
+T43	Data-other 1283 1298	Advertising IDs
+T45	Data-general 1556 1567	information

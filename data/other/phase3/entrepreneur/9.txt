@@ -1,0 +1,12 @@
+9. The Information We Share.
+
+We do not share personal information with companies, organizations and individuals outside of EMI, unless one of the following circumstances applies:
+a. We will share personal information with companies, organizations or individuals outside of EMI when we have your opt-in or other consent to do so.
+b. We will share personal information with companies, organizations or individuals outside of EMI if we have a good-faith belief that access, use, preservation or disclosure of that information is reasonably necessary to:
+(i)comply with applicable law, regulations, legal process or enforceable governmental request;
+(ii)enforce any of our applicable Terms of Service, including any potential violations;
+(iii)detect, prevent, or otherwise address fraud, security or technical issues; or
+(iv)protect against harm to the rights, property or safety of users of our Service or service providers, as well as the general public and EMI as required or permitted by law.
+c. We may share personal information with a buyer or other successor in the event of a merger, divestiture, restructuring, reorganization, dissolution or other sale or transfer of some or all of EMI’s assets, whether as a going concern or as part of bankruptcy, liquidation or similar proceeding, in which personal information held by EMI about our Service users is among the assets transferred.
+d. We may share your information publicly and with our partners such as third-party content providers, advertisers or connected sites, but in a manner which does not reveal your personally-identifiable information and which is aggregated with other user information to show usage of EMI and third-party products and services offered on our Service and trends based on such categories as age, gender, geographical origination and other demographic characteristics.
+

@@ -1,0 +1,23 @@
+T1	Third-party-entity 154 162	Features
+T2	first-party-collection-use 167 174	collect
+E1	first-party-collection-use:T2 Data-Provider:T1 Data-Collected:T3 Data-Collected2:T4 Purpose-Argument:T5 Data-Provider2:T17
+T3	Data-computer-device 180 190	IP address
+T4	Data-cookies-web-beacons-and-other-technologies 206 212	cookie
+T5	Purpose 216 255	enable the Feature to function properly
+T6	Data-other 660 679	contact information
+T7	First-party-entity 422 428	Qublix
+T8	User 469 473	your
+T9	first-party-collection-use 688 692	used
+E2	first-party-collection-use:T9 Data-Collector:T7 Data-Provider:T8 Purpose-Argument:T10 Data-Collected:T11 Data-Collected2:T6 Data-Collected3:T21
+T10	Purpose 717 756	sending communications to the addressee
+T11	Data-contact 474 512	contacts from a Social Network Service
+T12	First-party-entity 793 795	us
+T13	data-storage-retention-deletion 811 818	removal
+E3	data-storage-retention-deletion:T13 Data-Provider:T14 Data-Retained:T15 Storage-Place:T16 Data-Holder:T12 Data-Holder2:T18 Condition-Argument:T19
+T14	User 758 761	You
+T15	Data-general 827 838	information
+T16	storage-place 844 856	our database
+T17	User 175 179	your
+T18	Third-party-entity 769 780	third party
+T19	Condition 758 795	You or the third party may contact us
+T21	Data-contact 522 543	your Facebook friends

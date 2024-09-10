@@ -1,0 +1,31 @@
+T1	User 67 71	Your
+T2	Data-general 72 83	information
+T3	data-storage-retention-deletion 121 127	stored
+E1	data-storage-retention-deletion:T3 Storage-Place:T5 Storage-Place2:T4 Data-Retained:T2 Data-Provider:T1
+T4	storage-place 149 162	United States
+T5	storage-place 166 276	any other country in which Codecademy or its subsidiaries, affiliates or service providers maintain facilities
+T6	First-party-entity 278 288	Codecademy
+T7	third-party-sharing-disclosure 293 301	transfer
+E2	third-party-sharing-disclosure:T7 Data-Receiver:T11 Data-Receiver2:T10 Data-Shared:T9 Data-Shared2:T8 Data-Sharer:T6 Data-Provider:T28
+T8	Data-general 302 313	information
+T9	Data-general 351 371	personal information
+T10	Third-party-entity 376 395	affiliated entities
+T11	Third-party-entity 403 422	other third parties
+T12	First-party-entity 680 682	we
+T13	third-party-sharing-disclosure 687 695	transfer
+E3	third-party-sharing-disclosure:T13 Data-Shared:T15 Data-Shared2:T14 Data-Sharer:T12 Data-Provider:T29
+T14	Data-general 696 707	information
+T15	Data-general 719 739	personal information
+T16	data-security-protection 939 947	securely
+E4	data-security-protection:T16 Data-Protected:T19 Data-Protector:T20 method3:T21
+T19	Data-general 913 926	personal data
+T20	First-party-entity 850 852	we
+T22	data-security-protection 1291 1301	safeguards
+E5	data-security-protection:T22 method:T23 Data-Protected:T27 Data-Provider:T26 Data-Protector:T25
+T23	general-safeguard-method 1267 1301	commercially reasonable safeguards
+T25	First-party-entity 1202 1212	Codecademy
+T26	User 1241 1245	your
+T27	Data-general 1246 1257	information
+T28	User 336 339	you
+T29	User 533 536	you
+T21	general-safeguard-method 863 893	all steps reasonably necessary

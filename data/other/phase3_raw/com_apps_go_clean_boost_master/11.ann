@@ -1,0 +1,6 @@
+T1	First-party-entity 39 41	We
+T2	first-party-collection-use 46 49	use
+E1	first-party-collection-use:T2 Data-Collected:T4 Data-Collected2:T3 Data-Collector:T1 Data-Collected3:T5
+T3	Data-cookies-web-beacons-and-other-technologies 63 70	cookies
+T4	Data-cookies-web-beacons-and-other-technologies 75 86	web beacons
+T5	Data-cookies-web-beacons-and-other-technologies 50 62	technologies

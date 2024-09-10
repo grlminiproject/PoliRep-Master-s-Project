@@ -1,0 +1,13 @@
+T1	third-party-sharing-disclosure 31 39	transfer
+E1	third-party-sharing-disclosure:T1 Data-Sharer:T2 Data-Shared:T3 Data-Provider:T4 Data-Receiver:T5
+T2	First-party-entity 24 26	We
+T3	Data-general 40 51	information
+T4	User 74 77	you
+T5	Third-party-entity 87 100	third parties
+T8	First-party-entity 332 334	we
+T9	data-security-protection 365 375	safeguards
+E2	data-security-protection:T9 method:T11 Data-Protector:T8 Purpose-Argument:T12 Data-Protected:T14 Purpose-Argument2:T13
+T11	general-safeguard-method 340 345	steps
+T12	Basic-service-feature 392 434	enable transfer of information to the U.S.
+T13	Basic-service-feature 443 486	use and disclosure of information about you
+T14	Data-general 498 518	personal information

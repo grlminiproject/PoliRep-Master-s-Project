@@ -1,0 +1,17 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2.
+1	2	2	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = WHAT personal data do we collect?
+1	WHAT	what	PRON	WP	PronType=Int	3	nmod:poss	_	TokenRange=3:7
+2	personal	personal	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=8:16
+3	data	data	NOUN	NN	Number=Sing	6	obj	_	TokenRange=17:21
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	TokenRange=22:24
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=25:27
+6	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=28:35
+7	?	?	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n\n|TokenRange=35:36
+

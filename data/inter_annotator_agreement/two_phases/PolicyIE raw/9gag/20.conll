@@ -1,0 +1,106 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Revisions and Changes to the Privacy Policy
+1	Revisions	revision	NOUN	NNS	Number=Plur	0	root	_	TokenRange=0:9
+2	and	and	CCONJ	CC	_	3	cc	_	TokenRange=10:13
+3	Changes	change	NOUN	NNS	Number=Plur	1	conj	_	TokenRange=14:21
+4	to	to	ADP	IN	_	7	case	_	TokenRange=22:24
+5	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=25:28
+6	Privacy	privacy	NOUN	NN	Number=Sing	7	compound	_	TokenRange=29:36
+7	Policy	policy	NOUN	NN	Number=Sing	1	nmod	_	SpacesAfter=\n\n|TokenRange=37:43
+
+# newpar
+# sent_id = 2
+# text = We may change this Privacy Policy from time to time.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=45:47
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=48:51
+3	change	change	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=52:58
+4	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	TokenRange=59:63
+5	Privacy	privacy	NOUN	NN	Number=Sing	6	compound	_	TokenRange=64:71
+6	Policy	policy	NOUN	NN	Number=Sing	3	obj	_	TokenRange=72:78
+7	from	from	ADP	IN	_	8	case	_	TokenRange=79:83
+8	time	time	NOUN	NN	Number=Sing	3	obl	_	TokenRange=84:88
+9	to	to	ADP	IN	_	10	case	_	TokenRange=89:91
+10	time	time	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=92:96
+11	.	.	PUNCT	.	_	3	punct	_	TokenRange=96:97
+
+# sent_id = 3
+# text = When we do, we will let you know by notifying you one way or another.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=98:102
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=103:105
+3	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	advcl	_	SpaceAfter=No|TokenRange=106:108
+4	,	,	PUNCT	,	_	7	punct	_	TokenRange=108:109
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TokenRange=110:112
+6	will	will	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=113:117
+7	let	let	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=118:121
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	obj	_	TokenRange=122:125
+9	know	know	VERB	VB	VerbForm=Inf	7	xcomp	_	TokenRange=126:130
+10	by	by	SCONJ	IN	_	11	mark	_	TokenRange=131:133
+11	notifying	notify	VERB	VBG	VerbForm=Ger	9	advcl	_	TokenRange=134:143
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	obj	_	TokenRange=144:147
+13	one	one	NUM	CD	NumType=Card	14	nummod	_	TokenRange=148:151
+14	way	way	NOUN	NN	Number=Sing	11	obl:npmod	_	TokenRange=152:155
+15	or	or	CCONJ	CC	_	16	cc	_	TokenRange=156:158
+16	another	another	DET	DT	_	14	conj	_	SpaceAfter=No|TokenRange=159:166
+17	.	.	PUNCT	.	_	7	punct	_	TokenRange=166:167
+
+# sent_id = 4
+# text = We may let you know by revising the date at the top of this privacy policy, which is available on our websites and mobile applications.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=168:170
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=171:174
+3	let	let	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=175:178
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	obj	_	TokenRange=179:182
+5	know	know	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=183:187
+6	by	by	SCONJ	IN	_	7	mark	_	TokenRange=188:190
+7	revising	revise	VERB	VBG	VerbForm=Ger	5	advcl	_	TokenRange=191:199
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=200:203
+9	date	date	NOUN	NN	Number=Sing	7	obj	_	TokenRange=204:208
+10	at	at	ADP	IN	_	12	case	_	TokenRange=209:211
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=212:215
+12	top	top	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=216:219
+13	of	of	ADP	IN	_	16	case	_	TokenRange=220:222
+14	this	this	DET	DT	Number=Sing|PronType=Dem	16	det	_	TokenRange=223:227
+15	privacy	privacy	NOUN	NN	Number=Sing	16	compound	_	TokenRange=228:235
+16	policy	policy	NOUN	NN	Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=236:242
+17	,	,	PUNCT	,	_	16	punct	_	TokenRange=242:243
+18	which	which	PRON	WDT	PronType=Rel	20	nsubj	_	TokenRange=244:249
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	TokenRange=250:252
+20	available	available	ADJ	JJ	Degree=Pos	16	acl:relcl	_	TokenRange=253:262
+21	on	on	ADP	IN	_	23	case	_	TokenRange=263:265
+22	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=266:269
+23	websites	website	NOUN	NNS	Number=Plur	20	obl	_	TokenRange=270:278
+24	and	and	CCONJ	CC	_	26	cc	_	TokenRange=279:282
+25	mobile	mobile	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=283:289
+26	applications	application	NOUN	NNS	Number=Plur	23	conj	_	SpaceAfter=No|TokenRange=290:302
+27	.	.	PUNCT	.	_	3	punct	_	TokenRange=302:303
+
+# sent_id = 5
+# text = We may also provide additional notice, such as adding a statement to our homepage, or providing you with an in-app notification.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=304:306
+2	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=307:310
+3	also	also	ADV	RB	_	4	advmod	_	TokenRange=311:315
+4	provide	provide	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=316:323
+5	additional	additional	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=324:334
+6	notice	notice	NOUN	NN	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=335:341
+7	,	,	PUNCT	,	_	6	punct	_	TokenRange=341:342
+8	such	such	ADJ	JJ	Degree=Pos	10	mark	_	TokenRange=343:347
+9	as	as	SCONJ	IN	_	8	fixed	_	TokenRange=348:350
+10	adding	add	VERB	VBG	VerbForm=Ger	6	acl	_	TokenRange=351:357
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	TokenRange=358:359
+12	statement	statement	NOUN	NN	Number=Sing	10	obj	_	TokenRange=360:369
+13	to	to	ADP	IN	_	15	case	_	TokenRange=370:372
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=373:376
+15	homepage	homepage	NOUN	NN	Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=377:385
+16	,	,	PUNCT	,	_	18	punct	_	TokenRange=385:386
+17	or	or	CCONJ	CC	_	18	cc	_	TokenRange=387:389
+18	providing	provide	VERB	VBG	VerbForm=Ger	4	conj	_	TokenRange=390:399
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	obj	_	TokenRange=400:403
+20	with	with	ADP	IN	_	25	case	_	TokenRange=404:408
+21	an	a	DET	DT	Definite=Ind|PronType=Art	25	det	_	TokenRange=409:411
+22	in	in	ADP	IN	_	24	case	_	SpaceAfter=No|TokenRange=412:414
+23	-	-	PUNCT	HYPH	_	24	punct	_	SpaceAfter=No|TokenRange=414:415
+24	app	app	NOUN	NN	Number=Sing	25	compound	_	TokenRange=415:418
+25	notification	notification	NOUN	NN	Number=Sing	18	obl	_	SpaceAfter=No|TokenRange=419:431
+26	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=431:432
+

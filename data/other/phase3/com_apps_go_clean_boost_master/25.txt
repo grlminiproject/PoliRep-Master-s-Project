@@ -1,0 +1,4 @@
+Portability
+
+You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it “ported” directly to another data controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.
+

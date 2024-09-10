@@ -1,0 +1,30 @@
+Information We Get When You Use Our Services
+
+When you use our services, we collect information about which services you use and how you use them. For example, we may know what section or post you are reading, when you’re reading it, and how you’re reading it (desktop, mobile browser, or mobile app). Here’s a more detailed explanation of the information we collect when you use our services:
+Usage Information. We collect information about your activity through our services. For example:
+How you interact with our services, such as what sections you look at, what you search for, what posts and comments you upload, or what posts and comments you upvote or downvote.
+Content Information.  We collect content you create on our services. For example:
+The images, videos, and text you upload
+We also collect information about the content you create. For example:
+When you created the content
+Where you created the content
+How you created the content such as device information
+We also collect information about how other users interact with your content. For example:
+Post upvotes and downvotes
+Comments and comment upvotes and downvotes
+Device Information. We collect information from and about the devices you use. For example:
+Information about your hardware and software, such as hardware model, operating system version, device memory, advertising identifiers, unique application identifiers, unique device identifiers, and language.
+Information about your wireless and mobile network connections, such as your type of network connection.
+
+Camera and Photos. Some of our services require us to collect images and other information from your devices’s camera and photos. For example, you won’t be able to upload images or videos from your camera roll unless we can access your camera or media library.
+Location Information. When you use our services, we may collect information about your location. With your permission, we may also collect information about your precise location using methods that include GPS, wireless networks, and Wi-Fi access points.
+Information Collected by Cookies and Other Technologies. We may use cookies and other technologies such as web beacons, web storage, and unique advertising identifiers to collect information about your activity, browser, and device. We may use these technologies to collect information when you interact with services we offer through one of our partners, such as advertising and commerce features. Most web browsers are set to accept cookies by default. It is up to you to move or reject browser cookies through the settings on your browser or device. Removing or rejecting cookies may affect our service function and availability.
+Log Information. We also collect log information when you use our services. For example:
+Details about how you’ve used our services.
+Device information, such as web browser type and language.
+Access times.
+Pages and content viewed.
+IP address.
+Identifiers associated with cookies or other technologies that may uniquely identify your device or browser.
+Pages you visited before or after visiting our website or using our service.
+

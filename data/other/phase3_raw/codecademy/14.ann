@@ -1,0 +1,4 @@
+T1	Data-other 43 66	Looker-hosted instances
+T2	data-storage-retention-deletion 71 77	hosted
+E1	data-storage-retention-deletion:T2 Storage-Place:T3 Data-Retained:T1
+T3	storage-place 85 110	Amazon Web Services cloud

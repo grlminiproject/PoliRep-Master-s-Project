@@ -1,0 +1,11 @@
+Types of information we collect
+
+When you browse through any website, certain information about your visit can be collected. We automatically collect and temporarily store the following types of information about your visit:
+Domain from which you access the Internet
+IP address (an IP or internet protocol address is a number that is automatically given to a computer connected to the Web)
+Operating system on your computer and information about the browser you used when visiting the site
+Date and time of your visit
+Pages you visited
+Address of the website that connected you to a CMS website (such as google.com or bing.com)
+We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors.
+

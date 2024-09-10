@@ -1,0 +1,15 @@
+T1	DeviceBased 218 243	computer or mobile device
+T2	ServiceConsumptionBehavior 249 282	how you interact with the Service
+T3	DeviceOperatingSystem 343 364	operating system type
+T4	Tracking 367 393	browser type and‎ language
+T5	BrowserHistory 400 416	pages you viewed
+T6	ServiceConsumptionBehavior 419 447	how long you spent on a page
+T7	BrowserHistory 450 462	access times
+T8	IPAddress 465 495	Internet protocol (IP) address
+T9	DeviceIdentifier 502 518	mobile device ID
+T10	DeviceBased 520 547	mobile device serial number
+T11	UID 549 563	unique user ID
+T12	Data-other 565 581	wireless carrier
+T13	ServiceConsumptionBehavior 587 643	information about your use of and actions on the Service
+T14	Data-general 681 695	technical data
+T15	OptimisationForConsumer 699 811	analyze usage trends and give us more information about how people use the Service to better the user experience

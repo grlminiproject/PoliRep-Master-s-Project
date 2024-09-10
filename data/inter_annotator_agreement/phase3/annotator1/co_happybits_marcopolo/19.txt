@@ -1,0 +1,7 @@
+Legal Basis for Processing
+
+We process your Personal Information on the ground that such processing is necessary to further our legitimate interests (including: (1) providing an effective and innovative Service to our users; and (2) to detect, prevent or otherwise address fraud or security issues in respect of our provision of the Service), unless those interests are overridden by your interest or fundamental rights and freedoms that require protections of Personal Information.
+We also process your Personal Information where it is necessary on the basis of performing under our contract with you in accordance with our Terms of Service, or in order to create a contract with you.
+Automated decision making: Our software operates an algorithm to determine which of your contacts may be most relevant to you, who you might wish to connect with and/or invite to the Service.
+Recipients of Personal Information and transfers to third countries: as set out in the sections above called Sharing of Personal Information and Service Providers, we share your Personal Information with certain third party providers in the United States, and such transfers are subject to appropriate safeguards such as the European Commission's Standard Contractual Clauses or the EU-US Privacy Shield Framework.
+

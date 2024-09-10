@@ -1,0 +1,98 @@
+T1	First-party-entity 39 41	We
+T2	first-party-collection-use 42 45	use
+E1	first-party-collection-use:T2 Purpose-Argument:T7 Purpose-Argument2:T6 Purpose-Argument3:T5 Data-Provider:T4 Data-Collected:T3 Data-Collector:T1
+T3	Data-general 50 61	information
+T4	User 78 83	users
+T5	Adverstising-Marketing 111 177	provide you with more meaningful editorial and advertising content
+T6	Adverstising-Marketing 185 225	offer you relevant products and services
+T7	Analytics-research 241 294	maintain, protect and improve your overall experience
+T8	First-party-entity 353 356	our
+T9	first-party-collection-use 559 562	use
+E2	first-party-collection-use:T9 Condition-Argument:T13 Purpose-Argument:T12 Data-Collected:T11 Data-Provider:T10 Data-Collector:T8 Condition-Argument2:T23 Condition-Argument3:T22 Condition-Argument4:T21
+T10	User 311 314	you
+T11	Data-general 568 579	information
+T12	Other 584 598	these purposes
+T13	Condition 608 638	you have given us your consent
+T14	User 640 643	You
+T15	First-party-entity 733 736	our
+T16	first-party-collection-use 909 916	process
+E3	first-party-collection-use:T16 Purpose-Argument:T18 Data-Collected:T17 Condition-Argument:T20 Data-Collector:T15 Condition-Argument2:T19 Data-Provider:T14
+T17	Data-general 922 933	information
+T18	Basic-service-feature 937 986	perform our agreement or comply with your request
+T19	Condition 668 744	submit questions or comments in response to editorial content on our Service
+T20	Condition 756 885	purchase books and related publications offered on our affiliated website at bookstore.entrepreneur.com (the "Bookstore Website")
+T21	Condition 333 379	subscribe to any of our electronic newsletters
+T22	Condition 389 454	receive "special offers" by EMI and its various service providers
+T23	Condition 465 545	receive franchise and business opportunity information from selected advertisers
+T24	User 1015 1018	you
+T25	first-party-collection-use 1057 1064	collect
+E4	first-party-collection-use:T25 Data-Collected:T32 Data-Collected2:T31 Data-Collected3:T30 Data-Collected4:T29 Data-Collected5:T28 Data-Collector:T27 Data-Provider:T24
+T26	data-storage-retention-deletion 1069 1074	store
+E5	data-storage-retention-deletion:T26 Data-Provider:T24 Data-Holder:T27 Data-Retained:T28 Data-Retained2:T29 Data-Retained3:T30 Data-Retained4:T31 Data-Retained5:T32
+T27	First-party-entity 1049 1051	we
+T28	Data-general 1084 1104	personal information
+T29	Data-contact 1113 1126	email address
+T30	Data-contact 1128 1136	zip code
+T31	Data-contact 1138 1154	telephone number
+T32	Data-other 1178 1209	information about your business
+T33	Condition 1226 1270	purchases made through the Bookstore Website
+T34	First-party-entity 1272 1274	we
+T35	first-party-collection-use 1285 1292	collect
+E6	first-party-collection-use:T35 Data-Collector:T34 Condition-Argument:T33 Data-Collected:T37 Data-Collected2:T38 Data-Collected3:T39 Data-Collected4:T40 Data-Collected5:T41 Data-Collected6:T42
+T36	data-storage-retention-deletion 1297 1302	store
+E7	data-storage-retention-deletion:T36 Data-Retained:T42 Data-Retained2:T41 Data-Retained3:T40 Data-Retained4:T39 Data-Retained5:T38 Data-Retained6:T37 Data-Holder:T34 Condition-Argument:T33
+T37	Data-user-online-activities-profiles 1314 1347	information about those purchases
+T38	Data-user-online-activities-profiles 1359 1375	titles purchased
+T39	Data-user-online-activities-profiles 1377 1408	quantity and dates of purchases
+T40	Data-finance 1414 1431	method of payment
+T41	Data-finance 1437 1463	other information provided
+T42	Data-finance 1472 1502	billing and shipping addresses
+T43	first-party-collection-use 1621 1625	used
+E8	first-party-collection-use:T43 Data-Collector:T44 Purpose-Argument:T47 Data-Collected:T51 Condition-Argument2:T50 Data-Provider:T49 Data-Provider2:T45 Data-Provider3:T46
+T44	First-party-entity 1629 1632	EMI
+T45	Third-party-entity 1649 1660	advertisers
+T46	Third-party-entity 1671 1688	service providers
+T47	Adverstising-Marketing 1692 1792	send you promotions and other communications concerning business opportunities, products or services
+T49	User 1562 1565	you
+T50	Condition 1562 1588	you have consented thereto
+T51	Data-general 1537 1548	information
+T52	First-party-entity 2151 2153	We
+T53	first-party-collection-use 2158 2161	use
+E9	first-party-collection-use:T53 Data-Collected:T54 Data-Collector:T52 Data-Provider:T85
+T54	Data-contact 2166 2203	name you provide for your EMI Profile
+T55	First-party-entity 2340 2342	we
+T56	first-party-collection-use 2347 2354	replace
+E10	first-party-collection-use:T56 Purpose-Argument:T58 Data-Provider:T59 Data-Collected:T57 Data-Collector:T55
+T57	Data-contact 2355 2398	past names associated with your EMI Account
+T58	Basic-service-feature 2408 2464	you are represented consistently across all our services
+T59	User 2408 2411	you
+T60	First-party-entity 2488 2490	we
+T61	User 2471 2474	you
+T62	Condition 2471 2486	you contact EMI
+T63	data-storage-retention-deletion 2491 2497	retain
+E11	data-storage-retention-deletion:T63 Purpose-Argument:T66 Purpose-Argument2:T65 Data-Retained:T64 Data-Holder:T60 Condition-Argument:T62 Data-Provider:T61
+T64	Data-user-online-activities-profiles 2498 2529	a record of your communications
+T65	Communications 2533 2574	help solve any issues you might be facing
+T66	Service-operation-and-security 2582 2627	maintain a record to assist with legal claims
+T67	First-party-entity 2629 2631	We
+T68	data-storage-retention-deletion 2637 2641	keep
+E12	data-storage-retention-deletion:T68 Retention-Period:T70 Data-Retained:T69 Data-Holder:T67
+T69	Data-general 2648 2655	records
+T70	retention-period 2660 2692	a period of no more than 6 years
+T71	First-party-entity 2731 2733	we
+T72	User 2703 2706	you
+T73	Condition 2703 2729	you have consented thereto
+T74	first-party-collection-use 2738 2741	use
+E13	first-party-collection-use:T74 Purpose-Argument:T77 Purpose-Argument2:T76 Data-Collected:T75 Data-Collector:T71 Condition-Argument:T73 Data-Provider:T72
+T75	Data-contact 2747 2760	email address
+T76	Adverstising-Marketing 2764 2829	inform you about the products and services offered on our Service
+T77	Communications 2839 2894	letting you know about upcoming changes or improvements
+T78	First-party-entity 2896 2898	We
+T79	first-party-collection-use 2899 2902	use
+E14	first-party-collection-use:T79 Purpose-Argument:T84 Data-Collected:T83 Data-Collected2:T82 Data-Collected3:T81 Data-Collected4:T80 Data-Collector:T78
+T80	Data-general 2903 2914	information
+T81	Data-cookies-web-beacons-and-other-technologies 2930 2937	cookies
+T82	Data-cookies-web-beacons-and-other-technologies 2942 2960	other technologies
+T83	Data-cookies-web-beacons-and-other-technologies 2967 2977	pixel tags
+T84	Analytics-research 2982 3050	improve your user experience and the overall quality of our services
+T85	User 2300 2303	you

@@ -1,0 +1,18 @@
+T1	First-party-entity 56 59	Our
+T2	first-party-collection-use 65 72	collect
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Provider:T4 Condition-Argument:T5 Data-Collected2:T6 Data-Collected3:T7 Condition-Argument2:T8 Data-Collected4:T9 Data-Collected5:T10 Condition-Argument3:T11 Condition-Argument4:T12 Data-Collected6:T13 Condition-Argument5:T14 Data-Collected7:T15 Data-Collected8:T16 Data-Collected9:T17
+T3	Data-general 87 98	information
+T4	User 105 108	you
+T5	Condition 174 211	you agree to receive personalized ads
+T6	Data-location 213 245	data about your general location
+T7	Data-computer-device 254 301	Identifier for Advertising (IDFA) of the device
+T8	Condition 311 359	you participate in any chat activity on our apps
+T9	Data-user-online-activities-profiles 382 388	handle
+T10	Data-user-online-activities-profiles 397 457	data that you share within your messages posted to that chat
+T11	Condition 468 523	you choose to use the Facebook connection functionality
+T12	Condition 528 571	depending on your Facebook privacy settings
+T13	Data-user-online-activities-profiles 578 612	basic Facebook profile information
+T14	Condition 621 662	you contact our customer support function
+T15	Data-contact 685 699	e-mail address
+T16	Data-user-online-activities-profiles 712 776	any other information you include in your correspondence with us
+T17	Data-user-online-activities-profiles 789 827	any updates to any of that information

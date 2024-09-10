@@ -1,0 +1,121 @@
+{
+  "text": "1. Collection of your personal information and how we use it\n\n\n",
+  "words": [
+    "1",
+    ".",
+    "Collection",
+    "of",
+    "your",
+    "personal",
+    "information",
+    "and",
+    "how",
+    "we",
+    "use",
+    "it"
+  ],
+  "lemma": [
+    "1",
+    ".",
+    "collection",
+    "of",
+    "you",
+    "personal",
+    "information",
+    "and",
+    "how",
+    "we",
+    "use",
+    "it"
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "NN",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    "CC",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP"
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "root",
+    "case",
+    "nmod:poss",
+    "amod",
+    "nmod",
+    "cc",
+    "advmod",
+    "nsubj",
+    "conj",
+    "obj"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      14,
+      16
+    ],
+    [
+      17,
+      21
+    ],
+    [
+      22,
+      30
+    ],
+    [
+      31,
+      42
+    ],
+    [
+      43,
+      46
+    ],
+    [
+      47,
+      50
+    ],
+    [
+      51,
+      53
+    ],
+    [
+      54,
+      57
+    ],
+    [
+      58,
+      60
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      11
+    ]
+  ],
+  "entity/argument_mentions": [],
+  "event_mentions": []
+}

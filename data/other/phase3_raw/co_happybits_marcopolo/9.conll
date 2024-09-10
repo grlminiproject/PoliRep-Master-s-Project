@@ -1,0 +1,26 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Managing your Information
+1	Managing	manage	VERB	VBG	VerbForm=Ger	0	root	_	TokenRange=0:8
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=9:13
+3	Information	information	NOUN	NN	Number=Sing	1	obj	_	SpacesAfter=\n\n|TokenRange=14:25
+
+# newpar
+# sent_id = 2
+# text = You can manage your Personal Information in the Marco Polo App’s Settings.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=27:30
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=31:34
+3	manage	manage	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=35:41
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=42:46
+5	Personal	Personal	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=47:55
+6	Information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=56:67
+7	in	in	ADP	IN	_	13	case	_	TokenRange=68:70
+8	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=71:74
+9	Marco	Marco	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=75:80
+10	Polo	Polo	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=81:85
+11	App	App	PROPN	NNP	Number=Sing	13	nmod:poss	_	SpaceAfter=No|TokenRange=86:89
+12	’s	's	PART	POS	_	11	case	_	TokenRange=89:91
+13	Settings	setting	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=92:100
+14	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=100:101
+

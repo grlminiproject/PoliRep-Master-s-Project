@@ -1,0 +1,53 @@
+{
+  "text": "How We Collect Information\n\n\n",
+  "words": [
+    "How",
+    "We",
+    "Collect",
+    "Information"
+  ],
+  "lemma": [
+    "how",
+    "we",
+    "collect",
+    "information"
+  ],
+  "pos-tags": [
+    "WRB",
+    "PRP",
+    "VBP",
+    "NN"
+  ],
+  "dependency-relation": [
+    "advmod",
+    "nsubj",
+    "root",
+    "obj"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      7,
+      14
+    ],
+    [
+      15,
+      26
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      3
+    ]
+  ],
+  "entity/argument_mentions": [],
+  "event_mentions": []
+}

@@ -1,0 +1,13 @@
+T1	First-party-entity 163 165	we
+T2	Negation 169 172	not
+T4	first-party-collection-use 183 190	collect
+E1	first-party-collection-use:T4 Data-Collector:T1 Polarity:T2 Data-Collected:T5 Data-Provider:T6
+T5	Data-general 195 215	personal information
+T6	User 221 247	children younger than this
+T7	User 256 288	you are aged below the age of 16
+T8	Condition 256 411	you are aged below the age of 16 and we learn that we have inadvertently obtained personal information from you from our websites, or from any other source
+T9	First-party-entity 293 295	we
+T11	Data-general 338 358	personal information
+T12	data-storage-retention-deletion 426 432	delete
+E2	data-storage-retention-deletion:T12 Data-Holder:T9 Data-Retained:T11 Retention-Period:T13 Condition-Argument2:T8 Data-Provider:T7
+T13	retention-period 450 469	as soon as possible

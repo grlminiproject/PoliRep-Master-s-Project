@@ -1,0 +1,73 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Do Not Track
+1	Do	do	AUX	VB	Mood=Imp|VerbForm=Fin	3	aux	_	TokenRange=0:2
+2	Not	not	PART	RB	_	3	advmod	_	TokenRange=3:6
+3	Track	track	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	SpacesAfter=\n\n|TokenRange=7:12
+
+# newpar
+# sent_id = 2
+# text = You may be able to adjust your browser settings or other settings so that "do not track" requests are sent to the Service's websites.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=14:17
+2	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=18:21
+3	be	be	AUX	VB	VerbForm=Inf	4	cop	_	TokenRange=22:24
+4	able	able	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=25:29
+5	to	to	PART	TO	_	6	mark	_	TokenRange=30:32
+6	adjust	adjust	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=33:39
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=40:44
+8	browser	browser	NOUN	NN	Number=Sing	9	compound	_	TokenRange=45:52
+9	settings	setting	NOUN	NNS	Number=Plur	6	obj	_	TokenRange=53:61
+10	or	or	CCONJ	CC	_	12	cc	_	TokenRange=62:64
+11	other	other	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=65:70
+12	settings	setting	NOUN	NNS	Number=Plur	9	conj	_	TokenRange=71:79
+13	so	so	SCONJ	IN	_	18	mark	_	TokenRange=80:82
+14	that	that	SCONJ	IN	_	13	fixed	_	TokenRange=83:87
+15	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No|TokenRange=88:89
+16	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux	_	TokenRange=89:91
+17	not	not	PART	RB	_	18	advmod	_	TokenRange=92:95
+18	track	track	VERB	VB	VerbForm=Inf	6	advcl	_	SpaceAfter=No|TokenRange=96:101
+19	"	"	PUNCT	``	_	22	punct	_	TokenRange=101:102
+20	requests	request	NOUN	NNS	Number=Plur	22	nsubj:pass	_	TokenRange=103:111
+21	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	22	aux:pass	_	TokenRange=112:115
+22	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	ccomp	_	TokenRange=116:120
+23	to	to	ADP	IN	_	27	case	_	TokenRange=121:123
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	TokenRange=124:127
+25	Service	service	NOUN	NN	Number=Sing	27	nmod:poss	_	SpaceAfter=No|TokenRange=128:135
+26	's	's	PART	POS	_	25	case	_	TokenRange=135:137
+27	websites	website	NOUN	NNS	Number=Plur	22	obl	_	SpaceAfter=No|TokenRange=138:146
+28	.	.	PUNCT	.	_	4	punct	_	TokenRange=146:147
+
+# sent_id = 3
+# text = We will not disable tracking technology that may be active on the Service in response to any "do not track" requests that are sent to the Service.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=148:150
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=151:155
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=156:159
+4	disable	disable	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=160:167
+5	tracking	tracke	VERB	VBG	VerbForm=Ger	6	amod	_	TokenRange=168:176
+6	technology	technology	NOUN	NN	Number=Sing	4	obj	_	TokenRange=177:187
+7	that	that	PRON	WDT	PronType=Rel	10	nsubj	_	TokenRange=188:192
+8	may	may	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=193:196
+9	be	be	AUX	VB	VerbForm=Inf	10	cop	_	TokenRange=197:199
+10	active	active	ADJ	JJ	Degree=Pos	6	acl:relcl	_	TokenRange=200:206
+11	on	on	ADP	IN	_	13	case	_	TokenRange=207:209
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=210:213
+13	Service	service	NOUN	NN	Number=Sing	10	obl	_	TokenRange=214:221
+14	in	in	ADP	IN	_	15	case	_	TokenRange=222:224
+15	response	response	NOUN	NN	Number=Sing	10	obl	_	TokenRange=225:233
+16	to	to	ADP	IN	_	17	case	_	TokenRange=234:236
+17	any	any	DET	DT	_	15	nmod	_	TokenRange=237:240
+18	"	"	PUNCT	``	_	4	punct	_	SpaceAfter=No|TokenRange=241:242
+19	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	aux	_	TokenRange=242:244
+20	not	not	PART	RB	_	21	advmod	_	TokenRange=245:248
+21	track	track	VERB	VB	VerbForm=Inf	4	ccomp	_	SpaceAfter=No|TokenRange=249:254
+22	"	"	PUNCT	``	_	23	punct	_	TokenRange=254:255
+23	requests	request	NOUN	NNS	Number=Plur	21	obj	_	TokenRange=256:264
+24	that	that	PRON	WDT	PronType=Rel	26	nsubj:pass	_	TokenRange=265:269
+25	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	26	aux:pass	_	TokenRange=270:273
+26	sent	send	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	23	acl:relcl	_	TokenRange=274:278
+27	to	to	ADP	IN	_	29	case	_	TokenRange=279:281
+28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	TokenRange=282:285
+29	Service	service	NOUN	NN	Number=Sing	26	obl	_	SpaceAfter=No|TokenRange=286:293
+30	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=293:294
+

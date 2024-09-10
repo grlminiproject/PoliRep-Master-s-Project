@@ -1,0 +1,76 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = California Privacy Rights
+1	California	California	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=0:10
+2	Privacy	privacy	NOUN	NN	Number=Sing	3	compound	_	TokenRange=11:18
+3	Rights	rights	NOUN	NNS	Number=Plur	0	root	_	SpacesAfter=\n\n|TokenRange=19:25
+
+# newpar
+# sent_id = 2
+# text = For all users, including California residents:
+1	For	for	ADP	IN	_	3	case	_	TokenRange=27:30
+2	all	all	DET	DT	_	3	det	_	TokenRange=31:34
+3	users	user	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=35:40
+4	,	,	PUNCT	,	_	3	punct	_	TokenRange=40:41
+5	including	include	VERB	VBG	VerbForm=Ger	7	case	_	TokenRange=42:51
+6	California	California	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=52:62
+7	residents	resident	NOUN	NNS	Number=Plur	3	nmod	_	SpaceAfter=No|TokenRange=63:72
+8	:	:	PUNCT	:	_	3	punct	_	TokenRange=72:73
+
+# sent_id = 3
+# text = We do not disclose Personal Information beyond what is described in this Policy.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=74:76
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=77:79
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=80:83
+4	disclose	disclose	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=84:92
+5	Personal	Personal	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=93:101
+6	Information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=102:113
+7	beyond	beyond	SCONJ	IN	_	10	mark	_	TokenRange=114:120
+8	what	what	PRON	WP	PronType=Int	10	nsubj:pass	_	TokenRange=121:125
+9	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	10	aux:pass	_	TokenRange=126:128
+10	described	describe	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	4	advcl	_	TokenRange=129:138
+11	in	in	ADP	IN	_	13	case	_	TokenRange=139:141
+12	this	this	DET	DT	Number=Sing|PronType=Dem	13	det	_	TokenRange=142:146
+13	Policy	policy	NOUN	NN	Number=Sing	10	obl	_	SpaceAfter=No|TokenRange=147:153
+14	.	.	PUNCT	.	_	4	punct	_	TokenRange=153:154
+
+# sent_id = 4
+# text = Under California law, you have the right to request information about our disclosure of Personal Information to third parties.
+1	Under	under	ADP	IN	_	3	case	_	TokenRange=155:160
+2	California	California	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=161:171
+3	law	law	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=172:175
+4	,	,	PUNCT	,	_	6	punct	_	TokenRange=175:176
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	TokenRange=177:180
+6	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=181:185
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=186:189
+8	right	right	NOUN	NN	Number=Sing	6	obj	_	TokenRange=190:195
+9	to	to	PART	TO	_	10	mark	_	TokenRange=196:198
+10	request	request	VERB	VB	VerbForm=Inf	8	acl	_	TokenRange=199:206
+11	information	information	NOUN	NN	Number=Sing	10	obj	_	TokenRange=207:218
+12	about	about	ADP	IN	_	14	case	_	TokenRange=219:224
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=225:228
+14	disclosure	disclosure	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=229:239
+15	of	of	ADP	IN	_	17	case	_	TokenRange=240:242
+16	Personal	Personal	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=243:251
+17	Information	information	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=252:263
+18	to	to	ADP	IN	_	20	case	_	TokenRange=264:266
+19	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	20	amod	_	TokenRange=267:272
+20	parties	party	NOUN	NNS	Number=Plur	10	nmod	_	SpaceAfter=No|TokenRange=273:280
+21	.	.	PUNCT	.	_	6	punct	_	TokenRange=280:281
+
+# sent_id = 5
+# text = To make such a request, please contact us at privacy@marcopolo.me.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=282:284
+2	make	make	VERB	VB	VerbForm=Inf	8	advcl	_	TokenRange=285:289
+3	such	such	DET	PDT	_	5	det:predet	_	TokenRange=290:294
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=295:296
+5	request	request	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=297:304
+6	,	,	PUNCT	,	_	8	punct	_	TokenRange=304:305
+7	please	please	INTJ	UH	_	8	discourse	_	TokenRange=306:312
+8	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=313:320
+9	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obj	_	TokenRange=321:323
+10	at	at	ADP	IN	_	11	case	_	TokenRange=324:326
+11	privacy@marcopolo.me	privacy@marcopolo.me	NOUN	NN	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=327:347
+12	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n\n|TokenRange=347:348
+

@@ -1,0 +1,14 @@
+T6	EmailAddress 1113 1126	email address
+T7	PostalCode 1128 1136	zip code
+T8	TelephoneNumber 1138 1154	telephone number
+T9	Data-general 1178 1209	information about your business
+T10	Data-general 1314 1347	information about those purchases
+T11	Purchase 1359 1375	titles purchased
+T12	Purchase 1377 1408	quantity and dates of purchases
+T13	Financial 1414 1431	method of payment
+T14	Data-general 1437 1463	other information provided
+T15	PhysicalAddress 1472 1502	billing and shipping addresses
+T17	Name 2166 2203	name you provide for your EMI Profile
+T18	Name 2355 2398	past names associated with your EMI Account
+T20	Communication 2498 2529	a record of your communications
+T23	EmailAddress 2747 2760	email address

@@ -1,0 +1,12 @@
+T5	Data-general 119 130	information
+T6	PurchasesAndSpendingHabit 152 218	your application usage, access, session times and in-app purchases
+T7	UID 222 243	your unique device ID
+T8	DeviceBased 277 290	hardware type
+T9	MACAddress 294 330	media access control (“MAC”) address
+T10	DeviceOperatingSystem 334 377	the version of your operating system (“OS”)
+T11	EmailAddress 381 399	your email address
+T18	UID 735 749	unique user ID
+T20	Identifying 838 857	profile information
+T21	UID 789 803	unique user ID
+T24	Data-general 135 139	data
+T28	Data-general 437 453	This information

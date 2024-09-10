@@ -1,0 +1,13 @@
+T1	First-party-entity 20 23	Our
+T2	Negation 90 93	not
+T4	first-party-collection-use 104 111	collect
+E1	first-party-collection-use:T4 Data-Collector:T1 Polarity:T2 Data-Provider:T6 Data-Collected:T5
+T5	Data-general 123 134	information
+T6	User 51 79	children under the age of 13
+T7	Condition 186 289	we learn that we have collected personal information from a child under age 13 without parental consent
+T8	First-party-entity 186 188	we
+T9	data-storage-retention-deletion 299 305	delete
+E2	data-storage-retention-deletion:T9 Retention-Period:T11 Data-Holder:T8 Condition-Argument:T7 Data-Provider:T12 Data-Retained2:T13
+T11	retention-period 323 345	as quickly as possible
+T12	User 246 264	child under age 13
+T13	Data-general 218 238	personal information

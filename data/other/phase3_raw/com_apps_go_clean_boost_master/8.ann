@@ -1,0 +1,12 @@
+T1	Condition 31 67	you use Weather features or services
+T2	User 31 34	you
+T3	First-party-entity 69 71	we
+T4	first-party-collection-use 76 83	collect
+E1	first-party-collection-use:T4 Data-Collected:T5 Data-Collector:T3 Condition-Argument:T1 Data-Provider:T2
+T5	Data-location 96 134	information about your actual location
+T6	first-party-collection-use 218 228	collection
+E2	first-party-collection-use:T6 Data-Collected:T7 Purpose-Argument:T8 Data-Collector:T10 Data-Provider:T9
+T7	Data-location 240 260	location information
+T8	Basic-service-feature 268 282	weather report
+T9	User 290 293	you
+T10	First-party-entity 329 331	we

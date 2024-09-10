@@ -1,0 +1,7 @@
+T1	First-party-entity 48 50	We
+T2	data-storage-retention-deletion 51 55	keep
+E1	data-storage-retention-deletion:T2 Data-Holder:T1 Data-Provider:T3 Data-Retained:T4 Retention-Period:T5 Purpose-Argument:T6
+T3	User 56 60	your
+T4	Data-general 61 81	personal information
+T5	retention-period 86 110	no longer than necessary
+T6	Other 115 175	the purposes for which the personal information is processed

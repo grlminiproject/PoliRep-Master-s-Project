@@ -1,0 +1,495 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How We Share Information
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=4:6
+3	Share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7:12
+4	Information	information	NOUN	NN	Number=Sing	3	obj	_	SpacesAfter=\n\n|TokenRange=13:24
+
+# newpar
+# sent_id = 2
+# text = We may share information about you in the following ways: With other 9GAG Users.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=26:28
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=29:32
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=33:38
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=39:50
+5	about	about	ADP	IN	_	6	case	_	TokenRange=51:56
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	TokenRange=57:60
+7	in	in	ADP	IN	_	10	case	_	TokenRange=61:63
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=64:67
+9	following	follow	VERB	VBG	VerbForm=Ger	10	amod	_	TokenRange=68:77
+10	ways	way	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=78:82
+11	:	:	PUNCT	:	_	3	punct	_	SpacesAfter=\n|TokenRange=82:83
+12	With	with	ADP	IN	_	15	case	_	TokenRange=84:88
+13	other	other	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=89:94
+14	9GAG	9gag	NOUN	NN	Number=Sing	15	compound	_	TokenRange=95:99
+15	Users	user	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=100:105
+16	.	.	PUNCT	.	_	3	punct	_	TokenRange=105:106
+
+# sent_id = 3
+# text = We may share information with other 9GAG users.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=107:109
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=110:113
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=114:119
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=120:131
+5	with	with	ADP	IN	_	8	case	_	TokenRange=132:136
+6	other	other	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=137:142
+7	9GAG	9gag	NOUN	NN	Number=Sing	8	compound	_	TokenRange=143:147
+8	users	user	NOUN	NNS	Number=Plur	4	nmod	_	SpaceAfter=No|TokenRange=148:153
+9	.	.	PUNCT	.	_	3	punct	_	TokenRange=153:154
+
+# sent_id = 4
+# text = Examples include: Information about you, such as your name, username, and profile pictures.
+1	Examples	example	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=155:163
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=164:171
+3	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=171:172
+4	Information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=173:184
+5	about	about	ADP	IN	_	6	case	_	TokenRange=185:190
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	SpaceAfter=No|TokenRange=191:194
+7	,	,	PUNCT	,	_	4	punct	_	TokenRange=194:195
+8	such	such	ADJ	JJ	Degree=Pos	11	case	_	TokenRange=196:200
+9	as	as	ADP	IN	_	8	fixed	_	TokenRange=201:203
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=204:208
+11	name	name	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No|TokenRange=209:213
+12	,	,	PUNCT	,	_	13	punct	_	TokenRange=213:214
+13	username	username	NOUN	NN	Number=Sing	11	conj	_	SpaceAfter=No|TokenRange=215:223
+14	,	,	PUNCT	,	_	17	punct	_	TokenRange=223:224
+15	and	and	CCONJ	CC	_	17	cc	_	TokenRange=225:228
+16	profile	profile	NOUN	NN	Number=Sing	17	compound	_	TokenRange=229:236
+17	pictures	picture	NOUN	NNS	Number=Plur	11	conj	_	SpaceAfter=No|TokenRange=237:245
+18	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=245:246
+
+# sent_id = 5
+# text = Information you upload, such as image or video posts.
+1	Information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=247:258
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	appos	_	TokenRange=259:262
+3	upload	upload	ADJ	JJ	Degree=Pos	2	amod	_	SpaceAfter=No|TokenRange=263:269
+4	,	,	PUNCT	,	_	3	punct	_	TokenRange=269:270
+5	such	such	ADJ	JJ	Degree=Pos	7	case	_	TokenRange=271:275
+6	as	as	ADP	IN	_	5	fixed	_	TokenRange=276:278
+7	image	image	NOUN	NN	Number=Sing	3	obl	_	TokenRange=279:284
+8	or	or	CCONJ	CC	_	10	cc	_	TokenRange=285:287
+9	video	video	NOUN	NN	Number=Sing	10	compound	_	TokenRange=288:293
+10	posts	post	NOUN	NNS	Number=Plur	7	conj	_	SpaceAfter=No|TokenRange=294:299
+11	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=299:300
+
+# sent_id = 6
+# text = Information about how you interacted with our services, such as the content you saved, the comments you post, and the content you upvote and downvote.
+1	Information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=301:312
+2	about	about	SCONJ	IN	_	5	mark	_	TokenRange=313:318
+3	how	how	ADV	WRB	PronType=Int	5	advmod	_	TokenRange=319:322
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=323:326
+5	interacted	interact	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	1	acl	_	TokenRange=327:337
+6	with	with	ADP	IN	_	8	case	_	TokenRange=338:342
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=343:346
+8	services	service	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No|TokenRange=347:355
+9	,	,	PUNCT	,	_	1	punct	_	TokenRange=355:356
+10	such	such	ADJ	JJ	Degree=Pos	13	case	_	TokenRange=357:361
+11	as	as	ADP	IN	_	10	fixed	_	TokenRange=362:364
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=365:368
+13	content	content	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=369:376
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	15	nsubj	_	TokenRange=377:380
+15	saved	save	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	13	acl:relcl	_	SpaceAfter=No|TokenRange=381:386
+16	,	,	PUNCT	,	_	18	punct	_	TokenRange=386:387
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=388:391
+18	comments	comment	NOUN	NNS	Number=Plur	13	conj	_	TokenRange=392:400
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	TokenRange=401:404
+20	post	post	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No|TokenRange=405:409
+21	,	,	PUNCT	,	_	24	punct	_	TokenRange=409:410
+22	and	and	CCONJ	CC	_	24	cc	_	TokenRange=411:414
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	TokenRange=415:418
+24	content	content	NOUN	NN	Number=Sing	13	conj	_	TokenRange=419:426
+25	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	26	nsubj	_	TokenRange=427:430
+26	upvote	upvote	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	24	acl:relcl	_	TokenRange=431:437
+27	and	and	CCONJ	CC	_	28	cc	_	TokenRange=438:441
+28	downvote	downvote	NOUN	NN	Number=Sing	26	conj	_	SpaceAfter=No|TokenRange=442:450
+29	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=450:451
+
+# sent_id = 7
+# text = With all 9GAG Users, our business partners, and the general public.
+1	With	with	ADP	IN	_	4	case	_	TokenRange=452:456
+2	all	all	DET	DT	_	4	det	_	TokenRange=457:460
+3	9GAG	9gag	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=461:465
+4	Users	user	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=466:471
+5	,	,	PUNCT	,	_	8	punct	_	TokenRange=471:472
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=473:476
+7	business	business	NOUN	NN	Number=Sing	8	compound	_	TokenRange=477:485
+8	partners	partner	NOUN	NNS	Number=Plur	4	conj	_	SpaceAfter=No|TokenRange=486:494
+9	,	,	PUNCT	,	_	13	punct	_	TokenRange=494:495
+10	and	and	CCONJ	CC	_	13	cc	_	TokenRange=496:499
+11	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=500:503
+12	general	general	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=504:511
+13	public	public	NOUN	NN	Number=Sing	4	conj	_	SpaceAfter=No|TokenRange=512:518
+14	.	.	PUNCT	.	_	4	punct	_	TokenRange=518:519
+
+# sent_id = 8
+# text = We may share information with all 9GAG users, our business partners, and the general public.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=520:522
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=523:526
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=527:532
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=533:544
+5	with	with	ADP	IN	_	8	case	_	TokenRange=545:549
+6	all	all	DET	DT	_	8	det	_	TokenRange=550:553
+7	9GAG	9gag	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=554:558
+8	users	user	NOUN	NNS	Number=Plur	4	nmod	_	SpaceAfter=No|TokenRange=559:564
+9	,	,	PUNCT	,	_	12	punct	_	TokenRange=564:565
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=566:569
+11	business	business	NOUN	NN	Number=Sing	12	compound	_	TokenRange=570:578
+12	partners	partner	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=579:587
+13	,	,	PUNCT	,	_	17	punct	_	TokenRange=587:588
+14	and	and	CCONJ	CC	_	17	cc	_	TokenRange=589:592
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=593:596
+16	general	general	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=597:604
+17	public	public	NOUN	NN	Number=Sing	3	conj	_	SpaceAfter=No|TokenRange=605:611
+18	.	.	PUNCT	.	_	3	punct	_	TokenRange=611:612
+
+# sent_id = 9
+# text = Examples include: Public information like your name, username, and profile pictures.
+1	Examples	example	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=613:621
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=622:629
+3	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=629:630
+4	Public	public	NOUN	NN	Number=Sing	5	compound	_	TokenRange=631:637
+5	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=638:649
+6	like	like	ADP	IN	_	8	case	_	TokenRange=650:654
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=655:659
+8	name	name	NOUN	NN	Number=Sing	5	nmod	_	SpaceAfter=No|TokenRange=660:664
+9	,	,	PUNCT	,	_	10	punct	_	TokenRange=664:665
+10	username	username	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|TokenRange=666:674
+11	,	,	PUNCT	,	_	14	punct	_	TokenRange=674:675
+12	and	and	CCONJ	CC	_	14	cc	_	TokenRange=676:679
+13	profile	profile	NOUN	NN	Number=Sing	14	compound	_	TokenRange=680:687
+14	pictures	picture	NOUN	NNS	Number=Plur	8	conj	_	SpaceAfter=No|TokenRange=688:696
+15	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=696:697
+
+# sent_id = 10
+# text = Content submissions and saved content set to be viewable by everyone.
+1	Content	content	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=698:705
+2	submissions	submission	NOUN	NNS	Number=Plur	0	root	_	TokenRange=706:717
+3	and	and	CCONJ	CC	_	5	cc	_	TokenRange=718:721
+4	saved	save	VERB	VBN	Tense=Past|VerbForm=Part	5	amod	_	TokenRange=722:727
+5	content	content	NOUN	NN	Number=Sing	2	conj	_	TokenRange=728:735
+6	set	set	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	TokenRange=736:739
+7	to	to	PART	TO	_	9	mark	_	TokenRange=740:742
+8	be	be	AUX	VB	VerbForm=Inf	9	cop	_	TokenRange=743:745
+9	viewable	viewable	ADJ	JJ	Degree=Pos	6	xcomp	_	TokenRange=746:754
+10	by	by	ADP	IN	_	11	case	_	TokenRange=755:757
+11	everyone	everyone	PRON	NN	Number=Sing	9	obl	_	SpaceAfter=No|TokenRange=758:766
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=766:767
+
+# sent_id = 11
+# text = Content from our services that you share on other services, such as Facebook or Pinterest.
+1	Content	contend	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=768:775
+2	from	from	ADP	IN	_	4	case	_	TokenRange=776:780
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=781:784
+4	services	service	NOUN	NNS	Number=Plur	1	obl	_	TokenRange=785:793
+5	that	that	PRON	WDT	PronType=Rel	7	obj	_	TokenRange=794:798
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	TokenRange=799:802
+7	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	acl:relcl	_	TokenRange=803:808
+8	on	on	ADP	IN	_	10	case	_	TokenRange=809:811
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=812:817
+10	services	service	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No|TokenRange=818:826
+11	,	,	PUNCT	,	_	10	punct	_	TokenRange=826:827
+12	such	such	ADJ	JJ	Degree=Pos	14	case	_	TokenRange=828:832
+13	as	as	ADP	IN	_	12	fixed	_	TokenRange=833:835
+14	Facebook	Facebook	PROPN	NNP	Number=Sing	10	nmod	_	TokenRange=836:844
+15	or	or	CCONJ	CC	_	16	cc	_	TokenRange=845:847
+16	Pinterest	Pinterest	PROPN	NNP	Number=Sing	14	conj	_	SpaceAfter=No|TokenRange=848:857
+17	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=857:858
+
+# sent_id = 12
+# text = With our affiliates.
+1	With	with	ADP	IN	_	3	case	_	TokenRange=859:863
+2	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=864:867
+3	affiliates	affiliate	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=868:878
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=878:879
+
+# sent_id = 13
+# text = We may share information with the entities within the 9GAG Limited family of companies.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=880:882
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=883:886
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=887:892
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=893:904
+5	with	with	ADP	IN	_	7	case	_	TokenRange=905:909
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=910:913
+7	entities	entity	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=914:922
+8	within	within	ADP	IN	_	12	case	_	TokenRange=923:929
+9	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=930:933
+10	9GAG	9gag	PROPN	NNP	Number=Sing	11	compound	_	TokenRange=934:938
+11	Limited	limit	PROPN	NNP	Number=Sing	12	compound	_	TokenRange=939:946
+12	family	family	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=947:953
+13	of	of	ADP	IN	_	14	case	_	TokenRange=954:956
+14	companies	companey	NOUN	NNS	Number=Plur	12	nmod	_	SpaceAfter=No|TokenRange=957:966
+15	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=966:967
+
+# sent_id = 14
+# text = With third parties.
+1	With	with	ADP	IN	_	3	case	_	TokenRange=968:972
+2	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	TokenRange=973:978
+3	parties	party	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=979:986
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=986:987
+
+# sent_id = 15
+# text = We may share your information with third parties.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=988:990
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=991:994
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=995:1000
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=1001:1005
+5	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1006:1017
+6	with	with	ADP	IN	_	8	case	_	TokenRange=1018:1022
+7	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	8	amod	_	TokenRange=1023:1028
+8	parties	party	NOUN	NNS	Number=Plur	3	obl	_	SpaceAfter=No|TokenRange=1029:1036
+9	.	.	PUNCT	.	_	3	punct	_	TokenRange=1036:1037
+
+# sent_id = 16
+# text = Examples include: With service providers.
+1	Examples	example	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=1038:1046
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1047:1054
+3	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=1054:1055
+4	With	with	SCONJ	IN	_	6	mark	_	TokenRange=1056:1060
+5	service	service	NOUN	NN	Number=Sing	6	compound	_	TokenRange=1061:1068
+6	providers	provider	NOUN	NNS	Number=Plur	2	appos	_	SpaceAfter=No|TokenRange=1069:1078
+7	.	.	PUNCT	.	_	6	punct	_	TokenRange=1078:1079
+
+# sent_id = 17
+# text = We may share information about you with service providers who perform services on our behalf.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1080:1082
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1083:1086
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1087:1092
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1093:1104
+5	about	about	ADP	IN	_	6	case	_	TokenRange=1105:1110
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	TokenRange=1111:1114
+7	with	with	ADP	IN	_	9	case	_	TokenRange=1115:1119
+8	service	service	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1120:1127
+9	providers	provider	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=1128:1137
+10	who	who	PRON	WP	PronType=Rel	11	nsubj	_	TokenRange=1138:1141
+11	perform	perform	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	TokenRange=1142:1149
+12	services	service	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=1150:1158
+13	on	on	ADP	IN	_	15	case	_	TokenRange=1159:1161
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=1162:1165
+15	behalf	behalf	NOUN	NN	Number=Sing	11	obl	_	SpaceAfter=No|TokenRange=1166:1172
+16	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=1172:1173
+
+# sent_id = 18
+# text = With business partners.
+1	With	with	ADP	IN	_	3	case	_	TokenRange=1174:1178
+2	business	business	NOUN	NN	Number=Sing	3	compound	_	TokenRange=1179:1187
+3	partners	partner	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=1188:1196
+4	.	.	PUNCT	.	_	3	punct	_	TokenRange=1196:1197
+
+# sent_id = 19
+# text = We may share information about you with business partners that provide services and functionality.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1198:1200
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1201:1204
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1205:1210
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1211:1222
+5	about	about	ADP	IN	_	6	case	_	TokenRange=1223:1228
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	nmod	_	TokenRange=1229:1232
+7	with	with	ADP	IN	_	9	case	_	TokenRange=1233:1237
+8	business	business	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1238:1246
+9	partners	partner	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=1247:1255
+10	that	that	PRON	WDT	PronType=Rel	11	nsubj	_	TokenRange=1256:1260
+11	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	TokenRange=1261:1268
+12	services	service	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=1269:1277
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=1278:1281
+14	functionality	functionality	NOUN	NN	Number=Sing	12	conj	_	SpaceAfter=No|TokenRange=1282:1295
+15	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=1295:1296
+
+# sent_id = 20
+# text = With third parties for legal reasons.
+1	With	with	ADP	IN	_	3	case	_	TokenRange=1297:1301
+2	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	TokenRange=1302:1307
+3	parties	party	NOUN	NNS	Number=Plur	0	root	_	TokenRange=1308:1315
+4	for	for	ADP	IN	_	6	case	_	TokenRange=1316:1319
+5	legal	legal	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=1320:1325
+6	reasons	reason	NOUN	NNS	Number=Plur	3	nmod	_	SpaceAfter=No|TokenRange=1326:1333
+7	.	.	PUNCT	.	_	3	punct	_	TokenRange=1333:1334
+
+# sent_id = 21
+# text = We may share information about you if we reasonably believe that disclosing the information is necessary.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1335:1337
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1338:1341
+3	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1342:1347
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1348:1359
+5	about	about	ADP	IN	_	6	case	_	TokenRange=1360:1365
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obl	_	TokenRange=1366:1369
+7	if	if	SCONJ	IN	_	10	mark	_	TokenRange=1370:1372
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	TokenRange=1373:1375
+9	reasonably	reasonably	ADV	RB	_	10	advmod	_	TokenRange=1376:1386
+10	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	TokenRange=1387:1394
+11	that	that	SCONJ	IN	_	16	mark	_	TokenRange=1395:1399
+12	disclosing	disclose	VERB	VBG	VerbForm=Ger	16	csubj	_	TokenRange=1400:1410
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=1411:1414
+14	information	information	NOUN	NN	Number=Sing	12	obj	_	TokenRange=1415:1426
+15	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	cop	_	TokenRange=1427:1429
+16	necessary	necessary	ADJ	JJ	Degree=Pos	10	ccomp	_	SpaceAfter=No|TokenRange=1430:1439
+17	.	.	PUNCT	.	_	3	punct	_	TokenRange=1439:1440
+
+# sent_id = 22
+# text = Examples include:
+1	Examples	example	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=1441:1449
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1450:1457
+3	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=1457:1458
+
+# sent_id = 23
+# text = To comply with any valid legal process, governmental request, or applicable law, rule or regulation.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=1459:1461
+2	comply	comply	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1462:1468
+3	with	with	ADP	IN	_	7	case	_	TokenRange=1469:1473
+4	any	any	DET	DT	_	7	det	_	TokenRange=1474:1477
+5	valid	valid	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=1478:1483
+6	legal	legal	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=1484:1489
+7	process	process	NOUN	NN	Number=Sing	2	obl	_	SpaceAfter=No|TokenRange=1490:1497
+8	,	,	PUNCT	,	_	10	punct	_	TokenRange=1497:1498
+9	governmental	governmental	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=1499:1511
+10	request	request	NOUN	NN	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=1512:1519
+11	,	,	PUNCT	,	_	14	punct	_	TokenRange=1519:1520
+12	or	or	CCONJ	CC	_	14	cc	_	TokenRange=1521:1523
+13	applicable	applicable	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=1524:1534
+14	law	law	NOUN	NN	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=1535:1538
+15	,	,	PUNCT	,	_	16	punct	_	TokenRange=1538:1539
+16	rule	rule	NOUN	NN	Number=Sing	7	conj	_	TokenRange=1540:1544
+17	or	or	CCONJ	CC	_	18	cc	_	TokenRange=1545:1547
+18	regulation	regulation	NOUN	NN	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=1548:1558
+19	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=1558:1559
+
+# sent_id = 24
+# text = To investigate, enforce, or remedy potential Terms of Service violations
+1	To	to	PART	TO	_	2	mark	_	TokenRange=1560:1562
+2	investigate	investigate	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=1563:1574
+3	,	,	PUNCT	,	_	4	punct	_	TokenRange=1574:1575
+4	enforce	enforce	NOUN	NN	Number=Sing	2	conj	_	SpaceAfter=No|TokenRange=1576:1583
+5	,	,	PUNCT	,	_	7	punct	_	TokenRange=1583:1584
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=1585:1587
+7	remedy	remedy	VERB	VB	VerbForm=Inf	2	conj	_	TokenRange=1588:1594
+8	potential	potential	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=1595:1604
+9	Terms	term	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=1605:1610
+10	of	of	ADP	IN	_	12	case	_	TokenRange=1611:1613
+11	Service	service	NOUN	NN	Number=Sing	12	compound	_	TokenRange=1614:1621
+12	violations	violations	NOUN	NNS	Number=Plur	9	nmod	_	SpacesAfter=\n|TokenRange=1622:1632
+
+# sent_id = 25
+# text = To protect the safety, rights, and property of 9GAG, our users, or others.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=1633:1635
+2	protect	protect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1636:1643
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=1644:1647
+4	safety	safety	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=1648:1654
+5	,	,	PUNCT	,	_	6	punct	_	TokenRange=1654:1655
+6	rights	rights	NOUN	NNS	Number=Plur	4	conj	_	SpaceAfter=No|TokenRange=1656:1662
+7	,	,	PUNCT	,	_	9	punct	_	TokenRange=1662:1663
+8	and	and	CCONJ	CC	_	9	cc	_	TokenRange=1664:1667
+9	property	property	NOUN	NN	Number=Sing	2	conj	_	TokenRange=1668:1676
+10	of	of	ADP	IN	_	11	case	_	TokenRange=1677:1679
+11	9GAG	9GAG	PROPN	NNP	Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=1680:1684
+12	,	,	PUNCT	,	_	14	punct	_	TokenRange=1684:1685
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=1686:1689
+14	users	user	NOUN	NNS	Number=Plur	2	conj	_	SpaceAfter=No|TokenRange=1690:1695
+15	,	,	PUNCT	,	_	17	punct	_	TokenRange=1695:1696
+16	or	or	CCONJ	CC	_	17	cc	_	TokenRange=1697:1699
+17	others	other	NOUN	NNS	Number=Plur	14	conj	_	SpaceAfter=No|TokenRange=1700:1706
+18	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=1706:1707
+
+# sent_id = 26
+# text = To detect and resolve any fraud or security matters or concerns.
+1	To	to	PART	TO	_	2	mark	_	TokenRange=1708:1710
+2	detect	detect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1711:1717
+3	and	and	CCONJ	CC	_	4	cc	_	TokenRange=1718:1721
+4	resolve	resolve	VERB	VB	VerbForm=Inf	2	conj	_	TokenRange=1722:1729
+5	any	any	DET	DT	_	9	det	_	TokenRange=1730:1733
+6	fraud	fraud	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1734:1739
+7	or	or	CCONJ	CC	_	8	cc	_	TokenRange=1740:1742
+8	security	security	NOUN	NN	Number=Sing	6	conj	_	TokenRange=1743:1751
+9	matters	matter	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=1752:1759
+10	or	or	CCONJ	CC	_	11	cc	_	TokenRange=1760:1762
+11	concerns	concern	NOUN	NNS	Number=Plur	9	conj	_	SpaceAfter=No|TokenRange=1763:1771
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=1771:1772
+
+# sent_id = 27
+# text = With third parties as part of a merger or acquisition.
+1	With	with	ADP	IN	_	3	case	_	TokenRange=1773:1777
+2	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	3	amod	_	TokenRange=1778:1783
+3	parties	party	NOUN	NNS	Number=Plur	0	root	_	TokenRange=1784:1791
+4	as	as	ADP	IN	_	5	case	_	TokenRange=1792:1794
+5	part	part	NOUN	NN	Number=Sing	3	nmod	_	TokenRange=1795:1799
+6	of	of	ADP	IN	_	8	case	_	TokenRange=1800:1802
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	TokenRange=1803:1804
+8	merger	merger	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=1805:1811
+9	or	or	CCONJ	CC	_	10	cc	_	TokenRange=1812:1814
+10	acquisition	acquisition	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|TokenRange=1815:1826
+11	.	.	PUNCT	.	_	3	punct	_	TokenRange=1826:1827
+
+# sent_id = 28
+# text = If 9GAG Limited gets involved with a merger, asset sale, financing, liquidation, bankruptcy, or acquisition of all or some portion of our business to another company, we may share your information with the company before, during, and after the transaction.
+1	If	if	SCONJ	IN	_	4	mark	_	TokenRange=1828:1830
+2	9GAG	9GAG	PROPN	NNP	Number=Sing	4	nsubj	_	TokenRange=1831:1835
+3	Limited	Limited	PROPN	NNP	Number=Sing	2	flat	_	TokenRange=1836:1843
+4	gets	get	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	35	advcl	_	TokenRange=1844:1848
+5	involved	involved	ADJ	JJ	Degree=Pos	4	xcomp	_	TokenRange=1849:1857
+6	with	with	ADP	IN	_	8	case	_	TokenRange=1858:1862
+7	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	TokenRange=1863:1864
+8	merger	merger	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No|TokenRange=1865:1871
+9	,	,	PUNCT	,	_	11	punct	_	TokenRange=1871:1872
+10	asset	asset	NOUN	NN	Number=Sing	11	compound	_	TokenRange=1873:1878
+11	sale	sale	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|TokenRange=1879:1883
+12	,	,	PUNCT	,	_	13	punct	_	TokenRange=1883:1884
+13	financing	financing	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|TokenRange=1885:1894
+14	,	,	PUNCT	,	_	15	punct	_	TokenRange=1894:1895
+15	liquidation	liquidation	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|TokenRange=1896:1907
+16	,	,	PUNCT	,	_	17	punct	_	TokenRange=1907:1908
+17	bankruptcy	bankruptcy	NOUN	NN	Number=Sing	8	conj	_	SpaceAfter=No|TokenRange=1909:1919
+18	,	,	PUNCT	,	_	20	punct	_	TokenRange=1919:1920
+19	or	or	CCONJ	CC	_	20	cc	_	TokenRange=1921:1923
+20	acquisition	acquisition	NOUN	NN	Number=Sing	8	conj	_	TokenRange=1924:1935
+21	of	of	ADP	IN	_	22	case	_	TokenRange=1936:1938
+22	all	all	DET	DT	_	20	nmod	_	TokenRange=1939:1942
+23	or	or	CCONJ	CC	_	25	cc	_	TokenRange=1943:1945
+24	some	some	DET	DT	_	25	det	_	TokenRange=1946:1950
+25	portion	portion	NOUN	NN	Number=Sing	8	conj	_	TokenRange=1951:1958
+26	of	of	ADP	IN	_	28	case	_	TokenRange=1959:1961
+27	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	28	nmod:poss	_	TokenRange=1962:1965
+28	business	business	NOUN	NN	Number=Sing	25	nmod	_	TokenRange=1966:1974
+29	to	to	ADP	IN	_	31	case	_	TokenRange=1975:1977
+30	another	another	DET	DT	_	31	det	_	TokenRange=1978:1985
+31	company	company	NOUN	NN	Number=Sing	4	obl	_	SpaceAfter=No|TokenRange=1986:1993
+32	,	,	PUNCT	,	_	35	punct	_	TokenRange=1993:1994
+33	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	35	nsubj	_	TokenRange=1995:1997
+34	may	may	AUX	MD	VerbForm=Fin	35	aux	_	TokenRange=1998:2001
+35	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=2002:2007
+36	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	37	nmod:poss	_	TokenRange=2008:2012
+37	information	information	NOUN	NN	Number=Sing	35	obj	_	TokenRange=2013:2024
+38	with	with	ADP	IN	_	40	case	_	TokenRange=2025:2029
+39	the	the	DET	DT	Definite=Def|PronType=Art	40	det	_	TokenRange=2030:2033
+40	company	company	NOUN	NN	Number=Sing	35	obl	_	TokenRange=2034:2041
+41	before	before	ADV	RB	_	40	advmod	_	SpaceAfter=No|TokenRange=2042:2048
+42	,	,	PUNCT	,	_	40	punct	_	TokenRange=2048:2049
+43	during	during	ADP	IN	_	48	case	_	SpaceAfter=No|TokenRange=2050:2056
+44	,	,	PUNCT	,	_	48	punct	_	TokenRange=2056:2057
+45	and	and	CCONJ	CC	_	48	cc	_	TokenRange=2058:2061
+46	after	after	ADP	IN	_	48	case	_	TokenRange=2062:2067
+47	the	the	DET	DT	Definite=Def|PronType=Art	48	det	_	TokenRange=2068:2071
+48	transaction	transaction	NOUN	NN	Number=Sing	35	obl	_	SpaceAfter=No|TokenRange=2072:2083
+49	.	.	PUNCT	.	_	35	punct	_	SpacesAfter=\n|TokenRange=2083:2084
+
+# sent_id = 29
+# text = We may also share aggregated, non-personally identifiable, or de-identified information with third parties, such as advertisers.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj:pass	_	TokenRange=2085:2087
+2	may	may	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=2088:2091
+3	also	also	ADV	RB	_	5	advmod	_	TokenRange=2092:2096
+4	share	share	AUX	VB	VerbForm=Inf	5	aux:pass	_	TokenRange=2097:2102
+5	aggregated	aggregate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|TokenRange=2103:2113
+6	,	,	PUNCT	,	_	8	punct	_	TokenRange=2113:2114
+7	non-personally	non-personally	ADV	RB	_	8	advmod	_	TokenRange=2115:2129
+8	identifiable	identifiable	ADJ	JJ	Degree=Pos	5	conj	_	SpaceAfter=No|TokenRange=2130:2142
+9	,	,	PUNCT	,	_	12	punct	_	TokenRange=2142:2143
+10	or	or	CCONJ	CC	_	12	cc	_	TokenRange=2144:2146
+11	de-identified	de-identified	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=2147:2160
+12	information	information	NOUN	NN	Number=Sing	5	conj	_	TokenRange=2161:2172
+13	with	with	ADP	IN	_	15	case	_	TokenRange=2173:2177
+14	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	15	amod	_	TokenRange=2178:2183
+15	parties	party	NOUN	NNS	Number=Plur	12	nmod	_	SpaceAfter=No|TokenRange=2184:2191
+16	,	,	PUNCT	,	_	19	punct	_	TokenRange=2191:2192
+17	such	such	ADJ	JJ	Degree=Pos	19	case	_	TokenRange=2193:2197
+18	as	as	ADP	IN	_	17	fixed	_	TokenRange=2198:2200
+19	advertisers	advertiser	NOUN	NNS	Number=Plur	5	conj	_	SpaceAfter=No|TokenRange=2201:2212
+20	.	.	PUNCT	.	_	5	punct	_	SpacesAfter=\n\n|TokenRange=2212:2213
+

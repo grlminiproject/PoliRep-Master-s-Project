@@ -1,0 +1,66 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Personally Identifiable Information About Your Online Activities Over Time and Across Different Websites
+1	Personally	personally	ADV	RB	_	2	advmod	_	TokenRange=0:10
+2	Identifiable	Identifiable	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=11:23
+3	Information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=24:35
+4	About	about	SCONJ	IN	_	13	case	_	TokenRange=36:41
+5	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=42:46
+6	Online	Online	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=47:53
+7	Activities	activities	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=54:64
+8	Over	over	PROPN	NNP	Number=Sing	9	compound	_	TokenRange=65:69
+9	Time	time	PROPN	NNP	Number=Sing	13	compound	_	TokenRange=70:74
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=75:78
+11	Across	across	PROPN	NNP	Number=Sing	9	conj	_	TokenRange=79:85
+12	Different	different	PROPN	NNP	Number=Sing	13	compound	_	TokenRange=86:95
+13	Websites	websites	PROPN	NNPS	Number=Plur	3	nmod	_	SpacesAfter=\n\n|TokenRange=96:104
+
+# newpar
+# sent_id = 2
+# text = Navdy permits third parties to collect personally identifiable information about your online activities over time and across different websites when you use the Service.
+1	Navdy	Navdy	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=106:111
+2	permits	permit	NOUN	NNS	Number=Plur	4	compound	_	TokenRange=112:119
+3	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	_	TokenRange=120:125
+4	parties	party	NOUN	NNS	Number=Plur	0	root	_	TokenRange=126:133
+5	to	to	PART	TO	_	6	mark	_	TokenRange=134:136
+6	collect	collect	VERB	VB	VerbForm=Inf	4	acl	_	TokenRange=137:144
+7	personally	personally	ADV	RB	_	8	advmod	_	TokenRange=145:155
+8	identifiable	identifiable	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=156:168
+9	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=169:180
+10	about	about	ADP	IN	_	13	case	_	TokenRange=181:186
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=187:191
+12	online	online	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=192:198
+13	activities	activity	NOUN	NNS	Number=Plur	6	obl	_	TokenRange=199:209
+14	over	over	ADP	IN	_	15	case	_	TokenRange=210:214
+15	time	time	NOUN	NN	Number=Sing	13	nmod	_	TokenRange=215:219
+16	and	and	CCONJ	CC	_	19	cc	_	TokenRange=220:223
+17	across	across	ADP	IN	_	19	case	_	TokenRange=224:230
+18	different	different	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=231:240
+19	websites	website	NOUN	NNS	Number=Plur	15	conj	_	TokenRange=241:249
+20	when	when	ADV	WRB	PronType=Int	22	mark	_	TokenRange=250:254
+21	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	22	nsubj	_	TokenRange=255:258
+22	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	advcl	_	TokenRange=259:262
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	TokenRange=263:266
+24	Service	service	NOUN	NN	Number=Sing	22	obj	_	SpaceAfter=No|TokenRange=267:274
+25	.	.	PUNCT	.	_	4	punct	_	TokenRange=274:275
+
+# sent_id = 3
+# text = For more information, please refer to the "Tracking and Cookies" section above.
+1	For	for	ADP	IN	_	3	case	_	TokenRange=276:279
+2	more	more	ADJ	JJR	Degree=Cmp	3	amod	_	TokenRange=280:284
+3	information	information	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=285:296
+4	,	,	PUNCT	,	_	6	punct	_	TokenRange=296:297
+5	please	please	INTJ	UH	_	6	discourse	_	TokenRange=298:304
+6	refer	refer	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=305:310
+7	to	to	ADP	IN	_	10	case	_	TokenRange=311:313
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=314:317
+9	"	"	PUNCT	``	_	10	punct	_	SpaceAfter=No|TokenRange=318:319
+10	Tracking	tracking	NOUN	NN	Number=Sing	6	obl	_	TokenRange=319:327
+11	and	and	CCONJ	CC	_	12	cc	_	TokenRange=328:331
+12	Cookies	cookie	NOUN	NNS	Number=Plur	10	conj	_	SpaceAfter=No|TokenRange=332:339
+13	"	"	PUNCT	''	_	10	punct	_	TokenRange=339:340
+14	section	section	NOUN	NN	Number=Sing	10	appos	_	TokenRange=341:348
+15	above	above	ADV	RB	_	14	advmod	_	SpaceAfter=No|TokenRange=349:354
+16	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|TokenRange=354:355
+

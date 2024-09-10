@@ -1,0 +1,92 @@
+T1	First-party-entity 26 28	We
+T2	third-party-sharing-disclosure 33 38	share
+E1	third-party-sharing-disclosure:T2 Data-Provider:T4 Data-Shared:T3 Data-Sharer:T1
+T3	Data-general 39 50	information
+T4	User 57 60	you
+T5	First-party-entity 107 109	We
+T6	third-party-sharing-disclosure 114 119	share
+E2	third-party-sharing-disclosure:T6 Data-Sharer:T5 Data-Shared:T12 Data-Receiver:T8 Data-Shared2:T7 Data-Provider:T9 Data-Shared3:T13 Data-Shared4:T19 Data-Shared5:T18 Data-Shared6:T17 Data-Shared7:T16 Data-Shared8:T15 Data-Shared10:T10 Data-Shared11:T11 Data-Shared9:T14
+T7	Data-general 120 131	information
+T8	Third-party-entity 143 153	9GAG users
+T9	User 191 194	you
+T10	Name 209 213	name
+T11	Username 215 223	username
+T12	Picture 229 245	profile pictures
+T13	Data-general 173 184	Information
+T14	ServiceConsumptionBehavior 247 269	Information you upload
+T15	Picture 279 299	image or video posts
+T16	ServiceConsumptionBehavior 301 355	Information about how you interacted with our services
+T17	ServiceConsumptionBehavior 365 386	the content you saved
+T18	PubliclyAvailableSocialMedia 388 409	the comments you post
+T19	Interest 415 450	the content you upvote and downvote
+T20	First-party-entity 520 522	We
+T21	third-party-sharing-disclosure 527 532	share
+E3	third-party-sharing-disclosure:T21 Data-Receiver:T25 Data-Receiver2:T24 Data-Receiver3:T23 Data-Shared:T22 Data-Sharer:T20 Data-Shared2:T32 Data-Shared3:T31 Data-Shared4:T30 Data-Shared5:T29 Data-Shared6:T28 Data-Shared7:T27 Data-Shared8:T26 Data-Provider:T37
+T22	Data-general 533 544	information
+T23	Third-party-entity 554 564	9GAG users
+T24	Third-party-entity 570 587	business partners
+T25	Third-party-entity 597 611	general public
+T26	Data-general 631 649	Public information
+T27	Name 660 664	name
+T28	Username 666 674	username
+T29	Picture 680 696	profile pictures
+T30	Data-other 698 717	Content submissions
+T31	Data-other 722 735	saved content
+T32	SocialMedia 768 826	Content from our services that you share on other services
+T33	First-party-entity 880 882	We
+T34	third-party-sharing-disclosure 887 892	share
+E4	third-party-sharing-disclosure:T34 Data-Receiver:T36 Data-Shared:T35 Data-Sharer:T33
+T35	Data-general 893 904	information
+T36	Third-party-name 910 966	the entities within the 9GAG Limited family of companies
+T37	User 655 659	your
+T38	First-party-entity 988 990	We
+T39	third-party-sharing-disclosure 995 1000	share
+E5	third-party-sharing-disclosure:T39 Data-Receiver:T42 Data-Shared:T41 Data-Provider:T40 Data-Sharer:T38
+T40	User 1001 1005	your
+T41	Data-general 1006 1017	information
+T42	Third-party-entity 1023 1036	third parties
+T44	First-party-entity 1080 1082	We
+T45	third-party-sharing-disclosure 1087 1092	share
+E6	third-party-sharing-disclosure:T45 Data-Receiver:T48 Data-Provider:T47 Data-Shared:T46 Data-Sharer:T44
+T46	Data-general 1093 1104	information
+T47	User 1111 1114	you
+T48	Third-party-entity 1120 1137	service providers
+T43	First-party-entity 1198 1200	We
+T49	third-party-sharing-disclosure 1205 1210	share
+E7	third-party-sharing-disclosure:T49 Data-Receiver:T52 Data-Provider:T51 Data-Shared:T50 Data-Sharer:T43
+T50	Data-general 1211 1222	information
+T51	User 1229 1232	you
+T52	Third-party-entity 1238 1255	business partners
+T55	First-party-entity 1335 1337	We
+T56	third-party-sharing-disclosure 1342 1347	share
+E8	third-party-sharing-disclosure:T56 Condition-Argument:T59 Data-Provider:T58 Data-Shared:T57 Data-Sharer:T55 Purpose-Argument2:T63 Purpose-Argument3:T62 Purpose-Argument4:T61 Purpose-Argument5:T60
+T57	Data-general 1348 1359	information
+T58	User 1366 1369	you
+T59	Condition 1373 1439	we reasonably believe that disclosing the information is necessary
+T60	LegalCompliance 1462 1558	comply with any valid legal process, governmental request, or applicable law, rule or regulation
+T61	DisputeManagement 1563 1632	investigate, enforce, or remedy potential Terms of Service violations
+T62	RightsFulfillment 1636 1706	protect the safety, rights, and property of 9GAG, our users, or others
+T63	FraudPreventionAndDetection 1711 1771	detect and resolve any fraud or security matters or concerns
+T68	third-party-sharing-disclosure 2002 2007	share
+E9	third-party-sharing-disclosure:T68 Data-Receiver:T71 Data-Shared:T70 Data-Provider:T69 Data-Sharer2:T64 Purpose-Argument:T65
+T69	User 2008 2012	your
+T70	Data-general 2013 2024	information
+T71	Third-party-entity 2034 2041	company
+T72	First-party-entity 2085 2087	We
+T73	third-party-sharing-disclosure 2097 2102	share
+E10	third-party-sharing-disclosure:T73 Data-Receiver:T76 Data-Receiver2:T75 Data-Shared:T74 Data-Sharer:T72
+T74	Data-general 2103 2172	aggregated, non-personally identifiable, or de-identified information
+T75	Third-party-entity 2178 2191	third parties
+T76	Third-party-entity 2201 2212	advertisers
+T64	First-party-entity 1831 1843	9GAG Limited
+T65	OrganisationComplianceManagement 1831 1993	9GAG Limited gets involved with a merger, asset sale, financing, liquidation, bankruptcy, or acquisition of all or some portion of our business to another company
+R1	SUBSUME Arg1:T13 Arg2:T10	
+R2	SUBSUME Arg1:T13 Arg2:T11	
+R3	SUBSUME Arg1:T13 Arg2:T12	
+R5	SUBSUME Arg1:T16 Arg2:T17	
+R6	SUBSUME Arg1:T16 Arg2:T18	
+R7	SUBSUME Arg1:T16 Arg2:T19	
+R8	SUBSUME Arg1:T26 Arg2:T27	
+R9	SUBSUME Arg1:T26 Arg2:T28	
+R10	SUBSUME Arg1:T26 Arg2:T29	
+R4	SUBSUME Arg1:T14 Arg2:T15	

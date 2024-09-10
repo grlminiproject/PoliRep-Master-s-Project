@@ -1,0 +1,116 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Your Right To Object
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
+2	Right	right	NOUN	NN	Number=Sing	0	root	_	TokenRange=5:10
+3	To	to	ADP	IN	_	4	case	_	TokenRange=11:13
+4	Object	object	PROPN	NNP	Number=Sing	2	nmod	_	SpacesAfter=\n\n|TokenRange=14:20
+
+# newpar
+# sent_id = 2
+# text = You have the right to object to our use of your information.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	TokenRange=22:25
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=26:30
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=31:34
+4	right	right	NOUN	NN	Number=Sing	2	obj	_	TokenRange=35:40
+5	to	to	PART	TO	_	6	mark	_	TokenRange=41:43
+6	object	object	VERB	VB	VerbForm=Inf	4	acl	_	TokenRange=44:50
+7	to	to	ADP	IN	_	9	case	_	TokenRange=51:53
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=54:57
+9	use	use	NOUN	NN	Number=Sing	6	obl	_	TokenRange=58:61
+10	of	of	ADP	IN	_	12	case	_	TokenRange=62:64
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=65:69
+12	information	information	NOUN	NN	Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=70:81
+13	.	.	PUNCT	.	_	2	punct	_	TokenRange=81:82
+
+# sent_id = 3
+# text = For some data, we’ve provided you with the ability to delete your data if you don’t want us to store or process it anymore.
+1	For	for	ADP	IN	_	3	case	_	TokenRange=83:86
+2	some	some	DET	DT	_	3	det	_	TokenRange=87:91
+3	data	data	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=92:96
+4	,	,	PUNCT	,	_	7	punct	_	TokenRange=96:97
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	SpaceAfter=No|TokenRange=98:100
+6	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	aux	_	TokenRange=100:103
+7	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	TokenRange=104:112
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	obj	_	TokenRange=113:116
+9	with	with	ADP	IN	_	11	case	_	TokenRange=117:121
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=122:125
+11	ability	ability	NOUN	NN	Number=Sing	7	obl	_	TokenRange=126:133
+12	to	to	PART	TO	_	13	mark	_	TokenRange=134:136
+13	delete	delete	VERB	VB	VerbForm=Inf	11	acl	_	TokenRange=137:143
+14	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=144:148
+15	data	data	NOUN	NN	Number=Sing	13	obj	_	TokenRange=149:153
+16	if	if	SCONJ	IN	_	20	mark	_	TokenRange=154:156
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	TokenRange=157:160
+18	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	SpaceAfter=No|TokenRange=161:163
+19	n’t	not	PART	RB	_	20	advmod	_	TokenRange=163:166
+20	want	want	VERB	VB	VerbForm=Inf	7	advcl	_	TokenRange=167:171
+21	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	20	obj	_	TokenRange=172:174
+22	to	to	PART	TO	_	23	mark	_	TokenRange=175:177
+23	store	store	VERB	VB	VerbForm=Inf	20	xcomp	_	TokenRange=178:183
+24	or	or	CCONJ	CC	_	25	cc	_	TokenRange=184:186
+25	process	process	VERB	VB	VerbForm=Inf	23	conj	_	TokenRange=187:194
+26	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	25	obj	_	TokenRange=195:197
+27	anymore	anymore	ADV	RB	_	25	advmod	_	SpaceAfter=No|TokenRange=198:205
+28	.	.	PUNCT	.	_	7	punct	_	TokenRange=205:206
+
+# sent_id = 4
+# text = For other data, you can stop our use of your information by disabling the feature altogether.
+1	For	for	ADP	IN	_	3	case	_	TokenRange=207:210
+2	other	other	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=211:216
+3	data	data	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=217:221
+4	,	,	PUNCT	,	_	7	punct	_	TokenRange=221:222
+5	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	TokenRange=223:226
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=227:230
+7	stop	stop	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=231:235
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=236:239
+9	use	use	NOUN	NN	Number=Sing	7	obj	_	TokenRange=240:243
+10	of	of	ADP	IN	_	12	case	_	TokenRange=244:246
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=247:251
+12	information	information	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=252:263
+13	by	by	SCONJ	IN	_	14	mark	_	TokenRange=264:266
+14	disabling	disabl	VERB	VBG	VerbForm=Ger	7	advcl	_	TokenRange=267:276
+15	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=277:280
+16	feature	feature	NOUN	NN	Number=Sing	14	obj	_	TokenRange=281:288
+17	altogether	altogether	ADV	RB	_	14	advmod	_	SpaceAfter=No|TokenRange=289:299
+18	.	.	PUNCT	.	_	7	punct	_	TokenRange=299:300
+
+# sent_id = 5
+# text = You can do these things on our site or in our apps.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=301:304
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=305:308
+3	do	do	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=309:311
+4	these	these	DET	DT	Number=Plur|PronType=Dem	5	det	_	TokenRange=312:317
+5	things	thing	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=318:324
+6	on	on	ADP	IN	_	8	case	_	TokenRange=325:327
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=328:331
+8	site	site	NOUN	NN	Number=Sing	3	obl	_	TokenRange=332:336
+9	or	or	CCONJ	CC	_	12	cc	_	TokenRange=337:339
+10	in	in	ADP	IN	_	12	case	_	TokenRange=340:342
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=343:346
+12	apps	app	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=347:351
+13	.	.	PUNCT	.	_	3	punct	_	TokenRange=351:352
+
+# sent_id = 6
+# text = If you find other types of information you don’t agree with us using, please contact us.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=353:355
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=356:359
+3	find	find	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	advcl	_	TokenRange=360:364
+4	other	other	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=365:370
+5	types	type	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=371:376
+6	of	of	ADP	IN	_	7	case	_	TokenRange=377:379
+7	information	information	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=380:391
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=392:395
+9	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	aux	_	SpaceAfter=No|TokenRange=396:398
+10	n’t	not	PART	RB	_	11	advmod	_	TokenRange=398:401
+11	agree	agree	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=402:407
+12	with	with	SCONJ	IN	_	14	mark	_	TokenRange=408:412
+13	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	nsubj	_	TokenRange=413:415
+14	using	use	VERB	VBG	VerbForm=Ger	11	advcl	_	SpaceAfter=No|TokenRange=416:421
+15	,	,	PUNCT	,	_	11	punct	_	TokenRange=421:422
+16	please	please	INTJ	UH	_	17	discourse	_	TokenRange=423:429
+17	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	11	parataxis	_	TokenRange=430:437
+18	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	17	obj	_	SpaceAfter=No|TokenRange=438:440
+19	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n\n|TokenRange=440:441
+

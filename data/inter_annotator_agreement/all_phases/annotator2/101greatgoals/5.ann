@@ -1,0 +1,6 @@
+T1	First-party-entity 448 450	we
+T2	Condition 448 528	we become aware that a user who is not Legally of Age has shared any information
+T3	User 471 501	user who is not Legally of Age
+T4	Data-general 517 528	information
+T5	data-storage-retention-deletion 537 544	discard
+E1	data-storage-retention-deletion:T5 Data-Holder:T1 Data-Provider:T3 Condition-Argument:T2 Data-Retained:T4

@@ -1,0 +1,90 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Our Commitment towards Children's Privacy
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:3
+2	Commitment	commitment	NOUN	NN	Number=Sing	0	root	_	TokenRange=4:14
+3	towards	towards	ADP	IN	_	6	case	_	TokenRange=15:22
+4	Children	Children	PROPN	NNP	Number=Sing	6	nmod:poss	_	SpaceAfter=No|TokenRange=23:31
+5	's	's	PART	POS	_	4	case	_	TokenRange=31:33
+6	Privacy	privacy	NOUN	NN	Number=Sing	2	nmod	_	SpacesAfter=\n\n|TokenRange=34:41
+
+# newpar
+# sent_id = 2
+# text = We do not direct the Service to, nor do we knowingly collect any Personal Information from children under 13.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=43:45
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=46:48
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=49:52
+4	direct	direct	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=53:59
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=60:63
+6	Service	service	NOUN	NN	Number=Sing	4	obj	_	TokenRange=64:71
+7	to	to	ADP	IN	_	4	obl	_	SpaceAfter=No|TokenRange=72:74
+8	,	,	PUNCT	,	_	13	punct	_	TokenRange=74:75
+9	nor	nor	CCONJ	CC	_	13	cc	_	TokenRange=76:79
+10	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	aux	_	TokenRange=80:82
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	TokenRange=83:85
+12	knowingly	knowingly	ADV	RB	_	13	advmod	_	TokenRange=86:95
+13	collect	collect	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=96:103
+14	any	any	DET	DT	_	16	det	_	TokenRange=104:107
+15	Personal	Personal	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=108:116
+16	Information	information	NOUN	NN	Number=Sing	13	obj	_	TokenRange=117:128
+17	from	from	ADP	IN	_	18	case	_	TokenRange=129:133
+18	children	child	NOUN	NNS	Number=Plur	13	obl	_	TokenRange=134:142
+19	under	under	ADP	IN	_	20	case	_	TokenRange=143:148
+20	13	13	NUM	CD	NumType=Card	13	obl	_	SpaceAfter=No|TokenRange=149:151
+21	.	.	PUNCT	.	_	4	punct	_	TokenRange=151:152
+
+# sent_id = 3
+# text = Children under 13 are not eligible to use the Service.
+1	Children	child	NOUN	NNS	Number=Plur	6	nsubj	_	TokenRange=153:161
+2	under	under	ADP	IN	_	3	case	_	TokenRange=162:167
+3	13	13	NUM	CD	NumType=Card	1	nmod	_	TokenRange=168:170
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=171:174
+5	not	not	PART	RB	_	6	advmod	_	TokenRange=175:178
+6	eligible	eligible	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=179:187
+7	to	to	PART	TO	_	8	mark	_	TokenRange=188:190
+8	use	use	VERB	VB	VerbForm=Inf	6	xcomp	_	TokenRange=191:194
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=195:198
+10	Service	service	NOUN	NN	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=199:206
+11	.	.	PUNCT	.	_	6	punct	_	TokenRange=206:207
+
+# sent_id = 4
+# text = If we learn that a user is under 13 years of age, we will take steps to remove that user's Personal Information from our databases and to prevent that user from utilizing the Service.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=208:210
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=211:213
+3	learn	learn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	TokenRange=214:219
+4	that	that	SCONJ	IN	_	9	mark	_	TokenRange=220:224
+5	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	TokenRange=225:226
+6	user	user	NOUN	NN	Number=Sing	9	nsubj	_	TokenRange=227:231
+7	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	cop	_	TokenRange=232:234
+8	under	under	ADP	IN	_	9	advmod	_	TokenRange=235:240
+9	13	13	NUM	CD	NumType=Card	10	nummod	_	TokenRange=241:243
+10	years	year	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=244:249
+11	of	of	ADP	IN	_	12	case	_	TokenRange=250:252
+12	age	age	NOUN	NN	Number=Sing	10	nmod	_	SpaceAfter=No|TokenRange=253:256
+13	,	,	PUNCT	,	_	16	punct	_	TokenRange=256:257
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	TokenRange=258:260
+15	will	will	AUX	MD	VerbForm=Fin	16	aux	_	TokenRange=261:265
+16	take	take	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=266:270
+17	steps	step	NOUN	NNS	Number=Plur	16	obj	_	TokenRange=271:276
+18	to	to	PART	TO	_	19	mark	_	TokenRange=277:279
+19	remove	remove	VERB	VB	VerbForm=Inf	17	acl	_	TokenRange=280:286
+20	that	that	DET	DT	Number=Sing|PronType=Dem	21	det	_	TokenRange=287:291
+21	user	user	NOUN	NN	Number=Sing	24	nmod:poss	_	SpaceAfter=No|TokenRange=292:296
+22	's	's	PART	POS	_	21	case	_	TokenRange=296:298
+23	Personal	Personal	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=299:307
+24	Information	information	NOUN	NN	Number=Sing	19	obj	_	TokenRange=308:319
+25	from	from	ADP	IN	_	27	case	_	TokenRange=320:324
+26	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	27	nmod:poss	_	TokenRange=325:328
+27	databases	database	NOUN	NNS	Number=Plur	19	obl	_	TokenRange=329:338
+28	and	and	CCONJ	CC	_	30	cc	_	TokenRange=339:342
+29	to	to	PART	TO	_	30	mark	_	TokenRange=343:345
+30	prevent	prevent	VERB	VB	VerbForm=Inf	19	conj	_	TokenRange=346:353
+31	that	that	DET	DT	Number=Sing|PronType=Dem	32	det	_	TokenRange=354:358
+32	user	user	NOUN	NN	Number=Sing	30	obj	_	TokenRange=359:363
+33	from	from	SCONJ	IN	_	34	mark	_	TokenRange=364:368
+34	utilizing	utilize	VERB	VBG	VerbForm=Ger	30	advcl	_	TokenRange=369:378
+35	the	the	DET	DT	Definite=Def|PronType=Art	36	det	_	TokenRange=379:382
+36	Service	service	NOUN	NN	Number=Sing	34	obj	_	SpaceAfter=No|TokenRange=383:390
+37	.	.	PUNCT	.	_	16	punct	_	SpacesAfter=\n\n|TokenRange=390:391
+

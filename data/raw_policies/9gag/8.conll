@@ -1,0 +1,148 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Third-Party Content and Integrations
+1	Third	third	PROPN	NNP	Number=Sing	4	compound	_	SpaceAfter=No|TokenRange=0:5
+2	-	-	PUNCT	HYPH	_	3	punct	_	SpaceAfter=No|TokenRange=5:6
+3	Party	party	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=6:11
+4	Content	content	PROPN	NNP	Number=Sing	0	root	_	TokenRange=12:19
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=20:23
+6	Integrations	Integration	PROPN	NNPS	Number=Plur	4	conj	_	SpacesAfter=\n\n|TokenRange=24:36
+
+# newpar
+# sent_id = 2
+# text = Our services may contain third-party links and search results, include third-party integrations, or offer a co-branded or third-party-branded-service.
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=38:41
+2	services	service	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=42:50
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=51:54
+4	contain	contain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=55:62
+5	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	7	amod	_	SpaceAfter=No|TokenRange=63:68
+6	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No|TokenRange=68:69
+7	party	party	NOUN	NN	Number=Sing	8	compound	_	TokenRange=69:74
+8	links	link	NOUN	NNS	Number=Plur	4	obj	_	TokenRange=75:80
+9	and	and	CCONJ	CC	_	10	cc	_	TokenRange=81:84
+10	search	search	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=85:91
+11	results	result	NOUN	NNS	Number=Plur	10	obj	_	SpaceAfter=No|TokenRange=92:99
+12	,	,	PUNCT	,	_	10	punct	_	TokenRange=99:100
+13	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=101:108
+14	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	16	amod	_	SpaceAfter=No|TokenRange=109:114
+15	-	-	PUNCT	HYPH	_	16	punct	_	SpaceAfter=No|TokenRange=114:115
+16	party	party	NOUN	NN	Number=Sing	17	compound	_	TokenRange=115:120
+17	integrations	integration	NOUN	NNS	Number=Plur	13	obj	_	SpaceAfter=No|TokenRange=121:133
+18	,	,	PUNCT	,	_	20	punct	_	TokenRange=133:134
+19	or	or	CCONJ	CC	_	20	cc	_	TokenRange=135:137
+20	offer	offer	VERB	VB	VerbForm=Inf	17	conj	_	TokenRange=138:143
+21	a	a	DET	DT	Definite=Ind|PronType=Art	31	det	_	TokenRange=144:145
+22	co	co	X	AFX	_	23	advmod	_	SpaceAfter=No|TokenRange=146:148
+23	-branded	-branded	ADJ	JJ	Degree=Pos	31	amod	_	TokenRange=148:156
+24	or	or	CCONJ	CC	_	31	cc	_	TokenRange=157:159
+25	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	31	amod	_	SpaceAfter=No|TokenRange=160:165
+26	-	-	PUNCT	HYPH	_	27	punct	_	SpaceAfter=No|TokenRange=165:166
+27	party	party	NOUN	NN	Number=Sing	31	compound	_	SpaceAfter=No|TokenRange=166:171
+28	-	-	PUNCT	HYPH	_	27	punct	_	SpaceAfter=No|TokenRange=171:172
+29	branded	brand	VERB	VBN	Tense=Past|VerbForm=Part	31	amod	_	SpaceAfter=No|TokenRange=172:179
+30	-	-	PUNCT	HYPH	_	31	punct	_	SpaceAfter=No|TokenRange=179:180
+31	service	service	NOUN	NN	Number=Sing	20	obj	_	SpaceAfter=No|TokenRange=180:187
+32	.	.	PUNCT	.	_	4	punct	_	TokenRange=187:188
+
+# sent_id = 3
+# text = Through these links, third-party integrations, and co-branded or third-party-branded services, you may be providing information, including personal information, directly to the third party, to us, or to both.
+1	Through	through	ADP	IN	_	3	case	_	TokenRange=189:196
+2	these	these	DET	DT	Number=Plur|PronType=Dem	3	det	_	TokenRange=197:202
+3	links	link	NOUN	NNS	Number=Plur	23	obl	_	SpaceAfter=No|TokenRange=203:208
+4	,	,	PUNCT	,	_	8	punct	_	TokenRange=208:209
+5	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	7	amod	_	SpaceAfter=No|TokenRange=210:215
+6	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No|TokenRange=215:216
+7	party	party	NOUN	NN	Number=Sing	8	compound	_	TokenRange=216:221
+8	integrations	integration	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=222:234
+9	,	,	PUNCT	,	_	11	punct	_	TokenRange=234:235
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=236:239
+11	co-branded	co-branded	ADJ	JJ	Degree=Pos	3	conj	_	TokenRange=240:250
+12	or	or	CCONJ	CC	_	18	cc	_	TokenRange=251:253
+13	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	15	amod	_	SpaceAfter=No|TokenRange=254:259
+14	-	-	PUNCT	HYPH	_	15	punct	_	SpaceAfter=No|TokenRange=259:260
+15	party	party	NOUN	NN	Number=Sing	18	compound	_	SpaceAfter=No|TokenRange=260:265
+16	-	-	PUNCT	HYPH	_	15	punct	_	SpaceAfter=No|TokenRange=265:266
+17	branded	brand	VERB	VBN	Tense=Past|VerbForm=Part	18	amod	_	TokenRange=266:273
+18	services	service	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=274:282
+19	,	,	PUNCT	,	_	23	punct	_	TokenRange=282:283
+20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	23	nsubj	_	TokenRange=284:287
+21	may	may	AUX	MD	VerbForm=Fin	23	aux	_	TokenRange=288:291
+22	be	be	AUX	VB	VerbForm=Inf	23	aux	_	TokenRange=292:294
+23	providing	provide	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	TokenRange=295:304
+24	information	information	NOUN	NN	Number=Sing	23	obj	_	SpaceAfter=No|TokenRange=305:316
+25	,	,	PUNCT	,	_	24	punct	_	TokenRange=316:317
+26	including	include	VERB	VBG	VerbForm=Ger	28	case	_	TokenRange=318:327
+27	personal	personal	ADJ	JJ	Degree=Pos	28	amod	_	TokenRange=328:336
+28	information	information	NOUN	NN	Number=Sing	24	nmod	_	SpaceAfter=No|TokenRange=337:348
+29	,	,	PUNCT	,	_	23	punct	_	TokenRange=348:349
+30	directly	directly	ADV	RB	_	23	advmod	_	TokenRange=350:358
+31	to	to	ADP	IN	_	34	case	_	TokenRange=359:361
+32	the	the	DET	DT	Definite=Def|PronType=Art	34	det	_	TokenRange=362:365
+33	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	34	amod	_	TokenRange=366:371
+34	party	party	NOUN	NN	Number=Sing	30	obl	_	SpaceAfter=No|TokenRange=372:377
+35	,	,	PUNCT	,	_	23	punct	_	TokenRange=377:378
+36	to	to	ADP	IN	_	37	case	_	TokenRange=379:381
+37	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	23	obl	_	SpaceAfter=No|TokenRange=382:384
+38	,	,	PUNCT	,	_	41	punct	_	TokenRange=384:385
+39	or	or	CCONJ	CC	_	41	cc	_	TokenRange=386:388
+40	to	to	ADP	IN	_	41	case	_	TokenRange=389:391
+41	both	both	DET	DT	_	23	conj	_	SpaceAfter=No|TokenRange=392:396
+42	.	.	PUNCT	.	_	23	punct	_	TokenRange=396:397
+
+# sent_id = 4
+# text = You acknowledge and agree that we are not responsible for how those third parties collect or use your information.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	TokenRange=398:401
+2	acknowledge	acknowledge	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=402:413
+3	and	and	CCONJ	CC	_	4	cc	_	TokenRange=414:417
+4	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	conj	_	TokenRange=418:423
+5	that	that	SCONJ	IN	_	9	mark	_	TokenRange=424:428
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=429:431
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	cop	_	TokenRange=432:435
+8	not	not	PART	RB	_	9	advmod	_	TokenRange=436:439
+9	responsible	responsible	ADJ	JJ	Degree=Pos	2	ccomp	_	TokenRange=440:451
+10	for	for	SCONJ	IN	_	15	mark	_	TokenRange=452:455
+11	how	how	ADV	WRB	PronType=Int	15	advmod	_	TokenRange=456:459
+12	those	those	DET	DT	Number=Plur|PronType=Dem	14	det	_	TokenRange=460:465
+13	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	14	amod	_	TokenRange=466:471
+14	parties	party	NOUN	NNS	Number=Plur	15	nsubj	_	TokenRange=472:479
+15	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=480:487
+16	or	or	CCONJ	CC	_	17	cc	_	TokenRange=488:490
+17	use	use	VERB	VB	VerbForm=Inf	15	conj	_	TokenRange=491:494
+18	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	19	nmod:poss	_	TokenRange=495:499
+19	information	information	NOUN	NN	Number=Sing	17	obj	_	SpaceAfter=No|TokenRange=500:511
+20	.	.	PUNCT	.	_	2	punct	_	TokenRange=511:512
+
+# sent_id = 5
+# text = We encourage you to review the privacy policies of every third-party service you visit or use, including those third parties you interact with through our services.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=513:515
+2	encourage	encourage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=516:525
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	TokenRange=526:529
+4	to	to	PART	TO	_	5	mark	_	TokenRange=530:532
+5	review	review	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=533:539
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=540:543
+7	privacy	privacy	NOUN	NN	Number=Sing	8	compound	_	TokenRange=544:551
+8	policies	policy	NOUN	NNS	Number=Plur	5	obj	_	TokenRange=552:560
+9	of	of	ADP	IN	_	14	case	_	TokenRange=561:563
+10	every	every	DET	DT	_	14	det	_	TokenRange=564:569
+11	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	13	amod	_	SpaceAfter=No|TokenRange=570:575
+12	-	-	PUNCT	HYPH	_	13	punct	_	SpaceAfter=No|TokenRange=575:576
+13	party	party	NOUN	NN	Number=Sing	14	compound	_	TokenRange=576:581
+14	service	service	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=582:589
+15	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	TokenRange=590:593
+16	visit	visit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	14	acl:relcl	_	TokenRange=594:599
+17	or	or	CCONJ	CC	_	18	cc	_	TokenRange=600:602
+18	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	conj	_	SpaceAfter=No|TokenRange=603:606
+19	,	,	PUNCT	,	_	2	punct	_	TokenRange=606:607
+20	including	include	VERB	VBG	VerbForm=Ger	23	case	_	TokenRange=608:617
+21	those	those	DET	DT	Number=Plur|PronType=Dem	23	det	_	TokenRange=618:623
+22	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	23	amod	_	TokenRange=624:629
+23	parties	party	NOUN	NNS	Number=Plur	2	nmod	_	TokenRange=630:637
+24	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	25	nsubj	_	TokenRange=638:641
+25	interact	interact	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	TokenRange=642:650
+26	with	with	ADP	IN	_	29	case	_	TokenRange=651:655
+27	through	through	ADP	IN	_	29	case	_	TokenRange=656:663
+28	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	29	nmod:poss	_	TokenRange=664:667
+29	services	service	NOUN	NNS	Number=Plur	25	obl	_	SpaceAfter=No|TokenRange=668:676
+30	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=676:677
+

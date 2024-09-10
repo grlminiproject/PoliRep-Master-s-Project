@@ -1,0 +1,1033 @@
+{
+  "text": "Children's Privacy\n\nOur Service is not directed at children under the age of 13 and we do not knowingly collect or solicit information from anyone under the age of 13. In the event that we learn that we have collected personal information from a child under age 13 without parental consent, we will delete that information as quickly as possible. If you believe that we might have any information collected from a child under 13, please contact us by submitting a ticket through our Help Center\n\n",
+  "words": [
+    "Children",
+    "'s",
+    "Privacy",
+    "Our",
+    "Service",
+    "is",
+    "not",
+    "directed",
+    "at",
+    "children",
+    "under",
+    "the",
+    "age",
+    "of",
+    "13",
+    "and",
+    "we",
+    "do",
+    "not",
+    "knowingly",
+    "collect",
+    "or",
+    "solicit",
+    "information",
+    "from",
+    "anyone",
+    "under",
+    "the",
+    "age",
+    "of",
+    "13",
+    ".",
+    "In",
+    "the",
+    "event",
+    "that",
+    "we",
+    "learn",
+    "that",
+    "we",
+    "have",
+    "collected",
+    "personal",
+    "information",
+    "from",
+    "a",
+    "child",
+    "under",
+    "age",
+    "13",
+    "without",
+    "parental",
+    "consent",
+    ",",
+    "we",
+    "will",
+    "delete",
+    "that",
+    "information",
+    "as",
+    "quickly",
+    "as",
+    "possible",
+    ".",
+    "If",
+    "you",
+    "believe",
+    "that",
+    "we",
+    "might",
+    "have",
+    "any",
+    "information",
+    "collected",
+    "from",
+    "a",
+    "child",
+    "under",
+    "13",
+    ",",
+    "please",
+    "contact",
+    "us",
+    "by",
+    "submitting",
+    "a",
+    "ticket",
+    "through",
+    "our",
+    "Help",
+    "Center"
+  ],
+  "lemma": [
+    "Children",
+    "'s",
+    "privacy",
+    "we",
+    "service",
+    "be",
+    "not",
+    "direct",
+    "at",
+    "child",
+    "under",
+    "the",
+    "age",
+    "of",
+    "13",
+    "and",
+    "we",
+    "do",
+    "not",
+    "knowingly",
+    "collect",
+    "or",
+    "solicit",
+    "information",
+    "from",
+    "anyone",
+    "under",
+    "the",
+    "age",
+    "of",
+    "13",
+    ".",
+    "in",
+    "the",
+    "event",
+    "that",
+    "we",
+    "learn",
+    "that",
+    "we",
+    "have",
+    "collect",
+    "personal",
+    "information",
+    "from",
+    "a",
+    "child",
+    "under",
+    "age",
+    "13",
+    "without",
+    "parental",
+    "consent",
+    ",",
+    "we",
+    "will",
+    "delete",
+    "that",
+    "information",
+    "as",
+    "quickly",
+    "as",
+    "possible",
+    ".",
+    "if",
+    "you",
+    "believe",
+    "that",
+    "we",
+    "might",
+    "have",
+    "any",
+    "information",
+    "collect",
+    "from",
+    "a",
+    "child",
+    "under",
+    "13",
+    ",",
+    "please",
+    "contact",
+    "we",
+    "by",
+    "submit",
+    "a",
+    "ticket",
+    "through",
+    "we",
+    "help",
+    "Center"
+  ],
+  "pos-tags": [
+    "NNP",
+    "POS",
+    "NN",
+    "PRP$",
+    "NN",
+    "VBZ",
+    "RB",
+    "VBN",
+    "IN",
+    "NNS",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "CD",
+    "CC",
+    "PRP",
+    "VBP",
+    "RB",
+    "RB",
+    "VB",
+    "CC",
+    "VB",
+    "NN",
+    "IN",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "CD",
+    ".",
+    "IN",
+    "DT",
+    "NN",
+    "WDT",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP",
+    "VBP",
+    "VBN",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "NN",
+    "CD",
+    "IN",
+    "JJ",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "DT",
+    "NN",
+    "RB",
+    "RB",
+    "IN",
+    "JJ",
+    ".",
+    "IN",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP",
+    "MD",
+    "VB",
+    "DT",
+    "NN",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "CD",
+    ",",
+    "UH",
+    "VB",
+    "PRP",
+    "IN",
+    "VBG",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNP"
+  ],
+  "dependency-relation": [
+    "nmod:poss",
+    "case",
+    "root",
+    "nmod:poss",
+    "nsubj:pass",
+    "aux:pass",
+    "advmod",
+    "root",
+    "case",
+    "obl",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "nmod",
+    "cc",
+    "nsubj",
+    "aux",
+    "advmod",
+    "advmod",
+    "conj",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "det",
+    "nmod",
+    "case",
+    "nmod",
+    "punct",
+    "case",
+    "det",
+    "obl",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "nsubj",
+    "aux",
+    "ccomp",
+    "amod",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "nmod",
+    "nummod",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "det",
+    "obj",
+    "advmod",
+    "advmod",
+    "mark",
+    "advcl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "mark",
+    "nsubj",
+    "aux",
+    "ccomp",
+    "det",
+    "obj",
+    "acl",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "obl",
+    "punct",
+    "discourse",
+    "root",
+    "obj",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      8,
+      10
+    ],
+    [
+      11,
+      18
+    ],
+    [
+      20,
+      23
+    ],
+    [
+      24,
+      31
+    ],
+    [
+      32,
+      34
+    ],
+    [
+      35,
+      38
+    ],
+    [
+      39,
+      47
+    ],
+    [
+      48,
+      50
+    ],
+    [
+      51,
+      59
+    ],
+    [
+      60,
+      65
+    ],
+    [
+      66,
+      69
+    ],
+    [
+      70,
+      73
+    ],
+    [
+      74,
+      76
+    ],
+    [
+      77,
+      79
+    ],
+    [
+      80,
+      83
+    ],
+    [
+      84,
+      86
+    ],
+    [
+      87,
+      89
+    ],
+    [
+      90,
+      93
+    ],
+    [
+      94,
+      103
+    ],
+    [
+      104,
+      111
+    ],
+    [
+      112,
+      114
+    ],
+    [
+      115,
+      122
+    ],
+    [
+      123,
+      134
+    ],
+    [
+      135,
+      139
+    ],
+    [
+      140,
+      146
+    ],
+    [
+      147,
+      152
+    ],
+    [
+      153,
+      156
+    ],
+    [
+      157,
+      160
+    ],
+    [
+      161,
+      163
+    ],
+    [
+      164,
+      166
+    ],
+    [
+      166,
+      167
+    ],
+    [
+      168,
+      170
+    ],
+    [
+      171,
+      174
+    ],
+    [
+      175,
+      180
+    ],
+    [
+      181,
+      185
+    ],
+    [
+      186,
+      188
+    ],
+    [
+      189,
+      194
+    ],
+    [
+      195,
+      199
+    ],
+    [
+      200,
+      202
+    ],
+    [
+      203,
+      207
+    ],
+    [
+      208,
+      217
+    ],
+    [
+      218,
+      226
+    ],
+    [
+      227,
+      238
+    ],
+    [
+      239,
+      243
+    ],
+    [
+      244,
+      245
+    ],
+    [
+      246,
+      251
+    ],
+    [
+      252,
+      257
+    ],
+    [
+      258,
+      261
+    ],
+    [
+      262,
+      264
+    ],
+    [
+      265,
+      272
+    ],
+    [
+      273,
+      281
+    ],
+    [
+      282,
+      289
+    ],
+    [
+      289,
+      290
+    ],
+    [
+      291,
+      293
+    ],
+    [
+      294,
+      298
+    ],
+    [
+      299,
+      305
+    ],
+    [
+      306,
+      310
+    ],
+    [
+      311,
+      322
+    ],
+    [
+      323,
+      325
+    ],
+    [
+      326,
+      333
+    ],
+    [
+      334,
+      336
+    ],
+    [
+      337,
+      345
+    ],
+    [
+      345,
+      346
+    ],
+    [
+      347,
+      349
+    ],
+    [
+      350,
+      353
+    ],
+    [
+      354,
+      361
+    ],
+    [
+      362,
+      366
+    ],
+    [
+      367,
+      369
+    ],
+    [
+      370,
+      375
+    ],
+    [
+      376,
+      380
+    ],
+    [
+      381,
+      384
+    ],
+    [
+      385,
+      396
+    ],
+    [
+      397,
+      406
+    ],
+    [
+      407,
+      411
+    ],
+    [
+      412,
+      413
+    ],
+    [
+      414,
+      419
+    ],
+    [
+      420,
+      425
+    ],
+    [
+      426,
+      428
+    ],
+    [
+      428,
+      429
+    ],
+    [
+      430,
+      436
+    ],
+    [
+      437,
+      444
+    ],
+    [
+      445,
+      447
+    ],
+    [
+      448,
+      450
+    ],
+    [
+      451,
+      461
+    ],
+    [
+      462,
+      463
+    ],
+    [
+      464,
+      470
+    ],
+    [
+      471,
+      478
+    ],
+    [
+      479,
+      482
+    ],
+    [
+      483,
+      487
+    ],
+    [
+      488,
+      494
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      31
+    ],
+    [
+      32,
+      63
+    ],
+    [
+      64,
+      90
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Our",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 20,
+      "end_idx": 23,
+      "tokens": [
+        "Our"
+      ],
+      "token_idx": [
+        3
+      ]
+    },
+    {
+      "entity/argument_text": "not",
+      "entity/argument_type": "Negation",
+      "entity/argument_id": "T2",
+      "start_idx": 90,
+      "end_idx": 93,
+      "tokens": [
+        "not"
+      ],
+      "token_idx": [
+        18
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T5",
+      "start_idx": 123,
+      "end_idx": 134,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "children under the age of 13",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T6",
+      "start_idx": 51,
+      "end_idx": 79,
+      "tokens": [
+        "children",
+        "under",
+        "the",
+        "age",
+        "of",
+        "13"
+      ],
+      "token_idx": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14
+      ]
+    },
+    {
+      "entity/argument_text": "we learn that we have collected personal information from a child under age 13 without parental consent",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T7",
+      "start_idx": 186,
+      "end_idx": 289,
+      "tokens": [
+        "we",
+        "learn",
+        "that",
+        "we",
+        "have",
+        "collected",
+        "personal",
+        "information",
+        "from",
+        "a",
+        "child",
+        "under",
+        "age",
+        "13",
+        "without",
+        "parental",
+        "consent"
+      ],
+      "token_idx": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T8",
+      "start_idx": 186,
+      "end_idx": 188,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        36
+      ]
+    },
+    {
+      "entity/argument_text": "as quickly as possible",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T11",
+      "start_idx": 323,
+      "end_idx": 345,
+      "tokens": [
+        "as",
+        "quickly",
+        "as",
+        "possible"
+      ],
+      "token_idx": [
+        59,
+        60,
+        61,
+        62
+      ]
+    },
+    {
+      "entity/argument_text": "child under age 13",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T12",
+      "start_idx": 246,
+      "end_idx": 264,
+      "tokens": [
+        "child",
+        "under",
+        "age",
+        "13"
+      ],
+      "token_idx": [
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T13",
+      "start_idx": 218,
+      "end_idx": 238,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        42,
+        43
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 104,
+        "end_idx": 111,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          20
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "Our",
+          "start_idx": 20,
+          "end_idx": 23
+        },
+        {
+          "role": "Polarity",
+          "type": "Negation",
+          "text": "not",
+          "start_idx": 90,
+          "end_idx": 93
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "children under the age of 13",
+          "start_idx": 51,
+          "end_idx": 79
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 123,
+          "end_idx": 134
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "delete",
+        "start_idx": 299,
+        "end_idx": 305,
+        "tokens": [
+          "delete"
+        ],
+        "token_idx": [
+          56
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Retention-Period",
+          "type": "retention-period",
+          "text": "as quickly as possible",
+          "start_idx": 323,
+          "end_idx": 345
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 186,
+          "end_idx": 188
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "we learn that we have collected personal information from a child under age 13 without parental consent",
+          "start_idx": 186,
+          "end_idx": 289
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "child under age 13",
+          "start_idx": 246,
+          "end_idx": 264
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 218,
+          "end_idx": 238
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

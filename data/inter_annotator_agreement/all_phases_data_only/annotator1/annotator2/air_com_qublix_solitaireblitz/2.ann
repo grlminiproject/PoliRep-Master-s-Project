@@ -1,0 +1,10 @@
+T6	Data-other 138 145	cookies
+T9	Data-general 310 330	personal information
+T10	UID 345 352	user ID
+T14	Data-other 147 154	beacons
+T15	Data-other 156 163	scripts
+T16	Data-other 169 173	tags
+T18	Data-general 117 129	technologies
+T19	Data-general 254 265	Information
+T20	Data-other 281 287	cookie
+T23	DeviceBased 195 210	computer/device

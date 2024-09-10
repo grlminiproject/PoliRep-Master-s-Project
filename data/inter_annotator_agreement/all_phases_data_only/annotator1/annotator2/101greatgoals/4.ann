@@ -1,0 +1,62 @@
+T1	Data-general 60 106	un-identified and non-identifiable information
+T5	Data-general 237 261	Non-Personal Information
+T7	Data-general 299 320	technical information
+T8	ServiceConsumptionBehavior 325 353	aggregated usage information
+T9	DeviceOperatingSystem 403 419	operating system
+T10	Tracking 421 436	type of browser
+T11	DeviceBased 438 455	screen resolution
+T13	Language 457 486	browser and keyboard language
+T14	LinkClicked 492 544	User's 'click-stream' and activities on the Services
+T16	ServiceConsumptionBehavior 550 618	period of time the User visited the Services and related time stamps
+T26	Data-general 820 844	Non-Personal Information
+T21	DeviceBased 1013 1061	technical information transmitted by your device
+T28	DeviceBased 1073 1114	certain software and hardware information
+T29	Tracking 1125 1140	type of browser
+T30	DeviceOperatingSystem 1145 1161	operating system
+T31	Language 1180 1199	language preference
+T32	ServiceConsumptionBehavior 1201 1212	access time
+T33	BrowsingBehavior 1217 1285	the domain name of the website from which you linked to the Services
+T34	Identifier 1325 1353	anonymous online identifiers
+T35	Identifier 1363 1388	the Google Advertising ID
+T36	Identifier 1393 1401	the IDFA
+T37	DeviceBased 1460 1483	device's type and model
+T38	DeviceBased 1485 1500	system language
+T39	DeviceOperatingSystem 1502 1531	the device's operating system
+T40	DeviceBased 1558 1569	SDK version
+T41	Data-other 1571 1590	mobile carrier name
+T42	Tracking 1592 1631	mobile browsers installed on the device
+T43	BrowserHistory 1660 1671	app history
+T44	BrowsingBehavior 1676 1693	usage information
+T45	Data-other 1764 1836	information regarding downloads and installations of mobile applications
+T46	Data-other 1841 1880	any information regarding in-app events
+T47	Identifier 1913 1958	anonymous identifiers assigned to your device
+T48	Identifier 1972 2009	iOS Identifier for Advertising (IDFA)
+T49	Identifier 2011 2032	Google Advertising ID
+T50	Identifier 2037 2070	other types of device identifiers
+T24	Location 2129 2145	general location
+T25	IPAddress 2202 2212	IP address
+T27	Location 2414 2443	implicit location information
+T51	AdInteractionBehavior 2671 2728	information about the online ads and personalized content
+T54	ServiceConsumptionBehavior 3123 3165	information about your use of the Services
+T56	ServiceConsumptionBehavior 3175 3194	applications' usage
+T57	CallLog 3196 3205	log files
+T58	ServiceConsumptionBehavior 3207 3220	user activity
+T59	ServiceConsumptionBehavior 3342 3353	time stamps
+T60	ServiceConsumptionBehavior 3355 3361	alerts
+T61	Data-general 3373 3384	information
+T71	BrowsingReferral 3227 3239	referral URL
+T72	BrowserHistory 3241 3253	pages viewed
+T73	BrowsingBehavior 3259 3299	amount of time spent on particular pages
+T74	BrowsingBehavior 3301 3316	online browsing
+T75	LinkClicked 3318 3324	clicks
+T76	BrowsingBehavior 3326 3333	actions
+T80	City 2155 2159	city
+T81	Country 2164 2171	country
+T86	AdInteractionBehavior 2800 2843	how many times an ad has been served to you
+T87	AdInteractionBehavior 2845 2873	what page the ad appeared on
+T88	AdInteractionBehavior 2875 2941	whether you viewed, clicked on or otherwise interacted with the ad
+T89	AdInteractionBehavior 2943 2964	ad engagement history
+T90	AdInteractionBehavior 2969 3079	whether you visited the advertiser's website, downloaded an app or purchased the product or service advertised
+T55	Data-general 3756 3795	aggregated or de-identified information
+T108	Data-general 2548 2564	this information
+T104	Data-general 3599 3610	information

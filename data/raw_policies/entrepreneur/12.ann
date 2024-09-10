@@ -1,0 +1,8 @@
+T2	third-party-sharing-disclosure 254 262	disclose
+E1	third-party-sharing-disclosure:T2 Condition-Argument:T6 Data-Receiver:T5 Data-Shared:T4 Purpose-Argument:T1 Data-Sharer:T3 Data-Provider:T7
+T3	First-party-entity 233 236	Our
+T4	Data-general 263 283	personal information
+T5	Third-party-entity 306 317	third party
+T6	Condition 350 363	your approval
+T1	Adverstising-Marketing 322 341	directing marketing
+T7	User 350 354	your

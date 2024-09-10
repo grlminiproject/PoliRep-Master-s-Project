@@ -1,0 +1,5 @@
+T1	First-party-entity 151 153	We
+T2	first-party-collection-use 154 161	collect
+E1	first-party-collection-use:T2 Data-Provider:T4 Data-Collected:T3 Data-Collector:T1
+T3	Data-general 185 196	information
+T4	User 203 206	you

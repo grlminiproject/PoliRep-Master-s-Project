@@ -1,0 +1,5 @@
+Where can I find a list of Codecademy's subprocessors?
+
+Here is a non-exclusive list of our subprocessors and what they are used for. This list is subject to change as our business evolves.
+Subprocessor Name Nature of Processing New Relic Logging and security monitoring. Amazon Web Services Storage and archival of Codecademy user data and metadata. Github Repository of software code used to implement Looker software deployments, Authentication. Google Authentication, business management, tracking, analytics. Customer.io Email delivery services for communications to data exporter personnel involved in the data exporter-data importer relationship. Zendesk Support user feedback and issue tracking services within the platform. Facebook Authentication and Advertising. Twitter Authentication. Linkedin Authentication Looker Analytics Tableau Analytics Intercom Direct to user communication on the platform Hotjar Engagement Analytics Recurly Subscription Management Avalara Tax calculation Braintree Payment Processing Segment Managing data between systems Mongo DB Storage of user related information Saasquatch User to User Referrals
+

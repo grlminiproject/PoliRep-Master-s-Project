@@ -1,0 +1,1733 @@
+{
+  "text": "10. The Protection of Your Information.\n\nWe work hard to protect the information provided by, or collected about, the users of our Service, from unauthorized access, or alteration, disclosure or destruction. In particular:\na. We encrypt much of that information using SSL.\nb. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to our systems and the information collected and stored therein\nc. We restrict access to personal information to those of our employees, contractors and agents, who need to know that information in order to process it for us, who are subject to the obligation of strict confidentiality as relates to that information, and who will be subject to discipline, including termination, if they violate that obligation.\n\n",
+  "words": [
+    "10",
+    ".",
+    "The",
+    "Protection",
+    "of",
+    "Your",
+    "Information",
+    ".",
+    "We",
+    "work",
+    "hard",
+    "to",
+    "protect",
+    "the",
+    "information",
+    "provided",
+    "by",
+    ",",
+    "or",
+    "collected",
+    "about",
+    ",",
+    "the",
+    "users",
+    "of",
+    "our",
+    "Service",
+    ",",
+    "from",
+    "unauthorized",
+    "access",
+    ",",
+    "or",
+    "alteration",
+    ",",
+    "disclosure",
+    "or",
+    "destruction",
+    ".",
+    "In",
+    "particular",
+    ":",
+    "a",
+    ".",
+    "We",
+    "encrypt",
+    "much",
+    "of",
+    "that",
+    "information",
+    "using",
+    "SSL",
+    ".",
+    "b",
+    ".",
+    "We",
+    "review",
+    "our",
+    "information",
+    "collection",
+    ",",
+    "storage",
+    "and",
+    "processing",
+    "practices",
+    ",",
+    "including",
+    "physical",
+    "security",
+    "measures",
+    ",",
+    "to",
+    "guard",
+    "against",
+    "unauthorized",
+    "access",
+    "to",
+    "our",
+    "systems",
+    "and",
+    "the",
+    "information",
+    "collected",
+    "and",
+    "stored",
+    "therein",
+    "c",
+    ".",
+    "We",
+    "restrict",
+    "access",
+    "to",
+    "personal",
+    "information",
+    "to",
+    "those",
+    "of",
+    "our",
+    "employees",
+    ",",
+    "contractors",
+    "and",
+    "agents",
+    ",",
+    "who",
+    "need",
+    "to",
+    "know",
+    "that",
+    "information",
+    "in",
+    "order",
+    "to",
+    "process",
+    "it",
+    "for",
+    "us",
+    ",",
+    "who",
+    "are",
+    "subject",
+    "to",
+    "the",
+    "obligation",
+    "of",
+    "strict",
+    "confidentiality",
+    "as",
+    "relates",
+    "to",
+    "that",
+    "information",
+    ",",
+    "and",
+    "who",
+    "will",
+    "be",
+    "subject",
+    "to",
+    "discipline",
+    ",",
+    "including",
+    "termination",
+    ",",
+    "if",
+    "they",
+    "violate",
+    "that",
+    "obligation",
+    "."
+  ],
+  "lemma": [
+    "10",
+    ".",
+    "the",
+    "Protection",
+    "of",
+    "you",
+    "Information",
+    ".",
+    "we",
+    "work",
+    "hard",
+    "to",
+    "protect",
+    "the",
+    "information",
+    "provide",
+    "by",
+    ",",
+    "or",
+    "collect",
+    "about",
+    ",",
+    "the",
+    "user",
+    "of",
+    "we",
+    "service",
+    ",",
+    "from",
+    "unauthorized",
+    "access",
+    ",",
+    "or",
+    "alteration",
+    ",",
+    "disclosure",
+    "or",
+    "destruction",
+    ".",
+    "in",
+    "particular",
+    ":",
+    "a",
+    ".",
+    "we",
+    "encrypt",
+    "much",
+    "of",
+    "that",
+    "information",
+    "use",
+    "SSL",
+    ".",
+    "benefit",
+    ".",
+    "we",
+    "review",
+    "we",
+    "information",
+    "collection",
+    ",",
+    "storage",
+    "and",
+    "process",
+    "practice",
+    ",",
+    "include",
+    "physical",
+    "security",
+    "measure",
+    ",",
+    "to",
+    "guard",
+    "against",
+    "unauthorized",
+    "access",
+    "to",
+    "we",
+    "system",
+    "and",
+    "the",
+    "information",
+    "collect",
+    "and",
+    "store",
+    "therein",
+    "c",
+    ".",
+    "we",
+    "restrict",
+    "access",
+    "to",
+    "personal",
+    "information",
+    "to",
+    "those",
+    "of",
+    "we",
+    "employee",
+    ",",
+    "contractor",
+    "and",
+    "agent",
+    ",",
+    "who",
+    "need",
+    "to",
+    "know",
+    "that",
+    "information",
+    "in",
+    "order",
+    "to",
+    "process",
+    "it",
+    "for",
+    "we",
+    ",",
+    "who",
+    "be",
+    "subject",
+    "to",
+    "the",
+    "obligation",
+    "of",
+    "strict",
+    "confidentiality",
+    "as",
+    "relate",
+    "to",
+    "that",
+    "information",
+    ",",
+    "and",
+    "who",
+    "will",
+    "be",
+    "subject",
+    "to",
+    "discipline",
+    ",",
+    "include",
+    "termination",
+    ",",
+    "if",
+    "they",
+    "violate",
+    "that",
+    "obligation",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ".",
+    "PRP",
+    "VBP",
+    "RB",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "VBN",
+    "IN",
+    ",",
+    "CC",
+    "VBN",
+    "RB",
+    ",",
+    "DT",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "IN",
+    "JJ",
+    "NN",
+    ",",
+    "CC",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    ".",
+    "IN",
+    "JJ",
+    ":",
+    "LS",
+    ".",
+    "PRP",
+    "VBD",
+    "RB",
+    "IN",
+    "DT",
+    "NN",
+    "VBG",
+    "NNP",
+    ".",
+    "LS",
+    ".",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    "NNS",
+    ",",
+    "VBG",
+    "JJ",
+    "NN",
+    "NNS",
+    ",",
+    "TO",
+    "VB",
+    "IN",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "CC",
+    "DT",
+    "NN",
+    "VBN",
+    "CC",
+    "VBN",
+    "IN",
+    "NN",
+    ".",
+    "PRP",
+    "VBP",
+    "NN",
+    "IN",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "IN",
+    "PRP$",
+    "NNS",
+    ",",
+    "NNS",
+    "CC",
+    "NNS",
+    ",",
+    "WP",
+    "VBP",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "NN",
+    "TO",
+    "VB",
+    "PRP",
+    "IN",
+    "PRP",
+    ",",
+    "WP",
+    "VBP",
+    "JJ",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "CC",
+    "WP",
+    "MD",
+    "VB",
+    "JJ",
+    "TO",
+    "VB",
+    ",",
+    "VBG",
+    "NN",
+    ",",
+    "IN",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "det",
+    "root",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "nsubj",
+    "root",
+    "advmod",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "acl",
+    "case",
+    "punct",
+    "cc",
+    "conj",
+    "advmod",
+    "punct",
+    "det",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "cc",
+    "conj",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "punct",
+    "case",
+    "root",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "root",
+    "advmod",
+    "case",
+    "det",
+    "obl",
+    "acl",
+    "obj",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "root",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "conj",
+    "punct",
+    "case",
+    "amod",
+    "compound",
+    "nmod",
+    "punct",
+    "mark",
+    "advcl",
+    "case",
+    "amod",
+    "obl",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "det",
+    "conj",
+    "acl",
+    "cc",
+    "conj",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "root",
+    "obj",
+    "case",
+    "amod",
+    "nmod",
+    "case",
+    "obl",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "punct",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "xcomp",
+    "det",
+    "obj",
+    "mark",
+    "fixed",
+    "mark",
+    "acl",
+    "obj",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "cop",
+    "acl:relcl",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "amod",
+    "nmod",
+    "case",
+    "obl",
+    "case",
+    "det",
+    "nmod",
+    "punct",
+    "cc",
+    "nsubj",
+    "aux",
+    "cop",
+    "conj",
+    "mark",
+    "advcl",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "det",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      2,
+      3
+    ],
+    [
+      4,
+      7
+    ],
+    [
+      8,
+      18
+    ],
+    [
+      19,
+      21
+    ],
+    [
+      22,
+      26
+    ],
+    [
+      27,
+      38
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      41,
+      43
+    ],
+    [
+      44,
+      48
+    ],
+    [
+      49,
+      53
+    ],
+    [
+      54,
+      56
+    ],
+    [
+      57,
+      64
+    ],
+    [
+      65,
+      68
+    ],
+    [
+      69,
+      80
+    ],
+    [
+      81,
+      89
+    ],
+    [
+      90,
+      92
+    ],
+    [
+      92,
+      93
+    ],
+    [
+      94,
+      96
+    ],
+    [
+      97,
+      106
+    ],
+    [
+      107,
+      112
+    ],
+    [
+      112,
+      113
+    ],
+    [
+      114,
+      117
+    ],
+    [
+      118,
+      123
+    ],
+    [
+      124,
+      126
+    ],
+    [
+      127,
+      130
+    ],
+    [
+      131,
+      138
+    ],
+    [
+      138,
+      139
+    ],
+    [
+      140,
+      144
+    ],
+    [
+      145,
+      157
+    ],
+    [
+      158,
+      164
+    ],
+    [
+      164,
+      165
+    ],
+    [
+      166,
+      168
+    ],
+    [
+      169,
+      179
+    ],
+    [
+      179,
+      180
+    ],
+    [
+      181,
+      191
+    ],
+    [
+      192,
+      194
+    ],
+    [
+      195,
+      206
+    ],
+    [
+      206,
+      207
+    ],
+    [
+      208,
+      210
+    ],
+    [
+      211,
+      221
+    ],
+    [
+      221,
+      222
+    ],
+    [
+      223,
+      224
+    ],
+    [
+      224,
+      225
+    ],
+    [
+      226,
+      228
+    ],
+    [
+      229,
+      236
+    ],
+    [
+      237,
+      241
+    ],
+    [
+      242,
+      244
+    ],
+    [
+      245,
+      249
+    ],
+    [
+      250,
+      261
+    ],
+    [
+      262,
+      267
+    ],
+    [
+      268,
+      271
+    ],
+    [
+      271,
+      272
+    ],
+    [
+      273,
+      274
+    ],
+    [
+      274,
+      275
+    ],
+    [
+      276,
+      278
+    ],
+    [
+      279,
+      285
+    ],
+    [
+      286,
+      289
+    ],
+    [
+      290,
+      301
+    ],
+    [
+      302,
+      312
+    ],
+    [
+      312,
+      313
+    ],
+    [
+      314,
+      321
+    ],
+    [
+      322,
+      325
+    ],
+    [
+      326,
+      336
+    ],
+    [
+      337,
+      346
+    ],
+    [
+      346,
+      347
+    ],
+    [
+      348,
+      357
+    ],
+    [
+      358,
+      366
+    ],
+    [
+      367,
+      375
+    ],
+    [
+      376,
+      384
+    ],
+    [
+      384,
+      385
+    ],
+    [
+      386,
+      388
+    ],
+    [
+      389,
+      394
+    ],
+    [
+      395,
+      402
+    ],
+    [
+      403,
+      415
+    ],
+    [
+      416,
+      422
+    ],
+    [
+      423,
+      425
+    ],
+    [
+      426,
+      429
+    ],
+    [
+      430,
+      437
+    ],
+    [
+      438,
+      441
+    ],
+    [
+      442,
+      445
+    ],
+    [
+      446,
+      457
+    ],
+    [
+      458,
+      467
+    ],
+    [
+      468,
+      471
+    ],
+    [
+      472,
+      478
+    ],
+    [
+      479,
+      486
+    ],
+    [
+      487,
+      488
+    ],
+    [
+      488,
+      489
+    ],
+    [
+      490,
+      492
+    ],
+    [
+      493,
+      501
+    ],
+    [
+      502,
+      508
+    ],
+    [
+      509,
+      511
+    ],
+    [
+      512,
+      520
+    ],
+    [
+      521,
+      532
+    ],
+    [
+      533,
+      535
+    ],
+    [
+      536,
+      541
+    ],
+    [
+      542,
+      544
+    ],
+    [
+      545,
+      548
+    ],
+    [
+      549,
+      558
+    ],
+    [
+      558,
+      559
+    ],
+    [
+      560,
+      571
+    ],
+    [
+      572,
+      575
+    ],
+    [
+      576,
+      582
+    ],
+    [
+      582,
+      583
+    ],
+    [
+      584,
+      587
+    ],
+    [
+      588,
+      592
+    ],
+    [
+      593,
+      595
+    ],
+    [
+      596,
+      600
+    ],
+    [
+      601,
+      605
+    ],
+    [
+      606,
+      617
+    ],
+    [
+      618,
+      620
+    ],
+    [
+      621,
+      626
+    ],
+    [
+      627,
+      629
+    ],
+    [
+      630,
+      637
+    ],
+    [
+      638,
+      640
+    ],
+    [
+      641,
+      644
+    ],
+    [
+      645,
+      647
+    ],
+    [
+      647,
+      648
+    ],
+    [
+      649,
+      652
+    ],
+    [
+      653,
+      656
+    ],
+    [
+      657,
+      664
+    ],
+    [
+      665,
+      667
+    ],
+    [
+      668,
+      671
+    ],
+    [
+      672,
+      682
+    ],
+    [
+      683,
+      685
+    ],
+    [
+      686,
+      692
+    ],
+    [
+      693,
+      708
+    ],
+    [
+      709,
+      711
+    ],
+    [
+      712,
+      719
+    ],
+    [
+      720,
+      722
+    ],
+    [
+      723,
+      727
+    ],
+    [
+      728,
+      739
+    ],
+    [
+      739,
+      740
+    ],
+    [
+      741,
+      744
+    ],
+    [
+      745,
+      748
+    ],
+    [
+      749,
+      753
+    ],
+    [
+      754,
+      756
+    ],
+    [
+      757,
+      764
+    ],
+    [
+      765,
+      767
+    ],
+    [
+      768,
+      778
+    ],
+    [
+      778,
+      779
+    ],
+    [
+      780,
+      789
+    ],
+    [
+      790,
+      801
+    ],
+    [
+      801,
+      802
+    ],
+    [
+      803,
+      805
+    ],
+    [
+      806,
+      810
+    ],
+    [
+      811,
+      818
+    ],
+    [
+      819,
+      823
+    ],
+    [
+      824,
+      834
+    ],
+    [
+      834,
+      835
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      7
+    ],
+    [
+      8,
+      38
+    ],
+    [
+      39,
+      41
+    ],
+    [
+      42,
+      43
+    ],
+    [
+      44,
+      52
+    ],
+    [
+      53,
+      54
+    ],
+    [
+      55,
+      87
+    ],
+    [
+      88,
+      149
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T2",
+      "start_idx": 41,
+      "end_idx": 43,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 69,
+      "end_idx": 80,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        14
+      ]
+    },
+    {
+      "entity/argument_text": "users",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T4",
+      "start_idx": 118,
+      "end_idx": 123,
+      "tokens": [
+        "users"
+      ],
+      "token_idx": [
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "unauthorized access",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T5",
+      "start_idx": 145,
+      "end_idx": 164,
+      "tokens": [
+        "unauthorized",
+        "access"
+      ],
+      "token_idx": [
+        29,
+        30
+      ]
+    },
+    {
+      "entity/argument_text": "alteration",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T6",
+      "start_idx": 169,
+      "end_idx": 179,
+      "tokens": [
+        "alteration"
+      ],
+      "token_idx": [
+        33
+      ]
+    },
+    {
+      "entity/argument_text": "disclosure",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T7",
+      "start_idx": 181,
+      "end_idx": 191,
+      "tokens": [
+        "disclosure"
+      ],
+      "token_idx": [
+        35
+      ]
+    },
+    {
+      "entity/argument_text": "destruction",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T8",
+      "start_idx": 195,
+      "end_idx": 206,
+      "tokens": [
+        "destruction"
+      ],
+      "token_idx": [
+        37
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T9",
+      "start_idx": 226,
+      "end_idx": 228,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        44
+      ]
+    },
+    {
+      "entity/argument_text": "encrypt",
+      "entity/argument_type": "encryptions",
+      "entity/argument_id": "T10",
+      "start_idx": 229,
+      "end_idx": 236,
+      "tokens": [
+        "encrypt"
+      ],
+      "token_idx": [
+        45
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T11",
+      "start_idx": 250,
+      "end_idx": 261,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        49
+      ]
+    },
+    {
+      "entity/argument_text": "SSL",
+      "entity/argument_type": "encryptions",
+      "entity/argument_id": "T12",
+      "start_idx": 268,
+      "end_idx": 271,
+      "tokens": [
+        "SSL"
+      ],
+      "token_idx": [
+        51
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T14",
+      "start_idx": 276,
+      "end_idx": 278,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        55
+      ]
+    },
+    {
+      "entity/argument_text": "unauthorized access",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T16",
+      "start_idx": 403,
+      "end_idx": 422,
+      "tokens": [
+        "unauthorized",
+        "access"
+      ],
+      "token_idx": [
+        74,
+        75
+      ]
+    },
+    {
+      "entity/argument_text": "physical security measures",
+      "entity/argument_type": "general-safeguard-method",
+      "entity/argument_id": "T17",
+      "start_idx": 358,
+      "end_idx": 384,
+      "tokens": [
+        "physical",
+        "security",
+        "measures"
+      ],
+      "token_idx": [
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "entity/argument_text": "We review our information collection, storage and processing practices",
+      "entity/argument_type": "Protection-other",
+      "entity/argument_id": "T18",
+      "start_idx": 276,
+      "end_idx": 346,
+      "tokens": [
+        "We",
+        "review",
+        "our",
+        "information",
+        "collection",
+        ",",
+        "storage",
+        "and",
+        "processing",
+        "practices"
+      ],
+      "token_idx": [
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T19",
+      "start_idx": 446,
+      "end_idx": 457,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        81
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T20",
+      "start_idx": 490,
+      "end_idx": 492,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "restrict access",
+      "entity/argument_type": "Access-limitation",
+      "entity/argument_id": "T22",
+      "start_idx": 493,
+      "end_idx": 508,
+      "tokens": [
+        "restrict",
+        "access"
+      ],
+      "token_idx": [
+        89,
+        90
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T23",
+      "start_idx": 512,
+      "end_idx": 532,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        92,
+        93
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "protect",
+        "start_idx": 57,
+        "end_idx": 64,
+        "tokens": [
+          "protect"
+        ],
+        "token_idx": [
+          12
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "protect-against",
+          "type": "security-threat",
+          "text": "destruction",
+          "start_idx": 195,
+          "end_idx": 206
+        },
+        {
+          "role": "protect-against2",
+          "type": "security-threat",
+          "text": "disclosure",
+          "start_idx": 181,
+          "end_idx": 191
+        },
+        {
+          "role": "protect-against3",
+          "type": "security-threat",
+          "text": "alteration",
+          "start_idx": 169,
+          "end_idx": 179
+        },
+        {
+          "role": "protect-against4",
+          "type": "security-threat",
+          "text": "unauthorized access",
+          "start_idx": 145,
+          "end_idx": 164
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "users",
+          "start_idx": 118,
+          "end_idx": 123
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 69,
+          "end_idx": 80
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 41,
+          "end_idx": 43
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "encrypt",
+        "start_idx": 229,
+        "end_idx": 236,
+        "tokens": [
+          "encrypt"
+        ],
+        "token_idx": [
+          45
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "method",
+          "type": "encryptions",
+          "text": "encrypt",
+          "start_idx": 229,
+          "end_idx": 236
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 226,
+          "end_idx": 228
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 250,
+          "end_idx": 261
+        },
+        {
+          "role": "method2",
+          "type": "encryptions",
+          "text": "SSL",
+          "start_idx": 268,
+          "end_idx": 271
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "guard",
+        "start_idx": 389,
+        "end_idx": 394,
+        "tokens": [
+          "guard"
+        ],
+        "token_idx": [
+          72
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 446,
+          "end_idx": 457
+        },
+        {
+          "role": "protect-against",
+          "type": "security-threat",
+          "text": "unauthorized access",
+          "start_idx": 403,
+          "end_idx": 422
+        },
+        {
+          "role": "method",
+          "type": "general-safeguard-method",
+          "text": "physical security measures",
+          "start_idx": 358,
+          "end_idx": 384
+        },
+        {
+          "role": "method2",
+          "type": "Protection-other",
+          "text": "We review our information collection, storage and processing practices",
+          "start_idx": 276,
+          "end_idx": 346
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 276,
+          "end_idx": 278
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "restrict",
+        "start_idx": 493,
+        "end_idx": 501,
+        "tokens": [
+          "restrict"
+        ],
+        "token_idx": [
+          89
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "method",
+          "type": "Access-limitation",
+          "text": "restrict access",
+          "start_idx": 493,
+          "end_idx": 508
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 490,
+          "end_idx": 492
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 512,
+          "end_idx": 532
+        }
+      ],
+      "event_id": "E4"
+    }
+  ]
+}

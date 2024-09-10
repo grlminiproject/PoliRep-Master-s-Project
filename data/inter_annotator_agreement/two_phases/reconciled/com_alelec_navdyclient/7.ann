@@ -1,0 +1,8 @@
+T1	First-party-entity 106 111	Navdy
+T2	Third-party-entity 120 133	third parties
+T3	third-party-sharing-disclosure 137 144	collect
+E1	third-party-sharing-disclosure:T3 Condition-Argument:T6 Data-Provider:T5 Data-Shared:T4 Data-Receiver:T2 Data-Sharer:T1 Data-Shared2:T7
+T4	Identifying 145 180	personally identifiable information
+T5	User 187 191	your
+T6	Condition 255 274	you use the Service
+T7	BrowsingBehavior 192 209	online activities

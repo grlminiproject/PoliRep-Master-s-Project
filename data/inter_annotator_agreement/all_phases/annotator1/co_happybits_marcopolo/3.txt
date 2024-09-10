@@ -1,0 +1,8 @@
+1. Basic Account Data
+
+To create a Marco Polo account ("Account"), you provide your mobile number and your name, and may choose to provide your email address, photo, birth day and birth month. Only other registered Marco Polo users that:
+already have your phone number in their phone’s address book,
+are in a group with you, or
+you invited to Marco Polo
+may see your name, photo, mobile number, email, birth day and/or birth month. Note that users who have you in their contacts will see you by the name they’ve saved and not by the name you provided to Marco Polo. For example, your spouse will still see you as "Love" when they use the app if that’s how you appear in their phone’s address book. If you chose to provide them, we collect your birth day and month so people you know get reminded when it’s your birthday.
+

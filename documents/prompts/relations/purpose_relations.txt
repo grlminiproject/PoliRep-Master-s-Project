@@ -1,0 +1,44 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and a list of entities that have been previously annotated for this segment in json format.
+Your task is to annotate relations in this policy statement.
+
+For reference, the previously annotated entities are of the following types:
+1. Data - refers to the phrases that mention personal data of the user, that is being collected, used, stored, processed, protected, shared with third parties etc. This does not include personal data is its simply mentioned, but there is no mention of action done with it by the application.
+2. Purpose - refers to the purpose for which user's personal data will be used.
+
+You need to annotate relations of the following type:
+Purpose (not to be confused with Purpose entity type) - can only be applied to a (Data, Purpose) entities pair - this relation shows that the data will be collected, used, processed, shared with third party, etc. for this purpose.
+
+Examples
+
+Question:
+
+"Collection and Storage technologies. We and our partners use various technologies to collect and store information when you access the EMI Service, and this may include using cookies or other technologies to identify your browser or device. We also use these technologies to collect and store information when you access our Service and interact with the content and products and services we offer, such as advertising services.
+c. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy.
+
+Data entities:
+
+{
+  "entities": [
+    {"id": "D1", "text": "information"},
+    {"id": "D2", "text": "your browser"},
+    {"id": "D3", "text": "device"},
+    {"id": "D4", "text": "information when you access our Service and interact with the content and products and services we offer, such as advertising services"}
+  ]
+}
+
+Purpose entities:
+{
+  "entities": [
+    {"id": "P1", "text": "identify your browser or device"}
+  ]
+}
+"
+
+Answer:
+{
+  "relations": [
+    {"source": "D1", "target": "P1"}
+  ]
+}
+
+Please identify and annotate ALL relations given following privacy policy segment and previously annotated entities. Note that multiple purpose entities may apply to the same data entity, and a single purpose entity can apply to multiple data entities.

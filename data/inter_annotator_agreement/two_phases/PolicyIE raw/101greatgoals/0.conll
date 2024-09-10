@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 101 Great Goals Privacy Policy
+1	101	101	NUM	CD	NumType=Card	5	nummod	_	TokenRange=0:3
+2	Great	great	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=4:9
+3	Goals	goal	NOUN	NNS	Number=Plur	5	compound	_	TokenRange=10:15
+4	Privacy	privacy	NOUN	NN	Number=Sing	5	compound	_	TokenRange=16:23
+5	Policy	policy	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n|TokenRange=24:30
+
+# sent_id = 2
+# text = Last revised: May 25, 2018
+1	Last	last	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=31:35
+2	revised	revise	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|TokenRange=36:43
+3	:	:	PUNCT	:	_	4	punct	_	TokenRange=43:44
+4	May	May	PROPN	NNP	Number=Sing	2	appos	_	TokenRange=45:48
+5	25	25	NUM	CD	NumType=Card	4	nummod	_	SpaceAfter=No|TokenRange=49:51
+6	,	,	PUNCT	,	_	4	punct	_	TokenRange=51:52
+7	2018	2018	NUM	CD	NumType=Card	4	nummod	_	SpacesAfter=\n\n|TokenRange=53:57
+

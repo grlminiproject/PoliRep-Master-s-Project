@@ -1,0 +1,77 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Security
+1	Security	security	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:8
+
+# newpar
+# sent_id = 2
+# text = Navdy takes reasonable measures to protect the information you provide to Navdy or submit through the Service against loss, theft, unauthorized use, disclosure, or modification.
+1	Navdy	Navdy	PROPN	NNP	Number=Sing	2	nsubj	_	TokenRange=10:15
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=16:21
+3	reasonable	reasonable	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=22:32
+4	measures	measure	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=33:41
+5	to	to	PART	TO	_	6	mark	_	TokenRange=42:44
+6	protect	protect	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=45:52
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=53:56
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=57:68
+9	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	TokenRange=69:72
+10	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	acl:relcl	_	TokenRange=73:80
+11	to	to	ADP	IN	_	12	case	_	TokenRange=81:83
+12	Navdy	Navdy	PROPN	NNP	Number=Sing	10	obl	_	TokenRange=84:89
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=90:92
+14	submit	submit	NOUN	NN	Number=Sing	12	conj	_	TokenRange=93:99
+15	through	through	ADP	IN	_	17	case	_	TokenRange=100:107
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=108:111
+17	Service	service	NOUN	NN	Number=Sing	10	obl	_	TokenRange=112:119
+18	against	against	ADP	IN	_	19	case	_	TokenRange=120:127
+19	loss	loss	NOUN	NN	Number=Sing	17	nmod	_	SpaceAfter=No|TokenRange=128:132
+20	,	,	PUNCT	,	_	21	punct	_	TokenRange=132:133
+21	theft	theft	NOUN	NN	Number=Sing	17	conj	_	SpaceAfter=No|TokenRange=134:139
+22	,	,	PUNCT	,	_	24	punct	_	TokenRange=139:140
+23	unauthorized	unauthorized	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=141:153
+24	use	use	NOUN	NN	Number=Sing	17	conj	_	SpaceAfter=No|TokenRange=154:157
+25	,	,	PUNCT	,	_	26	punct	_	TokenRange=157:158
+26	disclosure	disclosure	NOUN	NN	Number=Sing	17	conj	_	SpaceAfter=No|TokenRange=159:169
+27	,	,	PUNCT	,	_	29	punct	_	TokenRange=169:170
+28	or	or	CCONJ	CC	_	29	cc	_	TokenRange=171:173
+29	modification	modification	NOUN	NN	Number=Sing	17	conj	_	SpaceAfter=No|TokenRange=174:186
+30	.	.	PUNCT	.	_	2	punct	_	TokenRange=186:187
+
+# sent_id = 3
+# text = However,
+1	However	however	ADV	RB	_	0	root	_	SpaceAfter=No|TokenRange=188:195
+2	,	,	PUNCT	,	_	1	punct	_	TokenRange=195:196
+
+# sent_id = 4
+# text = Navdy cannot guarantee or warrant the security of any information you transmit to Navdy or submit through the Service and you do so at your own risk.
+1	Navdy	Navdy	PRON	NN	Number=Sing	4	nsubj	_	TokenRange=197:202
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	SpaceAfter=No|TokenRange=203:206
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=206:209
+4	guarantee	guarantee	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=210:219
+5	or	or	CCONJ	CC	_	6	cc	_	TokenRange=220:222
+6	warrant	warrant	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=223:230
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=231:234
+8	security	security	NOUN	NN	Number=Sing	4	obj	_	TokenRange=235:243
+9	of	of	ADP	IN	_	11	case	_	TokenRange=244:246
+10	any	any	DET	DT	_	11	det	_	TokenRange=247:250
+11	information	information	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=251:262
+12	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	TokenRange=263:266
+13	transmit	transmit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	TokenRange=267:275
+14	to	to	ADP	IN	_	15	case	_	TokenRange=276:278
+15	Navdy	Navdy	PROPN	NNP	Number=Sing	13	obl	_	TokenRange=279:284
+16	or	or	CCONJ	CC	_	17	cc	_	TokenRange=285:287
+17	submit	submit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	conj	_	TokenRange=288:294
+18	through	through	ADP	IN	_	20	case	_	TokenRange=295:302
+19	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	TokenRange=303:306
+20	Service	service	NOUN	NN	Number=Sing	17	obl	_	TokenRange=307:314
+21	and	and	CCONJ	CC	_	23	cc	_	TokenRange=315:318
+22	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	23	nsubj	_	TokenRange=319:322
+23	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=323:325
+24	so	so	ADV	RB	_	23	advmod	_	TokenRange=326:328
+25	at	at	ADP	IN	_	28	case	_	TokenRange=329:331
+26	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	28	nmod:poss	_	TokenRange=332:336
+27	own	own	ADJ	JJ	Degree=Pos	28	amod	_	TokenRange=337:340
+28	risk	risk	NOUN	NN	Number=Sing	23	obl	_	SpaceAfter=No|TokenRange=341:345
+29	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=345:346
+

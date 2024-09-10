@@ -1,0 +1,25 @@
+T1	Purpose 423 514	build a profile of your preferences based on your activities when you visit or use our apps
+T2	Purpose 625 719	identify the advertising that are served to you and what you do after seeing those advertising
+T3	Purpose 815 843	analyse your use of the apps
+T4	Data 1144 1151	cookies
+T5	Data 1156 1179	other tracking software
+T6	Data 1258 1280	data about your device
+T7	Data 1282 1290	location
+T8	Data 1295 1310	use of our apps
+T9	Data 1322 1332	IP address
+T10	Data 1336 1352	unique device ID
+T11	Data 1354 1374	geo-location details
+T12	Data 1384 1391	User ID
+T13	Data 1426 1474	data which you provide to us when using our apps
+T14	Data 1486 1534	information on your interaction with advertising
+T15	Data 1539 1568	certain technical information
+T16	Purpose 1648 1748	provide you with targeted advertising that is relevant to you and your preferences with your consent
+T17	Purpose 2190 2208	their own purposes
+T18	Purpose 2293 2354	inform advertising related services provided to other clients
+T19	Purpose 2481 2547	you and other people can see relevant advertising on that platform
+T20	Data 2626 2630	IDFA
+T21	Purpose 2661 2789	serve relevant advertising to you or include you in a custom audience that we will serve relevant advertising to you on Facebook
+T22	Purpose 2794 2886	create an audience of other Facebook users based on the information in your Facebook profile
+T23	Data 254 269	aggregated data
+T24	Purpose 273 302	assist in serving advertising
+T25	Data 2256 2266	other data

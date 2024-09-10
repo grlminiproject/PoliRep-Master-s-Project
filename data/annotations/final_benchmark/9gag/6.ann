@@ -1,0 +1,22 @@
+T1	First-party-entity 24 26	We
+T2	collection-use 27 30	use
+E1	collection-use:T2 Purpose-Argument:T5 Data-Collected:T4 Data-Provider:T3 Data-Collector:T1
+T3	User 31 35	your
+T4	Data-general 36 47	information
+T5	OptimisationForConsumer 51 123	provide you with the best products and services we can build and improve
+T6	First-party-entity 137 139	we
+T7	collection-use 140 143	use
+E2	collection-use:T7 Data-Collected:T8 Data-Collector:T6 Purpose-Argument:T21 Purpose-Argument2:T20 Purpose-Argument3:T19 Purpose-Argument4:T18 Data-Collected2:T16 Purpose-Argument6:T15 Purpose-Argument7:T14 Purpose-Argument8:T13 Purpose-Argument9:T12 Purpose-Argument10:T11 Purpose-Argument11:T10 Purpose-Argument12:T9
+T8	Data-general 149 160	information
+T9	ServiceOptimisation 169 243	develop, maintain, improve, deliver, and protect our products and services
+T10	ServiceUsageAnalytics 245 311	Monitor and analyze trends and usages of our products and services
+T11	CommunicationManagement 313 357	Send you communications, including by e-mail
+T12	CommunicationForCustomerCare 376 420	using e-mail to respond to support inquiries
+T13	DirectMarketing 428 529	share information about our products, services, and promotional offers that we think may interest you
+T14	ProvidePersonalisedRecommendations 531 603	Personalize our services by showing you better and more relevant content
+T15	TargetedAdvertising 605 718	Provide ad targeting and measurement, including the use of your precise location information to show relevant ads
+T16	Location 669 697	precise location information
+T18	EnforceSecurity 720 792	Enhance and enforce the safety and security of our products and services
+T19	IdentityVerification 794 874	Verify your identity and prevent fraud, or other authorized and illegal activity
+T20	ServiceOptimisation 876 967	Use information we’ve collected cookies and other data to enhance our services and products
+T21	OrganisationComplianceManagement 969 1040	Enforce our Terms of Service, Community Rules, and other usage policies

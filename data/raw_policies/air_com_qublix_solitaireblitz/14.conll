@@ -1,0 +1,189 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = SECURITY SAFEGUARDS
+1	SECURITY	security	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=0:8
+2	SAFEGUARDS	sAFEGUARDs	PROPN	NNP	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=9:19
+
+# newpar
+# sent_id = 2
+# text = Qublix takes reasonable measures to protect your information from unauthorized access or against loss, misuse or alteration by third parties.
+1	Qublix	Qublix	SYM	NFP	_	2	expl	_	TokenRange=21:27
+2	takes	take	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=28:33
+3	reasonable	reasonable	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=34:44
+4	measures	measure	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=45:53
+5	to	to	PART	TO	_	6	mark	_	TokenRange=54:56
+6	protect	protect	VERB	VB	VerbForm=Inf	2	csubj	_	TokenRange=57:64
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=65:69
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=70:81
+9	from	from	ADP	IN	_	11	case	_	TokenRange=82:86
+10	unauthorized	unauthorized	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=87:99
+11	access	access	NOUN	NN	Number=Sing	6	obl	_	TokenRange=100:106
+12	or	or	CCONJ	CC	_	14	cc	_	TokenRange=107:109
+13	against	against	ADP	IN	_	14	case	_	TokenRange=110:117
+14	loss	loss	NOUN	NN	Number=Sing	11	conj	_	SpaceAfter=No|TokenRange=118:122
+15	,	,	PUNCT	,	_	16	punct	_	TokenRange=122:123
+16	misuse	misuse	NOUN	NN	Number=Sing	11	conj	_	TokenRange=124:130
+17	or	or	CCONJ	CC	_	18	cc	_	TokenRange=131:133
+18	alteration	alteration	NOUN	NN	Number=Sing	11	conj	_	TokenRange=134:144
+19	by	by	ADP	IN	_	21	case	_	TokenRange=145:147
+20	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	21	amod	_	TokenRange=148:153
+21	parties	party	NOUN	NNS	Number=Plur	6	obl	_	SpaceAfter=No|TokenRange=154:161
+22	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=161:162
+
+# sent_id = 3
+# text = Although we make good faith efforts to store the information collected on the Service in a secure operating environment that is not available to the public, we cannot guarantee the absolute security of that information during its transmission or its storage on our systems.
+1	Although	although	SCONJ	IN	_	3	mark	_	TokenRange=163:171
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=172:174
+3	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	31	advcl	_	TokenRange=175:179
+4	good	good	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=180:184
+5	faith	faith	NOUN	NN	Number=Sing	6	compound	_	TokenRange=185:190
+6	efforts	effort	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=191:198
+7	to	to	PART	TO	_	8	mark	_	TokenRange=199:201
+8	store	store	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=202:207
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=208:211
+10	information	information	NOUN	NN	Number=Sing	8	obj	_	TokenRange=212:223
+11	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	_	TokenRange=224:233
+12	on	on	ADP	IN	_	14	case	_	TokenRange=234:236
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=237:240
+14	Service	service	NOUN	NN	Number=Sing	11	obl	_	TokenRange=241:248
+15	in	in	ADP	IN	_	19	case	_	TokenRange=249:251
+16	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	TokenRange=252:253
+17	secure	secure	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=254:260
+18	operating	operating	NOUN	NN	Number=Sing	19	compound	_	TokenRange=261:270
+19	environment	environment	NOUN	NN	Number=Sing	3	nmod	_	TokenRange=271:282
+20	that	that	PRON	WDT	PronType=Rel	23	nsubj	_	TokenRange=283:287
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	cop	_	TokenRange=288:290
+22	not	not	PART	RB	_	23	advmod	_	TokenRange=291:294
+23	available	available	ADJ	JJ	Degree=Pos	3	acl:relcl	_	TokenRange=295:304
+24	to	to	ADP	IN	_	26	case	_	TokenRange=305:307
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	TokenRange=308:311
+26	public	public	NOUN	NN	Number=Sing	23	obl	_	SpaceAfter=No|TokenRange=312:318
+27	,	,	PUNCT	,	_	31	punct	_	TokenRange=318:319
+28	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	31	nsubj	_	TokenRange=320:322
+29	can	can	AUX	MD	VerbForm=Fin	31	aux	_	SpaceAfter=No|TokenRange=323:326
+30	not	not	PART	RB	_	31	advmod	_	TokenRange=326:329
+31	guarantee	guarantee	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=330:339
+32	the	the	DET	DT	Definite=Def|PronType=Art	34	det	_	TokenRange=340:343
+33	absolute	absolute	ADJ	JJ	Degree=Pos	34	amod	_	TokenRange=344:352
+34	security	security	NOUN	NN	Number=Sing	31	obj	_	TokenRange=353:361
+35	of	of	ADP	IN	_	37	case	_	TokenRange=362:364
+36	that	that	DET	DT	Number=Sing|PronType=Dem	37	det	_	TokenRange=365:369
+37	information	information	NOUN	NN	Number=Sing	34	nmod	_	TokenRange=370:381
+38	during	during	ADP	IN	_	40	case	_	TokenRange=382:388
+39	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	40	nmod:poss	_	TokenRange=389:392
+40	transmission	transmission	NOUN	NN	Number=Sing	37	nmod	_	TokenRange=393:405
+41	or	or	CCONJ	CC	_	43	cc	_	TokenRange=406:408
+42	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	43	nmod:poss	_	TokenRange=409:412
+43	storage	storage	NOUN	NN	Number=Sing	40	conj	_	TokenRange=413:420
+44	on	on	ADP	IN	_	46	case	_	TokenRange=421:423
+45	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	46	nmod:poss	_	TokenRange=424:427
+46	systems	system	NOUN	NNS	Number=Plur	40	nmod	_	SpaceAfter=No|TokenRange=428:435
+47	.	.	PUNCT	.	_	31	punct	_	SpacesAfter=\n|TokenRange=435:436
+
+# sent_id = 4
+# text = Further, while we attempt to ensure the integrity and security of our network and systems, we cannot guarantee that our security measures will prevent third-party hackers from illegally obtaining access to this information.
+1	Further	further	ADV	RB	_	21	advmod	_	SpaceAfter=No|TokenRange=437:444
+2	,	,	PUNCT	,	_	21	punct	_	TokenRange=444:445
+3	while	while	SCONJ	IN	_	5	mark	_	TokenRange=446:451
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=452:454
+5	attempt	attempt	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	advcl	_	TokenRange=455:462
+6	to	to	PART	TO	_	7	mark	_	TokenRange=463:465
+7	ensure	ensure	VERB	VB	VerbForm=Inf	5	xcomp	_	TokenRange=466:472
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=473:476
+9	integrity	integrity	NOUN	NN	Number=Sing	7	obj	_	TokenRange=477:486
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=487:490
+11	security	security	NOUN	NN	Number=Sing	9	conj	_	TokenRange=491:499
+12	of	of	ADP	IN	_	14	case	_	TokenRange=500:502
+13	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=503:506
+14	network	network	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=507:514
+15	and	and	CCONJ	CC	_	16	cc	_	TokenRange=515:518
+16	systems	system	NOUN	NNS	Number=Plur	14	conj	_	SpaceAfter=No|TokenRange=519:526
+17	,	,	PUNCT	,	_	21	punct	_	TokenRange=526:527
+18	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	TokenRange=528:530
+19	can	can	AUX	MD	VerbForm=Fin	21	aux	_	SpaceAfter=No|TokenRange=531:534
+20	not	not	PART	RB	_	21	advmod	_	TokenRange=534:537
+21	guarantee	guarantee	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=538:547
+22	that	that	SCONJ	IN	_	27	mark	_	TokenRange=548:552
+23	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	25	nmod:poss	_	TokenRange=553:556
+24	security	security	NOUN	NN	Number=Sing	25	compound	_	TokenRange=557:565
+25	measures	measure	NOUN	NNS	Number=Plur	27	nsubj	_	TokenRange=566:574
+26	will	will	AUX	MD	VerbForm=Fin	27	aux	_	TokenRange=575:579
+27	prevent	prevent	VERB	VB	VerbForm=Inf	21	ccomp	_	TokenRange=580:587
+28	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	30	amod	_	SpaceAfter=No|TokenRange=588:593
+29	-	-	PUNCT	HYPH	_	30	punct	_	SpaceAfter=No|TokenRange=593:594
+30	party	party	NOUN	NN	Number=Sing	31	compound	_	TokenRange=594:599
+31	hackers	hacker	NOUN	NNS	Number=Plur	27	obj	_	TokenRange=600:607
+32	from	from	SCONJ	IN	_	34	mark	_	TokenRange=608:612
+33	illegally	illegally	ADV	RB	_	34	advmod	_	TokenRange=613:622
+34	obtaining	obtain	VERB	VBG	VerbForm=Ger	27	advcl	_	TokenRange=623:632
+35	access	access	NOUN	NN	Number=Sing	34	obj	_	TokenRange=633:639
+36	to	to	ADP	IN	_	38	case	_	TokenRange=640:642
+37	this	this	DET	DT	Number=Sing|PronType=Dem	38	det	_	TokenRange=643:647
+38	information	information	NOUN	NN	Number=Sing	35	nmod	_	SpaceAfter=No|TokenRange=648:659
+39	.	.	PUNCT	.	_	21	punct	_	TokenRange=659:660
+
+# sent_id = 5
+# text = We do not warrant or represent that your information will be protected against, loss, misuse, or alteration by third parties.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=661:663
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=664:666
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=667:670
+4	warrant	warrant	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=671:678
+5	or	or	CCONJ	CC	_	6	cc	_	TokenRange=679:681
+6	represent	represent	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=682:691
+7	that	that	SCONJ	IN	_	12	mark	_	TokenRange=692:696
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=697:701
+9	information	information	NOUN	NN	Number=Sing	12	nsubj:pass	_	TokenRange=702:713
+10	will	will	AUX	MD	VerbForm=Fin	12	aux	_	TokenRange=714:718
+11	be	be	AUX	VB	VerbForm=Inf	12	aux:pass	_	TokenRange=719:721
+12	protected	protect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	ccomp	_	TokenRange=722:731
+13	against	against	ADP	IN	_	15	case	_	SpaceAfter=No|TokenRange=732:739
+14	,	,	PUNCT	,	_	15	punct	_	TokenRange=739:740
+15	loss	loss	NOUN	NN	Number=Sing	12	obl	_	SpaceAfter=No|TokenRange=741:745
+16	,	,	PUNCT	,	_	17	punct	_	TokenRange=745:746
+17	misuse	misuse	NOUN	NN	Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=747:753
+18	,	,	PUNCT	,	_	20	punct	_	TokenRange=753:754
+19	or	or	CCONJ	CC	_	20	cc	_	TokenRange=755:757
+20	alteration	alteration	NOUN	NN	Number=Sing	15	conj	_	TokenRange=758:768
+21	by	by	ADP	IN	_	23	case	_	TokenRange=769:771
+22	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	23	amod	_	TokenRange=772:777
+23	parties	party	NOUN	NNS	Number=Plur	15	nmod	_	SpaceAfter=No|TokenRange=778:785
+24	.	.	PUNCT	.	_	4	punct	_	TokenRange=785:786
+
+# sent_id = 6
+# text = However, no method of transmission over the Internet, or method of electronic storage, is 100% secure.
+1	However	however	ADV	RB	_	20	advmod	_	SpaceAfter=No|TokenRange=787:794
+2	,	,	PUNCT	,	_	20	punct	_	TokenRange=794:795
+3	no	no	DET	DT	_	4	det	_	TokenRange=796:798
+4	method	method	NOUN	NN	Number=Sing	20	nsubj	_	TokenRange=799:805
+5	of	of	ADP	IN	_	6	case	_	TokenRange=806:808
+6	transmission	transmission	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=809:821
+7	over	over	ADP	IN	_	9	case	_	TokenRange=822:826
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=827:830
+9	Internet	internet	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=831:839
+10	,	,	PUNCT	,	_	12	punct	_	TokenRange=839:840
+11	or	or	CCONJ	CC	_	12	cc	_	TokenRange=841:843
+12	method	method	NOUN	NN	Number=Sing	4	conj	_	TokenRange=844:850
+13	of	of	ADP	IN	_	15	case	_	TokenRange=851:853
+14	electronic	electronic	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=854:864
+15	storage	storage	NOUN	NN	Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=865:872
+16	,	,	PUNCT	,	_	20	punct	_	TokenRange=872:873
+17	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	TokenRange=874:876
+18	100	100	NUM	CD	NumType=Card	19	nummod	_	SpaceAfter=No|TokenRange=877:880
+19	%	%	SYM	NN	Number=Sing	20	obl:npmod	_	TokenRange=880:881
+20	secure	secure	ADJ	JJ	Degree=Pos	0	root	_	SpaceAfter=No|TokenRange=882:888
+21	.	.	PUNCT	.	_	20	punct	_	TokenRange=888:889
+
+# sent_id = 7
+# text = Therefore, we cannot guarantee its absolute security.
+1	Therefore	therefore	ADV	RB	_	6	advmod	_	SpaceAfter=No|TokenRange=890:899
+2	,	,	PUNCT	,	_	6	punct	_	TokenRange=899:900
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=901:903
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	SpaceAfter=No|TokenRange=904:907
+5	not	not	PART	RB	_	6	advmod	_	TokenRange=907:910
+6	guarantee	guarantee	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=911:920
+7	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=921:924
+8	absolute	absolute	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=925:933
+9	security	security	NOUN	NN	Number=Sing	6	obj	_	SpaceAfter=No|TokenRange=934:942
+10	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|TokenRange=942:943
+

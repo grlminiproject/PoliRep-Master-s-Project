@@ -1,0 +1,53 @@
+{
+  "text": "Analytics and Advertising Services\n\n\n",
+  "words": [
+    "Analytics",
+    "and",
+    "Advertising",
+    "Services"
+  ],
+  "lemma": [
+    "Analytic",
+    "and",
+    "advertising",
+    "service"
+  ],
+  "pos-tags": [
+    "NNS",
+    "CC",
+    "NN",
+    "NNS"
+  ],
+  "dependency-relation": [
+    "root",
+    "cc",
+    "compound",
+    "conj"
+  ],
+  "token-ranges": [
+    [
+      0,
+      9
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      14,
+      25
+    ],
+    [
+      26,
+      34
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      3
+    ]
+  ],
+  "entity/argument_mentions": [],
+  "event_mentions": []
+}

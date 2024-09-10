@@ -1,0 +1,46 @@
+T2	OptimisationForConsumer 340 362	help you log in faster
+T3	OptimiseUserInterface 367 407	enhance your navigation through the site
+T4	ServiceConsumptionBehavior 458 481	how you use the Service
+T6	ServiceUsageAnalytics 588 629	track your usage of the Service over time
+T8	Tracking 1161 1186	the online usage patterns
+T10	CommercialResearch 1283 1354	track which emails are opened and which links are clicked by recipients
+T11	TODO 1383 1406	more accurate reporting
+T12	ServiceOptimisation 1411 1437	improvement of the Service
+T13	Data-general 1459 1473	analytics data
+T14	ServiceUsageAnalytics 1522 1537	measure traffic
+T15	ServiceUsageAnalytics 1542 1570	usage trends for the Service
+T16	BrowsingBehavior 1657 1672	pages you visit
+T17	ServiceConsumptionBehavior 1674 1710	your use of third party applications
+T18	Data-other 1716 1733	other information
+T19	ServiceOptimisation 1753 1788	analyzing and improving the Service
+T20	DeviceIdentifier 1888 1959	unique identification numbers associated with your device ("Device ID")
+T21	DeviceBased 1961 1975	mobile carrier
+T22	DeviceBased 1977 2005	device type and manufacturer
+T23	TelephoneNumber 2007 2019	phone number
+T24	Location 2073 2099	geographical location data
+T25	GPSCoordinate 2111 2159	GPS coordinates (e.g. latitude and/or longitude)
+T26	Location 2163 2227	similar information regarding the location of your mobile device
+T27	IdentityAuthentication 2362 2477	remember information so that you will not have to re-enter it during your visit or the next time you visit the site
+T28	CustomerCare 2483 2535	provide custom, personalized content and information
+T29	ServiceUsageAnalytics 2541 2593	provide and monitor the effectiveness of our Service
+T30	ServiceUsageAnalytics 2599 2730	monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service
+T31	RepairImpairments 2736 2771	diagnose or fix technology problems
+T32	ServiceOptimisation 2781 2826	otherwise to plan for and enhance our service
+T35	DeviceIdentifier 2293 2311	device identifiers
+T36	Location 2313 2326	location data
+T39	BrowserHistory 492 506	pages you view
+T40	LinkClicked 512 527	links you click
+T41	ServiceConsumptionBehavior 538 569	actions you take on the Service
+T42	Tracking 804 815	web request
+T43	IPAddress 817 849	Internet Protocol ("IP") address
+T44	Tracking 851 863	browser type
+T45	DeviceBased 865 901	information about your mobile device
+T46	BrowsingReferral 903 934	referring / exit pages and URLs
+T47	LinkClicked 936 999	number of clicks and how you interact with links on the Service
+T48	Tracking 1001 1013	domain names
+T49	Tracking 1015 1028	landing pages
+T50	BrowsingBehavior 1030 1042	pages viewed
+T51	Data-general 1048 1070	other such information
+T53	Data-general 769 790	anonymous information
+#1	AnnotatorNotes T42	I do not know which type of data this is.
+#2	AnnotatorNotes T11	I would not annotate this.

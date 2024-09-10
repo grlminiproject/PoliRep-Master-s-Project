@@ -1,0 +1,245 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Your Choices about Your Information
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=0:4
+2	Choices	choice	NOUN	NNS	Number=Plur	0	root	_	TokenRange=5:12
+3	about	about	ADP	IN	_	5	case	_	TokenRange=13:18
+4	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=19:23
+5	Information	Information	NOUN	NN	Number=Sing	2	nmod	_	SpacesAfter=\n\n|TokenRange=24:35
+
+# newpar
+# sent_id = 2
+# text = Profile data.
+1	Profile	profile	NOUN	NN	Number=Sing	2	compound	_	TokenRange=37:44
+2	data	data	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=45:49
+3	.	.	PUNCT	.	_	2	punct	_	TokenRange=49:50
+
+# sent_id = 3
+# text = You can change your profile settings by visiting "Edit Account" to control whether your profile can be seen by Codecademy members or by the general public.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=51:54
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=55:58
+3	change	change	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=59:65
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=66:70
+5	profile	profile	NOUN	NN	Number=Sing	6	compound	_	TokenRange=71:78
+6	settings	setting	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=79:87
+7	by	by	SCONJ	IN	_	8	mark	_	TokenRange=88:90
+8	visiting	visit	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=91:99
+9	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No|TokenRange=100:101
+10	Edit	edit	NOUN	NN	Number=Sing	11	compound	_	TokenRange=101:105
+11	Account	account	NOUN	NN	Number=Sing	8	obj	_	SpaceAfter=No|TokenRange=106:113
+12	"	"	PUNCT	''	_	11	punct	_	TokenRange=113:114
+13	to	to	PART	TO	_	14	mark	_	TokenRange=115:117
+14	control	control	VERB	VB	VerbForm=Inf	8	xcomp	_	TokenRange=118:125
+15	whether	whether	SCONJ	IN	_	20	mark	_	TokenRange=126:133
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=134:138
+17	profile	profile	NOUN	NN	Number=Sing	20	nsubj:pass	_	TokenRange=139:146
+18	can	can	AUX	MD	VerbForm=Fin	20	aux	_	TokenRange=147:150
+19	be	be	AUX	VB	VerbForm=Inf	20	aux:pass	_	TokenRange=151:153
+20	seen	see	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	ccomp	_	TokenRange=154:158
+21	by	by	ADP	IN	_	23	case	_	TokenRange=159:161
+22	Codecademy	Codecademy	NOUN	NN	Number=Sing	23	compound	_	TokenRange=162:172
+23	members	member	NOUN	NNS	Number=Plur	20	obl	_	TokenRange=173:180
+24	or	or	CCONJ	CC	_	28	cc	_	TokenRange=181:183
+25	by	by	ADP	IN	_	28	case	_	TokenRange=184:186
+26	the	the	DET	DT	Definite=Def|PronType=Art	28	det	_	TokenRange=187:190
+27	general	general	ADJ	JJ	Degree=Pos	28	amod	_	TokenRange=191:198
+28	public	public	NOUN	NN	Number=Sing	23	conj	_	SpaceAfter=No|TokenRange=199:205
+29	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=205:206
+
+# sent_id = 4
+# text = Communications.
+1	Communications	communications	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=207:221
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=221:222
+
+# sent_id = 5
+# text = You can control your communication preferences by visiting "Mail Settings" in the "My Account" section of our website.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=223:226
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=227:230
+3	control	control	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=231:238
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=239:243
+5	communication	communication	NOUN	NN	Number=Sing	6	compound	_	TokenRange=244:257
+6	preferences	preference	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=258:269
+7	by	by	SCONJ	IN	_	8	mark	_	TokenRange=270:272
+8	visiting	visit	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=273:281
+9	"	"	PUNCT	``	_	11	punct	_	SpaceAfter=No|TokenRange=282:283
+10	Mail	mail	NOUN	NN	Number=Sing	11	compound	_	TokenRange=283:287
+11	Settings	settings	NOUN	NNS	Number=Plur	8	obj	_	SpaceAfter=No|TokenRange=288:296
+12	"	"	PUNCT	''	_	11	punct	_	TokenRange=296:297
+13	in	in	ADP	IN	_	17	case	_	TokenRange=298:300
+14	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=301:304
+15	"	"	PUNCT	``	_	17	punct	_	SpaceAfter=No|TokenRange=305:306
+16	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=306:308
+17	Account	account	NOUN	NN	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=309:316
+18	"	"	PUNCT	''	_	17	punct	_	TokenRange=316:317
+19	section	section	NOUN	NN	Number=Sing	17	appos	_	TokenRange=318:325
+20	of	of	ADP	IN	_	22	case	_	TokenRange=326:328
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=329:332
+22	website	website	NOUN	NN	Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=333:340
+23	.	.	PUNCT	.	_	3	punct	_	TokenRange=340:341
+
+# sent_id = 6
+# text = You can also click the "unsubscribe" button on promotional email communications.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=342:345
+2	can	can	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=346:349
+3	also	also	ADV	RB	_	4	advmod	_	TokenRange=350:354
+4	click	click	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=355:360
+5	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=361:364
+6	"	"	PUNCT	``	_	9	punct	_	SpaceAfter=No|TokenRange=365:366
+7	unsubscribe	unsubscribe	ADJ	JJ	Degree=Pos	9	amod	_	SpaceAfter=No|TokenRange=366:377
+8	"	"	PUNCT	''	_	9	punct	_	TokenRange=377:378
+9	button	button	NOUN	NN	Number=Sing	4	obj	_	TokenRange=379:385
+10	on	on	ADP	IN	_	13	case	_	TokenRange=386:388
+11	promotional	promotional	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=389:400
+12	email	email	NOUN	NN	Number=Sing	13	compound	_	TokenRange=401:406
+13	communications	communication	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=407:421
+14	.	.	PUNCT	.	_	4	punct	_	TokenRange=421:422
+
+# sent_id = 7
+# text = Note that you are not permitted to unsubscribe or opt-out of non-promotional messages regarding your account, such as account verification, password requests, change or updates to features of the Service, or technical and security notices.
+1	Note	note	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=423:427
+2	that	that	SCONJ	IN	_	6	mark	_	TokenRange=428:432
+3	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj:pass	_	TokenRange=433:436
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	TokenRange=437:440
+5	not	not	PART	RB	_	6	advmod	_	TokenRange=441:444
+6	permitted	permit	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	1	ccomp	_	TokenRange=445:454
+7	to	to	PART	TO	_	8	mark	_	TokenRange=455:457
+8	unsubscribe	unsubscribe	VERB	VB	VerbForm=Inf	6	xcomp	_	TokenRange=458:469
+9	or	or	CCONJ	CC	_	10	cc	_	TokenRange=470:472
+10	opt	opt	VERB	VB	VerbForm=Inf	8	conj	_	SpaceAfter=No|TokenRange=473:476
+11	-	-	PUNCT	HYPH	_	8	punct	_	SpaceAfter=No|TokenRange=476:477
+12	out	out	ADP	IN	_	15	case	_	TokenRange=477:480
+13	of	of	ADP	IN	_	15	case	_	TokenRange=481:483
+14	non-promotional	non-promotional	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=484:499
+15	messages	message	NOUN	NNS	Number=Plur	8	obl	_	TokenRange=500:508
+16	regarding	regard	VERB	VBG	VerbForm=Ger	18	case	_	TokenRange=509:518
+17	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=519:523
+18	account	account	NOUN	NN	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=524:531
+19	,	,	PUNCT	,	_	8	punct	_	TokenRange=531:532
+20	such	such	ADJ	JJ	Degree=Pos	23	case	_	TokenRange=533:537
+21	as	as	ADP	IN	_	20	fixed	_	TokenRange=538:540
+22	account	account	NOUN	NN	Number=Sing	23	compound	_	TokenRange=541:548
+23	verification	verification	NOUN	NN	Number=Sing	8	obl	_	SpaceAfter=No|TokenRange=549:561
+24	,	,	PUNCT	,	_	26	punct	_	TokenRange=561:562
+25	password	password	NOUN	NN	Number=Sing	26	compound	_	TokenRange=563:571
+26	requests	request	NOUN	NNS	Number=Plur	23	conj	_	SpaceAfter=No|TokenRange=572:580
+27	,	,	PUNCT	,	_	28	punct	_	TokenRange=580:581
+28	change	change	NOUN	NN	Number=Sing	23	conj	_	TokenRange=582:588
+29	or	or	CCONJ	CC	_	30	cc	_	TokenRange=589:591
+30	updates	update	NOUN	NNS	Number=Plur	23	conj	_	TokenRange=592:599
+31	to	to	ADP	IN	_	32	case	_	TokenRange=600:602
+32	features	feature	NOUN	NNS	Number=Plur	23	nmod	_	TokenRange=603:611
+33	of	of	ADP	IN	_	35	case	_	TokenRange=612:614
+34	the	the	DET	DT	Definite=Def|PronType=Art	35	det	_	TokenRange=615:618
+35	Service	service	NOUN	NN	Number=Sing	32	nmod	_	SpaceAfter=No|TokenRange=619:626
+36	,	,	PUNCT	,	_	38	punct	_	TokenRange=626:627
+37	or	or	CCONJ	CC	_	38	cc	_	TokenRange=628:630
+38	technical	technical	ADJ	JJ	Degree=Pos	41	amod	_	TokenRange=631:640
+39	and	and	CCONJ	CC	_	40	cc	_	TokenRange=641:644
+40	security	security	NOUN	NN	Number=Sing	38	conj	_	TokenRange=645:653
+41	notices	notice	NOUN	NNS	Number=Plur	23	conj	_	SpaceAfter=No|TokenRange=654:661
+42	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=661:662
+
+# sent_id = 8
+# text = Data Retention.
+1	Data	data	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=663:667
+2	Retention	retention	PROPN	NNP	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=668:677
+3	.	.	PUNCT	.	_	2	punct	_	TokenRange=677:678
+
+# sent_id = 9
+# text = We will retain your information for as long as your account is active or as needed to provide you services.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=679:681
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=682:686
+3	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=687:693
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=694:698
+5	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=699:710
+6	for	for	ADP	IN	_	8	case	_	TokenRange=711:714
+7	as	as	ADV	RB	_	8	advmod	_	TokenRange=715:717
+8	long	long	ADV	RB	Degree=Pos	3	obl	_	TokenRange=718:722
+9	as	as	SCONJ	IN	_	13	mark	_	TokenRange=723:725
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=726:730
+11	account	account	NOUN	NN	Number=Sing	13	nsubj	_	TokenRange=731:738
+12	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	13	cop	_	TokenRange=739:741
+13	active	active	ADJ	JJ	Degree=Pos	3	advcl	_	TokenRange=742:748
+14	or	or	CCONJ	CC	_	16	cc	_	TokenRange=749:751
+15	as	as	SCONJ	IN	_	16	mark	_	TokenRange=752:754
+16	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	13	conj	_	TokenRange=755:761
+17	to	to	PART	TO	_	18	mark	_	TokenRange=762:764
+18	provide	provide	VERB	VB	VerbForm=Inf	16	xcomp	_	TokenRange=765:772
+19	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	18	iobj	_	TokenRange=773:776
+20	services	service	NOUN	NNS	Number=Plur	18	obj	_	SpaceAfter=No|TokenRange=777:785
+21	.	.	PUNCT	.	_	3	punct	_	TokenRange=785:786
+
+# sent_id = 10
+# text = If your account becomes inactive, we will maintain your personal information in the event you wish to re-engage in our Service.
+1	If	if	SCONJ	IN	_	4	mark	_	TokenRange=787:789
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=790:794
+3	account	account	NOUN	NN	Number=Sing	4	nsubj	_	TokenRange=795:802
+4	becomes	become	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=803:810
+5	inactive	inactive	ADJ	JJ	Degree=Pos	4	xcomp	_	SpaceAfter=No|TokenRange=811:819
+6	,	,	PUNCT	,	_	9	punct	_	TokenRange=819:820
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=821:823
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	_	TokenRange=824:828
+9	maintain	maintain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=829:837
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=838:842
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=843:851
+12	information	information	NOUN	NN	Number=Sing	9	obj	_	TokenRange=852:863
+13	in	in	ADP	IN	_	15	case	_	TokenRange=864:866
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=867:870
+15	event	event	NOUN	NN	Number=Sing	9	obl	_	TokenRange=871:876
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	17	nsubj	_	TokenRange=877:880
+17	wish	wish	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	acl:relcl	_	TokenRange=881:885
+18	to	to	PART	TO	_	19	mark	_	TokenRange=886:888
+19	re-engage	re-engage	VERB	VB	VerbForm=Inf	17	xcomp	_	TokenRange=889:898
+20	in	in	ADP	IN	_	22	case	_	TokenRange=899:901
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=902:905
+22	Service	service	NOUN	NN	Number=Sing	19	obl	_	SpaceAfter=No|TokenRange=906:913
+23	.	.	PUNCT	.	_	9	punct	_	TokenRange=913:914
+
+# sent_id = 11
+# text = You may delete your account by visiting the "My Account" page.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=915:918
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=919:922
+3	delete	delete	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=923:929
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=930:934
+5	account	account	NOUN	NN	Number=Sing	3	obj	_	TokenRange=935:942
+6	by	by	SCONJ	IN	_	7	mark	_	TokenRange=943:945
+7	visiting	visit	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=946:954
+8	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=955:958
+9	"	"	PUNCT	``	_	13	punct	_	SpaceAfter=No|TokenRange=959:960
+10	My	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=960:962
+11	Account	account	NOUN	NN	Number=Sing	13	compound	_	SpaceAfter=No|TokenRange=963:970
+12	"	"	PUNCT	''	_	13	punct	_	TokenRange=970:971
+13	page	page	NOUN	NN	Number=Sing	7	obj	_	SpaceAfter=No|TokenRange=972:976
+14	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=976:977
+
+# sent_id = 12
+# text = If you have any questions about reviewing or modifying your account information, you can contact us directly by submitting a ticket through our Help Center.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=978:980
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=981:984
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	advcl	_	TokenRange=985:989
+4	any	any	DET	DT	_	5	det	_	TokenRange=990:993
+5	questions	question	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=994:1003
+6	about	about	SCONJ	IN	_	7	mark	_	TokenRange=1004:1009
+7	reviewing	review	VERB	VBG	VerbForm=Ger	5	acl	_	TokenRange=1010:1019
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=1020:1022
+9	modifying	modify	VERB	VBG	VerbForm=Ger	7	conj	_	TokenRange=1023:1032
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=1033:1037
+11	account	account	NOUN	NN	Number=Sing	12	compound	_	TokenRange=1038:1045
+12	information	information	NOUN	NN	Number=Sing	7	obj	_	SpaceAfter=No|TokenRange=1046:1057
+13	,	,	PUNCT	,	_	16	punct	_	TokenRange=1057:1058
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	TokenRange=1059:1062
+15	can	can	AUX	MD	VerbForm=Fin	16	aux	_	TokenRange=1063:1066
+16	contact	contact	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1067:1074
+17	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	16	obj	_	TokenRange=1075:1077
+18	directly	directly	ADV	RB	_	16	advmod	_	TokenRange=1078:1086
+19	by	by	SCONJ	IN	_	20	mark	_	TokenRange=1087:1089
+20	submitting	submit	VERB	VBG	VerbForm=Ger	16	advcl	_	TokenRange=1090:1100
+21	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	TokenRange=1101:1102
+22	ticket	ticket	NOUN	NN	Number=Sing	20	obj	_	TokenRange=1103:1109
+23	through	through	ADP	IN	_	26	case	_	TokenRange=1110:1117
+24	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	TokenRange=1118:1121
+25	Help	help	NOUN	NN	Number=Sing	26	compound	_	TokenRange=1122:1126
+26	Center	Center	PROPN	NNP	Number=Sing	22	nmod	_	SpaceAfter=No|TokenRange=1127:1133
+27	.	.	PUNCT	.	_	16	punct	_	SpacesAfter=\n\n|TokenRange=1133:1134
+

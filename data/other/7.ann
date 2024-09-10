@@ -1,0 +1,14 @@
+T1	third-party-sharing-disclosure 62 67	share
+E1	third-party-sharing-disclosure:T1 Data-Shared:T7 Data-Shared2:T6 Data-Receiver:T5 Data-Shared3:T4 Data-Provider:T3 Data-Sharer:T2
+T2	First-party-entity 31 34	Our
+T3	User 50 58	visitors
+T4	Data-general 68 79	information
+T5	Third-party-entity 85 91	others
+T6	Data-user-online-activities-profiles 101 130	comments on editorial content
+T7	Data-user-online-activities-profiles 135 170	information shared via social media
+T8	Condition 177 198	you share information
+T9	User 177 180	you
+T10	Data-general 187 198	information
+T11	third-party-sharing-disclosure 225 235	accessible
+E2	third-party-sharing-disclosure:T11 Data-Receiver:T12 Data-Shared:T10 Condition-Argument:T8 Data-Provider:T9
+T12	Third-party-entity 239 245	others

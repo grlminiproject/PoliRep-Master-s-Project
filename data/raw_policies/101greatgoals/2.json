@@ -1,0 +1,224 @@
+{
+  "text": "WHAT INFORMATION WE COLLECT?\n\nWe collect two types of information from our Users:\n\n",
+  "words": [
+    "WHAT",
+    "INFORMATION",
+    "WE",
+    "COLLECT",
+    "?",
+    "We",
+    "collect",
+    "two",
+    "types",
+    "of",
+    "information",
+    "from",
+    "our",
+    "Users",
+    ":"
+  ],
+  "lemma": [
+    "what",
+    "information",
+    "we",
+    "collect",
+    "?",
+    "we",
+    "collect",
+    "two",
+    "type",
+    "of",
+    "information",
+    "from",
+    "we",
+    "user",
+    ":"
+  ],
+  "pos-tags": [
+    "WDT",
+    "NN",
+    "PRP",
+    "VBP",
+    ".",
+    "PRP",
+    "VBP",
+    "CD",
+    "NNS",
+    "IN",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    ":"
+  ],
+  "dependency-relation": [
+    "det",
+    "root",
+    "nsubj",
+    "acl:relcl",
+    "punct",
+    "nsubj",
+    "root",
+    "nummod",
+    "obj",
+    "case",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      16
+    ],
+    [
+      17,
+      19
+    ],
+    [
+      20,
+      27
+    ],
+    [
+      27,
+      28
+    ],
+    [
+      30,
+      32
+    ],
+    [
+      33,
+      40
+    ],
+    [
+      41,
+      44
+    ],
+    [
+      45,
+      50
+    ],
+    [
+      51,
+      53
+    ],
+    [
+      54,
+      65
+    ],
+    [
+      66,
+      70
+    ],
+    [
+      71,
+      74
+    ],
+    [
+      75,
+      80
+    ],
+    [
+      80,
+      81
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      14
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 30,
+      "end_idx": 32,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 54,
+      "end_idx": 65,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "Users",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T4",
+      "start_idx": 75,
+      "end_idx": 80,
+      "tokens": [
+        "Users"
+      ],
+      "token_idx": [
+        13
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 33,
+        "end_idx": 40,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          6
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 54,
+          "end_idx": 65
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "Users",
+          "start_idx": 75,
+          "end_idx": 80
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 30,
+          "end_idx": 32
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

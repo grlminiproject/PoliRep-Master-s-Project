@@ -1,0 +1,42 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = (3) Internet Protocol address
+1	(	(	PUNCT	-LRB-	_	2	punct	_	SpaceAfter=No|TokenRange=0:1
+2	3	3	X	LS	_	6	nummod	_	SpaceAfter=No|TokenRange=1:2
+3	)	)	PUNCT	-RRB-	_	2	punct	_	TokenRange=2:3
+4	Internet	internet	NOUN	NN	Number=Sing	5	compound	_	TokenRange=4:12
+5	Protocol	Protocol	NOUN	NN	Number=Sing	6	compound	_	TokenRange=13:21
+6	address	address	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=22:29
+
+# newpar
+# sent_id = 2
+# text = Device event information such as crashes, system activity, hardware settings, browser type, the date and time of your request and referral URL.
+1	Device	device	NOUN	NN	Number=Sing	3	compound	_	TokenRange=31:37
+2	event	event	NOUN	NN	Number=Sing	3	compound	_	TokenRange=38:43
+3	information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=44:55
+4	such	such	ADJ	JJ	Degree=Pos	6	case	_	TokenRange=56:60
+5	as	as	ADP	IN	_	4	fixed	_	TokenRange=61:63
+6	crashes	crashes	NOUN	NNS	Number=Plur	3	nmod	_	SpaceAfter=No|TokenRange=64:71
+7	,	,	PUNCT	,	_	9	punct	_	TokenRange=71:72
+8	system	system	NOUN	NN	Number=Sing	9	compound	_	TokenRange=73:79
+9	activity	activity	NOUN	NN	Number=Sing	6	conj	_	SpaceAfter=No|TokenRange=80:88
+10	,	,	PUNCT	,	_	3	punct	_	TokenRange=88:89
+11	hardware	hardware	NOUN	NN	Number=Sing	12	compound	_	TokenRange=90:98
+12	settings	setting	NOUN	NNS	Number=Plur	3	list	_	SpaceAfter=No|TokenRange=99:107
+13	,	,	PUNCT	,	_	3	punct	_	TokenRange=107:108
+14	browser	browser	NOUN	NN	Number=Sing	15	compound	_	TokenRange=109:116
+15	type	type	NOUN	NN	Number=Sing	3	list	_	SpaceAfter=No|TokenRange=117:121
+16	,	,	PUNCT	,	_	3	punct	_	TokenRange=121:122
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=123:126
+18	date	date	NOUN	NN	Number=Sing	3	appos	_	TokenRange=127:131
+19	and	and	CCONJ	CC	_	20	cc	_	TokenRange=132:135
+20	time	time	NOUN	NN	Number=Sing	18	conj	_	TokenRange=136:140
+21	of	of	ADP	IN	_	23	case	_	TokenRange=141:143
+22	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=144:148
+23	request	request	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=149:156
+24	and	and	CCONJ	CC	_	26	cc	_	TokenRange=157:160
+25	referral	referral	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=161:169
+26	URL	url	PROPN	NNP	Number=Sing	23	conj	_	SpaceAfter=No|TokenRange=170:173
+27	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=173:174
+

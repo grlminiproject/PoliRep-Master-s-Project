@@ -1,0 +1,24 @@
+T1	Marketing 423 514	build a profile of your preferences based on your activities when you visit or use our apps
+T2	Advertising 625 719	identify the advertising that are served to you and what you do after seeing those advertising
+T3	ServiceUsageAnalytics 815 843	analyse your use of the apps
+T6	DeviceBased 1258 1280	data about your device
+T7	Location 1282 1290	location
+T8	DeviceApplications 1295 1310	use of our apps
+T9	IPAddress 1322 1332	IP address
+T10	DeviceIdentifier 1336 1352	unique device ID
+T11	GPSCoordinate 1354 1374	geo-location details
+T12	UID 1384 1391	User ID
+T13	Data-general 1426 1474	data which you provide to us when using our apps
+T14	AdInteractionBehavior 1486 1534	information on your interaction with advertising
+T15	Data-general 1539 1568	certain technical information
+T16	TargetedAdvertising 1648 1748	provide you with targeted advertising that is relevant to you and your preferences with your consent
+T17	Purpose-general 2190 2208	their own purposes
+T18	Advertising 2293 2354	inform advertising related services provided to other clients
+T19	Advertising 2481 2547	you and other people can see relevant advertising on that platform
+T20	DeviceIdentifier 2626 2630	IDFA
+T21	PersonalisedAdvertising 2661 2789	serve relevant advertising to you or include you in a custom audience that we will serve relevant advertising to you on Facebook
+T22	Purpose-other 2794 2886	create an audience of other Facebook users based on the information in your Facebook profile
+T23	Data-general 254 269	aggregated data
+T24	Advertising 273 302	assist in serving advertising
+T25	Data-other 2256 2266	other data
+#1	AnnotatorNotes T1	The marketing aspect is implied rather than explicitly stated.

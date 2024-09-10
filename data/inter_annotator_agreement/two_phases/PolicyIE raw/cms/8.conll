@@ -1,0 +1,497 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How CMS websites use third-party websites and applications
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	TokenRange=0:3
+2	CMS	Cms	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=4:7
+3	websites	websites	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=8:16
+4	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=17:20
+5	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	7	amod	_	SpaceAfter=No|TokenRange=21:26
+6	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No|TokenRange=26:27
+7	party	party	NOUN	NN	Number=Sing	8	compound	_	TokenRange=27:32
+8	websites	website	NOUN	NNS	Number=Plur	4	obj	_	TokenRange=33:41
+9	and	and	CCONJ	CC	_	10	cc	_	TokenRange=42:45
+10	applications	application	NOUN	NNS	Number=Plur	8	conj	_	SpacesAfter=\n\n|TokenRange=46:58
+
+# newpar
+# sent_id = 2
+# text = As a response to OMB Memo M-10-06, Open Government Directive, CMS websites use a variety of technologies and social media services to communicate and interact with citizens.
+1	As	as	ADP	IN	_	3	case	_	TokenRange=60:62
+2	a	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	TokenRange=63:64
+3	response	response	NOUN	NN	Number=Sing	7	compound	_	TokenRange=65:73
+4	to	to	ADP	IN	_	5	case	_	TokenRange=74:76
+5	OMB	OMB	PROPN	NNP	Number=Sing	7	nmod	_	TokenRange=77:80
+6	Memo	memo	PROPN	NNP	Number=Sing	5	flat	_	TokenRange=81:85
+7	M	m	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=86:87
+8	-10	-10	NUM	CD	NumType=Card	10	advmod	_	SpaceAfter=No|TokenRange=87:90
+9	-	-	SYM	SYM	_	10	punct	_	SpaceAfter=No|TokenRange=90:91
+10	06	06	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=91:93
+11	,	,	PUNCT	,	_	7	punct	_	TokenRange=93:94
+12	Open	open	PROPN	NNP	Number=Sing	13	compound	_	TokenRange=95:99
+13	Government	government	PROPN	NNP	Number=Sing	14	compound	_	TokenRange=100:110
+14	Directive	directive	PROPN	NNP	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=111:120
+15	,	,	PUNCT	,	_	7	punct	_	TokenRange=120:121
+16	CMS	Cm	PROPN	NNP	Number=Sing	17	compound	_	TokenRange=122:125
+17	websites	websites	NOUN	NNS	Number=Plur	18	nsubj	_	TokenRange=126:134
+18	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	7	parataxis	_	TokenRange=135:138
+19	a	a	DET	DT	Definite=Ind|PronType=Art	20	det	_	TokenRange=139:140
+20	variety	variety	NOUN	NN	Number=Sing	18	obj	_	TokenRange=141:148
+21	of	of	ADP	IN	_	22	case	_	TokenRange=149:151
+22	technologies	technology	NOUN	NNS	Number=Plur	20	nmod	_	TokenRange=152:164
+23	and	and	CCONJ	CC	_	26	cc	_	TokenRange=165:168
+24	social	social	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=169:175
+25	media	media	NOUN	NN	Number=Sing	26	compound	_	TokenRange=176:181
+26	services	service	NOUN	NNS	Number=Plur	22	conj	_	TokenRange=182:190
+27	to	to	PART	TO	_	28	mark	_	TokenRange=191:193
+28	communicate	communicate	VERB	VB	VerbForm=Inf	26	acl	_	TokenRange=194:205
+29	and	and	CCONJ	CC	_	30	cc	_	TokenRange=206:209
+30	interact	interact	VERB	VB	VerbForm=Inf	28	conj	_	TokenRange=210:218
+31	with	with	ADP	IN	_	32	case	_	TokenRange=219:223
+32	citizens	citizen	NOUN	NNS	Number=Plur	30	obl	_	SpaceAfter=No|TokenRange=224:232
+33	.	.	PUNCT	.	_	7	punct	_	TokenRange=232:233
+
+# sent_id = 3
+# text = These third-party website and application (TPWA) tools include popular social networking and media sites, open source software communities, and more.
+1	These	these	DET	DT	Number=Plur|PronType=Dem	5	det	_	TokenRange=234:239
+2	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	4	amod	_	SpaceAfter=No|TokenRange=240:245
+3	-	-	PUNCT	HYPH	_	4	punct	_	SpaceAfter=No|TokenRange=245:246
+4	party	party	NOUN	NN	Number=Sing	5	compound	_	TokenRange=246:251
+5	website	website	NOUN	NN	Number=Sing	11	compound	_	TokenRange=252:259
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=260:263
+7	application	application	NOUN	NN	Number=Sing	5	conj	_	TokenRange=264:275
+8	(	(	PUNCT	-LRB-	_	5	punct	_	SpaceAfter=No|TokenRange=276:277
+9	TPWA	TPWA	NOUN	NN	Number=Sing	5	appos	_	SpaceAfter=No|TokenRange=277:281
+10	)	)	PUNCT	-RRB-	_	5	punct	_	TokenRange=281:282
+11	tools	tool	NOUN	NNS	Number=Plur	12	nsubj	_	TokenRange=283:288
+12	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=289:296
+13	popular	popular	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=297:304
+14	social	social	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=305:311
+15	networking	networking	NOUN	NN	Number=Sing	12	obj	_	TokenRange=312:322
+16	and	and	CCONJ	CC	_	18	cc	_	TokenRange=323:326
+17	media	media	NOUN	NN	Number=Sing	18	compound	_	TokenRange=327:332
+18	sites	site	NOUN	NNS	Number=Plur	15	conj	_	SpaceAfter=No|TokenRange=333:338
+19	,	,	PUNCT	,	_	23	punct	_	TokenRange=338:339
+20	open	open	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=340:344
+21	source	source	NOUN	NN	Number=Sing	23	compound	_	TokenRange=345:351
+22	software	software	NOUN	NN	Number=Sing	23	compound	_	TokenRange=352:360
+23	communities	community	NOUN	NNS	Number=Plur	15	conj	_	SpaceAfter=No|TokenRange=361:372
+24	,	,	PUNCT	,	_	26	punct	_	TokenRange=372:373
+25	and	and	CCONJ	CC	_	26	cc	_	TokenRange=374:377
+26	more	more	ADJ	JJR	Degree=Cmp	12	conj	_	SpaceAfter=No|TokenRange=378:382
+27	.	.	PUNCT	.	_	12	punct	_	TokenRange=382:383
+
+# sent_id = 4
+# text = Examples include Facebook, Twitter, and YouTube.
+1	Examples	example	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=384:392
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=393:400
+3	Facebook	Facebook	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=401:409
+4	,	,	PUNCT	,	_	5	punct	_	TokenRange=409:410
+5	Twitter	Twitter	NOUN	NN	Number=Sing	3	conj	_	SpaceAfter=No|TokenRange=411:418
+6	,	,	PUNCT	,	_	8	punct	_	TokenRange=418:419
+7	and	and	CCONJ	CC	_	8	cc	_	TokenRange=420:423
+8	YouTube	YouTube	PROPN	NNP	Number=Sing	3	conj	_	SpaceAfter=No|TokenRange=424:431
+9	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=431:432
+
+# sent_id = 5
+# text = TPWAs are not exclusively operated or controlled by CMS websites.
+1	TPWAs	TPWA	NOUN	NNS	Number=Plur	5	nsubj:pass	_	TokenRange=433:438
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux:pass	_	TokenRange=439:442
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=443:446
+4	exclusively	exclusively	ADV	RB	_	5	advmod	_	TokenRange=447:458
+5	operated	operate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=459:467
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=468:470
+7	controlled	control	VERB	VBN	Tense=Past|VerbForm=Part	5	conj	_	TokenRange=471:481
+8	by	by	ADP	IN	_	10	case	_	TokenRange=482:484
+9	CMS	CMS	NOUN	NN	Number=Sing	10	compound	_	TokenRange=485:488
+10	websites	website	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No|TokenRange=489:497
+11	.	.	PUNCT	.	_	5	punct	_	TokenRange=497:498
+
+# sent_id = 6
+# text = Users of TPWAs often share information with the general public, user community, and/or the third party operating the website.
+1	Users	user	NOUN	NNS	Number=Plur	5	nsubj	_	TokenRange=499:504
+2	of	of	ADP	IN	_	3	case	_	TokenRange=505:507
+3	TPWAs	TPWAs	PROPN	NNPS	Number=Plur	1	nmod	_	TokenRange=508:513
+4	often	often	ADV	RB	_	5	advmod	_	TokenRange=514:519
+5	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=520:525
+6	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=526:537
+7	with	with	ADP	IN	_	13	case	_	TokenRange=538:542
+8	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=543:546
+9	general	general	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=547:554
+10	public	public	ADJ	JJ	Degree=Pos	13	amod	_	SpaceAfter=No|TokenRange=555:561
+11	,	,	PUNCT	,	_	13	punct	_	TokenRange=561:562
+12	user	user	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=563:567
+13	community	community	NOUN	NN	Number=Sing	5	obl	_	SpaceAfter=No|TokenRange=568:577
+14	,	,	PUNCT	,	_	20	punct	_	TokenRange=577:578
+15	and	and	CCONJ	CC	_	20	cc	_	SpaceAfter=No|TokenRange=579:582
+16	/	/	PUNCT	,	_	17	cc	_	SpaceAfter=No|TokenRange=582:583
+17	or	or	CCONJ	CC	_	15	conj	_	TokenRange=583:585
+18	the	the	DET	DT	Definite=Def|PronType=Art	20	det	_	TokenRange=586:589
+19	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	20	amod	_	TokenRange=590:595
+20	party	party	NOUN	NN	Number=Sing	13	conj	_	TokenRange=596:601
+21	operating	operate	VERB	VBG	VerbForm=Ger	20	acl	_	TokenRange=602:611
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	TokenRange=612:615
+23	website	website	NOUN	NN	Number=Sing	21	obj	_	SpaceAfter=No|TokenRange=616:623
+24	.	.	PUNCT	.	_	5	punct	_	TokenRange=623:624
+
+# sent_id = 7
+# text = These actors may use this information in a variety of ways.
+1	These	these	DET	DT	Number=Plur|PronType=Dem	2	det	_	TokenRange=625:630
+2	actors	actor	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=631:637
+3	may	may	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=638:641
+4	use	use	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=642:645
+5	this	this	DET	DT	Number=Sing|PronType=Dem	6	det	_	TokenRange=646:650
+6	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=651:662
+7	in	in	ADP	IN	_	9	case	_	TokenRange=663:665
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=666:667
+9	variety	variety	NOUN	NN	Number=Sing	4	obl	_	TokenRange=668:675
+10	of	of	ADP	IN	_	11	case	_	TokenRange=676:678
+11	ways	way	NOUN	NNS	Number=Plur	9	nmod	_	SpaceAfter=No|TokenRange=679:683
+12	.	.	PUNCT	.	_	4	punct	_	TokenRange=683:684
+
+# sent_id = 8
+# text = TPWAs could cause PII to become available or accessible to CMS websites and the public, regardless of whether the information is explicitly asked for or collected by us.
+1	TPWAs	Tpbe	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=685:690
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=691:696
+3	cause	cause	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=697:702
+4	PII	PII	PROPN	NNP	Number=Sing	3	obj	_	TokenRange=703:706
+5	to	to	PART	TO	_	6	mark	_	TokenRange=707:709
+6	become	become	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=710:716
+7	available	available	ADJ	JJ	Degree=Pos	6	xcomp	_	TokenRange=717:726
+8	or	or	CCONJ	CC	_	9	cc	_	TokenRange=727:729
+9	accessible	accessible	ADJ	JJ	Degree=Pos	7	conj	_	TokenRange=730:740
+10	to	to	PART	TO	_	11	mark	_	TokenRange=741:743
+11	CMS	Cm	VERB	VB	VerbForm=Inf	7	advcl	_	TokenRange=744:747
+12	websites	website	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=748:756
+13	and	and	CCONJ	CC	_	15	cc	_	TokenRange=757:760
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=761:764
+15	public	public	ADJ	JJ	Degree=Pos	12	conj	_	SpaceAfter=No|TokenRange=765:771
+16	,	,	PUNCT	,	_	3	punct	_	TokenRange=771:772
+17	regardless	regardless	ADV	RB	_	3	advmod	_	TokenRange=773:783
+18	of	of	SCONJ	IN	_	24	mark	_	TokenRange=784:786
+19	whether	whether	SCONJ	IN	_	24	mark	_	TokenRange=787:794
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	TokenRange=795:798
+21	information	information	NOUN	NN	Number=Sing	24	nsubj:pass	_	TokenRange=799:810
+22	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	24	aux:pass	_	TokenRange=811:813
+23	explicitly	explicitly	ADV	RB	_	24	advmod	_	TokenRange=814:824
+24	asked	ask	VERB	VBN	Tense=Past|VerbForm=Part	17	advcl	_	TokenRange=825:830
+25	for	for	ADP	IN	_	27	case	_	TokenRange=831:834
+26	or	or	CCONJ	CC	_	27	cc	_	TokenRange=835:837
+27	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	24	conj	_	TokenRange=838:847
+28	by	by	ADP	IN	_	29	case	_	TokenRange=848:850
+29	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	27	obl	_	SpaceAfter=No|TokenRange=851:853
+30	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=853:854
+
+# sent_id = 9
+# text = CMS websites sometime collect and use your PII if you made it available through third-party websites.
+1	CMS	Cm	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=855:858
+2	websites	websites	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=859:867
+3	sometime	sometime	ADV	RB	_	4	advmod	_	TokenRange=868:876
+4	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=877:884
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=885:888
+6	use	use	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=889:892
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=893:897
+8	PII	pIi	NOUN	NN	Number=Sing	6	obj	_	TokenRange=898:901
+9	if	if	SCONJ	IN	_	11	mark	_	TokenRange=902:904
+10	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	11	nsubj	_	TokenRange=905:908
+11	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	advcl	_	TokenRange=909:913
+12	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	11	obj	_	TokenRange=914:916
+13	available	available	ADJ	JJ	Degree=Pos	11	xcomp	_	TokenRange=917:926
+14	through	through	ADP	IN	_	18	case	_	TokenRange=927:934
+15	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	17	amod	_	SpaceAfter=No|TokenRange=935:940
+16	-	-	PUNCT	HYPH	_	17	punct	_	SpaceAfter=No|TokenRange=940:941
+17	party	party	NOUN	NN	Number=Sing	18	compound	_	TokenRange=941:946
+18	websites	website	NOUN	NNS	Number=Plur	11	obl	_	SpaceAfter=No|TokenRange=947:955
+19	.	.	PUNCT	.	_	4	punct	_	TokenRange=955:956
+
+# sent_id = 10
+# text = However, we do not share PII made available through third-party websites.
+1	However	however	ADV	RB	_	6	advmod	_	SpaceAfter=No|TokenRange=957:964
+2	,	,	PUNCT	,	_	6	punct	_	TokenRange=964:965
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=966:968
+4	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux	_	TokenRange=969:971
+5	not	not	PART	RB	_	6	advmod	_	TokenRange=972:975
+6	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=976:981
+7	PII	PII	PROPN	NNP	Number=Sing	6	obj	_	TokenRange=982:985
+8	made	make	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	6	ccomp	_	TokenRange=986:990
+9	available	available	ADJ	JJ	Degree=Pos	8	xcomp	_	TokenRange=991:1000
+10	through	through	ADP	IN	_	14	case	_	TokenRange=1001:1008
+11	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	13	amod	_	SpaceAfter=No|TokenRange=1009:1014
+12	-	-	PUNCT	HYPH	_	13	punct	_	SpaceAfter=No|TokenRange=1014:1015
+13	party	party	NOUN	NN	Number=Sing	14	compound	_	TokenRange=1015:1020
+14	websites	website	NOUN	NNS	Number=Plur	8	obl	_	SpaceAfter=No|TokenRange=1021:1029
+15	.	.	PUNCT	.	_	6	punct	_	TokenRange=1029:1030
+
+# sent_id = 11
+# text = Your activity on the third-party websites we use is governed by the security and privacy policies of those sites.
+1	Your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=1031:1035
+2	activity	activity	NOUN	NN	Number=Sing	12	nsubj:pass	_	TokenRange=1036:1044
+3	on	on	ADP	IN	_	8	case	_	TokenRange=1045:1047
+4	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=1048:1051
+5	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	7	amod	_	SpaceAfter=No|TokenRange=1052:1057
+6	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No|TokenRange=1057:1058
+7	party	party	NOUN	NN	Number=Sing	8	compound	_	TokenRange=1058:1063
+8	websites	websites	NOUN	NNS	Number=Plur	2	nmod	_	TokenRange=1064:1072
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	TokenRange=1073:1075
+10	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	TokenRange=1076:1079
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	aux:pass	_	TokenRange=1080:1082
+12	governed	govern	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=1083:1091
+13	by	by	ADP	IN	_	18	case	_	TokenRange=1092:1094
+14	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=1095:1098
+15	security	security	NOUN	NN	Number=Sing	18	compound	_	TokenRange=1099:1107
+16	and	and	CCONJ	CC	_	17	cc	_	TokenRange=1108:1111
+17	privacy	privacy	NOUN	NN	Number=Sing	15	conj	_	TokenRange=1112:1119
+18	policies	policy	NOUN	NNS	Number=Plur	12	obl	_	TokenRange=1120:1128
+19	of	of	ADP	IN	_	21	case	_	TokenRange=1129:1131
+20	those	those	DET	DT	Number=Plur|PronType=Dem	21	det	_	TokenRange=1132:1137
+21	sites	site	NOUN	NNS	Number=Plur	18	nmod	_	SpaceAfter=No|TokenRange=1138:1143
+22	.	.	PUNCT	.	_	12	punct	_	TokenRange=1143:1144
+
+# sent_id = 12
+# text = You should review the third-party privacy policies before using the sites and ensure that you understand how your information may be used.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1145:1148
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1149:1155
+3	review	review	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1156:1162
+4	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=1163:1166
+5	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	7	amod	_	SpaceAfter=No|TokenRange=1167:1172
+6	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No|TokenRange=1172:1173
+7	party	party	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1173:1178
+8	privacy	privacy	NOUN	NN	Number=Sing	9	compound	_	TokenRange=1179:1186
+9	policies	policy	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=1187:1195
+10	before	before	SCONJ	IN	_	11	mark	_	TokenRange=1196:1202
+11	using	use	VERB	VBG	VerbForm=Ger	3	advcl	_	TokenRange=1203:1208
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=1209:1212
+13	sites	site	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=1213:1218
+14	and	and	CCONJ	CC	_	15	cc	_	TokenRange=1219:1222
+15	ensure	ensure	VERB	VB	Mood=Imp|VerbForm=Fin	3	conj	_	TokenRange=1223:1229
+16	that	that	SCONJ	IN	_	18	mark	_	TokenRange=1230:1234
+17	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj	_	TokenRange=1235:1238
+18	understand	understand	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	15	ccomp	_	TokenRange=1239:1249
+19	how	how	ADV	WRB	PronType=Int	24	advmod	_	TokenRange=1250:1253
+20	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=1254:1258
+21	information	information	NOUN	NN	Number=Sing	24	nsubj:pass	_	TokenRange=1259:1270
+22	may	may	AUX	MD	VerbForm=Fin	24	aux	_	TokenRange=1271:1274
+23	be	be	AUX	VB	VerbForm=Inf	24	aux:pass	_	TokenRange=1275:1277
+24	used	use	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	18	ccomp	_	SpaceAfter=No|TokenRange=1278:1282
+25	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=1282:1283
+
+# sent_id = 13
+# text = If you have an account with a third-party website and choose to “like,” “friend,” follow, or comment, certain PII associated with your account may be made available to CMS websites based on the privacy policy of the third-party website and your privacy settings within that website.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=1284:1286
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1287:1290
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	36	advcl	_	TokenRange=1291:1295
+4	an	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=1296:1298
+5	account	account	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1299:1306
+6	with	with	ADP	IN	_	11	case	_	TokenRange=1307:1311
+7	a	a	DET	DT	Definite=Ind|PronType=Art	11	det	_	TokenRange=1312:1313
+8	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	_	SpaceAfter=No|TokenRange=1314:1319
+9	-	-	PUNCT	HYPH	_	10	punct	_	SpaceAfter=No|TokenRange=1319:1320
+10	party	party	NOUN	NN	Number=Sing	11	compound	_	TokenRange=1320:1325
+11	website	website	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=1326:1333
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=1334:1337
+13	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	TokenRange=1338:1344
+14	to	to	ADP	IN	_	16	case	_	TokenRange=1345:1347
+15	“	"	PUNCT	``	_	16	punct	_	SpaceAfter=No|TokenRange=1348:1349
+16	like	like	INTJ	UH	_	13	obl	_	SpaceAfter=No|TokenRange=1349:1353
+17	,	,	PUNCT	,	_	13	punct	_	SpaceAfter=No|TokenRange=1353:1354
+18	”	"	PUNCT	''	_	13	punct	_	TokenRange=1354:1355
+19	“	"	PUNCT	``	_	20	punct	_	SpaceAfter=No|TokenRange=1356:1357
+20	friend	friend	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=1357:1363
+21	,	,	PUNCT	,	_	23	punct	_	SpaceAfter=No|TokenRange=1363:1364
+22	”	"	PUNCT	''	_	23	punct	_	TokenRange=1364:1365
+23	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	conj	_	SpaceAfter=No|TokenRange=1366:1372
+24	,	,	PUNCT	,	_	26	punct	_	TokenRange=1372:1373
+25	or	or	CCONJ	CC	_	26	cc	_	TokenRange=1374:1376
+26	comment	comment	NOUN	NN	Number=Sing	36	nsubj:pass	_	SpaceAfter=No|TokenRange=1377:1384
+27	,	,	PUNCT	,	_	29	punct	_	TokenRange=1384:1385
+28	certain	certain	ADJ	JJ	Degree=Pos	29	amod	_	TokenRange=1386:1393
+29	PII	pIi	NOUN	NN	Number=Sing	26	conj	_	TokenRange=1394:1397
+30	associated	associate	VERB	VBN	Tense=Past|VerbForm=Part	26	acl	_	TokenRange=1398:1408
+31	with	with	ADP	IN	_	33	case	_	TokenRange=1409:1413
+32	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	33	nmod:poss	_	TokenRange=1414:1418
+33	account	account	NOUN	NN	Number=Sing	30	obl	_	TokenRange=1419:1426
+34	may	may	AUX	MD	VerbForm=Fin	36	aux	_	TokenRange=1427:1430
+35	be	be	AUX	VB	VerbForm=Inf	36	aux:pass	_	TokenRange=1431:1433
+36	made	make	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=1434:1438
+37	available	available	ADJ	JJ	Degree=Pos	36	xcomp	_	TokenRange=1439:1448
+38	to	to	PART	TO	_	39	mark	_	TokenRange=1449:1451
+39	CMS	Cm	VERB	VB	VerbForm=Inf	37	advcl	_	TokenRange=1452:1455
+40	websites	website	NOUN	NNS	Number=Plur	39	obj	_	TokenRange=1456:1464
+41	based	base	VERB	VBN	Tense=Past|VerbForm=Part	40	acl	_	TokenRange=1465:1470
+42	on	on	ADP	IN	_	45	case	_	TokenRange=1471:1473
+43	the	the	DET	DT	Definite=Def|PronType=Art	45	det	_	TokenRange=1474:1477
+44	privacy	privacy	NOUN	NN	Number=Sing	45	compound	_	TokenRange=1478:1485
+45	policy	policy	NOUN	NN	Number=Sing	41	obl	_	TokenRange=1486:1492
+46	of	of	ADP	IN	_	51	case	_	TokenRange=1493:1495
+47	the	the	DET	DT	Definite=Def|PronType=Art	51	det	_	TokenRange=1496:1499
+48	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	50	amod	_	SpaceAfter=No|TokenRange=1500:1505
+49	-	-	PUNCT	HYPH	_	50	punct	_	SpaceAfter=No|TokenRange=1505:1506
+50	party	party	NOUN	NN	Number=Sing	51	compound	_	TokenRange=1506:1511
+51	website	website	NOUN	NN	Number=Sing	45	nmod	_	TokenRange=1512:1519
+52	and	and	CCONJ	CC	_	55	cc	_	TokenRange=1520:1523
+53	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	55	nmod:poss	_	TokenRange=1524:1528
+54	privacy	privacy	NOUN	NN	Number=Sing	55	compound	_	TokenRange=1529:1536
+55	settings	setting	NOUN	NNS	Number=Plur	51	conj	_	TokenRange=1537:1545
+56	within	within	ADP	IN	_	58	case	_	TokenRange=1546:1552
+57	that	that	DET	DT	Number=Sing|PronType=Dem	58	det	_	TokenRange=1553:1557
+58	website	website	NOUN	NN	Number=Sing	55	nmod	_	SpaceAfter=No|TokenRange=1558:1565
+59	.	.	PUNCT	.	_	36	punct	_	TokenRange=1565:1566
+
+# sent_id = 14
+# text = You should adjust privacy settings on your account to match your preferences.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=1567:1570
+2	should	should	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=1571:1577
+3	adjust	adjust	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1578:1584
+4	privacy	privacy	NOUN	NN	Number=Sing	5	compound	_	TokenRange=1585:1592
+5	settings	setting	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=1593:1601
+6	on	on	ADP	IN	_	8	case	_	TokenRange=1602:1604
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=1605:1609
+8	account	account	NOUN	NN	Number=Sing	3	obl	_	TokenRange=1610:1617
+9	to	to	PART	TO	_	10	mark	_	TokenRange=1618:1620
+10	match	match	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=1621:1626
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=1627:1631
+12	preferences	preference	NOUN	NNS	Number=Plur	10	obj	_	SpaceAfter=No|TokenRange=1632:1643
+13	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=1643:1644
+
+# sent_id = 15
+# text = We also collect non-personally identifiable information through the use of tracking pixels that appear on our pages.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=1645:1647
+2	also	also	ADV	RB	_	3	advmod	_	TokenRange=1648:1652
+3	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1653:1660
+4	non-personally	non-personally	ADV	RB	_	5	advmod	_	TokenRange=1661:1675
+5	identifiable	identifiable	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=1676:1688
+6	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1689:1700
+7	through	through	ADP	IN	_	9	case	_	TokenRange=1701:1708
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=1709:1712
+9	use	use	NOUN	NN	Number=Sing	3	obl	_	TokenRange=1713:1716
+10	of	of	SCONJ	IN	_	11	mark	_	TokenRange=1717:1719
+11	tracking	track	VERB	VBG	VerbForm=Ger	9	acl	_	TokenRange=1720:1728
+12	pixels	pixel	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=1729:1735
+13	that	that	PRON	WDT	PronType=Rel	14	nsubj	_	TokenRange=1736:1740
+14	appear	appear	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	TokenRange=1741:1747
+15	on	on	ADP	IN	_	17	case	_	TokenRange=1748:1750
+16	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=1751:1754
+17	pages	page	NOUN	NNS	Number=Plur	14	obl	_	SpaceAfter=No|TokenRange=1755:1760
+18	.	.	PUNCT	.	_	3	punct	_	TokenRange=1760:1761
+
+# sent_id = 16
+# text = A tracking pixel is a transparent graphic image (usually 1 pixel x 1 pixel) that is placed on a web page and, in combination with a cookie, allows us to collect information regarding the use of the web page that contains the tracking pixel.
+1	A	a	DET	DT	Definite=Ind|PronType=Art	3	det	_	TokenRange=1762:1763
+2	tracking	tracking	NOUN	NN	Number=Sing	3	compound	_	TokenRange=1764:1772
+3	pixel	pixel	NOUN	NN	Number=Sing	8	nsubj	_	TokenRange=1773:1778
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=1779:1781
+5	a	a	DET	DT	Definite=Ind|PronType=Art	8	det	_	TokenRange=1782:1783
+6	transparent	transparent	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=1784:1795
+7	graphic	graphic	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=1796:1803
+8	image	image	NOUN	NN	Number=Sing	0	root	_	TokenRange=1804:1809
+9	(	(	PUNCT	-LRB-	_	11	punct	_	SpaceAfter=No|TokenRange=1810:1811
+10	usually	usually	ADV	RB	_	11	advmod	_	TokenRange=1811:1818
+11	1	1	NUM	CD	NumType=Card	12	nummod	_	TokenRange=1819:1820
+12	pixel	pixel	NOUN	NN	Number=Sing	15	compound	_	TokenRange=1821:1826
+13	x	x	SYM	SYM	_	14	punct	_	TokenRange=1827:1828
+14	1	1	NUM	CD	NumType=Card	12	appos	_	TokenRange=1829:1830
+15	pixel	pixel	NOUN	NN	Number=Sing	8	appos	_	SpaceAfter=No|TokenRange=1831:1836
+16	)	)	PUNCT	-RRB-	_	15	punct	_	TokenRange=1836:1837
+17	that	that	PRON	DT	Number=Sing|PronType=Dem	19	nsubj:pass	_	TokenRange=1838:1842
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	19	aux:pass	_	TokenRange=1843:1845
+19	placed	place	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	parataxis	_	TokenRange=1846:1852
+20	on	on	ADP	IN	_	23	case	_	TokenRange=1853:1855
+21	a	a	DET	DT	Definite=Ind|PronType=Art	23	det	_	TokenRange=1856:1857
+22	web	web	NOUN	NN	Number=Sing	23	compound	_	TokenRange=1858:1861
+23	page	page	NOUN	NN	Number=Sing	19	obl	_	TokenRange=1862:1866
+24	and	and	CCONJ	CC	_	32	cc	_	SpaceAfter=No|TokenRange=1867:1870
+25	,	,	PUNCT	,	_	32	punct	_	TokenRange=1870:1871
+26	in	in	ADP	IN	_	27	case	_	TokenRange=1872:1874
+27	combination	combination	NOUN	NN	Number=Sing	32	obl	_	TokenRange=1875:1886
+28	with	with	ADP	IN	_	30	case	_	TokenRange=1887:1891
+29	a	a	DET	DT	Definite=Ind|PronType=Art	30	det	_	TokenRange=1892:1893
+30	cookie	cookie	NOUN	NN	Number=Sing	27	nmod	_	SpaceAfter=No|TokenRange=1894:1900
+31	,	,	PUNCT	,	_	32	punct	_	TokenRange=1900:1901
+32	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	23	conj	_	TokenRange=1902:1908
+33	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	32	obj	_	TokenRange=1909:1911
+34	to	to	PART	TO	_	35	mark	_	TokenRange=1912:1914
+35	collect	collect	VERB	VB	VerbForm=Inf	32	xcomp	_	TokenRange=1915:1922
+36	information	information	NOUN	NN	Number=Sing	35	obj	_	TokenRange=1923:1934
+37	regarding	regard	VERB	VBG	VerbForm=Ger	39	case	_	TokenRange=1935:1944
+38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	TokenRange=1945:1948
+39	use	use	NOUN	NN	Number=Sing	36	nmod	_	TokenRange=1949:1952
+40	of	of	ADP	IN	_	43	case	_	TokenRange=1953:1955
+41	the	the	DET	DT	Definite=Def|PronType=Art	43	det	_	TokenRange=1956:1959
+42	web	web	NOUN	NN	Number=Sing	43	compound	_	TokenRange=1960:1963
+43	page	page	NOUN	NN	Number=Sing	39	nmod	_	TokenRange=1964:1968
+44	that	that	PRON	WDT	PronType=Rel	45	nsubj	_	TokenRange=1969:1973
+45	contains	contain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	43	acl:relcl	_	TokenRange=1974:1982
+46	the	the	DET	DT	Definite=Def|PronType=Art	48	det	_	TokenRange=1983:1986
+47	tracking	tracke	VERB	VBG	VerbForm=Ger	48	amod	_	TokenRange=1987:1995
+48	pixel	pixel	NOUN	NN	Number=Sing	45	obj	_	SpaceAfter=No|TokenRange=1996:2001
+49	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n|TokenRange=2001:2002
+
+# sent_id = 17
+# text = We use tracking pixels to tell when an advertisement we run on another website has been clicked on or otherwise interacted with.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=2003:2005
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=2006:2009
+3	tracking	track	VERB	VBG	VerbForm=Ger	4	amod	_	TokenRange=2010:2018
+4	pixels	pixel	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=2019:2025
+5	to	to	PART	TO	_	6	mark	_	TokenRange=2026:2028
+6	tell	tell	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=2029:2033
+7	when	when	ADV	WRB	PronType=Int	17	mark	_	TokenRange=2034:2038
+8	an	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=2039:2041
+9	advertisement	advertisement	NOUN	NN	Number=Sing	17	nsubj:pass	_	TokenRange=2042:2055
+10	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	TokenRange=2056:2058
+11	run	run	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	TokenRange=2059:2062
+12	on	on	ADP	IN	_	14	case	_	TokenRange=2063:2065
+13	another	another	DET	DT	_	14	det	_	TokenRange=2066:2073
+14	website	website	NOUN	NN	Number=Sing	11	obl	_	TokenRange=2074:2081
+15	has	have	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	17	aux	_	TokenRange=2082:2085
+16	been	be	AUX	VBN	Tense=Past|VerbForm=Part	17	aux:pass	_	TokenRange=2086:2090
+17	clicked	click	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	6	advcl	_	TokenRange=2091:2098
+18	on	on	ADP	IN	_	21	case	_	TokenRange=2099:2101
+19	or	or	CCONJ	CC	_	21	cc	_	TokenRange=2102:2104
+20	otherwise	otherwise	ADV	RB	_	21	advmod	_	TokenRange=2105:2114
+21	interacted	interact	VERB	VBN	Tense=Past|VerbForm=Part	17	obl	_	TokenRange=2115:2125
+22	with	with	ADP	IN	_	21	case	_	SpaceAfter=No|TokenRange=2126:2130
+23	.	.	PUNCT	.	_	2	punct	_	TokenRange=2130:2131
+
+# sent_id = 18
+# text = We use that information to judge which advertisements are more appealing to users.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=2132:2134
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=2135:2138
+3	that	that	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=2139:2143
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=2144:2155
+5	to	to	PART	TO	_	6	mark	_	TokenRange=2156:2158
+6	judge	judge	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=2159:2164
+7	which	which	PRON	WDT	PronType=Int	8	det	_	TokenRange=2165:2170
+8	advertisements	advertisement	NOUN	NNS	Number=Plur	11	nsubj	_	TokenRange=2171:2185
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	cop	_	TokenRange=2186:2189
+10	more	more	ADV	RBR	_	11	advmod	_	TokenRange=2190:2194
+11	appealing	appeal	ADJ	JJ	Degree=Pos	6	ccomp	_	TokenRange=2195:2204
+12	to	to	ADP	IN	_	13	case	_	TokenRange=2205:2207
+13	users	user	NOUN	NNS	Number=Plur	11	obl	_	SpaceAfter=No|TokenRange=2208:2213
+14	.	.	PUNCT	.	_	2	punct	_	TokenRange=2213:2214
+
+# sent_id = 19
+# text = To opt out of these tracking pixels, please see the section above titled “How to opt out or disable cookies.”
+1	To	to	PART	TO	_	2	mark	_	TokenRange=2215:2217
+2	opt	opt	VERB	VB	VerbForm=Inf	10	advcl	_	TokenRange=2218:2221
+3	out	out	ADP	IN	_	7	case	_	TokenRange=2222:2225
+4	of	of	ADP	IN	_	7	case	_	TokenRange=2226:2228
+5	these	these	DET	DT	Number=Plur|PronType=Dem	7	det	_	TokenRange=2229:2234
+6	tracking	tracke	NOUN	NN	Number=Sing	7	compound	_	TokenRange=2235:2243
+7	pixels	pixel	NOUN	NNS	Number=Plur	2	obl	_	SpaceAfter=No|TokenRange=2244:2250
+8	,	,	PUNCT	,	_	10	punct	_	TokenRange=2250:2251
+9	please	please	INTJ	UH	_	10	discourse	_	TokenRange=2252:2258
+10	see	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=2259:2262
+11	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=2263:2266
+12	section	section	NOUN	NN	Number=Sing	10	obj	_	TokenRange=2267:2274
+13	above	above	ADP	IN	_	22	case	_	TokenRange=2275:2280
+14	titled	title	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	_	TokenRange=2281:2287
+15	“	"	PUNCT	``	_	18	punct	_	SpaceAfter=No|TokenRange=2288:2289
+16	How	how	ADV	WRB	PronType=Int	18	advmod	_	TokenRange=2289:2292
+17	to	to	PART	TO	_	18	mark	_	TokenRange=2293:2295
+18	opt	opt	VERB	VB	VerbForm=Inf	22	amod	_	TokenRange=2296:2299
+19	out	out	ADP	RP	_	18	compound:prt	_	TokenRange=2300:2303
+20	or	or	CCONJ	CC	_	21	cc	_	TokenRange=2304:2306
+21	disable	disable	ADJ	JJ	Degree=Pos	18	conj	_	TokenRange=2307:2314
+22	cookies	cookie	NOUN	NNS	Number=Plur	12	nmod	_	SpaceAfter=No|TokenRange=2315:2322
+23	.	.	PUNCT	.	_	10	punct	_	SpaceAfter=No|TokenRange=2322:2323
+24	”	"	PUNCT	''	_	10	punct	_	SpacesAfter=\n\n|TokenRange=2323:2324
+

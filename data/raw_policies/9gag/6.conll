@@ -1,0 +1,225 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How We Use Information
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=4:6
+3	Use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7:10
+4	Information	information	NOUN	NN	Number=Sing	3	obj	_	SpacesAfter=\n\n|TokenRange=11:22
+
+# newpar
+# sent_id = 2
+# text = We use your information to provide you with the best products and services we can build and improve.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=24:26
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=27:30
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=31:35
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=36:47
+5	to	to	PART	TO	_	6	mark	_	TokenRange=48:50
+6	provide	provide	VERB	VB	VerbForm=Inf	2	ccomp	_	TokenRange=51:58
+7	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obj	_	TokenRange=59:62
+8	with	with	ADP	IN	_	11	case	_	TokenRange=63:67
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=68:71
+10	best	best	ADJ	JJS	Degree=Sup	11	amod	_	TokenRange=72:76
+11	products	product	NOUN	NNS	Number=Plur	6	obl	_	TokenRange=77:85
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=86:89
+13	services	service	NOUN	NNS	Number=Plur	11	conj	_	TokenRange=90:98
+14	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	16	nsubj	_	TokenRange=99:101
+15	can	can	AUX	MD	VerbForm=Fin	16	aux	_	TokenRange=102:105
+16	build	build	VERB	VB	VerbForm=Inf	11	acl:relcl	_	TokenRange=106:111
+17	and	and	CCONJ	CC	_	18	cc	_	TokenRange=112:115
+18	improve	improve	VERB	VB	VerbForm=Inf	16	conj	_	SpaceAfter=No|TokenRange=116:123
+19	.	.	PUNCT	.	_	2	punct	_	TokenRange=123:124
+
+# sent_id = 3
+# text = Here’s what we use this information for: To develop, maintain, improve, deliver, and protect our products and services.
+1	Here	here	ADV	RB	PronType=Dem	0	root	_	SpaceAfter=No|TokenRange=125:129
+2	’s	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	1	cop	_	TokenRange=129:131
+3	what	what	PRON	WP	PronType=Int	1	nsubj	_	TokenRange=132:136
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=137:139
+5	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	TokenRange=140:143
+6	this	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	TokenRange=144:148
+7	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=149:160
+8	for	for	ADP	IN	_	1	case	_	SpaceAfter=No|TokenRange=161:164
+9	:	:	PUNCT	:	_	1	punct	_	SpacesAfter=\n|TokenRange=164:165
+10	To	to	PART	TO	_	11	mark	_	TokenRange=166:168
+11	develop	develop	VERB	VB	VerbForm=Inf	1	appos	_	SpaceAfter=No|TokenRange=169:176
+12	,	,	PUNCT	,	_	13	punct	_	TokenRange=176:177
+13	maintain	maintain	VERB	VB	VerbForm=Inf	11	conj	_	SpaceAfter=No|TokenRange=178:186
+14	,	,	PUNCT	,	_	15	punct	_	TokenRange=186:187
+15	improve	improve	VERB	VB	VerbForm=Inf	11	conj	_	SpaceAfter=No|TokenRange=188:195
+16	,	,	PUNCT	,	_	17	punct	_	TokenRange=195:196
+17	deliver	deliver	VERB	VB	VerbForm=Inf	11	conj	_	SpaceAfter=No|TokenRange=197:204
+18	,	,	PUNCT	,	_	20	punct	_	TokenRange=204:205
+19	and	and	CCONJ	CC	_	20	cc	_	TokenRange=206:209
+20	protect	protect	VERB	VB	VerbForm=Inf	11	conj	_	TokenRange=210:217
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=218:221
+22	products	product	NOUN	NNS	Number=Plur	20	obj	_	TokenRange=222:230
+23	and	and	CCONJ	CC	_	24	cc	_	TokenRange=231:234
+24	services	service	NOUN	NNS	Number=Plur	22	conj	_	SpaceAfter=No|TokenRange=235:243
+25	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=243:244
+
+# sent_id = 4
+# text = Monitor and analyze trends and usages of our products and services.
+1	Monitor	monitor	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=245:252
+2	and	and	CCONJ	CC	_	3	cc	_	TokenRange=253:256
+3	analyze	analyze	ADJ	JJ	Degree=Pos	1	conj	_	TokenRange=257:264
+4	trends	trend	NOUN	NNS	Number=Plur	0	root	_	TokenRange=265:271
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=272:275
+6	usages	usage	NOUN	NNS	Number=Plur	4	conj	_	TokenRange=276:282
+7	of	of	ADP	IN	_	9	case	_	TokenRange=283:285
+8	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=286:289
+9	products	product	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=290:298
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=299:302
+11	services	service	NOUN	NNS	Number=Plur	9	conj	_	SpaceAfter=No|TokenRange=303:311
+12	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=311:312
+
+# sent_id = 5
+# text = Send you communications, including by e-mail.
+1	Send	send	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=313:317
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	1	obj	_	TokenRange=318:321
+3	communications	communication	NOUN	NNS	Number=Plur	2	conj	_	SpaceAfter=No|TokenRange=322:336
+4	,	,	PUNCT	,	_	3	punct	_	TokenRange=336:337
+5	including	include	VERB	VBG	VerbForm=Ger	7	case	_	TokenRange=338:347
+6	by	by	ADP	IN	_	7	case	_	TokenRange=348:350
+7	e-mail	e-mail	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=351:357
+8	.	.	PUNCT	.	_	1	punct	_	TokenRange=357:358
+
+# sent_id = 6
+# text = Examples include using e-mail to respond to support inquiries, or to share information about our products, services, and promotional offers that we think may interest you.
+1	Examples	example	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=359:367
+2	include	include	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=368:375
+3	using	use	VERB	VBG	VerbForm=Ger	2	ccomp	_	TokenRange=376:381
+4	e-mail	e-mail	NOUN	NN	Number=Sing	3	obj	_	TokenRange=382:388
+5	to	to	PART	TO	_	6	mark	_	TokenRange=389:391
+6	respond	respond	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=392:399
+7	to	to	ADP	IN	_	9	case	_	TokenRange=400:402
+8	support	support	NOUN	NN	Number=Sing	9	compound	_	TokenRange=403:410
+9	inquiries	inquiry	NOUN	NNS	Number=Plur	6	obl	_	SpaceAfter=No|TokenRange=411:420
+10	,	,	PUNCT	,	_	13	punct	_	TokenRange=420:421
+11	or	or	CCONJ	CC	_	13	cc	_	TokenRange=422:424
+12	to	to	PART	TO	_	13	mark	_	TokenRange=425:427
+13	share	share	VERB	VB	VerbForm=Inf	6	conj	_	TokenRange=428:433
+14	information	information	NOUN	NN	Number=Sing	13	obj	_	TokenRange=434:445
+15	about	about	ADP	IN	_	17	case	_	TokenRange=446:451
+16	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=452:455
+17	products	product	NOUN	NNS	Number=Plur	14	nmod	_	SpaceAfter=No|TokenRange=456:464
+18	,	,	PUNCT	,	_	19	punct	_	TokenRange=464:465
+19	services	service	NOUN	NNS	Number=Plur	17	conj	_	SpaceAfter=No|TokenRange=466:474
+20	,	,	PUNCT	,	_	23	punct	_	TokenRange=474:475
+21	and	and	CCONJ	CC	_	23	cc	_	TokenRange=476:479
+22	promotional	promotional	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=480:491
+23	offers	offer	NOUN	NNS	Number=Plur	17	conj	_	TokenRange=492:498
+24	that	that	PRON	WDT	PronType=Rel	26	obj	_	TokenRange=499:503
+25	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	26	nsubj	_	TokenRange=504:506
+26	think	think	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	TokenRange=507:512
+27	may	may	AUX	MD	VerbForm=Fin	28	aux	_	TokenRange=513:516
+28	interest	interest	VERB	VB	VerbForm=Inf	26	ccomp	_	TokenRange=517:525
+29	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	28	obj	_	SpaceAfter=No|TokenRange=526:529
+30	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=529:530
+
+# sent_id = 7
+# text = Personalize our services by showing you better and more relevant content.
+1	Personalize	Personalize	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=531:542
+2	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=543:546
+3	services	service	NOUN	NNS	Number=Plur	1	obj	_	TokenRange=547:555
+4	by	by	SCONJ	IN	_	5	mark	_	TokenRange=556:558
+5	showing	show	VERB	VBG	VerbForm=Ger	1	advcl	_	TokenRange=559:566
+6	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	5	obj	_	TokenRange=567:570
+7	better	better	ADJ	JJR	Degree=Cmp	5	xcomp	_	TokenRange=571:577
+8	and	and	CCONJ	CC	_	11	cc	_	TokenRange=578:581
+9	more	more	ADJ	JJR	Degree=Cmp	11	amod	_	TokenRange=582:586
+10	relevant	relevant	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=587:595
+11	content	content	NOUN	NN	Number=Sing	7	conj	_	SpaceAfter=No|TokenRange=596:603
+12	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=603:604
+
+# sent_id = 8
+# text = Provide ad targeting and measurement, including the use of your precise location information to show relevant ads.
+1	Provide	provide	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=605:612
+2	ad	ad	NOUN	NN	Number=Sing	3	compound	_	TokenRange=613:615
+3	targeting	targeting	NOUN	NN	Number=Sing	1	obj	_	TokenRange=616:625
+4	and	and	CCONJ	CC	_	5	cc	_	TokenRange=626:629
+5	measurement	measurement	NOUN	NN	Number=Sing	3	conj	_	SpaceAfter=No|TokenRange=630:641
+6	,	,	PUNCT	,	_	1	punct	_	TokenRange=641:642
+7	including	include	VERB	VBG	VerbForm=Ger	9	case	_	TokenRange=643:652
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=653:656
+9	use	use	NOUN	NN	Number=Sing	1	obl	_	TokenRange=657:660
+10	of	of	ADP	IN	_	14	case	_	TokenRange=661:663
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=664:668
+12	precise	precise	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=669:676
+13	location	location	NOUN	NN	Number=Sing	14	compound	_	TokenRange=677:685
+14	information	information	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=686:697
+15	to	to	PART	TO	_	16	mark	_	TokenRange=698:700
+16	show	show	VERB	VB	VerbForm=Inf	14	acl	_	TokenRange=701:705
+17	relevant	relevant	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=706:714
+18	ads	ad	NOUN	NNS	Number=Plur	16	obj	_	SpaceAfter=No|TokenRange=715:718
+19	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=718:719
+
+# sent_id = 9
+# text = Enhance and enforce the safety and security of our products and services.
+1	Enhance	enhance	PROPN	NNP	Number=Sing	0	root	_	TokenRange=720:727
+2	and	and	CCONJ	CC	_	3	cc	_	TokenRange=728:731
+3	enforce	enforce	VERB	VB	VerbForm=Inf	1	conj	_	TokenRange=732:739
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=740:743
+5	safety	safety	NOUN	NN	Number=Sing	3	obj	_	TokenRange=744:750
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=751:754
+7	security	security	NOUN	NN	Number=Sing	5	conj	_	TokenRange=755:763
+8	of	of	ADP	IN	_	10	case	_	TokenRange=764:766
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=767:770
+10	products	product	NOUN	NNS	Number=Plur	5	nmod	_	TokenRange=771:779
+11	and	and	CCONJ	CC	_	12	cc	_	TokenRange=780:783
+12	services	service	NOUN	NNS	Number=Plur	10	conj	_	SpaceAfter=No|TokenRange=784:792
+13	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=792:793
+
+# sent_id = 10
+# text = Verify your identity and prevent fraud, or other authorized and illegal activity.
+1	Verify	verify	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=794:800
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=801:805
+3	identity	identity	NOUN	NN	Number=Sing	1	obj	_	TokenRange=806:814
+4	and	and	CCONJ	CC	_	5	cc	_	TokenRange=815:818
+5	prevent	prevent	VERB	VB	Mood=Imp|VerbForm=Fin	1	conj	_	TokenRange=819:826
+6	fraud	fraud	NOUN	NN	Number=Sing	5	obj	_	SpaceAfter=No|TokenRange=827:832
+7	,	,	PUNCT	,	_	13	punct	_	TokenRange=832:833
+8	or	or	CCONJ	CC	_	13	cc	_	TokenRange=834:836
+9	other	other	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=837:842
+10	authorized	authorize	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=843:853
+11	and	and	CCONJ	CC	_	12	cc	_	TokenRange=854:857
+12	illegal	illegal	ADJ	JJ	Degree=Pos	10	conj	_	TokenRange=858:865
+13	activity	activity	NOUN	NN	Number=Sing	1	conj	_	SpaceAfter=No|TokenRange=866:874
+14	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n|TokenRange=874:875
+
+# sent_id = 11
+# text = Use information we’ve collected cookies and other data to enhance our services and products.
+1	Use	use	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=876:879
+2	information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=880:891
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	SpaceAfter=No|TokenRange=892:894
+4	’ve	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=894:897
+5	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	TokenRange=898:907
+6	cookies	cookie	NOUN	NNS	Number=Plur	5	obj	_	TokenRange=908:915
+7	and	and	CCONJ	CC	_	9	cc	_	TokenRange=916:919
+8	other	other	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=920:925
+9	data	data	NOUN	NN	Number=Sing	6	conj	_	TokenRange=926:930
+10	to	to	PART	TO	_	11	mark	_	TokenRange=931:933
+11	enhance	enhance	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=934:941
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=942:945
+13	services	service	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=946:954
+14	and	and	CCONJ	CC	_	15	cc	_	TokenRange=955:958
+15	products	product	NOUN	NNS	Number=Plur	13	conj	_	SpaceAfter=No|TokenRange=959:967
+16	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=967:968
+
+# sent_id = 12
+# text = Enforce our Terms of Service, Community Rules, and other usage policies.
+1	Enforce	Enforce	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=969:976
+2	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=977:980
+3	Terms	term	NOUN	NNS	Number=Plur	1	obj	_	TokenRange=981:986
+4	of	of	ADP	IN	_	5	case	_	TokenRange=987:989
+5	Service	service	NOUN	NN	Number=Sing	3	nmod	_	SpaceAfter=No|TokenRange=990:997
+6	,	,	PUNCT	,	_	8	punct	_	TokenRange=997:998
+7	Community	community	NOUN	NN	Number=Sing	8	compound	_	TokenRange=999:1008
+8	Rules	rule	NOUN	NNS	Number=Plur	5	conj	_	SpaceAfter=No|TokenRange=1009:1014
+9	,	,	PUNCT	,	_	13	punct	_	TokenRange=1014:1015
+10	and	and	CCONJ	CC	_	13	cc	_	TokenRange=1016:1019
+11	other	other	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=1020:1025
+12	usage	usage	NOUN	NN	Number=Sing	13	compound	_	TokenRange=1026:1031
+13	policies	policy	NOUN	NNS	Number=Plur	1	conj	_	SpaceAfter=No|TokenRange=1032:1040
+14	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|TokenRange=1040:1041
+

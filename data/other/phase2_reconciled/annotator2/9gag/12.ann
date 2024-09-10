@@ -1,0 +1,50 @@
+T1	First-party-entity 35 39	9GAG
+T2	data-storage-retention-deletion 40 46	stores
+E1	data-storage-retention-deletion:T2 Retention-Period:T7 Data-Retained:T6 Data-Retained2:T5 Data-Retained3:T4 Data-Provider:T3 Data-Holder:T1
+T3	User 47 51	your
+T4	Data-general 52 63	information
+T5	PubliclyAvailableSocialMedia 69 85	posts you upload
+T6	SocialMediaCommunication 95 114	comments you upload
+T7	retention-period 119 135	a period of time
+T8	First-party-entity 150 152	We
+T9	data-storage-retention-deletion 153 158	store
+E2	data-storage-retention-deletion:T9 Retention-Period:T15 Data-Provider:T10 Data-Retained:T11 Data-Retained2:T12 Data-Retained3:T13 Data-Retained4:T14 Data-Holder:T8
+T10	User 159 163	your
+T11	Data-general 164 189	basic account information
+T12	Name 206 210	name
+T13	Username 212 220	username
+T14	EmailAddress 226 239	email address
+T15	retention-period 240 271	until you ask us to delete them
+T16	First-party-entity 272 274	We
+T17	data-storage-retention-deletion 275 280	store
+E3	data-storage-retention-deletion:T17 Retention-Period:T19 Data-Retained:T18 Data-Holder:T16 Condition-Argument:T20
+T18	Location 281 301	location information
+T19	retention-period 306 331	different lengths of time
+T22	First-party-entity 387 389	We
+T23	collection-use 405 415	collecting
+E4	collection-use:T23 Purpose-Argument:T27 Purpose-Argument2:T25 Purpose-Argument3:T26 Data-Collector:T22 Data-Collected2:T44
+T25	OptimisationForConsumer 489 524	provide you with more relevant data
+T26	PersonalisedAdvertising 526 543	more relevant ads
+T27	OptimisationForConsumer 549 573	a better user experience
+T28	data-storage-retention-deletion 627 633	delete
+E5	data-storage-retention-deletion:T28 Data-Retained:T29 Data-Holder:T30 Condition-Argument:T31 Data-Provider:T32
+T29	Data-general 639 646	account
+T31	Condition 578 607	you decide to stop using 9GAG
+T30	First-party-entity 621 623	us
+T32	User 578 581	you
+T33	LegalCompliance 661 679	legal requirements
+T34	User 689 693	your
+T35	data-storage-retention-deletion 683 688	store
+E6	data-storage-retention-deletion:T35 Condition-Argument:T37 Condition-Argument2:T36 Data-Provider:T34 Data-Retained:T38 Purpose-Argument:T33 Data-Holder:T45
+T36	Condition 754 830	we receive valid legal process or request asking us to preserve that content
+T37	Condition 838 902	we receive reports of abuse or other Terms of Service Violations
+T38	Data-general 694 698	data
+T39	data-storage-retention-deletion 924 930	retain
+E7	data-storage-retention-deletion:T39 Data-Holder:T43 Data-Retained:T40 Retention-Period:T41 Purpose-Argument:T42
+T40	Data-general 939 950	information
+T41	retention-period 965 989	a limited period of time
+T42	LegalCompliance 997 1012	required by law
+T43	First-party-entity 904 906	We
+T44	Data-general 429 477	information about the things you like or dislike
+T45	First-party-entity 703 705	we
+T20	Condition 332 385	based on how precise it is and which services you use

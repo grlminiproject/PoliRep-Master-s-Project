@@ -1,0 +1,10 @@
+T1	User 17 20	You
+T2	First-party-entity 59 61	we
+T3	Data-general 47 58	information
+T4	Data-general 107 118	information
+T5	data-storage-retention-deletion 62 66	hold
+E1	data-storage-retention-deletion:T5 Data-Holder:T2 Data-Retained:T3 Data-Provider:T6
+T6	User 73 76	you
+T8	User 135 138	you
+T7	TODO 119 131	communicated
+#1	AnnotatorNotes T7	Perhaps this could come under a special event category called "data communication rights/transparency mechanisms"?

@@ -1,0 +1,28 @@
+T1	Condition 63 142	you create an account on our website through a third-party connection or log-in
+T2	Third-party-entity 283 294	third party
+T3	first-party-collection-use 299 303	pass
+E1	first-party-collection-use:T3 Data-Collector:T4 Data-Collected:T6 Data-Provider:T2 Condition-Argument:T1 Data-Provider2:T5 Data-Collected3:T12 Data-Collected4:T8 Data-Collected5:T11 Data-Collected6:T10 Condition-Argument2:T29 Data-Provider3:T28 Data-Provider4:T27 Data-Provider5:T26 Data-Collected7:T30
+T4	First-party-entity 357 367	Codecademy
+T5	User 63 66	you
+T6	Data-user-online-activities-profiles 312 353	information about your use of its service
+T8	Data-user-online-activities-profiles 404 411	user ID
+T10	Data-user-online-activities-profiles 475 523	an access token necessary to access that service
+T11	Data-general 525 597	any information that you have permitted the third party to share with us
+T12	Data-general 603 671	any information you have made public in connection with that service
+T9	Condition 676 716	you allow us access to your friends list
+T13	Basic-service-feature 806 838	make your experience more social
+T14	Basic-service-feature 847 898	allow you to invite your friends to use our Service
+T15	Basic-service-feature 910 975	provide you with updates if and when your friends join Codecademy
+T16	Data-other 718 740	your friends' user IDs
+T17	Data-other 746 778	your connection to those friends
+T18	first-party-collection-use 787 791	used
+E2	first-party-collection-use:T18 Purpose-Argument:T15 Purpose-Argument2:T14 Purpose-Argument3:T13 Data-Collected:T17 Data-Collected2:T16 Condition-Argument:T9 Data-Collector:T20 Data-Provider:T19
+T19	User 676 679	you
+T20	First-party-entity 686 688	us
+T26	Third-party-entity 164 172	Facebook
+T27	Third-party-entity 174 181	Google+
+T28	Third-party-entity 185 192	Twitter
+T29	Condition 200 270	"following," or "liking" Codecademy on a third party social media site
+T30	Data-user-online-activities-profiles 460 472	Facebook UID
+T31	data-storage-retention-deletion 796 802	stored
+E4	data-storage-retention-deletion:T31 Data-Provider:T19 Data-Holder:T20 Condition-Argument:T9 Data-Retained:T16 Data-Retained2:T17 Purpose-Argument:T13 Purpose-Argument2:T14 Purpose-Argument3:T15

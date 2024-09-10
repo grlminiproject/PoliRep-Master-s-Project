@@ -1,0 +1,1980 @@
+{
+  "text": "5. Additional Technical Information\n\nWe use third-party analytics Service Providers (as more fully described below, and including Google Analytics and amplitude.com) to automatically log information about you and your computer or mobile device, and how you interact with the Service. For example, when you access the Service, we may log\u200e your operating system type,\u200e browser type and\u200e language,\u200e the pages you viewed,\u200e how long you spent on a page,\u200e access times,\u200e Internet protocol (IP) address, your mobile device ID, mobile device serial number, unique user ID, wireless carrier, and information about your use of and actions on the Service. Marco Polo collects this additional technical data to analyze usage trends and give us more information about how people use the Service to better the user experience.\n\n",
+  "words": [
+    "5",
+    ".",
+    "Additional",
+    "Technical",
+    "Information",
+    "We",
+    "use",
+    "third",
+    "-",
+    "party",
+    "analytics",
+    "Service",
+    "Providers",
+    "(",
+    "as",
+    "more",
+    "fully",
+    "described",
+    "below",
+    ",",
+    "and",
+    "including",
+    "Google",
+    "Analytics",
+    "and",
+    "amplitude.com",
+    ")",
+    "to",
+    "automatically",
+    "log",
+    "information",
+    "about",
+    "you",
+    "and",
+    "your",
+    "computer",
+    "or",
+    "mobile",
+    "device",
+    ",",
+    "and",
+    "how",
+    "you",
+    "interact",
+    "with",
+    "the",
+    "Service",
+    ".",
+    "For",
+    "example",
+    ",",
+    "when",
+    "you",
+    "access",
+    "the",
+    "Service",
+    ",",
+    "we",
+    "may",
+    "log\u200e",
+    "your",
+    "operating",
+    "system",
+    "type",
+    ",",
+    "\u200e",
+    "browser",
+    "type",
+    "and\u200e",
+    "language",
+    ",",
+    "\u200e",
+    "the",
+    "pages",
+    "you",
+    "viewed",
+    ",",
+    "\u200e",
+    "how",
+    "long",
+    "you",
+    "spent",
+    "on",
+    "a",
+    "page",
+    ",",
+    "\u200e",
+    "access",
+    "times",
+    ",",
+    "\u200e",
+    "Internet",
+    "protocol",
+    "(",
+    "IP",
+    ")",
+    "address",
+    ",",
+    "your",
+    "mobile",
+    "device",
+    "ID",
+    ",",
+    "mobile",
+    "device",
+    "serial",
+    "number",
+    ",",
+    "unique",
+    "user",
+    "ID",
+    ",",
+    "wireless",
+    "carrier",
+    ",",
+    "and",
+    "information",
+    "about",
+    "your",
+    "use",
+    "of",
+    "and",
+    "actions",
+    "on",
+    "the",
+    "Service",
+    ".",
+    "Marco",
+    "Polo",
+    "collects",
+    "this",
+    "additional",
+    "technical",
+    "data",
+    "to",
+    "analyze",
+    "usage",
+    "trends",
+    "and",
+    "give",
+    "us",
+    "more",
+    "information",
+    "about",
+    "how",
+    "people",
+    "use",
+    "the",
+    "Service",
+    "to",
+    "better",
+    "the",
+    "user",
+    "experience",
+    "."
+  ],
+  "lemma": [
+    "5",
+    ".",
+    "additional",
+    "technical",
+    "information",
+    "we",
+    "use",
+    "third",
+    "-",
+    "party",
+    "analytic",
+    "service",
+    "provider",
+    "(",
+    "as",
+    "more",
+    "fully",
+    "describe",
+    "below",
+    ",",
+    "and",
+    "include",
+    "Google",
+    "Analytic",
+    "and",
+    "amplitude.com",
+    ")",
+    "to",
+    "automatically",
+    "log",
+    "information",
+    "about",
+    "you",
+    "and",
+    "you",
+    "computer",
+    "or",
+    "mobile",
+    "device",
+    ",",
+    "and",
+    "how",
+    "you",
+    "interact",
+    "with",
+    "the",
+    "service",
+    ".",
+    "for",
+    "example",
+    ",",
+    "when",
+    "you",
+    "access",
+    "the",
+    "service",
+    ",",
+    "we",
+    "may",
+    "log\u200e",
+    "you",
+    "operate",
+    "system",
+    "type",
+    ",",
+    "\u200e",
+    "browser",
+    "type",
+    "and\u200e",
+    "language",
+    ",",
+    "\u200e",
+    "the",
+    "page",
+    "you",
+    "view",
+    ",",
+    "\u200e",
+    "how",
+    "long",
+    "you",
+    "spend",
+    "on",
+    "a",
+    "page",
+    ",",
+    "\u200e",
+    "access",
+    "time",
+    ",",
+    "\u200e",
+    "internet",
+    "protocol",
+    "(",
+    "ip",
+    ")",
+    "address",
+    ",",
+    "you",
+    "mobile",
+    "device",
+    "id",
+    ",",
+    "mobile",
+    "device",
+    "serial",
+    "number",
+    ",",
+    "unique",
+    "user",
+    "id",
+    ",",
+    "wireless",
+    "carrier",
+    ",",
+    "and",
+    "information",
+    "about",
+    "you",
+    "use",
+    "of",
+    "and",
+    "action",
+    "on",
+    "the",
+    "service",
+    ".",
+    "Marco",
+    "Polo",
+    "collect",
+    "this",
+    "additional",
+    "technical",
+    "data",
+    "to",
+    "analyze",
+    "usage",
+    "trend",
+    "and",
+    "give",
+    "we",
+    "more",
+    "information",
+    "about",
+    "how",
+    "people",
+    "use",
+    "the",
+    "service",
+    "to",
+    "better",
+    "the",
+    "user",
+    "experience",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "JJ",
+    "JJ",
+    "NN",
+    "PRP",
+    "VBP",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    "NNP",
+    "NNPS",
+    "-LRB-",
+    "RB",
+    "RBR",
+    "RB",
+    "VBN",
+    "RB",
+    ",",
+    "CC",
+    "VBG",
+    "NNP",
+    "NNPS",
+    "CC",
+    "ADD",
+    "-RRB-",
+    "TO",
+    "RB",
+    "VB",
+    "NN",
+    "IN",
+    "PRP",
+    "CC",
+    "PRP$",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    ",",
+    "CC",
+    "WRB",
+    "PRP",
+    "VBP",
+    "IN",
+    "DT",
+    "NN",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "WRB",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "NN",
+    "PRP$",
+    "VBG",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    "NN",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "DT",
+    "NNS",
+    "PRP",
+    "VBD",
+    ",",
+    "NN",
+    "WRB",
+    "RB",
+    "PRP",
+    "VBD",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    "NNS",
+    ",",
+    "NN",
+    "NN",
+    "NN",
+    "-LRB-",
+    "NNP",
+    "-RRB-",
+    "NN",
+    ",",
+    "PRP$",
+    "JJ",
+    "NN",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    "JJ",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    ",",
+    "CC",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "IN",
+    "CC",
+    "NNS",
+    "IN",
+    "DT",
+    "NN",
+    ".",
+    "NNP",
+    "NNP",
+    "VBZ",
+    "DT",
+    "JJ",
+    "JJ",
+    "NN",
+    "TO",
+    "VB",
+    "NN",
+    "NNS",
+    "CC",
+    "VB",
+    "PRP",
+    "JJR",
+    "NN",
+    "IN",
+    "WRB",
+    "NNS",
+    "VBP",
+    "DT",
+    "NN",
+    "IN",
+    "JJR",
+    "DT",
+    "JJR",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "amod",
+    "amod",
+    "root",
+    "nsubj",
+    "root",
+    "amod",
+    "punct",
+    "compound",
+    "compound",
+    "compound",
+    "obj",
+    "punct",
+    "advmod",
+    "advmod",
+    "advmod",
+    "advcl",
+    "advmod",
+    "punct",
+    "cc",
+    "case",
+    "compound",
+    "conj",
+    "cc",
+    "conj",
+    "punct",
+    "mark",
+    "advmod",
+    "conj",
+    "obj",
+    "case",
+    "obl",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "cc",
+    "advmod",
+    "nsubj",
+    "conj",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "det",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "amod",
+    "compound",
+    "obj",
+    "punct",
+    "compound",
+    "compound",
+    "compound",
+    "compound",
+    "appos",
+    "punct",
+    "compound",
+    "det",
+    "conj",
+    "nsubj",
+    "acl:relcl",
+    "punct",
+    "conj",
+    "advmod",
+    "advmod",
+    "nsubj",
+    "parataxis",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "compound",
+    "compound",
+    "conj",
+    "punct",
+    "compound",
+    "compound",
+    "appos",
+    "punct",
+    "appos",
+    "punct",
+    "appos",
+    "punct",
+    "nmod:poss",
+    "amod",
+    "compound",
+    "conj",
+    "punct",
+    "amod",
+    "conj",
+    "amod",
+    "appos",
+    "punct",
+    "amod",
+    "compound",
+    "conj",
+    "punct",
+    "amod",
+    "conj",
+    "punct",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "case",
+    "cc",
+    "nmod",
+    "case",
+    "det",
+    "nmod",
+    "punct",
+    "root",
+    "nsubj",
+    "root",
+    "det",
+    "amod",
+    "amod",
+    "obj",
+    "mark",
+    "advcl",
+    "compound",
+    "obj",
+    "cc",
+    "conj",
+    "iobj",
+    "amod",
+    "obj",
+    "mark",
+    "advmod",
+    "nsubj",
+    "acl",
+    "det",
+    "obj",
+    "case",
+    "obl",
+    "det",
+    "amod",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      13
+    ],
+    [
+      14,
+      23
+    ],
+    [
+      24,
+      35
+    ],
+    [
+      37,
+      39
+    ],
+    [
+      40,
+      43
+    ],
+    [
+      44,
+      49
+    ],
+    [
+      49,
+      50
+    ],
+    [
+      50,
+      55
+    ],
+    [
+      56,
+      65
+    ],
+    [
+      66,
+      73
+    ],
+    [
+      74,
+      83
+    ],
+    [
+      84,
+      85
+    ],
+    [
+      85,
+      87
+    ],
+    [
+      88,
+      92
+    ],
+    [
+      93,
+      98
+    ],
+    [
+      99,
+      108
+    ],
+    [
+      109,
+      114
+    ],
+    [
+      114,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      129
+    ],
+    [
+      130,
+      136
+    ],
+    [
+      137,
+      146
+    ],
+    [
+      147,
+      150
+    ],
+    [
+      151,
+      164
+    ],
+    [
+      164,
+      165
+    ],
+    [
+      166,
+      168
+    ],
+    [
+      169,
+      182
+    ],
+    [
+      183,
+      186
+    ],
+    [
+      187,
+      198
+    ],
+    [
+      199,
+      204
+    ],
+    [
+      205,
+      208
+    ],
+    [
+      209,
+      212
+    ],
+    [
+      213,
+      217
+    ],
+    [
+      218,
+      226
+    ],
+    [
+      227,
+      229
+    ],
+    [
+      230,
+      236
+    ],
+    [
+      237,
+      243
+    ],
+    [
+      243,
+      244
+    ],
+    [
+      245,
+      248
+    ],
+    [
+      249,
+      252
+    ],
+    [
+      253,
+      256
+    ],
+    [
+      257,
+      265
+    ],
+    [
+      266,
+      270
+    ],
+    [
+      271,
+      274
+    ],
+    [
+      275,
+      282
+    ],
+    [
+      282,
+      283
+    ],
+    [
+      284,
+      287
+    ],
+    [
+      288,
+      295
+    ],
+    [
+      295,
+      296
+    ],
+    [
+      297,
+      301
+    ],
+    [
+      302,
+      305
+    ],
+    [
+      306,
+      312
+    ],
+    [
+      313,
+      316
+    ],
+    [
+      317,
+      324
+    ],
+    [
+      324,
+      325
+    ],
+    [
+      326,
+      328
+    ],
+    [
+      329,
+      332
+    ],
+    [
+      333,
+      337
+    ],
+    [
+      338,
+      342
+    ],
+    [
+      343,
+      352
+    ],
+    [
+      353,
+      359
+    ],
+    [
+      360,
+      364
+    ],
+    [
+      364,
+      365
+    ],
+    [
+      365,
+      366
+    ],
+    [
+      367,
+      374
+    ],
+    [
+      375,
+      379
+    ],
+    [
+      380,
+      384
+    ],
+    [
+      385,
+      393
+    ],
+    [
+      393,
+      394
+    ],
+    [
+      394,
+      395
+    ],
+    [
+      396,
+      399
+    ],
+    [
+      400,
+      405
+    ],
+    [
+      406,
+      409
+    ],
+    [
+      410,
+      416
+    ],
+    [
+      416,
+      417
+    ],
+    [
+      417,
+      418
+    ],
+    [
+      419,
+      422
+    ],
+    [
+      423,
+      427
+    ],
+    [
+      428,
+      431
+    ],
+    [
+      432,
+      437
+    ],
+    [
+      438,
+      440
+    ],
+    [
+      441,
+      442
+    ],
+    [
+      443,
+      447
+    ],
+    [
+      447,
+      448
+    ],
+    [
+      448,
+      449
+    ],
+    [
+      450,
+      456
+    ],
+    [
+      457,
+      462
+    ],
+    [
+      462,
+      463
+    ],
+    [
+      463,
+      464
+    ],
+    [
+      465,
+      473
+    ],
+    [
+      474,
+      482
+    ],
+    [
+      483,
+      484
+    ],
+    [
+      484,
+      486
+    ],
+    [
+      486,
+      487
+    ],
+    [
+      488,
+      495
+    ],
+    [
+      495,
+      496
+    ],
+    [
+      497,
+      501
+    ],
+    [
+      502,
+      508
+    ],
+    [
+      509,
+      515
+    ],
+    [
+      516,
+      518
+    ],
+    [
+      518,
+      519
+    ],
+    [
+      520,
+      526
+    ],
+    [
+      527,
+      533
+    ],
+    [
+      534,
+      540
+    ],
+    [
+      541,
+      547
+    ],
+    [
+      547,
+      548
+    ],
+    [
+      549,
+      555
+    ],
+    [
+      556,
+      560
+    ],
+    [
+      561,
+      563
+    ],
+    [
+      563,
+      564
+    ],
+    [
+      565,
+      573
+    ],
+    [
+      574,
+      581
+    ],
+    [
+      581,
+      582
+    ],
+    [
+      583,
+      586
+    ],
+    [
+      587,
+      598
+    ],
+    [
+      599,
+      604
+    ],
+    [
+      605,
+      609
+    ],
+    [
+      610,
+      613
+    ],
+    [
+      614,
+      616
+    ],
+    [
+      617,
+      620
+    ],
+    [
+      621,
+      628
+    ],
+    [
+      629,
+      631
+    ],
+    [
+      632,
+      635
+    ],
+    [
+      636,
+      643
+    ],
+    [
+      643,
+      644
+    ],
+    [
+      645,
+      650
+    ],
+    [
+      651,
+      655
+    ],
+    [
+      656,
+      664
+    ],
+    [
+      665,
+      669
+    ],
+    [
+      670,
+      680
+    ],
+    [
+      681,
+      690
+    ],
+    [
+      691,
+      695
+    ],
+    [
+      696,
+      698
+    ],
+    [
+      699,
+      706
+    ],
+    [
+      707,
+      712
+    ],
+    [
+      713,
+      719
+    ],
+    [
+      720,
+      723
+    ],
+    [
+      724,
+      728
+    ],
+    [
+      729,
+      731
+    ],
+    [
+      732,
+      736
+    ],
+    [
+      737,
+      748
+    ],
+    [
+      749,
+      754
+    ],
+    [
+      755,
+      758
+    ],
+    [
+      759,
+      765
+    ],
+    [
+      766,
+      769
+    ],
+    [
+      770,
+      773
+    ],
+    [
+      774,
+      781
+    ],
+    [
+      782,
+      784
+    ],
+    [
+      785,
+      791
+    ],
+    [
+      792,
+      795
+    ],
+    [
+      796,
+      800
+    ],
+    [
+      801,
+      811
+    ],
+    [
+      811,
+      812
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      4
+    ],
+    [
+      5,
+      47
+    ],
+    [
+      48,
+      126
+    ],
+    [
+      127,
+      127
+    ],
+    [
+      128,
+      154
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 37,
+      "end_idx": 39,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "third-party analytics Service Providers",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T3",
+      "start_idx": 44,
+      "end_idx": 83,
+      "tokens": [
+        "third",
+        "-",
+        "party",
+        "analytics",
+        "Service",
+        "Providers"
+      ],
+      "token_idx": [
+        7,
+        8,
+        9,
+        10,
+        11,
+        12
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T4",
+      "start_idx": 187,
+      "end_idx": 198,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        30
+      ]
+    },
+    {
+      "entity/argument_text": "computer or mobile device",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T5",
+      "start_idx": 218,
+      "end_idx": 243,
+      "tokens": [
+        "computer",
+        "or",
+        "mobile",
+        "device"
+      ],
+      "token_idx": [
+        35,
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "entity/argument_text": "how you interact with the Service",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T6",
+      "start_idx": 249,
+      "end_idx": 282,
+      "tokens": [
+        "how",
+        "you",
+        "interact",
+        "with",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        41,
+        42,
+        43,
+        44,
+        45,
+        46
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T7",
+      "start_idx": 205,
+      "end_idx": 208,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        32
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T9",
+      "start_idx": 302,
+      "end_idx": 305,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        52
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T10",
+      "start_idx": 326,
+      "end_idx": 328,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        57
+      ]
+    },
+    {
+      "entity/argument_text": "operating system type",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T11",
+      "start_idx": 343,
+      "end_idx": 364,
+      "tokens": [
+        "operating",
+        "system",
+        "type"
+      ],
+      "token_idx": [
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "entity/argument_text": "browser type and\u200e language",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T12",
+      "start_idx": 367,
+      "end_idx": 393,
+      "tokens": [
+        "browser",
+        "type",
+        "and\u200e",
+        "language"
+      ],
+      "token_idx": [
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "entity/argument_text": "pages you viewed",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T13",
+      "start_idx": 400,
+      "end_idx": 416,
+      "tokens": [
+        "pages",
+        "you",
+        "viewed"
+      ],
+      "token_idx": [
+        73,
+        74,
+        75
+      ]
+    },
+    {
+      "entity/argument_text": "how long you spent on a page",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T14",
+      "start_idx": 419,
+      "end_idx": 447,
+      "tokens": [
+        "how",
+        "long",
+        "you",
+        "spent",
+        "on",
+        "a",
+        "page"
+      ],
+      "token_idx": [
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84
+      ]
+    },
+    {
+      "entity/argument_text": "access times",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T15",
+      "start_idx": 450,
+      "end_idx": 462,
+      "tokens": [
+        "access",
+        "times"
+      ],
+      "token_idx": [
+        87,
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "Internet protocol (IP) address",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T16",
+      "start_idx": 465,
+      "end_idx": 495,
+      "tokens": [
+        "Internet",
+        "protocol",
+        "(",
+        "IP",
+        ")",
+        "address"
+      ],
+      "token_idx": [
+        91,
+        92,
+        93,
+        94,
+        95,
+        96
+      ]
+    },
+    {
+      "entity/argument_text": "mobile device ID",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T17",
+      "start_idx": 502,
+      "end_idx": 518,
+      "tokens": [
+        "mobile",
+        "device",
+        "ID"
+      ],
+      "token_idx": [
+        99,
+        100,
+        101
+      ]
+    },
+    {
+      "entity/argument_text": "mobile device serial number",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T18",
+      "start_idx": 520,
+      "end_idx": 547,
+      "tokens": [
+        "mobile",
+        "device",
+        "serial",
+        "number"
+      ],
+      "token_idx": [
+        103,
+        104,
+        105,
+        106
+      ]
+    },
+    {
+      "entity/argument_text": "unique user ID",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T19",
+      "start_idx": 549,
+      "end_idx": 563,
+      "tokens": [
+        "unique",
+        "user",
+        "ID"
+      ],
+      "token_idx": [
+        108,
+        109,
+        110
+      ]
+    },
+    {
+      "entity/argument_text": "wireless carrier",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T20",
+      "start_idx": 565,
+      "end_idx": 581,
+      "tokens": [
+        "wireless",
+        "carrier"
+      ],
+      "token_idx": [
+        112,
+        113
+      ]
+    },
+    {
+      "entity/argument_text": "information about your use of and actions on the Service",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T21",
+      "start_idx": 587,
+      "end_idx": 643,
+      "tokens": [
+        "information",
+        "about",
+        "your",
+        "use",
+        "of",
+        "and",
+        "actions",
+        "on",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125
+      ]
+    },
+    {
+      "entity/argument_text": "you access the Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T22",
+      "start_idx": 302,
+      "end_idx": 324,
+      "tokens": [
+        "you",
+        "access",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        52,
+        53,
+        54,
+        55
+      ]
+    },
+    {
+      "entity/argument_text": "Marco Polo",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T23",
+      "start_idx": 645,
+      "end_idx": 655,
+      "tokens": [
+        "Marco",
+        "Polo"
+      ],
+      "token_idx": [
+        127,
+        128
+      ]
+    },
+    {
+      "entity/argument_text": "technical data",
+      "entity/argument_type": "Data-other",
+      "entity/argument_id": "T25",
+      "start_idx": 681,
+      "end_idx": 695,
+      "tokens": [
+        "technical",
+        "data"
+      ],
+      "token_idx": [
+        132,
+        133
+      ]
+    },
+    {
+      "entity/argument_text": "analyze usage trends and give us more information about how people use the Service to better the user experience",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T26",
+      "start_idx": 699,
+      "end_idx": 811,
+      "tokens": [
+        "analyze",
+        "usage",
+        "trends",
+        "and",
+        "give",
+        "us",
+        "more",
+        "information",
+        "about",
+        "how",
+        "people",
+        "use",
+        "the",
+        "Service",
+        "to",
+        "better",
+        "the",
+        "user",
+        "experience"
+      ],
+      "token_idx": [
+        135,
+        136,
+        137,
+        138,
+        139,
+        140,
+        141,
+        142,
+        143,
+        144,
+        145,
+        146,
+        147,
+        148,
+        149,
+        150,
+        151,
+        152,
+        153
+      ]
+    },
+    {
+      "entity/argument_text": "Google Analytics",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T28",
+      "start_idx": 130,
+      "end_idx": 146,
+      "tokens": [
+        "Google",
+        "Analytics"
+      ],
+      "token_idx": [
+        22,
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "amplitude.com",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T29",
+      "start_idx": 151,
+      "end_idx": 164,
+      "tokens": [
+        "amplitude.com"
+      ],
+      "token_idx": [
+        25
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "log",
+        "start_idx": 183,
+        "end_idx": 186,
+        "tokens": [
+          "log"
+        ],
+        "token_idx": [
+          29
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third-party analytics Service Providers",
+          "start_idx": 44,
+          "end_idx": 83
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 37,
+          "end_idx": 39
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 187,
+          "end_idx": 198
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "you",
+          "start_idx": 205,
+          "end_idx": 208
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-computer-device",
+          "text": "computer or mobile device",
+          "start_idx": 218,
+          "end_idx": 243
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "how you interact with the Service",
+          "start_idx": 249,
+          "end_idx": 282
+        },
+        {
+          "role": "Data-Provider3",
+          "type": "Third-party-entity",
+          "text": "Google Analytics",
+          "start_idx": 130,
+          "end_idx": 146
+        },
+        {
+          "role": "Data-Provider4",
+          "type": "Third-party-entity",
+          "text": "amplitude.com",
+          "start_idx": 151,
+          "end_idx": 164
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "log\u200e",
+        "start_idx": 333,
+        "end_idx": 337,
+        "tokens": [
+          "log\u200e"
+        ],
+        "token_idx": [
+          59
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 302,
+          "end_idx": 305
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 326,
+          "end_idx": 328
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you access the Service",
+          "start_idx": 302,
+          "end_idx": 324
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-computer-device",
+          "text": "operating system type",
+          "start_idx": 343,
+          "end_idx": 364
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-computer-device",
+          "text": "browser type and\u200e language",
+          "start_idx": 367,
+          "end_idx": 393
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "pages you viewed",
+          "start_idx": 400,
+          "end_idx": 416
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-user-online-activities-profiles",
+          "text": "how long you spent on a page",
+          "start_idx": 419,
+          "end_idx": 447
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-user-online-activities-profiles",
+          "text": "access times",
+          "start_idx": 450,
+          "end_idx": 462
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-computer-device",
+          "text": "Internet protocol (IP) address",
+          "start_idx": 465,
+          "end_idx": 495
+        },
+        {
+          "role": "Data-Collected7",
+          "type": "Data-computer-device",
+          "text": "mobile device ID",
+          "start_idx": 502,
+          "end_idx": 518
+        },
+        {
+          "role": "Data-Collected8",
+          "type": "Data-computer-device",
+          "text": "mobile device serial number",
+          "start_idx": 520,
+          "end_idx": 547
+        },
+        {
+          "role": "Data-Collected9",
+          "type": "Data-computer-device",
+          "text": "unique user ID",
+          "start_idx": 549,
+          "end_idx": 563
+        },
+        {
+          "role": "Data-Collected10",
+          "type": "Data-computer-device",
+          "text": "wireless carrier",
+          "start_idx": 565,
+          "end_idx": 581
+        },
+        {
+          "role": "Data-Collected11",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information about your use of and actions on the Service",
+          "start_idx": 587,
+          "end_idx": 643
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "collects",
+        "start_idx": 656,
+        "end_idx": 664,
+        "tokens": [
+          "collects"
+        ],
+        "token_idx": [
+          129
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "Marco Polo",
+          "start_idx": 645,
+          "end_idx": 655
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-other",
+          "text": "technical data",
+          "start_idx": 681,
+          "end_idx": 695
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "analyze usage trends and give us more information about how people use the Service to better the user experience",
+          "start_idx": 699,
+          "end_idx": 811
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

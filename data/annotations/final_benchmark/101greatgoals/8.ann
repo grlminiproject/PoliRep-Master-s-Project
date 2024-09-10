@@ -1,0 +1,74 @@
+T1	First-party-entity 33 35	We
+T3	third-party-sharing-disclosure 58 63	share
+E1	third-party-sharing-disclosure:T3 Data-Sharer:T1 Data-Shared:T5 Data-Provider:T4 Data-Receiver:T6
+T4	User 64 68	your
+T5	Data-general 69 89	Personal Information
+T6	Third-party-entity 95 123	third parties ("Recipients")
+T7	Data-general 172 192	Personal Information
+T9	third-party-sharing-disclosure 201 210	disclosed
+E2	third-party-sharing-disclosure:T9 Data-Shared:T7 Data-Receiver:T10 Purpose-Argument:T57 Condition-Argument:T8
+T10	Third-party-entity 214 224	Recipients
+T12	First-party-entity 317 319	We
+T13	third-party-sharing-disclosure 320 325	share
+E3	third-party-sharing-disclosure:T13 Data-Shared:T14 Data-Sharer:T12 Data-Receiver:T15 Data-Receiver4:T34 Data-Receiver5:T33 Data-Receiver6:T32 Data-Receiver7:T31 Data-Receiver8:T30 Data-Receiver9:T29 Data-Receiver10:T28 Data-Receiver11:T27 Data-Receiver12:T26 Data-Receiver13:T19 Data-Receiver14:T25 Data-Receiver15:T24 Data-Receiver16:T23 Data-Receiver17:T22 Data-Receiver18:T21 Data-Receiver19:T20 Data-Receiver20:T17 Data-Receiver21:T16 Data-Receiver22:T18 Data-Shared2:T55 Data-Receiver23:T56 Condition-Argument:T58 Condition-Argument2:T60 Condition-Argument3:T59 Data-Receiver24:T61 Data-Receiver25:T62 Condition-Argument4:T63 Data-Receiver26:T64 Data-Receiver27:T65
+T14	Data-general 326 346	Personal Information
+T15	Third-party-entity 373 383	recipients
+T16	Third-party-entity 693 721	Companies within the Company
+T17	Third-party-entity 726 752	other affiliated companies
+T18	Third-party-entity 389 396	clients
+T19	Third-party-entity 754 768	Subcontractors
+T20	Third-party-entity 773 802	third party service providers
+T21	Third-party-entity 893 918	cloud computing companies
+T22	Third-party-entity 920 940	marketing affiliates
+T23	Third-party-entity 942 993	identity verification and fraud prevention services
+T24	Third-party-entity 999 1019	other data verifiers
+T25	Third-party-entity 1021 1029	Auditors
+T26	Third-party-entity 1031 1042	contractors
+T27	Third-party-entity 1046 1054	advisers
+T28	Third-party-entity 1106 1119	third parties
+T29	Third-party-entity 1192 1216	governmental authorities
+T30	Third-party-entity 1218 1224	police
+T31	Third-party-entity 1236 1269	other investigatory organizations
+T32	Third-party-entity 1272 1293	Licensing authorities
+T33	Third-party-entity 1295 1329	governmental and regulatory bodies
+T34	Third-party-entity 1387 1407	Potential purchasers
+T37	First-party-entity 1906 1908	we
+T38	third-party-sharing-disclosure 1909 1914	share
+E4	third-party-sharing-disclosure:T38 Data-Sharer:T37 Purpose-Argument:T54 Purpose-Argument2:T53 Purpose-Argument3:T52 Purpose-Argument4:T51 Purpose-Argument5:T50 Purpose-Argument6:T49 Purpose-Argument7:T48 Purpose-Argument8:T47 Purpose-Argument9:T46 Purpose-Argument10:T45 Purpose-Argument11:T44 Purpose-Argument12:T43 Purpose-Argument13:T42 Purpose-Argument14:T41 Data-Receiver:T40 Data-Shared:T39 Data-Shared2:T2 Data-Receiver2:T35
+T39	Data-general 1915 1935	Personal Information
+T40	Third-party-entity 1947 1957	Recipients
+T41	RecordManagement 1993 2031	Storing such information on our behalf
+T42	CommercialPurpose 2089 2158	Processing such information to assist us with our business operations
+T43	PaymentManagement 2168 2202	process payments and your deposits
+T44	IdentityAuthentication 2204 2228	authenticate your access
+T45	Purpose-other 2230 2253	auditing our operations
+T46	FraudPreventionAndDetection 2255 2304	detect and prevent fraudulent or illegal activity
+T47	ResearchAndDevelopment 2313 2368	Performing research, technical diagnostics or analytics
+T48	TargetedAdvertising 2397 2524	Communicating targeted advertising, as well as promotional and informational materials, in accordance with our marketing policy
+T49	LegalCompliance 2627 2661	protect our rights or legal claims
+T50	OrganisationComplianceManagement 2663 2683	enforce our policies
+T51	ProtectionOfPublicSecurity 2735 2778	protect your safety or the safety of others
+T52	FraudPreventionAndDetection 2794 2826	investigate or prevent any fraud
+T53	EnforceSecurity 2832 2848	security reasons
+T54	Purpose-other 2855 2901	help us with any other related technical issue
+T55	ServiceConsumptionBehavior 623 691	information about how you have interacted with such websites or apps
+T56	Third-party-entity 821 835	subcontractors
+T57	Purpose-general 257 315	the specific purpose, as stipulated in this Privacy Policy
+T58	Condition 402 483	deploy our Services on their online properties (such as websites and mobile apps)
+T59	Condition 511 550	whose websites or apps you have visited
+T60	Condition 577 611	whose site or app you have visited
+T61	Third-party-entity 566 576	advertiser
+T62	Third-party-entity 503 510	clients
+T63	Condition 1120 1185	who investigate, detect or prevent fraudulent or illegal activity
+T64	Third-party-entity 1226 1231	banks
+T65	Third-party-entity 1411 1463	investors in any of the companies within the Company
+T35	Third-party-entity 2048 2087	using cloud computing service providers
+T2	Location 2382 2394	geo-location
+#1	AnnotatorNotes T58	This was marked as a Condition; I would not annotate it at all, personally.
+#2	AnnotatorNotes T59	Ibid.
+#3	AnnotatorNotes T60	Ibid.
+R1	SUBSUME Arg1:T42 Arg2:T43	
+R2	SUBSUME Arg1:T42 Arg2:T44	
+R3	SUBSUME Arg1:T42 Arg2:T46	
+R4	SUBSUME Arg1:T47 Arg2:T2	
+T8	Condition 225 315	only to the extent required for the specific purpose, as stipulated in this Privacy Policy

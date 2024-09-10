@@ -1,0 +1,10 @@
+Personal Information
+
+The first type of information is information that identifies or may reasonably identify an individual reasonable effort ("Personal Information"). Personal Information which is being gathered may consist of the following:
+Contact details: you may voluntarily provide us with certain contact details, such as your full name and email address.
+Voluntary information: We also collect information which you provide us voluntarily. For example, when you respond to communications from us, communicate with us via email or share additional information about yourself through your use of the Services, such as on the chat feature and in games.
+Device information: we collect specific types of connection details and information with regard to your device, software or hardware that may identify you, such as: device's unique identifiers (e.g. UDID, IMEI, MAC address), browser fingerprinting, IP address and geo-location data.
+Social networks: when you voluntarily decide to register through your social network account (such as your Facebook account), we will have access to basic information from your social network account, such as your name, birthdate, profile picture and friends' list, as well as information you made publicly available on such account.
+In addition, when using the Services, you may be able via your social network to "Invite a Friend" to use the Services. Should the person accept your invitation, we may obtain Personal Information from him/her such as: name, email address, phone number and date of birth. We will use the Personal Information for the purposes set out herein and disclose such information only to third parties as detailed in this Privacy Policy.
+Information we collect from third parties: We collect Personal Information from third party service providers, such as information about your credit history from credit agencies and other financial information which is relevant to the provision of the Services, as well as information which is gathered in order to verify your identity and prevent fraudulent or illegal activity.
+

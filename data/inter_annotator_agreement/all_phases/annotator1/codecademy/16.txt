@@ -1,0 +1,4 @@
+How long does Codecademy retain Customer Data? Will Codecademy delete customer data when requests?
+
+Codecademy maintains all customer data until we mark users as "non-active" or a customer deletes their own account. User can delete their own accounts and data here.
+

@@ -1,0 +1,1409 @@
+{
+  "text": "Provided by Others\n\nWe may let other companies use cookies, web beacons, and similar technologies on our services. These companies may collect information about how you use our services over time, and combine it with similar information from other services and companies. This information may be used to analyze and track data, determine the popularity of certain content, and under your online activity, among other things.\nSome companies, including our affiliates, may use information collected on our services to measure the performance of ads and deliver more relevant ads, including on third-party websites and apps.\n\n",
+  "words": [
+    "Provided",
+    "by",
+    "Others",
+    "We",
+    "may",
+    "let",
+    "other",
+    "companies",
+    "use",
+    "cookies",
+    ",",
+    "web",
+    "beacons",
+    ",",
+    "and",
+    "similar",
+    "technologies",
+    "on",
+    "our",
+    "services",
+    ".",
+    "These",
+    "companies",
+    "may",
+    "collect",
+    "information",
+    "about",
+    "how",
+    "you",
+    "use",
+    "our",
+    "services",
+    "over",
+    "time",
+    ",",
+    "and",
+    "combine",
+    "it",
+    "with",
+    "similar",
+    "information",
+    "from",
+    "other",
+    "services",
+    "and",
+    "companies",
+    ".",
+    "This",
+    "information",
+    "may",
+    "be",
+    "used",
+    "to",
+    "analyze",
+    "and",
+    "track",
+    "data",
+    ",",
+    "determine",
+    "the",
+    "popularity",
+    "of",
+    "certain",
+    "content",
+    ",",
+    "and",
+    "under",
+    "your",
+    "online",
+    "activity",
+    ",",
+    "among",
+    "other",
+    "things",
+    ".",
+    "Some",
+    "companies",
+    ",",
+    "including",
+    "our",
+    "affiliates",
+    ",",
+    "may",
+    "use",
+    "information",
+    "collected",
+    "on",
+    "our",
+    "services",
+    "to",
+    "measure",
+    "the",
+    "performance",
+    "of",
+    "ads",
+    "and",
+    "deliver",
+    "more",
+    "relevant",
+    "ads",
+    ",",
+    "including",
+    "on",
+    "third",
+    "-",
+    "party",
+    "websites",
+    "and",
+    "apps",
+    "."
+  ],
+  "lemma": [
+    "provide",
+    "by",
+    "other",
+    "we",
+    "may",
+    "let",
+    "other",
+    "company",
+    "use",
+    "cookie",
+    ",",
+    "web",
+    "beacon",
+    ",",
+    "and",
+    "similar",
+    "technology",
+    "on",
+    "we",
+    "service",
+    ".",
+    "these",
+    "company",
+    "may",
+    "collect",
+    "information",
+    "about",
+    "how",
+    "you",
+    "use",
+    "we",
+    "service",
+    "over",
+    "time",
+    ",",
+    "and",
+    "combine",
+    "it",
+    "with",
+    "similar",
+    "information",
+    "from",
+    "other",
+    "service",
+    "and",
+    "companey",
+    ".",
+    "this",
+    "information",
+    "may",
+    "be",
+    "use",
+    "to",
+    "analyze",
+    "and",
+    "track",
+    "data",
+    ",",
+    "determine",
+    "the",
+    "popularity",
+    "of",
+    "certain",
+    "content",
+    ",",
+    "and",
+    "under",
+    "you",
+    "online",
+    "activity",
+    ",",
+    "among",
+    "other",
+    "thing",
+    ".",
+    "some",
+    "company",
+    ",",
+    "include",
+    "we",
+    "affiliate",
+    ",",
+    "may",
+    "use",
+    "information",
+    "collect",
+    "on",
+    "we",
+    "service",
+    "to",
+    "measure",
+    "the",
+    "performance",
+    "of",
+    "ad",
+    "and",
+    "deliver",
+    "more",
+    "relevant",
+    "ad",
+    ",",
+    "include",
+    "on",
+    "third",
+    "-",
+    "party",
+    "website",
+    "and",
+    "app",
+    "."
+  ],
+  "pos-tags": [
+    "VBN",
+    "IN",
+    "NNPS",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "NNS",
+    "VB",
+    "NNS",
+    ",",
+    "NN",
+    "NNS",
+    ",",
+    "CC",
+    "JJ",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NNS",
+    ".",
+    "DT",
+    "NNS",
+    "MD",
+    "VB",
+    "NN",
+    "IN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NNS",
+    "IN",
+    "NN",
+    ",",
+    "CC",
+    "VBP",
+    "PRP",
+    "IN",
+    "JJ",
+    "NN",
+    "IN",
+    "JJ",
+    "NNS",
+    "CC",
+    "NNS",
+    ".",
+    "DT",
+    "NN",
+    "MD",
+    "VB",
+    "VBN",
+    "TO",
+    "VB",
+    "CC",
+    "VB",
+    "NN",
+    ",",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "JJ",
+    "NN",
+    ",",
+    "CC",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    ",",
+    "IN",
+    "JJ",
+    "NNS",
+    ".",
+    "DT",
+    "NNS",
+    ",",
+    "VBG",
+    "PRP$",
+    "NNS",
+    ",",
+    "MD",
+    "VB",
+    "NN",
+    "VBN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "NNS",
+    "CC",
+    "VB",
+    "RBR",
+    "JJ",
+    "NNS",
+    ",",
+    "VBG",
+    "IN",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    "CC",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "case",
+    "obl",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "obj",
+    "xcomp",
+    "obj",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "cc",
+    "amod",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "det",
+    "nsubj",
+    "aux",
+    "root",
+    "obj",
+    "mark",
+    "advmod",
+    "nsubj",
+    "acl",
+    "nmod:poss",
+    "obj",
+    "case",
+    "obl",
+    "punct",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "amod",
+    "obl",
+    "case",
+    "amod",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "det",
+    "nsubj:pass",
+    "aux",
+    "aux:pass",
+    "root",
+    "mark",
+    "xcomp",
+    "cc",
+    "conj",
+    "obj",
+    "punct",
+    "conj",
+    "det",
+    "obj",
+    "case",
+    "amod",
+    "nmod",
+    "punct",
+    "cc",
+    "case",
+    "nmod:poss",
+    "amod",
+    "conj",
+    "punct",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "det",
+    "nsubj",
+    "punct",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "aux",
+    "root",
+    "obj",
+    "acl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "mark",
+    "acl",
+    "det",
+    "obj",
+    "case",
+    "nmod",
+    "cc",
+    "conj",
+    "advmod",
+    "amod",
+    "obj",
+    "punct",
+    "case",
+    "case",
+    "amod",
+    "punct",
+    "compound",
+    "obl",
+    "cc",
+    "conj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      12,
+      18
+    ],
+    [
+      20,
+      22
+    ],
+    [
+      23,
+      26
+    ],
+    [
+      27,
+      30
+    ],
+    [
+      31,
+      36
+    ],
+    [
+      37,
+      46
+    ],
+    [
+      47,
+      50
+    ],
+    [
+      51,
+      58
+    ],
+    [
+      58,
+      59
+    ],
+    [
+      60,
+      63
+    ],
+    [
+      64,
+      71
+    ],
+    [
+      71,
+      72
+    ],
+    [
+      73,
+      76
+    ],
+    [
+      77,
+      84
+    ],
+    [
+      85,
+      97
+    ],
+    [
+      98,
+      100
+    ],
+    [
+      101,
+      104
+    ],
+    [
+      105,
+      113
+    ],
+    [
+      113,
+      114
+    ],
+    [
+      115,
+      120
+    ],
+    [
+      121,
+      130
+    ],
+    [
+      131,
+      134
+    ],
+    [
+      135,
+      142
+    ],
+    [
+      143,
+      154
+    ],
+    [
+      155,
+      160
+    ],
+    [
+      161,
+      164
+    ],
+    [
+      165,
+      168
+    ],
+    [
+      169,
+      172
+    ],
+    [
+      173,
+      176
+    ],
+    [
+      177,
+      185
+    ],
+    [
+      186,
+      190
+    ],
+    [
+      191,
+      195
+    ],
+    [
+      195,
+      196
+    ],
+    [
+      197,
+      200
+    ],
+    [
+      201,
+      208
+    ],
+    [
+      209,
+      211
+    ],
+    [
+      212,
+      216
+    ],
+    [
+      217,
+      224
+    ],
+    [
+      225,
+      236
+    ],
+    [
+      237,
+      241
+    ],
+    [
+      242,
+      247
+    ],
+    [
+      248,
+      256
+    ],
+    [
+      257,
+      260
+    ],
+    [
+      261,
+      270
+    ],
+    [
+      270,
+      271
+    ],
+    [
+      272,
+      276
+    ],
+    [
+      277,
+      288
+    ],
+    [
+      289,
+      292
+    ],
+    [
+      293,
+      295
+    ],
+    [
+      296,
+      300
+    ],
+    [
+      301,
+      303
+    ],
+    [
+      304,
+      311
+    ],
+    [
+      312,
+      315
+    ],
+    [
+      316,
+      321
+    ],
+    [
+      322,
+      326
+    ],
+    [
+      326,
+      327
+    ],
+    [
+      328,
+      337
+    ],
+    [
+      338,
+      341
+    ],
+    [
+      342,
+      352
+    ],
+    [
+      353,
+      355
+    ],
+    [
+      356,
+      363
+    ],
+    [
+      364,
+      371
+    ],
+    [
+      371,
+      372
+    ],
+    [
+      373,
+      376
+    ],
+    [
+      377,
+      382
+    ],
+    [
+      383,
+      387
+    ],
+    [
+      388,
+      394
+    ],
+    [
+      395,
+      403
+    ],
+    [
+      403,
+      404
+    ],
+    [
+      405,
+      410
+    ],
+    [
+      411,
+      416
+    ],
+    [
+      417,
+      423
+    ],
+    [
+      423,
+      424
+    ],
+    [
+      425,
+      429
+    ],
+    [
+      430,
+      439
+    ],
+    [
+      439,
+      440
+    ],
+    [
+      441,
+      450
+    ],
+    [
+      451,
+      454
+    ],
+    [
+      455,
+      465
+    ],
+    [
+      465,
+      466
+    ],
+    [
+      467,
+      470
+    ],
+    [
+      471,
+      474
+    ],
+    [
+      475,
+      486
+    ],
+    [
+      487,
+      496
+    ],
+    [
+      497,
+      499
+    ],
+    [
+      500,
+      503
+    ],
+    [
+      504,
+      512
+    ],
+    [
+      513,
+      515
+    ],
+    [
+      516,
+      523
+    ],
+    [
+      524,
+      527
+    ],
+    [
+      528,
+      539
+    ],
+    [
+      540,
+      542
+    ],
+    [
+      543,
+      546
+    ],
+    [
+      547,
+      550
+    ],
+    [
+      551,
+      558
+    ],
+    [
+      559,
+      563
+    ],
+    [
+      564,
+      572
+    ],
+    [
+      573,
+      576
+    ],
+    [
+      576,
+      577
+    ],
+    [
+      578,
+      587
+    ],
+    [
+      588,
+      590
+    ],
+    [
+      591,
+      596
+    ],
+    [
+      596,
+      597
+    ],
+    [
+      597,
+      602
+    ],
+    [
+      603,
+      611
+    ],
+    [
+      612,
+      615
+    ],
+    [
+      616,
+      620
+    ],
+    [
+      620,
+      621
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      20
+    ],
+    [
+      21,
+      46
+    ],
+    [
+      47,
+      74
+    ],
+    [
+      75,
+      109
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 20,
+      "end_idx": 22,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        3
+      ]
+    },
+    {
+      "entity/argument_text": "other companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T3",
+      "start_idx": 31,
+      "end_idx": 46,
+      "tokens": [
+        "other",
+        "companies"
+      ],
+      "token_idx": [
+        6,
+        7
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T4",
+      "start_idx": 51,
+      "end_idx": 58,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "web beacons",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T5",
+      "start_idx": 60,
+      "end_idx": 71,
+      "tokens": [
+        "web",
+        "beacons"
+      ],
+      "token_idx": [
+        11,
+        12
+      ]
+    },
+    {
+      "entity/argument_text": "similar technologies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T6",
+      "start_idx": 77,
+      "end_idx": 97,
+      "tokens": [
+        "similar",
+        "technologies"
+      ],
+      "token_idx": [
+        15,
+        16
+      ]
+    },
+    {
+      "entity/argument_text": "companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 121,
+      "end_idx": 130,
+      "tokens": [
+        "companies"
+      ],
+      "token_idx": [
+        22
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T9",
+      "start_idx": 143,
+      "end_idx": 154,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        25
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T10",
+      "start_idx": 165,
+      "end_idx": 168,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        28
+      ]
+    },
+    {
+      "entity/argument_text": "our",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T11",
+      "start_idx": 173,
+      "end_idx": 176,
+      "tokens": [
+        "our"
+      ],
+      "token_idx": [
+        30
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T12",
+      "start_idx": 277,
+      "end_idx": 288,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        48
+      ]
+    },
+    {
+      "entity/argument_text": "analyze and track data",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T14",
+      "start_idx": 304,
+      "end_idx": 326,
+      "tokens": [
+        "analyze",
+        "and",
+        "track",
+        "data"
+      ],
+      "token_idx": [
+        53,
+        54,
+        55,
+        56
+      ]
+    },
+    {
+      "entity/argument_text": "determine the popularity of certain content",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T15",
+      "start_idx": 328,
+      "end_idx": 371,
+      "tokens": [
+        "determine",
+        "the",
+        "popularity",
+        "of",
+        "certain",
+        "content"
+      ],
+      "token_idx": [
+        58,
+        59,
+        60,
+        61,
+        62,
+        63
+      ]
+    },
+    {
+      "entity/argument_text": "under your online activity",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T16",
+      "start_idx": 377,
+      "end_idx": 403,
+      "tokens": [
+        "under",
+        "your",
+        "online",
+        "activity"
+      ],
+      "token_idx": [
+        66,
+        67,
+        68,
+        69
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T18",
+      "start_idx": 475,
+      "end_idx": 486,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        84
+      ]
+    },
+    {
+      "entity/argument_text": "measure the performance of ads",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T19",
+      "start_idx": 516,
+      "end_idx": 546,
+      "tokens": [
+        "measure",
+        "the",
+        "performance",
+        "of",
+        "ads"
+      ],
+      "token_idx": [
+        90,
+        91,
+        92,
+        93,
+        94
+      ]
+    },
+    {
+      "entity/argument_text": "deliver more relevant ads",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T20",
+      "start_idx": 551,
+      "end_idx": 576,
+      "tokens": [
+        "deliver",
+        "more",
+        "relevant",
+        "ads"
+      ],
+      "token_idx": [
+        96,
+        97,
+        98,
+        99
+      ]
+    },
+    {
+      "entity/argument_text": "companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T21",
+      "start_idx": 430,
+      "end_idx": 439,
+      "tokens": [
+        "companies"
+      ],
+      "token_idx": [
+        76
+      ]
+    },
+    {
+      "entity/argument_text": "affiliates",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T22",
+      "start_idx": 455,
+      "end_idx": 465,
+      "tokens": [
+        "affiliates"
+      ],
+      "token_idx": [
+        80
+      ]
+    },
+    {
+      "entity/argument_text": "our",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T23",
+      "start_idx": 500,
+      "end_idx": 503,
+      "tokens": [
+        "our"
+      ],
+      "token_idx": [
+        87
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 47,
+        "end_idx": 50,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          8
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 20,
+          "end_idx": 22
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "other companies",
+          "start_idx": 31,
+          "end_idx": 46
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "similar technologies",
+          "start_idx": 77,
+          "end_idx": 97
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "web beacons",
+          "start_idx": 60,
+          "end_idx": 71
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 51,
+          "end_idx": 58
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 135,
+        "end_idx": 142,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          24
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 165,
+          "end_idx": 168
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information",
+          "start_idx": 143,
+          "end_idx": 154
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "Third-party-entity",
+          "text": "companies",
+          "start_idx": 121,
+          "end_idx": 130
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 173,
+          "end_idx": 176
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "used",
+        "start_idx": 296,
+        "end_idx": 300,
+        "tokens": [
+          "used"
+        ],
+        "token_idx": [
+          51
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "under your online activity",
+          "start_idx": 377,
+          "end_idx": 403
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Analytics-research",
+          "text": "determine the popularity of certain content",
+          "start_idx": 328,
+          "end_idx": 371
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Analytics-research",
+          "text": "analyze and track data",
+          "start_idx": 304,
+          "end_idx": 326
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 277,
+          "end_idx": 288
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 471,
+        "end_idx": 474,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          83
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "deliver more relevant ads",
+          "start_idx": 551,
+          "end_idx": 576
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 500,
+          "end_idx": 503
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 475,
+          "end_idx": 486
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "affiliates",
+          "start_idx": 455,
+          "end_idx": 465
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "Third-party-entity",
+          "text": "companies",
+          "start_idx": 430,
+          "end_idx": 439
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Analytics-research",
+          "text": "measure the performance of ads",
+          "start_idx": 516,
+          "end_idx": 546
+        }
+      ],
+      "event_id": "E4"
+    }
+  ]
+}

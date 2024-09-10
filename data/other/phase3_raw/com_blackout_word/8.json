@@ -1,0 +1,6608 @@
+{
+  "text": "Third party advertising\n\n3.1 We want to make sure that our advertising and marketing is relevant and interesting to you and our other customers. To achieve this, we use third-party advertising and technology companies to serve advertising and/or provide aggregated data to assist in serving advertising when you visit or use our apps. This includes third party technology companies which collect data about you in order to build a profile of your preferences based on your activities when you visit or use our apps. We also use these companies to automatically collect data from you when you use our apps in order to help us identify the advertising that are served to you and what you do after seeing those advertising. In addition, we share data with providers of analytics tools, such as Adjust, which we use to analyse your use of the apps. A list of the third party advertising and technology companies that we use is set out below. (a) Admob, Inc. (b) AppLovin Limited (c) Facebook, Inc. (d) Unity Ads (Unity Technologies Finland Oy) (e) Vungle, Inc.\n3.2 These third party advertising companies collect, store and use data by integrating cookies and other tracking software on our apps. The relevant data collected by these third parties includes: (a) data about your device, location and use of our apps, including IP address, a unique device ID, geo-location details and your User ID that we have assigned to you; (b) data which you provide to us when using our apps, including information on your interaction with advertising and certain technical information.\n3.3 These third party advertising companies will collect and use your data to provide you with targeted advertising that is relevant to you and your preferences with your consent. You can control and withdraw your consent to this targeted advertising at any time on our apps. If you do not provide or withdraw your consent to receive targeted advertising that is relevant to you and your preferences, then we will still serve you advertising when you visit or use our apps but this will no longer be tailored to you or your preferences.\n3.4 In some cases these third parties will also use the data that they collect for their own purposes, for example they may aggregate your data with other data they hold and use this to inform advertising related services provided to other clients.\n3.5 We might also share your data with social media or other similar platforms, as well as our advertising partners, so that you and other people can see relevant advertising on that platform. For example, we may use the Facebook Custom Audiences service and share your IDFA with Facebook so that we can: serve relevant advertising to you or include you in a custom audience that we will serve relevant advertising to you on Facebook; or create an audience of other Facebook users based on the information in your Facebook profile. You can opt-out from Facebook Custom Audiences in your Facebook privacy settings, for example, and other similar platforms may have equivalent opt-out settings.\n\n",
+  "words": [
+    "Third",
+    "party",
+    "advertising",
+    "3.1",
+    "We",
+    "want",
+    "to",
+    "make",
+    "sure",
+    "that",
+    "our",
+    "advertising",
+    "and",
+    "marketing",
+    "is",
+    "relevant",
+    "and",
+    "interesting",
+    "to",
+    "you",
+    "and",
+    "our",
+    "other",
+    "customers",
+    ".",
+    "To",
+    "achieve",
+    "this",
+    ",",
+    "we",
+    "use",
+    "third",
+    "-",
+    "party",
+    "advertising",
+    "and",
+    "technology",
+    "companies",
+    "to",
+    "serve",
+    "advertising",
+    "and",
+    "/",
+    "or",
+    "provide",
+    "aggregated",
+    "data",
+    "to",
+    "assist",
+    "in",
+    "serving",
+    "advertising",
+    "when",
+    "you",
+    "visit",
+    "or",
+    "use",
+    "our",
+    "apps",
+    ".",
+    "This",
+    "includes",
+    "third",
+    "party",
+    "technology",
+    "companies",
+    "which",
+    "collect",
+    "data",
+    "about",
+    "you",
+    "in",
+    "order",
+    "to",
+    "build",
+    "a",
+    "profile",
+    "of",
+    "your",
+    "preferences",
+    "based",
+    "on",
+    "your",
+    "activities",
+    "when",
+    "you",
+    "visit",
+    "or",
+    "use",
+    "our",
+    "apps",
+    ".",
+    "We",
+    "also",
+    "use",
+    "these",
+    "companies",
+    "to",
+    "automatically",
+    "collect",
+    "data",
+    "from",
+    "you",
+    "when",
+    "you",
+    "use",
+    "our",
+    "apps",
+    "in",
+    "order",
+    "to",
+    "help",
+    "us",
+    "identify",
+    "the",
+    "advertising",
+    "that",
+    "are",
+    "served",
+    "to",
+    "you",
+    "and",
+    "what",
+    "you",
+    "do",
+    "after",
+    "seeing",
+    "those",
+    "advertising",
+    ".",
+    "In",
+    "addition",
+    ",",
+    "we",
+    "share",
+    "data",
+    "with",
+    "providers",
+    "of",
+    "analytics",
+    "tools",
+    ",",
+    "such",
+    "as",
+    "Adjust",
+    ",",
+    "which",
+    "we",
+    "use",
+    "to",
+    "analyse",
+    "your",
+    "use",
+    "of",
+    "the",
+    "apps",
+    ".",
+    "A",
+    "list",
+    "of",
+    "the",
+    "third",
+    "party",
+    "advertising",
+    "and",
+    "technology",
+    "companies",
+    "that",
+    "we",
+    "use",
+    "is",
+    "set",
+    "out",
+    "below.",
+    "(",
+    "a",
+    ")",
+    "Admob",
+    ",",
+    "Inc.",
+    "(",
+    "b",
+    ")",
+    "AppLovin",
+    "Limited",
+    "(",
+    "c",
+    ")",
+    "Facebook",
+    ",",
+    "Inc.",
+    "(",
+    "d",
+    ")",
+    "Unity",
+    "Ads",
+    "(",
+    "Unity",
+    "Technologies",
+    "Finland",
+    "Oy",
+    ")",
+    "(",
+    "e",
+    ")",
+    "Vungle",
+    ",",
+    "Inc.",
+    "3.2",
+    "These",
+    "third",
+    "party",
+    "advertising",
+    "companies",
+    "collect",
+    ",",
+    "store",
+    "and",
+    "use",
+    "data",
+    "by",
+    "integrating",
+    "cookies",
+    "and",
+    "other",
+    "tracking",
+    "software",
+    "on",
+    "our",
+    "apps",
+    ".",
+    "The",
+    "relevant",
+    "data",
+    "collected",
+    "by",
+    "these",
+    "third",
+    "parties",
+    "includes",
+    ":",
+    "(",
+    "a",
+    ")",
+    "data",
+    "about",
+    "your",
+    "device",
+    ",",
+    "location",
+    "and",
+    "use",
+    "of",
+    "our",
+    "apps",
+    ",",
+    "including",
+    "IP",
+    "address",
+    ",",
+    "a",
+    "unique",
+    "device",
+    "ID",
+    ",",
+    "geo-",
+    "location",
+    "details",
+    "and",
+    "your",
+    "User",
+    "ID",
+    "that",
+    "we",
+    "have",
+    "assigned",
+    "to",
+    "you",
+    ";",
+    "(",
+    "b",
+    ")",
+    "data",
+    "which",
+    "you",
+    "provide",
+    "to",
+    "us",
+    "when",
+    "using",
+    "our",
+    "apps",
+    ",",
+    "including",
+    "information",
+    "on",
+    "your",
+    "interaction",
+    "with",
+    "advertising",
+    "and",
+    "certain",
+    "technical",
+    "information",
+    ".",
+    "3.3",
+    "These",
+    "third",
+    "party",
+    "advertising",
+    "companies",
+    "will",
+    "collect",
+    "and",
+    "use",
+    "your",
+    "data",
+    "to",
+    "provide",
+    "you",
+    "with",
+    "targeted",
+    "advertising",
+    "that",
+    "is",
+    "relevant",
+    "to",
+    "you",
+    "and",
+    "your",
+    "preferences",
+    "with",
+    "your",
+    "consent",
+    ".",
+    "You",
+    "can",
+    "control",
+    "and",
+    "withdraw",
+    "your",
+    "consent",
+    "to",
+    "this",
+    "targeted",
+    "advertising",
+    "at",
+    "any",
+    "time",
+    "on",
+    "our",
+    "apps",
+    ".",
+    "If",
+    "you",
+    "do",
+    "not",
+    "provide",
+    "or",
+    "withdraw",
+    "your",
+    "consent",
+    "to",
+    "receive",
+    "targeted",
+    "advertising",
+    "that",
+    "is",
+    "relevant",
+    "to",
+    "you",
+    "and",
+    "your",
+    "preferences",
+    ",",
+    "then",
+    "we",
+    "will",
+    "still",
+    "serve",
+    "you",
+    "advertising",
+    "when",
+    "you",
+    "visit",
+    "or",
+    "use",
+    "our",
+    "apps",
+    "but",
+    "this",
+    "will",
+    "no",
+    "longer",
+    "be",
+    "tailored",
+    "to",
+    "you",
+    "or",
+    "your",
+    "preferences",
+    ".",
+    "3.4",
+    "In",
+    "some",
+    "cases",
+    "these",
+    "third",
+    "parties",
+    "will",
+    "also",
+    "use",
+    "the",
+    "data",
+    "that",
+    "they",
+    "collect",
+    "for",
+    "their",
+    "own",
+    "purposes",
+    ",",
+    "for",
+    "example",
+    "they",
+    "may",
+    "aggregate",
+    "your",
+    "data",
+    "with",
+    "other",
+    "data",
+    "they",
+    "hold",
+    "and",
+    "use",
+    "this",
+    "to",
+    "inform",
+    "advertising",
+    "related",
+    "services",
+    "provided",
+    "to",
+    "other",
+    "clients",
+    ".",
+    "3.5",
+    "We",
+    "might",
+    "also",
+    "share",
+    "your",
+    "data",
+    "with",
+    "social",
+    "media",
+    "or",
+    "other",
+    "similar",
+    "platforms",
+    ",",
+    "as",
+    "well",
+    "as",
+    "our",
+    "advertising",
+    "partners",
+    ",",
+    "so",
+    "that",
+    "you",
+    "and",
+    "other",
+    "people",
+    "can",
+    "see",
+    "relevant",
+    "advertising",
+    "on",
+    "that",
+    "platform",
+    ".",
+    "For",
+    "example",
+    ",",
+    "we",
+    "may",
+    "use",
+    "the",
+    "Facebook",
+    "Custom",
+    "Audiences",
+    "service",
+    "and",
+    "share",
+    "your",
+    "IDFA",
+    "with",
+    "Facebook",
+    "so",
+    "that",
+    "we",
+    "can",
+    ":",
+    "serve",
+    "relevant",
+    "advertising",
+    "to",
+    "you",
+    "or",
+    "include",
+    "you",
+    "in",
+    "a",
+    "custom",
+    "audience",
+    "that",
+    "we",
+    "will",
+    "serve",
+    "relevant",
+    "advertising",
+    "to",
+    "you",
+    "on",
+    "Facebook",
+    ";",
+    "or",
+    "create",
+    "an",
+    "audience",
+    "of",
+    "other",
+    "Facebook",
+    "users",
+    "based",
+    "on",
+    "the",
+    "information",
+    "in",
+    "your",
+    "Facebook",
+    "profile",
+    ".",
+    "You",
+    "can",
+    "opt",
+    "-",
+    "out",
+    "from",
+    "Facebook",
+    "Custom",
+    "Audiences",
+    "in",
+    "your",
+    "Facebook",
+    "privacy",
+    "settings",
+    ",",
+    "for",
+    "example",
+    ",",
+    "and",
+    "other",
+    "similar",
+    "platforms",
+    "may",
+    "have",
+    "equivalent",
+    "opt",
+    "-",
+    "out",
+    "settings",
+    "."
+  ],
+  "lemma": [
+    "third",
+    "party",
+    "advertising",
+    "3.1",
+    "we",
+    "want",
+    "to",
+    "make",
+    "sure",
+    "that",
+    "we",
+    "advertising",
+    "and",
+    "marketing",
+    "be",
+    "relevant",
+    "and",
+    "interesting",
+    "to",
+    "you",
+    "and",
+    "we",
+    "other",
+    "customer",
+    ".",
+    "to",
+    "achieve",
+    "this",
+    ",",
+    "we",
+    "use",
+    "third",
+    "-",
+    "party",
+    "advertising",
+    "and",
+    "technology",
+    "company",
+    "to",
+    "serve",
+    "advertising",
+    "and",
+    "/",
+    "or",
+    "provide",
+    "aggregated",
+    "data",
+    "to",
+    "assist",
+    "in",
+    "serve",
+    "advertising",
+    "when",
+    "you",
+    "visit",
+    "or",
+    "use",
+    "we",
+    "app",
+    ".",
+    "this",
+    "include",
+    "third",
+    "party",
+    "technology",
+    "company",
+    "which",
+    "collect",
+    "data",
+    "about",
+    "you",
+    "in",
+    "order",
+    "to",
+    "build",
+    "a",
+    "profile",
+    "of",
+    "you",
+    "preference",
+    "base",
+    "on",
+    "you",
+    "activity",
+    "when",
+    "you",
+    "visit",
+    "or",
+    "use",
+    "we",
+    "app",
+    ".",
+    "we",
+    "also",
+    "use",
+    "these",
+    "company",
+    "to",
+    "automatically",
+    "collect",
+    "data",
+    "from",
+    "you",
+    "when",
+    "you",
+    "use",
+    "we",
+    "app",
+    "in",
+    "order",
+    "to",
+    "help",
+    "we",
+    "identify",
+    "the",
+    "advertising",
+    "that",
+    "be",
+    "serve",
+    "to",
+    "you",
+    "and",
+    "what",
+    "you",
+    "do",
+    "after",
+    "see",
+    "those",
+    "advertising",
+    ".",
+    "in",
+    "addition",
+    ",",
+    "we",
+    "share",
+    "data",
+    "with",
+    "provider",
+    "of",
+    "analytic",
+    "tool",
+    ",",
+    "such",
+    "as",
+    "adjust",
+    ",",
+    "which",
+    "we",
+    "use",
+    "to",
+    "analyse",
+    "you",
+    "use",
+    "of",
+    "the",
+    "app",
+    ".",
+    "a",
+    "list",
+    "of",
+    "the",
+    "third",
+    "party",
+    "advertising",
+    "and",
+    "technology",
+    "company",
+    "that",
+    "we",
+    "use",
+    "be",
+    "set",
+    "out",
+    "below.",
+    "(",
+    "a",
+    ")",
+    "Admob",
+    ",",
+    "Inc.",
+    "(",
+    "b",
+    ")",
+    "AppLovin",
+    "Limited",
+    "(",
+    "c",
+    ")",
+    "Facebook",
+    ",",
+    "Inc.",
+    "(",
+    "d",
+    ")",
+    "Unity",
+    "ads",
+    "(",
+    "Unity",
+    "Technologies",
+    "Finland",
+    "Oy",
+    ")",
+    "(",
+    "e",
+    ")",
+    "Vungle",
+    ",",
+    "Inc.",
+    "3.2",
+    "these",
+    "third",
+    "party",
+    "advertising",
+    "company",
+    "collect",
+    ",",
+    "store",
+    "and",
+    "use",
+    "data",
+    "by",
+    "integrating",
+    "cookie",
+    "and",
+    "other",
+    "track",
+    "software",
+    "on",
+    "we",
+    "app",
+    ".",
+    "the",
+    "relevant",
+    "data",
+    "collect",
+    "by",
+    "these",
+    "third",
+    "party",
+    "include",
+    ":",
+    "(",
+    "a",
+    ")",
+    "data",
+    "about",
+    "you",
+    "device",
+    ",",
+    "location",
+    "and",
+    "use",
+    "of",
+    "we",
+    "app",
+    ",",
+    "include",
+    "ip",
+    "address",
+    ",",
+    "a",
+    "unique",
+    "device",
+    "id",
+    ",",
+    "geo-",
+    "location",
+    "detail",
+    "and",
+    "you",
+    "user",
+    "id",
+    "that",
+    "we",
+    "have",
+    "assign",
+    "to",
+    "you",
+    ";",
+    "(",
+    "b",
+    ")",
+    "data",
+    "which",
+    "you",
+    "provide",
+    "to",
+    "we",
+    "when",
+    "use",
+    "we",
+    "app",
+    ",",
+    "include",
+    "information",
+    "on",
+    "you",
+    "interaction",
+    "with",
+    "advertising",
+    "and",
+    "certain",
+    "technical",
+    "information",
+    ".",
+    "3.3",
+    "these",
+    "third",
+    "party",
+    "advertising",
+    "company",
+    "will",
+    "collect",
+    "and",
+    "use",
+    "you",
+    "data",
+    "to",
+    "provide",
+    "you",
+    "with",
+    "targeted",
+    "advertising",
+    "that",
+    "be",
+    "relevant",
+    "to",
+    "you",
+    "and",
+    "you",
+    "preference",
+    "with",
+    "you",
+    "consent",
+    ".",
+    "you",
+    "can",
+    "control",
+    "and",
+    "withdraw",
+    "you",
+    "consent",
+    "to",
+    "this",
+    "target",
+    "advertising",
+    "at",
+    "any",
+    "time",
+    "on",
+    "we",
+    "app",
+    ".",
+    "if",
+    "you",
+    "do",
+    "not",
+    "provide",
+    "or",
+    "withdraw",
+    "you",
+    "consent",
+    "to",
+    "receive",
+    "targete",
+    "advertising",
+    "that",
+    "be",
+    "relevant",
+    "to",
+    "you",
+    "and",
+    "you",
+    "preference",
+    ",",
+    "then",
+    "we",
+    "will",
+    "still",
+    "serve",
+    "you",
+    "advertise",
+    "when",
+    "you",
+    "visit",
+    "or",
+    "use",
+    "we",
+    "app",
+    "but",
+    "this",
+    "will",
+    "no",
+    "longer",
+    "be",
+    "tailor",
+    "to",
+    "you",
+    "or",
+    "you",
+    "preference",
+    ".",
+    "3.4",
+    "in",
+    "some",
+    "case",
+    "these",
+    "third",
+    "party",
+    "will",
+    "also",
+    "use",
+    "the",
+    "data",
+    "that",
+    "they",
+    "collect",
+    "for",
+    "they",
+    "own",
+    "purpose",
+    ",",
+    "for",
+    "example",
+    "they",
+    "may",
+    "aggregate",
+    "you",
+    "data",
+    "with",
+    "other",
+    "data",
+    "they",
+    "hold",
+    "and",
+    "use",
+    "this",
+    "to",
+    "inform",
+    "advertise",
+    "related",
+    "service",
+    "provide",
+    "to",
+    "other",
+    "client",
+    ".",
+    "3.5",
+    "we",
+    "might",
+    "also",
+    "share",
+    "you",
+    "data",
+    "with",
+    "social",
+    "media",
+    "or",
+    "other",
+    "similar",
+    "platform",
+    ",",
+    "as",
+    "well",
+    "as",
+    "we",
+    "advertising",
+    "partner",
+    ",",
+    "so",
+    "that",
+    "you",
+    "and",
+    "other",
+    "people",
+    "can",
+    "see",
+    "relevant",
+    "advertising",
+    "on",
+    "that",
+    "platform",
+    ".",
+    "for",
+    "example",
+    ",",
+    "we",
+    "may",
+    "use",
+    "the",
+    "Facebook",
+    "custom",
+    "Audience",
+    "service",
+    "and",
+    "share",
+    "you",
+    "IDFa",
+    "with",
+    "Facebook",
+    "so",
+    "that",
+    "we",
+    "can",
+    ":",
+    "serve",
+    "relevant",
+    "advertising",
+    "to",
+    "you",
+    "or",
+    "include",
+    "you",
+    "in",
+    "a",
+    "custom",
+    "audience",
+    "that",
+    "we",
+    "will",
+    "serve",
+    "relevant",
+    "advertising",
+    "to",
+    "you",
+    "on",
+    "Facebook",
+    ";",
+    "or",
+    "create",
+    "a",
+    "audience",
+    "of",
+    "other",
+    "Facebook",
+    "user",
+    "base",
+    "on",
+    "the",
+    "information",
+    "in",
+    "you",
+    "Facebook",
+    "profile",
+    ".",
+    "you",
+    "can",
+    "opt",
+    "-",
+    "out",
+    "from",
+    "Facebook",
+    "custom",
+    "Audience",
+    "in",
+    "you",
+    "Facebook",
+    "privacy",
+    "setting",
+    ",",
+    "for",
+    "example",
+    ",",
+    "and",
+    "other",
+    "similar",
+    "platform",
+    "may",
+    "have",
+    "equivalent",
+    "opt",
+    "-",
+    "out",
+    "setting",
+    "."
+  ],
+  "pos-tags": [
+    "JJ",
+    "NN",
+    "NN",
+    "CD",
+    "PRP",
+    "VBP",
+    "TO",
+    "VB",
+    "JJ",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    "VBZ",
+    "JJ",
+    "CC",
+    "JJ",
+    "IN",
+    "PRP",
+    "CC",
+    "PRP$",
+    "JJ",
+    "NNS",
+    ".",
+    "TO",
+    "VB",
+    "DT",
+    ",",
+    "PRP",
+    "VBP",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NN",
+    "CC",
+    "NN",
+    "NNS",
+    "TO",
+    "VB",
+    "NN",
+    "CC",
+    ",",
+    "CC",
+    "VB",
+    "VBN",
+    "NN",
+    "TO",
+    "VB",
+    "IN",
+    "VBG",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    "PRP$",
+    "NNS",
+    ".",
+    "DT",
+    "VBZ",
+    "JJ",
+    "NN",
+    "NN",
+    "NNS",
+    "WDT",
+    "VBP",
+    "NN",
+    "IN",
+    "PRP",
+    "IN",
+    "NN",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "VBN",
+    "IN",
+    "PRP$",
+    "NNS",
+    "WRB",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    "PRP$",
+    "NNS",
+    ".",
+    "PRP",
+    "RB",
+    "VBP",
+    "DT",
+    "NNS",
+    "TO",
+    "RB",
+    "VB",
+    "NN",
+    "IN",
+    "PRP",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NNS",
+    "IN",
+    "NN",
+    "TO",
+    "VB",
+    "PRP",
+    "VB",
+    "DT",
+    "NN",
+    "WDT",
+    "VBP",
+    "VBN",
+    "IN",
+    "PRP",
+    "CC",
+    "WP",
+    "PRP",
+    "VBP",
+    "IN",
+    "VBG",
+    "DT",
+    "NN",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "PRP",
+    "VBP",
+    "NN",
+    "IN",
+    "NNS",
+    "IN",
+    "NNS",
+    "NNS",
+    ",",
+    "JJ",
+    "IN",
+    "NNP",
+    ",",
+    "WDT",
+    "PRP",
+    "VBP",
+    "TO",
+    "VB",
+    "PRP$",
+    "NN",
+    "IN",
+    "DT",
+    "NNS",
+    ".",
+    "DT",
+    "NN",
+    "IN",
+    "DT",
+    "JJ",
+    "NN",
+    "NN",
+    "CC",
+    "NN",
+    "NNS",
+    "WDT",
+    "PRP",
+    "VBP",
+    "VBZ",
+    "VBN",
+    "RP",
+    "NFP",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NNP",
+    ",",
+    "NNP",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NNP",
+    "NNP",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NNP",
+    ",",
+    "NNP",
+    "-LRB-",
+    "NNP",
+    "-RRB-",
+    "NNP",
+    "NNPS",
+    "-LRB-",
+    "NNP",
+    "NNPS",
+    "NNP",
+    "NNP",
+    "-RRB-",
+    "-LRB-",
+    "NN",
+    "-RRB-",
+    "NNP",
+    ",",
+    "NNP",
+    "CD",
+    "DT",
+    "JJ",
+    "NN",
+    "NN",
+    "NNS",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "VB",
+    "NN",
+    "IN",
+    "VBG",
+    "NNS",
+    "CC",
+    "JJ",
+    "VBG",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    ".",
+    "DT",
+    "JJ",
+    "NN",
+    "VBN",
+    "IN",
+    "DT",
+    "JJ",
+    "NNS",
+    "VBZ",
+    ":",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    ",",
+    "VBG",
+    "NN",
+    "NN",
+    ",",
+    "DT",
+    "JJ",
+    "NN",
+    "NN",
+    ",",
+    "NFP",
+    "NN",
+    "NNS",
+    "CC",
+    "PRP$",
+    "NN",
+    "NN",
+    "WDT",
+    "PRP",
+    "VBP",
+    "VBN",
+    "IN",
+    "PRP",
+    ",",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "WDT",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP",
+    "WRB",
+    "VBG",
+    "PRP$",
+    "NNS",
+    ",",
+    "VBG",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "IN",
+    "NN",
+    "CC",
+    "JJ",
+    "JJ",
+    "NN",
+    ".",
+    "CD",
+    "DT",
+    "JJ",
+    "NN",
+    "NN",
+    "NNS",
+    "MD",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    "TO",
+    "VB",
+    "PRP",
+    "IN",
+    "VBN",
+    "NN",
+    "WDT",
+    "VBZ",
+    "JJ",
+    "IN",
+    "PRP",
+    "CC",
+    "PRP$",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    "IN",
+    "DT",
+    "VBN",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    ".",
+    "IN",
+    "PRP",
+    "VBP",
+    "RB",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    "TO",
+    "VB",
+    "VBN",
+    "NN",
+    "WDT",
+    "VBZ",
+    "JJ",
+    "IN",
+    "PRP",
+    "CC",
+    "PRP$",
+    "NNS",
+    ",",
+    "RB",
+    "PRP",
+    "MD",
+    "RB",
+    "VB",
+    "PRP",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    "PRP$",
+    "NN",
+    "CC",
+    "DT",
+    "MD",
+    "RB",
+    "RBR",
+    "VB",
+    "VBN",
+    "IN",
+    "PRP",
+    "CC",
+    "PRP$",
+    "NNS",
+    ".",
+    "CD",
+    "IN",
+    "DT",
+    "NNS",
+    "DT",
+    "JJ",
+    "NNS",
+    "MD",
+    "RB",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NNS",
+    ",",
+    "IN",
+    "NN",
+    "PRP",
+    "MD",
+    "VB",
+    "PRP$",
+    "NN",
+    "IN",
+    "JJ",
+    "NN",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    "DT",
+    "TO",
+    "VB",
+    "NN",
+    "JJ",
+    "NNS",
+    "VBN",
+    "IN",
+    "JJ",
+    "NNS",
+    ".",
+    "CD",
+    "PRP",
+    "MD",
+    "RB",
+    "VB",
+    "PRP$",
+    "NN",
+    "IN",
+    "JJ",
+    "NN",
+    "CC",
+    "JJ",
+    "JJ",
+    "NNS",
+    ",",
+    "RB",
+    "RB",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNS",
+    ",",
+    "IN",
+    "IN",
+    "PRP",
+    "CC",
+    "JJ",
+    "NNS",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "DT",
+    "NNP",
+    "NN",
+    "NNS",
+    "NN",
+    "CC",
+    "VB",
+    "PRP$",
+    "NNP",
+    "IN",
+    "NNP",
+    "RB",
+    "IN",
+    "PRP",
+    "MD",
+    ":",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP",
+    "CC",
+    "VBP",
+    "PRP",
+    "IN",
+    "DT",
+    "JJ",
+    "NN",
+    "WDT",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP",
+    "IN",
+    "NN",
+    ",",
+    "CC",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "JJ",
+    "NNP",
+    "NNS",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNP",
+    "NN",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "HYPH",
+    "RB",
+    "IN",
+    "NNP",
+    "NN",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    "NN",
+    "NNS",
+    ",",
+    "IN",
+    "NN",
+    ",",
+    "CC",
+    "JJ",
+    "JJ",
+    "NNS",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "HYPH",
+    "NN",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "amod",
+    "compound",
+    "root",
+    "root",
+    "nsubj",
+    "root",
+    "mark",
+    "xcomp",
+    "xcomp",
+    "mark",
+    "nmod:poss",
+    "nsubj",
+    "cc",
+    "conj",
+    "cop",
+    "ccomp",
+    "cc",
+    "conj",
+    "case",
+    "obl",
+    "cc",
+    "nmod:poss",
+    "amod",
+    "conj",
+    "punct",
+    "mark",
+    "advcl",
+    "obj",
+    "punct",
+    "nsubj",
+    "root",
+    "amod",
+    "punct",
+    "compound",
+    "obj",
+    "cc",
+    "compound",
+    "conj",
+    "mark",
+    "xcomp",
+    "obj",
+    "cc",
+    "cc",
+    "conj",
+    "conj",
+    "amod",
+    "obj",
+    "mark",
+    "advcl",
+    "mark",
+    "advcl",
+    "obj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "nsubj",
+    "root",
+    "amod",
+    "compound",
+    "compound",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "obj",
+    "case",
+    "obl",
+    "mark",
+    "fixed",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "case",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "mark",
+    "nsubj",
+    "advcl",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "nsubj",
+    "advmod",
+    "root",
+    "det",
+    "obj",
+    "mark",
+    "advmod",
+    "advcl",
+    "obj",
+    "case",
+    "obl",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "mark",
+    "fixed",
+    "mark",
+    "advcl",
+    "obj",
+    "xcomp",
+    "det",
+    "obj",
+    "nsubj:pass",
+    "aux:pass",
+    "acl:relcl",
+    "case",
+    "obl",
+    "cc",
+    "conj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "root",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "case",
+    "fixed",
+    "nmod",
+    "punct",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "xcomp",
+    "nmod:poss",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "punct",
+    "det",
+    "nsubj:pass",
+    "case",
+    "det",
+    "amod",
+    "compound",
+    "compound",
+    "cc",
+    "conj",
+    "nmod",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "aux:pass",
+    "root",
+    "compound:prt",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "compound",
+    "punct",
+    "root",
+    "punct",
+    "list",
+    "punct",
+    "compound",
+    "compound",
+    "punct",
+    "list",
+    "punct",
+    "compound",
+    "punct",
+    "list",
+    "punct",
+    "appos",
+    "punct",
+    "compound",
+    "flat",
+    "punct",
+    "compound",
+    "compound",
+    "compound",
+    "appos",
+    "punct",
+    "punct",
+    "root",
+    "punct",
+    "compound",
+    "punct",
+    "conj",
+    "appos",
+    "det",
+    "amod",
+    "compound",
+    "compound",
+    "compound",
+    "appos",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "obj",
+    "mark",
+    "advcl",
+    "obj",
+    "cc",
+    "amod",
+    "amod",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "det",
+    "amod",
+    "nsubj",
+    "acl",
+    "case",
+    "det",
+    "amod",
+    "obl",
+    "root",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "compound",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "det",
+    "amod",
+    "compound",
+    "conj",
+    "punct",
+    "conj",
+    "compound",
+    "obj",
+    "cc",
+    "nmod:poss",
+    "compound",
+    "conj",
+    "obj",
+    "nsubj",
+    "aux",
+    "acl:relcl",
+    "case",
+    "obl",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "nsubj",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "obl",
+    "mark",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "case",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "case",
+    "nmod",
+    "cc",
+    "amod",
+    "amod",
+    "conj",
+    "punct",
+    "root",
+    "det",
+    "amod",
+    "compound",
+    "compound",
+    "nsubj",
+    "aux",
+    "root",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "mark",
+    "acl",
+    "obj",
+    "case",
+    "amod",
+    "obl",
+    "nsubj",
+    "cop",
+    "acl:relcl",
+    "case",
+    "obl",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "case",
+    "det",
+    "amod",
+    "obl",
+    "case",
+    "det",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "mark",
+    "nsubj",
+    "aux",
+    "advmod",
+    "advcl",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "mark",
+    "advcl",
+    "amod",
+    "obj",
+    "nsubj",
+    "cop",
+    "acl:relcl",
+    "case",
+    "obl",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "punct",
+    "advmod",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "nmod:poss",
+    "obj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "nsubj:pass",
+    "aux",
+    "advmod",
+    "advmod",
+    "aux:pass",
+    "conj",
+    "case",
+    "obl",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "punct",
+    "root",
+    "case",
+    "det",
+    "obl",
+    "det",
+    "amod",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "det",
+    "obj",
+    "mark",
+    "nsubj",
+    "acl",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct",
+    "case",
+    "obl",
+    "nsubj",
+    "aux",
+    "acl:relcl",
+    "nmod:poss",
+    "obj",
+    "case",
+    "amod",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "cc",
+    "conj",
+    "obj",
+    "mark",
+    "advcl",
+    "compound",
+    "amod",
+    "obj",
+    "acl",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "root",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "nmod:poss",
+    "obj",
+    "case",
+    "amod",
+    "obl",
+    "cc",
+    "amod",
+    "amod",
+    "conj",
+    "punct",
+    "cc",
+    "fixed",
+    "fixed",
+    "nmod:poss",
+    "compound",
+    "conj",
+    "punct",
+    "mark",
+    "fixed",
+    "nsubj",
+    "cc",
+    "amod",
+    "conj",
+    "aux",
+    "advcl",
+    "amod",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "det",
+    "compound",
+    "compound",
+    "compound",
+    "obj",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "case",
+    "obl",
+    "mark",
+    "fixed",
+    "nsubj",
+    "aux",
+    "punct",
+    "advcl",
+    "amod",
+    "obj",
+    "case",
+    "nmod",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "det",
+    "amod",
+    "obl",
+    "obj",
+    "nsubj",
+    "aux",
+    "acl:relcl",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "obl",
+    "punct",
+    "cc",
+    "conj",
+    "det",
+    "obj",
+    "case",
+    "amod",
+    "compound",
+    "nmod",
+    "case",
+    "case",
+    "det",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "punct",
+    "advmod",
+    "case",
+    "compound",
+    "compound",
+    "obl",
+    "case",
+    "nmod:poss",
+    "compound",
+    "compound",
+    "nmod",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "cc",
+    "amod",
+    "amod",
+    "nsubj",
+    "aux",
+    "conj",
+    "amod",
+    "compound",
+    "punct",
+    "compound",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      11
+    ],
+    [
+      12,
+      23
+    ],
+    [
+      25,
+      28
+    ],
+    [
+      29,
+      31
+    ],
+    [
+      32,
+      36
+    ],
+    [
+      37,
+      39
+    ],
+    [
+      40,
+      44
+    ],
+    [
+      45,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      55,
+      58
+    ],
+    [
+      59,
+      70
+    ],
+    [
+      71,
+      74
+    ],
+    [
+      75,
+      84
+    ],
+    [
+      85,
+      87
+    ],
+    [
+      88,
+      96
+    ],
+    [
+      97,
+      100
+    ],
+    [
+      101,
+      112
+    ],
+    [
+      113,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      123
+    ],
+    [
+      124,
+      127
+    ],
+    [
+      128,
+      133
+    ],
+    [
+      134,
+      143
+    ],
+    [
+      143,
+      144
+    ],
+    [
+      145,
+      147
+    ],
+    [
+      148,
+      155
+    ],
+    [
+      156,
+      160
+    ],
+    [
+      160,
+      161
+    ],
+    [
+      162,
+      164
+    ],
+    [
+      165,
+      168
+    ],
+    [
+      169,
+      174
+    ],
+    [
+      174,
+      175
+    ],
+    [
+      175,
+      180
+    ],
+    [
+      181,
+      192
+    ],
+    [
+      193,
+      196
+    ],
+    [
+      197,
+      207
+    ],
+    [
+      208,
+      217
+    ],
+    [
+      218,
+      220
+    ],
+    [
+      221,
+      226
+    ],
+    [
+      227,
+      238
+    ],
+    [
+      239,
+      242
+    ],
+    [
+      242,
+      243
+    ],
+    [
+      243,
+      245
+    ],
+    [
+      246,
+      253
+    ],
+    [
+      254,
+      264
+    ],
+    [
+      265,
+      269
+    ],
+    [
+      270,
+      272
+    ],
+    [
+      273,
+      279
+    ],
+    [
+      280,
+      282
+    ],
+    [
+      283,
+      290
+    ],
+    [
+      291,
+      302
+    ],
+    [
+      303,
+      307
+    ],
+    [
+      308,
+      311
+    ],
+    [
+      312,
+      317
+    ],
+    [
+      318,
+      320
+    ],
+    [
+      321,
+      324
+    ],
+    [
+      325,
+      328
+    ],
+    [
+      329,
+      333
+    ],
+    [
+      333,
+      334
+    ],
+    [
+      335,
+      339
+    ],
+    [
+      340,
+      348
+    ],
+    [
+      349,
+      354
+    ],
+    [
+      355,
+      360
+    ],
+    [
+      361,
+      371
+    ],
+    [
+      372,
+      381
+    ],
+    [
+      382,
+      387
+    ],
+    [
+      388,
+      395
+    ],
+    [
+      396,
+      400
+    ],
+    [
+      401,
+      406
+    ],
+    [
+      407,
+      410
+    ],
+    [
+      411,
+      413
+    ],
+    [
+      414,
+      419
+    ],
+    [
+      420,
+      422
+    ],
+    [
+      423,
+      428
+    ],
+    [
+      429,
+      430
+    ],
+    [
+      431,
+      438
+    ],
+    [
+      439,
+      441
+    ],
+    [
+      442,
+      446
+    ],
+    [
+      447,
+      458
+    ],
+    [
+      459,
+      464
+    ],
+    [
+      465,
+      467
+    ],
+    [
+      468,
+      472
+    ],
+    [
+      473,
+      483
+    ],
+    [
+      484,
+      488
+    ],
+    [
+      489,
+      492
+    ],
+    [
+      493,
+      498
+    ],
+    [
+      499,
+      501
+    ],
+    [
+      502,
+      505
+    ],
+    [
+      506,
+      509
+    ],
+    [
+      510,
+      514
+    ],
+    [
+      514,
+      515
+    ],
+    [
+      516,
+      518
+    ],
+    [
+      519,
+      523
+    ],
+    [
+      524,
+      527
+    ],
+    [
+      528,
+      533
+    ],
+    [
+      534,
+      543
+    ],
+    [
+      544,
+      546
+    ],
+    [
+      547,
+      560
+    ],
+    [
+      561,
+      568
+    ],
+    [
+      569,
+      573
+    ],
+    [
+      574,
+      578
+    ],
+    [
+      579,
+      582
+    ],
+    [
+      583,
+      587
+    ],
+    [
+      588,
+      591
+    ],
+    [
+      592,
+      595
+    ],
+    [
+      596,
+      599
+    ],
+    [
+      600,
+      604
+    ],
+    [
+      605,
+      607
+    ],
+    [
+      608,
+      613
+    ],
+    [
+      614,
+      616
+    ],
+    [
+      617,
+      621
+    ],
+    [
+      622,
+      624
+    ],
+    [
+      625,
+      633
+    ],
+    [
+      634,
+      637
+    ],
+    [
+      638,
+      649
+    ],
+    [
+      650,
+      654
+    ],
+    [
+      655,
+      658
+    ],
+    [
+      659,
+      665
+    ],
+    [
+      666,
+      668
+    ],
+    [
+      669,
+      672
+    ],
+    [
+      673,
+      676
+    ],
+    [
+      677,
+      681
+    ],
+    [
+      682,
+      685
+    ],
+    [
+      686,
+      688
+    ],
+    [
+      689,
+      694
+    ],
+    [
+      695,
+      701
+    ],
+    [
+      702,
+      707
+    ],
+    [
+      708,
+      719
+    ],
+    [
+      719,
+      720
+    ],
+    [
+      721,
+      723
+    ],
+    [
+      724,
+      732
+    ],
+    [
+      732,
+      733
+    ],
+    [
+      734,
+      736
+    ],
+    [
+      737,
+      742
+    ],
+    [
+      743,
+      747
+    ],
+    [
+      748,
+      752
+    ],
+    [
+      753,
+      762
+    ],
+    [
+      763,
+      765
+    ],
+    [
+      766,
+      775
+    ],
+    [
+      776,
+      781
+    ],
+    [
+      781,
+      782
+    ],
+    [
+      783,
+      787
+    ],
+    [
+      788,
+      790
+    ],
+    [
+      791,
+      797
+    ],
+    [
+      797,
+      798
+    ],
+    [
+      799,
+      804
+    ],
+    [
+      805,
+      807
+    ],
+    [
+      808,
+      811
+    ],
+    [
+      812,
+      814
+    ],
+    [
+      815,
+      822
+    ],
+    [
+      823,
+      827
+    ],
+    [
+      828,
+      831
+    ],
+    [
+      832,
+      834
+    ],
+    [
+      835,
+      838
+    ],
+    [
+      839,
+      843
+    ],
+    [
+      843,
+      844
+    ],
+    [
+      845,
+      846
+    ],
+    [
+      847,
+      851
+    ],
+    [
+      852,
+      854
+    ],
+    [
+      855,
+      858
+    ],
+    [
+      859,
+      864
+    ],
+    [
+      865,
+      870
+    ],
+    [
+      871,
+      882
+    ],
+    [
+      883,
+      886
+    ],
+    [
+      887,
+      897
+    ],
+    [
+      898,
+      907
+    ],
+    [
+      908,
+      912
+    ],
+    [
+      913,
+      915
+    ],
+    [
+      916,
+      919
+    ],
+    [
+      920,
+      922
+    ],
+    [
+      923,
+      926
+    ],
+    [
+      927,
+      930
+    ],
+    [
+      931,
+      937
+    ],
+    [
+      938,
+      939
+    ],
+    [
+      939,
+      940
+    ],
+    [
+      940,
+      941
+    ],
+    [
+      942,
+      947
+    ],
+    [
+      947,
+      948
+    ],
+    [
+      949,
+      953
+    ],
+    [
+      954,
+      955
+    ],
+    [
+      955,
+      956
+    ],
+    [
+      956,
+      957
+    ],
+    [
+      958,
+      966
+    ],
+    [
+      967,
+      974
+    ],
+    [
+      975,
+      976
+    ],
+    [
+      976,
+      977
+    ],
+    [
+      977,
+      978
+    ],
+    [
+      979,
+      987
+    ],
+    [
+      987,
+      988
+    ],
+    [
+      989,
+      993
+    ],
+    [
+      994,
+      995
+    ],
+    [
+      995,
+      996
+    ],
+    [
+      996,
+      997
+    ],
+    [
+      998,
+      1003
+    ],
+    [
+      1004,
+      1007
+    ],
+    [
+      1008,
+      1009
+    ],
+    [
+      1009,
+      1014
+    ],
+    [
+      1015,
+      1027
+    ],
+    [
+      1028,
+      1035
+    ],
+    [
+      1036,
+      1038
+    ],
+    [
+      1038,
+      1039
+    ],
+    [
+      1040,
+      1041
+    ],
+    [
+      1041,
+      1042
+    ],
+    [
+      1042,
+      1043
+    ],
+    [
+      1044,
+      1050
+    ],
+    [
+      1050,
+      1051
+    ],
+    [
+      1052,
+      1056
+    ],
+    [
+      1057,
+      1060
+    ],
+    [
+      1061,
+      1066
+    ],
+    [
+      1067,
+      1072
+    ],
+    [
+      1073,
+      1078
+    ],
+    [
+      1079,
+      1090
+    ],
+    [
+      1091,
+      1100
+    ],
+    [
+      1101,
+      1108
+    ],
+    [
+      1108,
+      1109
+    ],
+    [
+      1110,
+      1115
+    ],
+    [
+      1116,
+      1119
+    ],
+    [
+      1120,
+      1123
+    ],
+    [
+      1124,
+      1128
+    ],
+    [
+      1129,
+      1131
+    ],
+    [
+      1132,
+      1143
+    ],
+    [
+      1144,
+      1151
+    ],
+    [
+      1152,
+      1155
+    ],
+    [
+      1156,
+      1161
+    ],
+    [
+      1162,
+      1170
+    ],
+    [
+      1171,
+      1179
+    ],
+    [
+      1180,
+      1182
+    ],
+    [
+      1183,
+      1186
+    ],
+    [
+      1187,
+      1191
+    ],
+    [
+      1191,
+      1192
+    ],
+    [
+      1193,
+      1196
+    ],
+    [
+      1197,
+      1205
+    ],
+    [
+      1206,
+      1210
+    ],
+    [
+      1211,
+      1220
+    ],
+    [
+      1221,
+      1223
+    ],
+    [
+      1224,
+      1229
+    ],
+    [
+      1230,
+      1235
+    ],
+    [
+      1236,
+      1243
+    ],
+    [
+      1244,
+      1252
+    ],
+    [
+      1252,
+      1253
+    ],
+    [
+      1254,
+      1255
+    ],
+    [
+      1255,
+      1256
+    ],
+    [
+      1256,
+      1257
+    ],
+    [
+      1258,
+      1262
+    ],
+    [
+      1263,
+      1268
+    ],
+    [
+      1269,
+      1273
+    ],
+    [
+      1274,
+      1280
+    ],
+    [
+      1280,
+      1281
+    ],
+    [
+      1282,
+      1290
+    ],
+    [
+      1291,
+      1294
+    ],
+    [
+      1295,
+      1298
+    ],
+    [
+      1299,
+      1301
+    ],
+    [
+      1302,
+      1305
+    ],
+    [
+      1306,
+      1310
+    ],
+    [
+      1310,
+      1311
+    ],
+    [
+      1312,
+      1321
+    ],
+    [
+      1322,
+      1324
+    ],
+    [
+      1325,
+      1332
+    ],
+    [
+      1332,
+      1333
+    ],
+    [
+      1334,
+      1335
+    ],
+    [
+      1336,
+      1342
+    ],
+    [
+      1343,
+      1349
+    ],
+    [
+      1350,
+      1352
+    ],
+    [
+      1352,
+      1353
+    ],
+    [
+      1354,
+      1358
+    ],
+    [
+      1358,
+      1366
+    ],
+    [
+      1367,
+      1374
+    ],
+    [
+      1375,
+      1378
+    ],
+    [
+      1379,
+      1383
+    ],
+    [
+      1384,
+      1388
+    ],
+    [
+      1389,
+      1391
+    ],
+    [
+      1392,
+      1396
+    ],
+    [
+      1397,
+      1399
+    ],
+    [
+      1400,
+      1404
+    ],
+    [
+      1405,
+      1413
+    ],
+    [
+      1414,
+      1416
+    ],
+    [
+      1417,
+      1420
+    ],
+    [
+      1420,
+      1421
+    ],
+    [
+      1422,
+      1423
+    ],
+    [
+      1423,
+      1424
+    ],
+    [
+      1424,
+      1425
+    ],
+    [
+      1426,
+      1430
+    ],
+    [
+      1431,
+      1436
+    ],
+    [
+      1437,
+      1440
+    ],
+    [
+      1441,
+      1448
+    ],
+    [
+      1449,
+      1451
+    ],
+    [
+      1452,
+      1454
+    ],
+    [
+      1455,
+      1459
+    ],
+    [
+      1460,
+      1465
+    ],
+    [
+      1466,
+      1469
+    ],
+    [
+      1470,
+      1474
+    ],
+    [
+      1474,
+      1475
+    ],
+    [
+      1476,
+      1485
+    ],
+    [
+      1486,
+      1497
+    ],
+    [
+      1498,
+      1500
+    ],
+    [
+      1501,
+      1505
+    ],
+    [
+      1506,
+      1517
+    ],
+    [
+      1518,
+      1522
+    ],
+    [
+      1523,
+      1534
+    ],
+    [
+      1535,
+      1538
+    ],
+    [
+      1539,
+      1546
+    ],
+    [
+      1547,
+      1556
+    ],
+    [
+      1557,
+      1568
+    ],
+    [
+      1568,
+      1569
+    ],
+    [
+      1570,
+      1573
+    ],
+    [
+      1574,
+      1579
+    ],
+    [
+      1580,
+      1585
+    ],
+    [
+      1586,
+      1591
+    ],
+    [
+      1592,
+      1603
+    ],
+    [
+      1604,
+      1613
+    ],
+    [
+      1614,
+      1618
+    ],
+    [
+      1619,
+      1626
+    ],
+    [
+      1627,
+      1630
+    ],
+    [
+      1631,
+      1634
+    ],
+    [
+      1635,
+      1639
+    ],
+    [
+      1640,
+      1644
+    ],
+    [
+      1645,
+      1647
+    ],
+    [
+      1648,
+      1655
+    ],
+    [
+      1656,
+      1659
+    ],
+    [
+      1660,
+      1664
+    ],
+    [
+      1665,
+      1673
+    ],
+    [
+      1674,
+      1685
+    ],
+    [
+      1686,
+      1690
+    ],
+    [
+      1691,
+      1693
+    ],
+    [
+      1694,
+      1702
+    ],
+    [
+      1703,
+      1705
+    ],
+    [
+      1706,
+      1709
+    ],
+    [
+      1710,
+      1713
+    ],
+    [
+      1714,
+      1718
+    ],
+    [
+      1719,
+      1730
+    ],
+    [
+      1731,
+      1735
+    ],
+    [
+      1736,
+      1740
+    ],
+    [
+      1741,
+      1748
+    ],
+    [
+      1748,
+      1749
+    ],
+    [
+      1750,
+      1753
+    ],
+    [
+      1754,
+      1757
+    ],
+    [
+      1758,
+      1765
+    ],
+    [
+      1766,
+      1769
+    ],
+    [
+      1770,
+      1778
+    ],
+    [
+      1779,
+      1783
+    ],
+    [
+      1784,
+      1791
+    ],
+    [
+      1792,
+      1794
+    ],
+    [
+      1795,
+      1799
+    ],
+    [
+      1800,
+      1808
+    ],
+    [
+      1809,
+      1820
+    ],
+    [
+      1821,
+      1823
+    ],
+    [
+      1824,
+      1827
+    ],
+    [
+      1828,
+      1832
+    ],
+    [
+      1833,
+      1835
+    ],
+    [
+      1836,
+      1839
+    ],
+    [
+      1840,
+      1844
+    ],
+    [
+      1844,
+      1845
+    ],
+    [
+      1846,
+      1848
+    ],
+    [
+      1849,
+      1852
+    ],
+    [
+      1853,
+      1855
+    ],
+    [
+      1856,
+      1859
+    ],
+    [
+      1860,
+      1867
+    ],
+    [
+      1868,
+      1870
+    ],
+    [
+      1871,
+      1879
+    ],
+    [
+      1880,
+      1884
+    ],
+    [
+      1885,
+      1892
+    ],
+    [
+      1893,
+      1895
+    ],
+    [
+      1896,
+      1903
+    ],
+    [
+      1904,
+      1912
+    ],
+    [
+      1913,
+      1924
+    ],
+    [
+      1925,
+      1929
+    ],
+    [
+      1930,
+      1932
+    ],
+    [
+      1933,
+      1941
+    ],
+    [
+      1942,
+      1944
+    ],
+    [
+      1945,
+      1948
+    ],
+    [
+      1949,
+      1952
+    ],
+    [
+      1953,
+      1957
+    ],
+    [
+      1958,
+      1969
+    ],
+    [
+      1969,
+      1970
+    ],
+    [
+      1971,
+      1975
+    ],
+    [
+      1976,
+      1978
+    ],
+    [
+      1979,
+      1983
+    ],
+    [
+      1984,
+      1989
+    ],
+    [
+      1990,
+      1995
+    ],
+    [
+      1996,
+      1999
+    ],
+    [
+      2000,
+      2011
+    ],
+    [
+      2012,
+      2016
+    ],
+    [
+      2017,
+      2020
+    ],
+    [
+      2021,
+      2026
+    ],
+    [
+      2027,
+      2029
+    ],
+    [
+      2030,
+      2033
+    ],
+    [
+      2034,
+      2037
+    ],
+    [
+      2038,
+      2042
+    ],
+    [
+      2043,
+      2046
+    ],
+    [
+      2047,
+      2051
+    ],
+    [
+      2052,
+      2056
+    ],
+    [
+      2057,
+      2059
+    ],
+    [
+      2060,
+      2066
+    ],
+    [
+      2067,
+      2069
+    ],
+    [
+      2070,
+      2078
+    ],
+    [
+      2079,
+      2081
+    ],
+    [
+      2082,
+      2085
+    ],
+    [
+      2086,
+      2088
+    ],
+    [
+      2089,
+      2093
+    ],
+    [
+      2094,
+      2105
+    ],
+    [
+      2105,
+      2106
+    ],
+    [
+      2107,
+      2110
+    ],
+    [
+      2111,
+      2113
+    ],
+    [
+      2114,
+      2118
+    ],
+    [
+      2119,
+      2124
+    ],
+    [
+      2125,
+      2130
+    ],
+    [
+      2131,
+      2136
+    ],
+    [
+      2137,
+      2144
+    ],
+    [
+      2145,
+      2149
+    ],
+    [
+      2150,
+      2154
+    ],
+    [
+      2155,
+      2158
+    ],
+    [
+      2159,
+      2162
+    ],
+    [
+      2163,
+      2167
+    ],
+    [
+      2168,
+      2172
+    ],
+    [
+      2173,
+      2177
+    ],
+    [
+      2178,
+      2185
+    ],
+    [
+      2186,
+      2189
+    ],
+    [
+      2190,
+      2195
+    ],
+    [
+      2196,
+      2199
+    ],
+    [
+      2200,
+      2208
+    ],
+    [
+      2208,
+      2209
+    ],
+    [
+      2210,
+      2213
+    ],
+    [
+      2214,
+      2221
+    ],
+    [
+      2222,
+      2226
+    ],
+    [
+      2227,
+      2230
+    ],
+    [
+      2231,
+      2240
+    ],
+    [
+      2241,
+      2245
+    ],
+    [
+      2246,
+      2250
+    ],
+    [
+      2251,
+      2255
+    ],
+    [
+      2256,
+      2261
+    ],
+    [
+      2262,
+      2266
+    ],
+    [
+      2267,
+      2271
+    ],
+    [
+      2272,
+      2276
+    ],
+    [
+      2277,
+      2280
+    ],
+    [
+      2281,
+      2284
+    ],
+    [
+      2285,
+      2289
+    ],
+    [
+      2290,
+      2292
+    ],
+    [
+      2293,
+      2299
+    ],
+    [
+      2300,
+      2311
+    ],
+    [
+      2312,
+      2319
+    ],
+    [
+      2320,
+      2328
+    ],
+    [
+      2329,
+      2337
+    ],
+    [
+      2338,
+      2340
+    ],
+    [
+      2341,
+      2346
+    ],
+    [
+      2347,
+      2354
+    ],
+    [
+      2354,
+      2355
+    ],
+    [
+      2356,
+      2359
+    ],
+    [
+      2360,
+      2362
+    ],
+    [
+      2363,
+      2368
+    ],
+    [
+      2369,
+      2373
+    ],
+    [
+      2374,
+      2379
+    ],
+    [
+      2380,
+      2384
+    ],
+    [
+      2385,
+      2389
+    ],
+    [
+      2390,
+      2394
+    ],
+    [
+      2395,
+      2401
+    ],
+    [
+      2402,
+      2407
+    ],
+    [
+      2408,
+      2410
+    ],
+    [
+      2411,
+      2416
+    ],
+    [
+      2417,
+      2424
+    ],
+    [
+      2425,
+      2434
+    ],
+    [
+      2434,
+      2435
+    ],
+    [
+      2436,
+      2438
+    ],
+    [
+      2439,
+      2443
+    ],
+    [
+      2444,
+      2446
+    ],
+    [
+      2447,
+      2450
+    ],
+    [
+      2451,
+      2462
+    ],
+    [
+      2463,
+      2471
+    ],
+    [
+      2471,
+      2472
+    ],
+    [
+      2473,
+      2475
+    ],
+    [
+      2476,
+      2480
+    ],
+    [
+      2481,
+      2484
+    ],
+    [
+      2485,
+      2488
+    ],
+    [
+      2489,
+      2494
+    ],
+    [
+      2495,
+      2501
+    ],
+    [
+      2502,
+      2505
+    ],
+    [
+      2506,
+      2509
+    ],
+    [
+      2510,
+      2518
+    ],
+    [
+      2519,
+      2530
+    ],
+    [
+      2531,
+      2533
+    ],
+    [
+      2534,
+      2538
+    ],
+    [
+      2539,
+      2547
+    ],
+    [
+      2547,
+      2548
+    ],
+    [
+      2549,
+      2552
+    ],
+    [
+      2553,
+      2560
+    ],
+    [
+      2560,
+      2561
+    ],
+    [
+      2562,
+      2564
+    ],
+    [
+      2565,
+      2568
+    ],
+    [
+      2569,
+      2572
+    ],
+    [
+      2573,
+      2576
+    ],
+    [
+      2577,
+      2585
+    ],
+    [
+      2586,
+      2592
+    ],
+    [
+      2593,
+      2602
+    ],
+    [
+      2603,
+      2610
+    ],
+    [
+      2611,
+      2614
+    ],
+    [
+      2615,
+      2620
+    ],
+    [
+      2621,
+      2625
+    ],
+    [
+      2626,
+      2630
+    ],
+    [
+      2631,
+      2635
+    ],
+    [
+      2636,
+      2644
+    ],
+    [
+      2645,
+      2647
+    ],
+    [
+      2648,
+      2652
+    ],
+    [
+      2653,
+      2655
+    ],
+    [
+      2656,
+      2659
+    ],
+    [
+      2659,
+      2660
+    ],
+    [
+      2661,
+      2666
+    ],
+    [
+      2667,
+      2675
+    ],
+    [
+      2676,
+      2687
+    ],
+    [
+      2688,
+      2690
+    ],
+    [
+      2691,
+      2694
+    ],
+    [
+      2695,
+      2697
+    ],
+    [
+      2698,
+      2705
+    ],
+    [
+      2706,
+      2709
+    ],
+    [
+      2710,
+      2712
+    ],
+    [
+      2713,
+      2714
+    ],
+    [
+      2715,
+      2721
+    ],
+    [
+      2722,
+      2730
+    ],
+    [
+      2731,
+      2735
+    ],
+    [
+      2736,
+      2738
+    ],
+    [
+      2739,
+      2743
+    ],
+    [
+      2744,
+      2749
+    ],
+    [
+      2750,
+      2758
+    ],
+    [
+      2759,
+      2770
+    ],
+    [
+      2771,
+      2773
+    ],
+    [
+      2774,
+      2777
+    ],
+    [
+      2778,
+      2780
+    ],
+    [
+      2781,
+      2789
+    ],
+    [
+      2789,
+      2790
+    ],
+    [
+      2791,
+      2793
+    ],
+    [
+      2794,
+      2800
+    ],
+    [
+      2801,
+      2803
+    ],
+    [
+      2804,
+      2812
+    ],
+    [
+      2813,
+      2815
+    ],
+    [
+      2816,
+      2821
+    ],
+    [
+      2822,
+      2830
+    ],
+    [
+      2831,
+      2836
+    ],
+    [
+      2837,
+      2842
+    ],
+    [
+      2843,
+      2845
+    ],
+    [
+      2846,
+      2849
+    ],
+    [
+      2850,
+      2861
+    ],
+    [
+      2862,
+      2864
+    ],
+    [
+      2865,
+      2869
+    ],
+    [
+      2870,
+      2878
+    ],
+    [
+      2879,
+      2886
+    ],
+    [
+      2886,
+      2887
+    ],
+    [
+      2888,
+      2891
+    ],
+    [
+      2892,
+      2895
+    ],
+    [
+      2896,
+      2899
+    ],
+    [
+      2899,
+      2900
+    ],
+    [
+      2900,
+      2903
+    ],
+    [
+      2904,
+      2908
+    ],
+    [
+      2909,
+      2917
+    ],
+    [
+      2918,
+      2924
+    ],
+    [
+      2925,
+      2934
+    ],
+    [
+      2935,
+      2937
+    ],
+    [
+      2938,
+      2942
+    ],
+    [
+      2943,
+      2951
+    ],
+    [
+      2952,
+      2959
+    ],
+    [
+      2960,
+      2968
+    ],
+    [
+      2968,
+      2969
+    ],
+    [
+      2970,
+      2973
+    ],
+    [
+      2974,
+      2981
+    ],
+    [
+      2981,
+      2982
+    ],
+    [
+      2983,
+      2986
+    ],
+    [
+      2987,
+      2992
+    ],
+    [
+      2993,
+      3000
+    ],
+    [
+      3001,
+      3010
+    ],
+    [
+      3011,
+      3014
+    ],
+    [
+      3015,
+      3019
+    ],
+    [
+      3020,
+      3030
+    ],
+    [
+      3031,
+      3034
+    ],
+    [
+      3034,
+      3035
+    ],
+    [
+      3035,
+      3038
+    ],
+    [
+      3039,
+      3047
+    ],
+    [
+      3047,
+      3048
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      3
+    ],
+    [
+      4,
+      24
+    ],
+    [
+      25,
+      59
+    ],
+    [
+      60,
+      91
+    ],
+    [
+      92,
+      129
+    ],
+    [
+      130,
+      156
+    ],
+    [
+      157,
+      173
+    ],
+    [
+      174,
+      182
+    ],
+    [
+      183,
+      230
+    ],
+    [
+      231,
+      304
+    ],
+    [
+      305,
+      305
+    ],
+    [
+      306,
+      334
+    ],
+    [
+      335,
+      352
+    ],
+    [
+      353,
+      401
+    ],
+    [
+      402,
+      402
+    ],
+    [
+      403,
+      446
+    ],
+    [
+      447,
+      447
+    ],
+    [
+      448,
+      482
+    ],
+    [
+      483,
+      544
+    ],
+    [
+      545,
+      574
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 396,
+      "end_idx": 400,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        68
+      ]
+    },
+    {
+      "entity/argument_text": "build a profile of your preferences based on your activities when you visit or use our apps",
+      "entity/argument_type": "Personalization-customization",
+      "entity/argument_id": "T5",
+      "start_idx": 423,
+      "end_idx": 514,
+      "tokens": [
+        "build",
+        "a",
+        "profile",
+        "of",
+        "your",
+        "preferences",
+        "based",
+        "on",
+        "your",
+        "activities",
+        "when",
+        "you",
+        "visit",
+        "or",
+        "use",
+        "our",
+        "apps"
+      ],
+      "token_idx": [
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T6",
+      "start_idx": 516,
+      "end_idx": 518,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        92
+      ]
+    },
+    {
+      "entity/argument_text": "companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 534,
+      "end_idx": 543,
+      "tokens": [
+        "companies"
+      ],
+      "token_idx": [
+        96
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T9",
+      "start_idx": 569,
+      "end_idx": 573,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        100
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T10",
+      "start_idx": 579,
+      "end_idx": 582,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        102
+      ]
+    },
+    {
+      "entity/argument_text": "identify the advertising that are served to you and what you do after seeing those advertising",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T11",
+      "start_idx": 625,
+      "end_idx": 719,
+      "tokens": [
+        "identify",
+        "the",
+        "advertising",
+        "that",
+        "are",
+        "served",
+        "to",
+        "you",
+        "and",
+        "what",
+        "you",
+        "do",
+        "after",
+        "seeing",
+        "those",
+        "advertising"
+      ],
+      "token_idx": [
+        113,
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126,
+        127,
+        128
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T12",
+      "start_idx": 734,
+      "end_idx": 736,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        133
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T14",
+      "start_idx": 743,
+      "end_idx": 747,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        135
+      ]
+    },
+    {
+      "entity/argument_text": "providers of analytics tools",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T15",
+      "start_idx": 753,
+      "end_idx": 781,
+      "tokens": [
+        "providers",
+        "of",
+        "analytics",
+        "tools"
+      ],
+      "token_idx": [
+        137,
+        138,
+        139,
+        140
+      ]
+    },
+    {
+      "entity/argument_text": "Adjust",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T16",
+      "start_idx": 791,
+      "end_idx": 797,
+      "tokens": [
+        "Adjust"
+      ],
+      "token_idx": [
+        144
+      ]
+    },
+    {
+      "entity/argument_text": "analyse your use of the apps",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T17",
+      "start_idx": 815,
+      "end_idx": 843,
+      "tokens": [
+        "analyse",
+        "your",
+        "use",
+        "of",
+        "the",
+        "apps"
+      ],
+      "token_idx": [
+        150,
+        151,
+        152,
+        153,
+        154,
+        155
+      ]
+    },
+    {
+      "entity/argument_text": "Admob, Inc.",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T18",
+      "start_idx": 942,
+      "end_idx": 953,
+      "tokens": [
+        "Admob",
+        ",",
+        "Inc."
+      ],
+      "token_idx": [
+        177,
+        178,
+        179
+      ]
+    },
+    {
+      "entity/argument_text": "AppLovin Limited",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T19",
+      "start_idx": 958,
+      "end_idx": 974,
+      "tokens": [
+        "AppLovin",
+        "Limited"
+      ],
+      "token_idx": [
+        183,
+        184
+      ]
+    },
+    {
+      "entity/argument_text": "Facebook, Inc.",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T20",
+      "start_idx": 979,
+      "end_idx": 993,
+      "tokens": [
+        "Facebook",
+        ",",
+        "Inc."
+      ],
+      "token_idx": [
+        188,
+        189,
+        190
+      ]
+    },
+    {
+      "entity/argument_text": "Unity Ads (Unity Technologies Finland Oy)",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T21",
+      "start_idx": 998,
+      "end_idx": 1039,
+      "tokens": [
+        "Unity",
+        "Ads",
+        "(",
+        "Unity",
+        "Technologies",
+        "Finland",
+        "Oy",
+        ")"
+      ],
+      "token_idx": [
+        194,
+        195,
+        196,
+        197,
+        198,
+        199,
+        200,
+        201
+      ]
+    },
+    {
+      "entity/argument_text": "Vungle, Inc.",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T22",
+      "start_idx": 1044,
+      "end_idx": 1056,
+      "tokens": [
+        "Vungle",
+        ",",
+        "Inc."
+      ],
+      "token_idx": [
+        205,
+        206,
+        207
+      ]
+    },
+    {
+      "entity/argument_text": "third party advertising companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T23",
+      "start_idx": 1067,
+      "end_idx": 1100,
+      "tokens": [
+        "third",
+        "party",
+        "advertising",
+        "companies"
+      ],
+      "token_idx": [
+        210,
+        211,
+        212,
+        213
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T25",
+      "start_idx": 1124,
+      "end_idx": 1128,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        219
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T26",
+      "start_idx": 1144,
+      "end_idx": 1151,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        222
+      ]
+    },
+    {
+      "entity/argument_text": "other tracking software",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T27",
+      "start_idx": 1156,
+      "end_idx": 1179,
+      "tokens": [
+        "other",
+        "tracking",
+        "software"
+      ],
+      "token_idx": [
+        224,
+        225,
+        226
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T28",
+      "start_idx": 1206,
+      "end_idx": 1210,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        233
+      ]
+    },
+    {
+      "entity/argument_text": "third parties",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T30",
+      "start_idx": 1230,
+      "end_idx": 1243,
+      "tokens": [
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        237,
+        238
+      ]
+    },
+    {
+      "entity/argument_text": "data about your device",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T31",
+      "start_idx": 1258,
+      "end_idx": 1280,
+      "tokens": [
+        "data",
+        "about",
+        "your",
+        "device"
+      ],
+      "token_idx": [
+        244,
+        245,
+        246,
+        247
+      ]
+    },
+    {
+      "entity/argument_text": "location",
+      "entity/argument_type": "Data-location",
+      "entity/argument_id": "T32",
+      "start_idx": 1282,
+      "end_idx": 1290,
+      "tokens": [
+        "location"
+      ],
+      "token_idx": [
+        249
+      ]
+    },
+    {
+      "entity/argument_text": "use of our apps",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T33",
+      "start_idx": 1295,
+      "end_idx": 1310,
+      "tokens": [
+        "use",
+        "of",
+        "our",
+        "apps"
+      ],
+      "token_idx": [
+        251,
+        252,
+        253,
+        254
+      ]
+    },
+    {
+      "entity/argument_text": "IP address",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T34",
+      "start_idx": 1322,
+      "end_idx": 1332,
+      "tokens": [
+        "IP",
+        "address"
+      ],
+      "token_idx": [
+        257,
+        258
+      ]
+    },
+    {
+      "entity/argument_text": "unique device ID",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T35",
+      "start_idx": 1336,
+      "end_idx": 1352,
+      "tokens": [
+        "unique",
+        "device",
+        "ID"
+      ],
+      "token_idx": [
+        261,
+        262,
+        263
+      ]
+    },
+    {
+      "entity/argument_text": "geo-location details",
+      "entity/argument_type": "Data-location",
+      "entity/argument_id": "T36",
+      "start_idx": 1354,
+      "end_idx": 1374,
+      "tokens": [
+        "geo-",
+        "location",
+        "details"
+      ],
+      "token_idx": [
+        265,
+        266,
+        267
+      ]
+    },
+    {
+      "entity/argument_text": "User ID",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T37",
+      "start_idx": 1384,
+      "end_idx": 1391,
+      "tokens": [
+        "User",
+        "ID"
+      ],
+      "token_idx": [
+        270,
+        271
+      ]
+    },
+    {
+      "entity/argument_text": "data which you provide to us when using our apps",
+      "entity/argument_type": "Data-other",
+      "entity/argument_id": "T38",
+      "start_idx": 1426,
+      "end_idx": 1474,
+      "tokens": [
+        "data",
+        "which",
+        "you",
+        "provide",
+        "to",
+        "us",
+        "when",
+        "using",
+        "our",
+        "apps"
+      ],
+      "token_idx": [
+        282,
+        283,
+        284,
+        285,
+        286,
+        287,
+        288,
+        289,
+        290,
+        291
+      ]
+    },
+    {
+      "entity/argument_text": "information on your interaction with advertising",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T39",
+      "start_idx": 1486,
+      "end_idx": 1534,
+      "tokens": [
+        "information",
+        "on",
+        "your",
+        "interaction",
+        "with",
+        "advertising"
+      ],
+      "token_idx": [
+        294,
+        295,
+        296,
+        297,
+        298,
+        299
+      ]
+    },
+    {
+      "entity/argument_text": "certain technical information",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T40",
+      "start_idx": 1539,
+      "end_idx": 1568,
+      "tokens": [
+        "certain",
+        "technical",
+        "information"
+      ],
+      "token_idx": [
+        301,
+        302,
+        303
+      ]
+    },
+    {
+      "entity/argument_text": "third party advertising companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T41",
+      "start_idx": 1580,
+      "end_idx": 1613,
+      "tokens": [
+        "third",
+        "party",
+        "advertising",
+        "companies"
+      ],
+      "token_idx": [
+        307,
+        308,
+        309,
+        310
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T43",
+      "start_idx": 1635,
+      "end_idx": 1639,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        315
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T44",
+      "start_idx": 1640,
+      "end_idx": 1644,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        316
+      ]
+    },
+    {
+      "entity/argument_text": "provide you with targeted advertising that is relevant to you and your preferences with your consent",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T45",
+      "start_idx": 1648,
+      "end_idx": 1748,
+      "tokens": [
+        "provide",
+        "you",
+        "with",
+        "targeted",
+        "advertising",
+        "that",
+        "is",
+        "relevant",
+        "to",
+        "you",
+        "and",
+        "your",
+        "preferences",
+        "with",
+        "your",
+        "consent"
+      ],
+      "token_idx": [
+        318,
+        319,
+        320,
+        321,
+        322,
+        323,
+        324,
+        325,
+        326,
+        327,
+        328,
+        329,
+        330,
+        331,
+        332,
+        333
+      ]
+    },
+    {
+      "entity/argument_text": "third parties",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T47",
+      "start_idx": 2131,
+      "end_idx": 2144,
+      "tokens": [
+        "third",
+        "parties"
+      ],
+      "token_idx": [
+        407,
+        408
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T49",
+      "start_idx": 2163,
+      "end_idx": 2167,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        413
+      ]
+    },
+    {
+      "entity/argument_text": "their own purposes",
+      "entity/argument_type": "Other",
+      "entity/argument_id": "T50",
+      "start_idx": 2190,
+      "end_idx": 2208,
+      "tokens": [
+        "their",
+        "own",
+        "purposes"
+      ],
+      "token_idx": [
+        418,
+        419,
+        420
+      ]
+    },
+    {
+      "entity/argument_text": "inform advertising related services provided to other clients",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T51",
+      "start_idx": 2293,
+      "end_idx": 2354,
+      "tokens": [
+        "inform",
+        "advertising",
+        "related",
+        "services",
+        "provided",
+        "to",
+        "other",
+        "clients"
+      ],
+      "token_idx": [
+        438,
+        439,
+        440,
+        441,
+        442,
+        443,
+        444,
+        445
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T52",
+      "start_idx": 2360,
+      "end_idx": 2362,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        448
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T54",
+      "start_idx": 2380,
+      "end_idx": 2384,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        452
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T55",
+      "start_idx": 2385,
+      "end_idx": 2389,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        453
+      ]
+    },
+    {
+      "entity/argument_text": "social media or other similar platforms",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T56",
+      "start_idx": 2395,
+      "end_idx": 2434,
+      "tokens": [
+        "social",
+        "media",
+        "or",
+        "other",
+        "similar",
+        "platforms"
+      ],
+      "token_idx": [
+        455,
+        456,
+        457,
+        458,
+        459,
+        460
+      ]
+    },
+    {
+      "entity/argument_text": "advertising partners",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T57",
+      "start_idx": 2451,
+      "end_idx": 2471,
+      "tokens": [
+        "advertising",
+        "partners"
+      ],
+      "token_idx": [
+        466,
+        467
+      ]
+    },
+    {
+      "entity/argument_text": "you and other people can see relevant advertising on that platform",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T58",
+      "start_idx": 2481,
+      "end_idx": 2547,
+      "tokens": [
+        "you",
+        "and",
+        "other",
+        "people",
+        "can",
+        "see",
+        "relevant",
+        "advertising",
+        "on",
+        "that",
+        "platform"
+      ],
+      "token_idx": [
+        471,
+        472,
+        473,
+        474,
+        475,
+        476,
+        477,
+        478,
+        479,
+        480,
+        481
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T59",
+      "start_idx": 2562,
+      "end_idx": 2564,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        486
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T61",
+      "start_idx": 2621,
+      "end_idx": 2625,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        496
+      ]
+    },
+    {
+      "entity/argument_text": "IDFA",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T62",
+      "start_idx": 2626,
+      "end_idx": 2630,
+      "tokens": [
+        "IDFA"
+      ],
+      "token_idx": [
+        497
+      ]
+    },
+    {
+      "entity/argument_text": "Facebook",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T63",
+      "start_idx": 2636,
+      "end_idx": 2644,
+      "tokens": [
+        "Facebook"
+      ],
+      "token_idx": [
+        499
+      ]
+    },
+    {
+      "entity/argument_text": "serve relevant advertising to you or include you in a custom audience that we will serve relevant advertising to you on Facebook",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T64",
+      "start_idx": 2661,
+      "end_idx": 2789,
+      "tokens": [
+        "serve",
+        "relevant",
+        "advertising",
+        "to",
+        "you",
+        "or",
+        "include",
+        "you",
+        "in",
+        "a",
+        "custom",
+        "audience",
+        "that",
+        "we",
+        "will",
+        "serve",
+        "relevant",
+        "advertising",
+        "to",
+        "you",
+        "on",
+        "Facebook"
+      ],
+      "token_idx": [
+        505,
+        506,
+        507,
+        508,
+        509,
+        510,
+        511,
+        512,
+        513,
+        514,
+        515,
+        516,
+        517,
+        518,
+        519,
+        520,
+        521,
+        522,
+        523,
+        524,
+        525,
+        526
+      ]
+    },
+    {
+      "entity/argument_text": "create an audience of other Facebook users based on the information in your Facebook profile",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T65",
+      "start_idx": 2794,
+      "end_idx": 2886,
+      "tokens": [
+        "create",
+        "an",
+        "audience",
+        "of",
+        "other",
+        "Facebook",
+        "users",
+        "based",
+        "on",
+        "the",
+        "information",
+        "in",
+        "your",
+        "Facebook",
+        "profile"
+      ],
+      "token_idx": [
+        529,
+        530,
+        531,
+        532,
+        533,
+        534,
+        535,
+        536,
+        537,
+        538,
+        539,
+        540,
+        541,
+        542,
+        543
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T66",
+      "start_idx": 823,
+      "end_idx": 827,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        151
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T68",
+      "start_idx": 1379,
+      "end_idx": 1383,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        269
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T69",
+      "start_idx": 162,
+      "end_idx": 164,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        29
+      ]
+    },
+    {
+      "entity/argument_text": "third-party advertising and technology companies",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T70",
+      "start_idx": 169,
+      "end_idx": 217,
+      "tokens": [
+        "third",
+        "-",
+        "party",
+        "advertising",
+        "and",
+        "technology",
+        "companies"
+      ],
+      "token_idx": [
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T71",
+      "start_idx": 308,
+      "end_idx": 311,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        53
+      ]
+    },
+    {
+      "entity/argument_text": "you visit or use our apps",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T72",
+      "start_idx": 308,
+      "end_idx": 333,
+      "tokens": [
+        "you",
+        "visit",
+        "or",
+        "use",
+        "our",
+        "apps"
+      ],
+      "token_idx": [
+        53,
+        54,
+        55,
+        56,
+        57,
+        58
+      ]
+    },
+    {
+      "entity/argument_text": "aggregated data",
+      "entity/argument_type": "Data-aggregated-nonidentifiable",
+      "entity/argument_id": "T73",
+      "start_idx": 254,
+      "end_idx": 269,
+      "tokens": [
+        "aggregated",
+        "data"
+      ],
+      "token_idx": [
+        45,
+        46
+      ]
+    },
+    {
+      "entity/argument_text": "assist in serving advertising",
+      "entity/argument_type": "Adverstising-Marketing",
+      "entity/argument_id": "T46",
+      "start_idx": 273,
+      "end_idx": 302,
+      "tokens": [
+        "assist",
+        "in",
+        "serving",
+        "advertising"
+      ],
+      "token_idx": [
+        48,
+        49,
+        50,
+        51
+      ]
+    },
+    {
+      "entity/argument_text": "you use our apps",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T1",
+      "start_idx": 588,
+      "end_idx": 604,
+      "tokens": [
+        "you",
+        "use",
+        "our",
+        "apps"
+      ],
+      "token_idx": [
+        104,
+        105,
+        106,
+        107
+      ]
+    },
+    {
+      "entity/argument_text": "they",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T4",
+      "start_idx": 2222,
+      "end_idx": 2226,
+      "tokens": [
+        "they"
+      ],
+      "token_idx": [
+        424
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T75",
+      "start_idx": 2246,
+      "end_idx": 2250,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        428
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T76",
+      "start_idx": 2241,
+      "end_idx": 2245,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        427
+      ]
+    },
+    {
+      "entity/argument_text": "other data",
+      "entity/argument_type": "Data-other",
+      "entity/argument_id": "T77",
+      "start_idx": 2256,
+      "end_idx": 2266,
+      "tokens": [
+        "other",
+        "data"
+      ],
+      "token_idx": [
+        430,
+        431
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 561,
+        "end_idx": 568,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          99
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 516,
+          "end_idx": 518
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "companies",
+          "start_idx": 534,
+          "end_idx": 543
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 569,
+          "end_idx": 573
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "you",
+          "start_idx": 579,
+          "end_idx": 582
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "identify the advertising that are served to you and what you do after seeing those advertising",
+          "start_idx": 625,
+          "end_idx": 719
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you use our apps",
+          "start_idx": 588,
+          "end_idx": 604
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 737,
+        "end_idx": 742,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          134
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 734,
+          "end_idx": 736
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 743,
+          "end_idx": 747
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "providers of analytics tools",
+          "start_idx": 753,
+          "end_idx": 781
+        },
+        {
+          "role": "Data-Receiver2",
+          "type": "Third-party-entity",
+          "text": "Adjust",
+          "start_idx": 791,
+          "end_idx": 797
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "analyse your use of the apps",
+          "start_idx": 815,
+          "end_idx": 843
+        },
+        {
+          "role": "Data-Receiver3",
+          "type": "Third-party-entity",
+          "text": "Admob, Inc.",
+          "start_idx": 942,
+          "end_idx": 953
+        },
+        {
+          "role": "Data-Receiver4",
+          "type": "Third-party-entity",
+          "text": "Facebook, Inc.",
+          "start_idx": 979,
+          "end_idx": 993
+        },
+        {
+          "role": "Data-Receiver5",
+          "type": "Third-party-entity",
+          "text": "AppLovin Limited",
+          "start_idx": 958,
+          "end_idx": 974
+        },
+        {
+          "role": "Data-Receiver6",
+          "type": "Third-party-entity",
+          "text": "Unity Ads (Unity Technologies Finland Oy)",
+          "start_idx": 998,
+          "end_idx": 1039
+        },
+        {
+          "role": "Data-Receiver7",
+          "type": "Third-party-entity",
+          "text": "Vungle, Inc.",
+          "start_idx": 1044,
+          "end_idx": 1056
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 823,
+          "end_idx": 827
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 1101,
+        "end_idx": 1108,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          214
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third party advertising companies",
+          "start_idx": 1067,
+          "end_idx": 1100
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 1124,
+          "end_idx": 1128
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 1144,
+          "end_idx": 1151
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "other tracking software",
+          "start_idx": 1156,
+          "end_idx": 1179
+        }
+      ],
+      "event_id": "E4"
+    },
+    {
+      "trigger": {
+        "text": "collected",
+        "start_idx": 1211,
+        "end_idx": 1220,
+        "tokens": [
+          "collected"
+        ],
+        "token_idx": [
+          234
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 1206,
+          "end_idx": 1210
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-computer-device",
+          "text": "certain technical information",
+          "start_idx": 1539,
+          "end_idx": 1568
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information on your interaction with advertising",
+          "start_idx": 1486,
+          "end_idx": 1534
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-user-online-activities-profiles",
+          "text": "User ID",
+          "start_idx": 1384,
+          "end_idx": 1391
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-other",
+          "text": "data which you provide to us when using our apps",
+          "start_idx": 1426,
+          "end_idx": 1474
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-location",
+          "text": "location",
+          "start_idx": 1282,
+          "end_idx": 1290
+        },
+        {
+          "role": "Data-Collected7",
+          "type": "Data-user-online-activities-profiles",
+          "text": "use of our apps",
+          "start_idx": 1295,
+          "end_idx": 1310
+        },
+        {
+          "role": "Data-Collected8",
+          "type": "Data-location",
+          "text": "geo-location details",
+          "start_idx": 1354,
+          "end_idx": 1374
+        },
+        {
+          "role": "Data-Collected9",
+          "type": "Data-computer-device",
+          "text": "IP address",
+          "start_idx": 1322,
+          "end_idx": 1332
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third parties",
+          "start_idx": 1230,
+          "end_idx": 1243
+        },
+        {
+          "role": "Data-Collected10",
+          "type": "Data-computer-device",
+          "text": "data about your device",
+          "start_idx": 1258,
+          "end_idx": 1280
+        },
+        {
+          "role": "Data-Collected11",
+          "type": "Data-computer-device",
+          "text": "unique device ID",
+          "start_idx": 1336,
+          "end_idx": 1352
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "your",
+          "start_idx": 1379,
+          "end_idx": 1383
+        }
+      ],
+      "event_id": "E5"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 1619,
+        "end_idx": 1626,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          312
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third party advertising companies",
+          "start_idx": 1580,
+          "end_idx": 1613
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "your",
+          "start_idx": 1635,
+          "end_idx": 1639
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 1640,
+          "end_idx": 1644
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "provide you with targeted advertising that is relevant to you and your preferences with your consent",
+          "start_idx": 1648,
+          "end_idx": 1748
+        }
+      ],
+      "event_id": "E6"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 2155,
+        "end_idx": 2158,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          411
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third parties",
+          "start_idx": 2131,
+          "end_idx": 2144
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 2163,
+          "end_idx": 2167
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Other",
+          "text": "their own purposes",
+          "start_idx": 2190,
+          "end_idx": 2208
+        }
+      ],
+      "event_id": "E7"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 2374,
+        "end_idx": 2379,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          451
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 2360,
+          "end_idx": 2362
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 2380,
+          "end_idx": 2384
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 2385,
+          "end_idx": 2389
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "social media or other similar platforms",
+          "start_idx": 2395,
+          "end_idx": 2434
+        },
+        {
+          "role": "Data-Receiver2",
+          "type": "Third-party-entity",
+          "text": "advertising partners",
+          "start_idx": 2451,
+          "end_idx": 2471
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "you and other people can see relevant advertising on that platform",
+          "start_idx": 2481,
+          "end_idx": 2547
+        }
+      ],
+      "event_id": "E8"
+    },
+    {
+      "trigger": {
+        "text": "share",
+        "start_idx": 2615,
+        "end_idx": 2620,
+        "tokens": [
+          "share"
+        ],
+        "token_idx": [
+          495
+        ]
+      },
+      "event_type": "third-party-sharing-disclosure",
+      "arguments": [
+        {
+          "role": "Data-Sharer",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 2562,
+          "end_idx": 2564
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 2621,
+          "end_idx": 2625
+        },
+        {
+          "role": "Data-Shared",
+          "type": "Data-computer-device",
+          "text": "IDFA",
+          "start_idx": 2626,
+          "end_idx": 2630
+        },
+        {
+          "role": "Data-Receiver",
+          "type": "Third-party-entity",
+          "text": "Facebook",
+          "start_idx": 2636,
+          "end_idx": 2644
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "serve relevant advertising to you or include you in a custom audience that we will serve relevant advertising to you on Facebook",
+          "start_idx": 2661,
+          "end_idx": 2789
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Adverstising-Marketing",
+          "text": "create an audience of other Facebook users based on the information in your Facebook profile",
+          "start_idx": 2794,
+          "end_idx": 2886
+        }
+      ],
+      "event_id": "E9"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 1110,
+        "end_idx": 1115,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          216
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "Third-party-entity",
+          "text": "third party advertising companies",
+          "start_idx": 1067,
+          "end_idx": 1100
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 1124,
+          "end_idx": 1128
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 1144,
+          "end_idx": 1151
+        },
+        {
+          "role": "Data-Retained3",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "other tracking software",
+          "start_idx": 1156,
+          "end_idx": 1179
+        }
+      ],
+      "event_id": "E10"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 165,
+        "end_idx": 168,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          30
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 162,
+          "end_idx": 164
+        },
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "third-party advertising and technology companies",
+          "start_idx": 169,
+          "end_idx": 217
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-aggregated-nonidentifiable",
+          "text": "aggregated data",
+          "start_idx": 254,
+          "end_idx": 269
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "assist in serving advertising",
+          "start_idx": 273,
+          "end_idx": 302
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "you",
+          "start_idx": 308,
+          "end_idx": 311
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you visit or use our apps",
+          "start_idx": 308,
+          "end_idx": 333
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 396,
+          "end_idx": 400
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Personalization-customization",
+          "text": "build a profile of your preferences based on your activities when you visit or use our apps",
+          "start_idx": 423,
+          "end_idx": 514
+        }
+      ],
+      "event_id": "E11"
+    },
+    {
+      "trigger": {
+        "text": "aggregate",
+        "start_idx": 2231,
+        "end_idx": 2240,
+        "tokens": [
+          "aggregate"
+        ],
+        "token_idx": [
+          426
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "they",
+          "start_idx": 2222,
+          "end_idx": 2226
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "your",
+          "start_idx": 2241,
+          "end_idx": 2245
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 2246,
+          "end_idx": 2250
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-other",
+          "text": "other data",
+          "start_idx": 2256,
+          "end_idx": 2266
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Adverstising-Marketing",
+          "text": "inform advertising related services provided to other clients",
+          "start_idx": 2293,
+          "end_idx": 2354
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

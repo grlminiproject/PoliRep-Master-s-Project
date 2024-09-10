@@ -1,0 +1,1069 @@
+{
+  "text": "Children\n\nOur services are not intended for anyone under 13. We don\u2019t direct our services to anyone under 13.\nWe do not knowingly collect personal information from anyone under 13. We may limit how we collect, use and store some of the information of EUor EEA users between ages 13 and 16. If we need to rely on consent as a legal bases for processing your information and your country requires consent from a parent, we may require your parent\u2019s consent before we collect and use that information\n\n",
+  "words": [
+    "Children",
+    "Our",
+    "services",
+    "are",
+    "not",
+    "intended",
+    "for",
+    "anyone",
+    "under",
+    "13",
+    ".",
+    "We",
+    "do",
+    "n\u2019t",
+    "direct",
+    "our",
+    "services",
+    "to",
+    "anyone",
+    "under",
+    "13",
+    ".",
+    "We",
+    "do",
+    "not",
+    "knowingly",
+    "collect",
+    "personal",
+    "information",
+    "from",
+    "anyone",
+    "under",
+    "13",
+    ".",
+    "We",
+    "may",
+    "limit",
+    "how",
+    "we",
+    "collect",
+    ",",
+    "use",
+    "and",
+    "store",
+    "some",
+    "of",
+    "the",
+    "information",
+    "of",
+    "EUor",
+    "EEA",
+    "users",
+    "between",
+    "ages",
+    "13",
+    "and",
+    "16",
+    ".",
+    "If",
+    "we",
+    "need",
+    "to",
+    "rely",
+    "on",
+    "consent",
+    "as",
+    "a",
+    "legal",
+    "bases",
+    "for",
+    "processing",
+    "your",
+    "information",
+    "and",
+    "your",
+    "country",
+    "requires",
+    "consent",
+    "from",
+    "a",
+    "parent",
+    ",",
+    "we",
+    "may",
+    "require",
+    "your",
+    "parent",
+    "\u2019s",
+    "consent",
+    "before",
+    "we",
+    "collect",
+    "and",
+    "use",
+    "that",
+    "information"
+  ],
+  "lemma": [
+    "Children",
+    "we",
+    "service",
+    "be",
+    "not",
+    "intend",
+    "for",
+    "anyone",
+    "under",
+    "13",
+    ".",
+    "we",
+    "do",
+    "not",
+    "direct",
+    "we",
+    "service",
+    "to",
+    "anyone",
+    "under",
+    "13",
+    ".",
+    "we",
+    "do",
+    "not",
+    "knowingly",
+    "collect",
+    "personal",
+    "information",
+    "from",
+    "anyone",
+    "under",
+    "13",
+    ".",
+    "we",
+    "may",
+    "limit",
+    "how",
+    "we",
+    "collect",
+    ",",
+    "use",
+    "and",
+    "store",
+    "some",
+    "of",
+    "the",
+    "information",
+    "of",
+    "EUor",
+    "EEA",
+    "user",
+    "between",
+    "age",
+    "13",
+    "and",
+    "16",
+    ".",
+    "if",
+    "we",
+    "need",
+    "to",
+    "rely",
+    "on",
+    "consent",
+    "as",
+    "a",
+    "legal",
+    "basis",
+    "for",
+    "process",
+    "you",
+    "information",
+    "and",
+    "you",
+    "country",
+    "require",
+    "consent",
+    "from",
+    "a",
+    "parent",
+    ",",
+    "we",
+    "may",
+    "require",
+    "you",
+    "parent",
+    "'s",
+    "consent",
+    "before",
+    "we",
+    "collect",
+    "and",
+    "use",
+    "that",
+    "information"
+  ],
+  "pos-tags": [
+    "NNP",
+    "PRP$",
+    "NNS",
+    "VBP",
+    "RB",
+    "VBN",
+    "IN",
+    "NN",
+    "IN",
+    "CD",
+    ".",
+    "PRP",
+    "VBP",
+    "RB",
+    "VB",
+    "PRP$",
+    "NNS",
+    "IN",
+    "NN",
+    "IN",
+    "CD",
+    ".",
+    "PRP",
+    "VBP",
+    "RB",
+    "RB",
+    "VB",
+    "JJ",
+    "NN",
+    "IN",
+    "NN",
+    "IN",
+    "CD",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "WRB",
+    "PRP",
+    "VBP",
+    ",",
+    "VB",
+    "CC",
+    "VB",
+    "DT",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "NNP",
+    "NNP",
+    "NNS",
+    "IN",
+    "NNS",
+    "CD",
+    "CC",
+    "CD",
+    ".",
+    "IN",
+    "PRP",
+    "VBP",
+    "TO",
+    "VB",
+    "IN",
+    "NN",
+    "IN",
+    "DT",
+    "JJ",
+    "NNS",
+    "IN",
+    "VBG",
+    "PRP$",
+    "NN",
+    "CC",
+    "PRP$",
+    "NN",
+    "VBZ",
+    "JJ",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "PRP$",
+    "NN",
+    "POS",
+    "NN",
+    "IN",
+    "PRP",
+    "VBP",
+    "CC",
+    "VBP",
+    "DT",
+    "NN"
+  ],
+  "dependency-relation": [
+    "root",
+    "nmod:poss",
+    "nsubj:pass",
+    "aux:pass",
+    "advmod",
+    "root",
+    "case",
+    "obl",
+    "case",
+    "nmod",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "nmod:poss",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "advmod",
+    "root",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "advmod",
+    "nsubj",
+    "ccomp",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "case",
+    "compound",
+    "compound",
+    "nmod",
+    "case",
+    "nmod",
+    "nummod",
+    "cc",
+    "conj",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "mark",
+    "xcomp",
+    "case",
+    "obl",
+    "case",
+    "det",
+    "amod",
+    "obl",
+    "mark",
+    "acl",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "nmod:poss",
+    "nsubj",
+    "conj",
+    "xcomp",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "nmod:poss",
+    "case",
+    "obj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "cc",
+    "conj",
+    "det",
+    "obj"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      10,
+      13
+    ],
+    [
+      14,
+      22
+    ],
+    [
+      23,
+      26
+    ],
+    [
+      27,
+      30
+    ],
+    [
+      31,
+      39
+    ],
+    [
+      40,
+      43
+    ],
+    [
+      44,
+      50
+    ],
+    [
+      51,
+      56
+    ],
+    [
+      57,
+      59
+    ],
+    [
+      59,
+      60
+    ],
+    [
+      61,
+      63
+    ],
+    [
+      64,
+      66
+    ],
+    [
+      66,
+      69
+    ],
+    [
+      70,
+      76
+    ],
+    [
+      77,
+      80
+    ],
+    [
+      81,
+      89
+    ],
+    [
+      90,
+      92
+    ],
+    [
+      93,
+      99
+    ],
+    [
+      100,
+      105
+    ],
+    [
+      106,
+      108
+    ],
+    [
+      108,
+      109
+    ],
+    [
+      110,
+      112
+    ],
+    [
+      113,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      129
+    ],
+    [
+      130,
+      137
+    ],
+    [
+      138,
+      146
+    ],
+    [
+      147,
+      158
+    ],
+    [
+      159,
+      163
+    ],
+    [
+      164,
+      170
+    ],
+    [
+      171,
+      176
+    ],
+    [
+      177,
+      179
+    ],
+    [
+      179,
+      180
+    ],
+    [
+      181,
+      183
+    ],
+    [
+      184,
+      187
+    ],
+    [
+      188,
+      193
+    ],
+    [
+      194,
+      197
+    ],
+    [
+      198,
+      200
+    ],
+    [
+      201,
+      208
+    ],
+    [
+      208,
+      209
+    ],
+    [
+      210,
+      213
+    ],
+    [
+      214,
+      217
+    ],
+    [
+      218,
+      223
+    ],
+    [
+      224,
+      228
+    ],
+    [
+      229,
+      231
+    ],
+    [
+      232,
+      235
+    ],
+    [
+      236,
+      247
+    ],
+    [
+      248,
+      250
+    ],
+    [
+      251,
+      255
+    ],
+    [
+      256,
+      259
+    ],
+    [
+      260,
+      265
+    ],
+    [
+      266,
+      273
+    ],
+    [
+      274,
+      278
+    ],
+    [
+      279,
+      281
+    ],
+    [
+      282,
+      285
+    ],
+    [
+      286,
+      288
+    ],
+    [
+      288,
+      289
+    ],
+    [
+      290,
+      292
+    ],
+    [
+      293,
+      295
+    ],
+    [
+      296,
+      300
+    ],
+    [
+      301,
+      303
+    ],
+    [
+      304,
+      308
+    ],
+    [
+      309,
+      311
+    ],
+    [
+      312,
+      319
+    ],
+    [
+      320,
+      322
+    ],
+    [
+      323,
+      324
+    ],
+    [
+      325,
+      330
+    ],
+    [
+      331,
+      336
+    ],
+    [
+      337,
+      340
+    ],
+    [
+      341,
+      351
+    ],
+    [
+      352,
+      356
+    ],
+    [
+      357,
+      368
+    ],
+    [
+      369,
+      372
+    ],
+    [
+      373,
+      377
+    ],
+    [
+      378,
+      385
+    ],
+    [
+      386,
+      394
+    ],
+    [
+      395,
+      402
+    ],
+    [
+      403,
+      407
+    ],
+    [
+      408,
+      409
+    ],
+    [
+      410,
+      416
+    ],
+    [
+      416,
+      417
+    ],
+    [
+      418,
+      420
+    ],
+    [
+      421,
+      424
+    ],
+    [
+      425,
+      432
+    ],
+    [
+      433,
+      437
+    ],
+    [
+      438,
+      444
+    ],
+    [
+      444,
+      446
+    ],
+    [
+      447,
+      454
+    ],
+    [
+      455,
+      461
+    ],
+    [
+      462,
+      464
+    ],
+    [
+      465,
+      472
+    ],
+    [
+      473,
+      476
+    ],
+    [
+      477,
+      480
+    ],
+    [
+      481,
+      485
+    ],
+    [
+      486,
+      497
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      10
+    ],
+    [
+      11,
+      21
+    ],
+    [
+      22,
+      33
+    ],
+    [
+      34,
+      57
+    ],
+    [
+      58,
+      95
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 110,
+      "end_idx": 112,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        22
+      ]
+    },
+    {
+      "entity/argument_text": "not",
+      "entity/argument_type": "Negation",
+      "entity/argument_id": "T2",
+      "start_idx": 116,
+      "end_idx": 119,
+      "tokens": [
+        "not"
+      ],
+      "token_idx": [
+        24
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T5",
+      "start_idx": 138,
+      "end_idx": 158,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        27,
+        28
+      ]
+    },
+    {
+      "entity/argument_text": "anyone under 13",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T6",
+      "start_idx": 164,
+      "end_idx": 179,
+      "tokens": [
+        "anyone",
+        "under",
+        "13"
+      ],
+      "token_idx": [
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T8",
+      "start_idx": 293,
+      "end_idx": 295,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        59
+      ]
+    },
+    {
+      "entity/argument_text": "we need to rely on consent as a legal bases for processing your information and your country requires consent from a parent, we may require your parent\u2019s consent",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T9",
+      "start_idx": 293,
+      "end_idx": 454,
+      "tokens": [
+        "we",
+        "need",
+        "to",
+        "rely",
+        "on",
+        "consent",
+        "as",
+        "a",
+        "legal",
+        "bases",
+        "for",
+        "processing",
+        "your",
+        "information",
+        "and",
+        "your",
+        "country",
+        "requires",
+        "consent",
+        "from",
+        "a",
+        "parent",
+        ",",
+        "we",
+        "may",
+        "require",
+        "your",
+        "parent",
+        "\u2019s",
+        "consent"
+      ],
+      "token_idx": [
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T11",
+      "start_idx": 352,
+      "end_idx": 356,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        71
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T12",
+      "start_idx": 357,
+      "end_idx": 368,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        72
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 130,
+        "end_idx": 137,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          26
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "anyone under 13",
+          "start_idx": 164,
+          "end_idx": 179
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 138,
+          "end_idx": 158
+        },
+        {
+          "role": "Polarity",
+          "type": "Negation",
+          "text": "not",
+          "start_idx": 116,
+          "end_idx": 119
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 110,
+          "end_idx": 112
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 465,
+        "end_idx": 472,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          91
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected2",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 357,
+          "end_idx": 368
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 352,
+          "end_idx": 356
+        },
+        {
+          "role": "Condition-Argument3",
+          "type": "Condition",
+          "text": "we need to rely on consent as a legal bases for processing your information and your country requires consent from a parent, we may require your parent\u2019s consent",
+          "start_idx": 293,
+          "end_idx": 454
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 293,
+          "end_idx": 295
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

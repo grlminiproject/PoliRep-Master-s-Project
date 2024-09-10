@@ -1,0 +1,10 @@
+T1	data-storage-retention-deletion 62 66	hold
+E1	data-storage-retention-deletion:T1 Data-Provider:T2 Data-Retained:T3 Data-Holder:T4 Data-Provider2:T5 Data-Retained2:T6
+T2	User 17 20	You
+T3	Data-general 47 58	information
+T4	First-party-entity 59 61	we
+T5	User 73 76	you
+T6	Data-general 103 118	the information
+T7	Access-limitation 95 138	to have the information communicated to you
+#1	AnnotatorNotes T7	could this be a condition
+T8	TODO 119 138	communicated to you

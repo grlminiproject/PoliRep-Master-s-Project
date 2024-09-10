@@ -1,0 +1,25 @@
+T1	First-party-entity 109 111	We
+T2	Data-general 136 208	information listed in the “Types of information collected” section above
+T3	collection-use 124 131	collect
+E1	collection-use:T3 Data-Collected:T2 Data-Collector:T1
+T4	Negation 272 274	No
+T5	Identifying 275 310	personally identifiable information
+T6	collection-use 314 323	collected
+E2	collection-use:T6 Condition-Argument:T7 Data-Collected:T5 Polarity:T4
+T7	TODO 327 338	these tools
+T8	collection-use 655 662	collect
+E3	collection-use:T8 Data-Collected:T9 Condition-Argument:T11 Data-Collector:T10
+T9	Opinion 663 684	opinions and feedback
+T10	First-party-entity 609 612	CMS
+T11	Condition 609 651	CMS websites may also use an online survey
+T12	First-party-entity 894 896	We
+T13	collection-use 909 912	use
+E4	collection-use:T13 Purpose-Argument:T15 Data-Collected:T14 Data-Collector:T12
+T14	Data-general 918 929	information
+T15	ServiceOptimisation 933 973	improve the site's operation and content
+T16	retention-period 1211 1266	as long as needed to support the mission of the website
+T17	Data-general 1179 1210	data from our measurement tools
+T18	First-party-entity 1157 1160	CMS
+T19	data-storage-retention-deletion 1170 1174	keep
+E5	data-storage-retention-deletion:T19 Retention-Period:T16 Data-Retained:T17 Data-Holder:T18
+#1	AnnotatorNotes T7	Tools were categorised as a condition; I would not annotate it.

@@ -1,0 +1,25 @@
+T1	Condition 38 68	you browse through any website
+T2	User 38 41	you
+T3	Data-user-online-activities-profiles 78 106	information about your visit
+T4	first-party-collection-use 114 123	collected
+E1	first-party-collection-use:T4 Data-Collected:T3 Condition-Argument:T1 Data-Provider:T2
+T5	First-party-entity 125 127	We
+T6	first-party-collection-use 142 149	collect
+E2	first-party-collection-use:T6 Data-Collected:T15 Data-Collected2:T14 Data-Collected3:T13 Data-Collected4:T12 Data-Collected5:T11 Data-Collected6:T10 Data-Collected7:T9 Data-Collected8:T7 Data-Collector:T5 Condition-Argument:T21
+T7	Data-user-online-activities-profiles 195 223	information about your visit
+T9	Data-computer-device 225 266	Domain from which you access the Internet
+T10	Data-computer-device 267 277	IP address
+T11	Data-computer-device 390 423	Operating system on your computer
+T12	Data-computer-device 428 466	information about the browser you used
+T13	Data-user-online-activities-profiles 490 517	Date and time of your visit
+T14	Data-user-online-activities-profiles 518 535	Pages you visited
+T15	Data-computer-device 536 594	Address of the website that connected you to a CMS website
+T16	Analytics-research 655 722	measure the number of visitors to our site and its various sections
+T17	Analytics-research 730 772	help make our site more useful to visitors
+T18	First-party-entity 628 630	We
+T19	first-party-collection-use 631 634	use
+E3	first-party-collection-use:T19 Purpose-Argument:T17 Purpose-Argument2:T16 Data-Collected:T20 Data-Collector:T18
+T20	Data-general 640 651	information
+T21	Condition 472 489	visiting the site
+T22	data-storage-retention-deletion 166 171	store
+E4	data-storage-retention-deletion:T22 Data-Holder:T5 Data-Retained:T7 Data-Retained2:T9 Data-Retained3:T10 Data-Retained4:T11 Data-Retained5:T12 Condition-Argument:T21 Data-Retained6:T13 Data-Retained7:T14 Data-Retained8:T15

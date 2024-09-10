@@ -1,0 +1,1432 @@
+{
+  "text": "RETENTION OF PERSONAL INFORMATION\n\nIf you have registered with an account through our Services, the Company will retain your Personal Information during the period your account is active. In addition, the Company will retain your Personal Data for additional periods, to enable the Company to meet its legal obligations under applicable laws or regulations, such as the applicable gambling regulations, Know-Your-Customer and Anti-Money Laundering regulations.\nIn addition, the Company may retain your Personal Information for longer periods, provided that retaining such information is necessary for the Company's legitimate interests, such as fraud prevention and record keeping.\n\n",
+  "words": [
+    "RETENTION",
+    "OF",
+    "PERSONAL",
+    "INFORMATION",
+    "If",
+    "you",
+    "have",
+    "registered",
+    "with",
+    "an",
+    "account",
+    "through",
+    "our",
+    "Services",
+    ",",
+    "the",
+    "Company",
+    "will",
+    "retain",
+    "your",
+    "Personal",
+    "Information",
+    "during",
+    "the",
+    "period",
+    "your",
+    "account",
+    "is",
+    "active",
+    ".",
+    "In",
+    "addition",
+    ",",
+    "the",
+    "Company",
+    "will",
+    "retain",
+    "your",
+    "Personal",
+    "Data",
+    "for",
+    "additional",
+    "periods",
+    ",",
+    "to",
+    "enable",
+    "the",
+    "Company",
+    "to",
+    "meet",
+    "its",
+    "legal",
+    "obligations",
+    "under",
+    "applicable",
+    "laws",
+    "or",
+    "regulations",
+    ",",
+    "such",
+    "as",
+    "the",
+    "applicable",
+    "gambling",
+    "regulations",
+    ",",
+    "Know",
+    "-",
+    "Your",
+    "-",
+    "Customer",
+    "and",
+    "Anti-Money",
+    "Laundering",
+    "regulations",
+    ".",
+    "In",
+    "addition",
+    ",",
+    "the",
+    "Company",
+    "may",
+    "retain",
+    "your",
+    "Personal",
+    "Information",
+    "for",
+    "longer",
+    "periods",
+    ",",
+    "provided",
+    "that",
+    "retaining",
+    "such",
+    "information",
+    "is",
+    "necessary",
+    "for",
+    "the",
+    "Company",
+    "'s",
+    "legitimate",
+    "interests",
+    ",",
+    "such",
+    "as",
+    "fraud",
+    "prevention",
+    "and",
+    "record",
+    "keeping",
+    "."
+  ],
+  "lemma": [
+    "retention",
+    "of",
+    "personal",
+    "information",
+    "if",
+    "you",
+    "have",
+    "register",
+    "with",
+    "a",
+    "account",
+    "through",
+    "we",
+    "service",
+    ",",
+    "the",
+    "company",
+    "will",
+    "retain",
+    "you",
+    "Personal",
+    "information",
+    "during",
+    "the",
+    "period",
+    "you",
+    "account",
+    "be",
+    "active",
+    ".",
+    "in",
+    "addition",
+    ",",
+    "the",
+    "company",
+    "will",
+    "retain",
+    "you",
+    "Personal",
+    "data",
+    "for",
+    "additional",
+    "period",
+    ",",
+    "to",
+    "enable",
+    "the",
+    "company",
+    "to",
+    "meet",
+    "its",
+    "legal",
+    "obligation",
+    "under",
+    "applicable",
+    "law",
+    "or",
+    "regulation",
+    ",",
+    "such",
+    "as",
+    "the",
+    "applicable",
+    "gambling",
+    "regulation",
+    ",",
+    "know",
+    "-",
+    "you",
+    "-",
+    "customer",
+    "and",
+    "Anti-Money",
+    "Laundering",
+    "regulation",
+    ".",
+    "in",
+    "addition",
+    ",",
+    "the",
+    "company",
+    "may",
+    "retain",
+    "you",
+    "Personal",
+    "information",
+    "for",
+    "longer",
+    "period",
+    ",",
+    "provide",
+    "that",
+    "retain",
+    "such",
+    "information",
+    "be",
+    "necessary",
+    "for",
+    "the",
+    "company",
+    "'s",
+    "legitimate",
+    "interest",
+    ",",
+    "such",
+    "as",
+    "fraud",
+    "prevention",
+    "and",
+    "record",
+    "keep",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "IN",
+    "NNP",
+    "NNP",
+    "IN",
+    "PRP",
+    "VBP",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "PRP$",
+    "NNS",
+    ",",
+    "DT",
+    "NN",
+    "MD",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "PRP$",
+    "NN",
+    "VBZ",
+    "JJ",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "DT",
+    "NN",
+    "MD",
+    "VB",
+    "PRP$",
+    "NNP",
+    "NNP",
+    "IN",
+    "JJ",
+    "NNS",
+    ",",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "TO",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NNS",
+    "IN",
+    "JJ",
+    "NNS",
+    "CC",
+    "NNS",
+    ",",
+    "JJ",
+    "IN",
+    "DT",
+    "JJ",
+    "NN",
+    "NNS",
+    ",",
+    "VBP",
+    "HYPH",
+    "PRP$",
+    "HYPH",
+    "NN",
+    "CC",
+    "NN",
+    "VBG",
+    "NNS",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "DT",
+    "NN",
+    "MD",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "IN",
+    "JJR",
+    "NNS",
+    ",",
+    "VBD",
+    "IN",
+    "VBG",
+    "JJ",
+    "NN",
+    "VBZ",
+    "JJ",
+    "IN",
+    "DT",
+    "NN",
+    "POS",
+    "JJ",
+    "NNS",
+    ",",
+    "JJ",
+    "IN",
+    "JJ",
+    "NN",
+    "CC",
+    "NN",
+    "VBG",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "case",
+    "compound",
+    "nmod",
+    "mark",
+    "nsubj",
+    "aux",
+    "advcl",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct",
+    "det",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "nmod:poss",
+    "nsubj",
+    "cop",
+    "acl:relcl",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "det",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "compound",
+    "obj",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "mark",
+    "advcl",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "amod",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "case",
+    "fixed",
+    "det",
+    "amod",
+    "compound",
+    "nmod",
+    "punct",
+    "compound",
+    "punct",
+    "nmod:poss",
+    "punct",
+    "compound",
+    "cc",
+    "conj",
+    "amod",
+    "obj",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "det",
+    "nsubj",
+    "aux",
+    "root",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "advcl",
+    "mark",
+    "csubj",
+    "amod",
+    "obj",
+    "cop",
+    "ccomp",
+    "case",
+    "det",
+    "nmod:poss",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "case",
+    "fixed",
+    "amod",
+    "nmod",
+    "cc",
+    "conj",
+    "acl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      9
+    ],
+    [
+      10,
+      12
+    ],
+    [
+      13,
+      21
+    ],
+    [
+      22,
+      33
+    ],
+    [
+      35,
+      37
+    ],
+    [
+      38,
+      41
+    ],
+    [
+      42,
+      46
+    ],
+    [
+      47,
+      57
+    ],
+    [
+      58,
+      62
+    ],
+    [
+      63,
+      65
+    ],
+    [
+      66,
+      73
+    ],
+    [
+      74,
+      81
+    ],
+    [
+      82,
+      85
+    ],
+    [
+      86,
+      94
+    ],
+    [
+      94,
+      95
+    ],
+    [
+      96,
+      99
+    ],
+    [
+      100,
+      107
+    ],
+    [
+      108,
+      112
+    ],
+    [
+      113,
+      119
+    ],
+    [
+      120,
+      124
+    ],
+    [
+      125,
+      133
+    ],
+    [
+      134,
+      145
+    ],
+    [
+      146,
+      152
+    ],
+    [
+      153,
+      156
+    ],
+    [
+      157,
+      163
+    ],
+    [
+      164,
+      168
+    ],
+    [
+      169,
+      176
+    ],
+    [
+      177,
+      179
+    ],
+    [
+      180,
+      186
+    ],
+    [
+      186,
+      187
+    ],
+    [
+      188,
+      190
+    ],
+    [
+      191,
+      199
+    ],
+    [
+      199,
+      200
+    ],
+    [
+      201,
+      204
+    ],
+    [
+      205,
+      212
+    ],
+    [
+      213,
+      217
+    ],
+    [
+      218,
+      224
+    ],
+    [
+      225,
+      229
+    ],
+    [
+      230,
+      238
+    ],
+    [
+      239,
+      243
+    ],
+    [
+      244,
+      247
+    ],
+    [
+      248,
+      258
+    ],
+    [
+      259,
+      266
+    ],
+    [
+      266,
+      267
+    ],
+    [
+      268,
+      270
+    ],
+    [
+      271,
+      277
+    ],
+    [
+      278,
+      281
+    ],
+    [
+      282,
+      289
+    ],
+    [
+      290,
+      292
+    ],
+    [
+      293,
+      297
+    ],
+    [
+      298,
+      301
+    ],
+    [
+      302,
+      307
+    ],
+    [
+      308,
+      319
+    ],
+    [
+      320,
+      325
+    ],
+    [
+      326,
+      336
+    ],
+    [
+      337,
+      341
+    ],
+    [
+      342,
+      344
+    ],
+    [
+      345,
+      356
+    ],
+    [
+      356,
+      357
+    ],
+    [
+      358,
+      362
+    ],
+    [
+      363,
+      365
+    ],
+    [
+      366,
+      369
+    ],
+    [
+      370,
+      380
+    ],
+    [
+      381,
+      389
+    ],
+    [
+      390,
+      401
+    ],
+    [
+      401,
+      402
+    ],
+    [
+      403,
+      407
+    ],
+    [
+      407,
+      408
+    ],
+    [
+      408,
+      412
+    ],
+    [
+      412,
+      413
+    ],
+    [
+      413,
+      421
+    ],
+    [
+      422,
+      425
+    ],
+    [
+      426,
+      436
+    ],
+    [
+      437,
+      447
+    ],
+    [
+      448,
+      459
+    ],
+    [
+      459,
+      460
+    ],
+    [
+      461,
+      463
+    ],
+    [
+      464,
+      472
+    ],
+    [
+      472,
+      473
+    ],
+    [
+      474,
+      477
+    ],
+    [
+      478,
+      485
+    ],
+    [
+      486,
+      489
+    ],
+    [
+      490,
+      496
+    ],
+    [
+      497,
+      501
+    ],
+    [
+      502,
+      510
+    ],
+    [
+      511,
+      522
+    ],
+    [
+      523,
+      526
+    ],
+    [
+      527,
+      533
+    ],
+    [
+      534,
+      541
+    ],
+    [
+      541,
+      542
+    ],
+    [
+      543,
+      551
+    ],
+    [
+      552,
+      556
+    ],
+    [
+      557,
+      566
+    ],
+    [
+      567,
+      571
+    ],
+    [
+      572,
+      583
+    ],
+    [
+      584,
+      586
+    ],
+    [
+      587,
+      596
+    ],
+    [
+      597,
+      600
+    ],
+    [
+      601,
+      604
+    ],
+    [
+      605,
+      612
+    ],
+    [
+      612,
+      614
+    ],
+    [
+      615,
+      625
+    ],
+    [
+      626,
+      635
+    ],
+    [
+      635,
+      636
+    ],
+    [
+      637,
+      641
+    ],
+    [
+      642,
+      644
+    ],
+    [
+      645,
+      650
+    ],
+    [
+      651,
+      661
+    ],
+    [
+      662,
+      665
+    ],
+    [
+      666,
+      672
+    ],
+    [
+      673,
+      680
+    ],
+    [
+      680,
+      681
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      29
+    ],
+    [
+      30,
+      75
+    ],
+    [
+      76,
+      111
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "you have registered with an account through our Services",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T1",
+      "start_idx": 38,
+      "end_idx": 94,
+      "tokens": [
+        "you",
+        "have",
+        "registered",
+        "with",
+        "an",
+        "account",
+        "through",
+        "our",
+        "Services"
+      ],
+      "token_idx": [
+        5,
+        6,
+        7,
+        8,
+        9,
+        10,
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "entity/argument_text": "Company",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T2",
+      "start_idx": 100,
+      "end_idx": 107,
+      "tokens": [
+        "Company"
+      ],
+      "token_idx": [
+        16
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T5",
+      "start_idx": 125,
+      "end_idx": 145,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        20,
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "the period your account is active",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T6",
+      "start_idx": 153,
+      "end_idx": 186,
+      "tokens": [
+        "the",
+        "period",
+        "your",
+        "account",
+        "is",
+        "active"
+      ],
+      "token_idx": [
+        23,
+        24,
+        25,
+        26,
+        27,
+        28
+      ]
+    },
+    {
+      "entity/argument_text": "Company",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 205,
+      "end_idx": 212,
+      "tokens": [
+        "Company"
+      ],
+      "token_idx": [
+        34
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T9",
+      "start_idx": 225,
+      "end_idx": 229,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        37
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T10",
+      "start_idx": 230,
+      "end_idx": 243,
+      "tokens": [
+        "Personal",
+        "Data"
+      ],
+      "token_idx": [
+        38,
+        39
+      ]
+    },
+    {
+      "entity/argument_text": "additional periods",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T11",
+      "start_idx": 248,
+      "end_idx": 266,
+      "tokens": [
+        "additional",
+        "periods"
+      ],
+      "token_idx": [
+        41,
+        42
+      ]
+    },
+    {
+      "entity/argument_text": "meet its legal obligations under applicable laws or regulations, such as the applicable gambling regulations, Know-Your-Customer and Anti-Money Laundering regulations",
+      "entity/argument_type": "Legal-requirement",
+      "entity/argument_id": "T12",
+      "start_idx": 293,
+      "end_idx": 459,
+      "tokens": [
+        "meet",
+        "its",
+        "legal",
+        "obligations",
+        "under",
+        "applicable",
+        "laws",
+        "or",
+        "regulations",
+        ",",
+        "such",
+        "as",
+        "the",
+        "applicable",
+        "gambling",
+        "regulations",
+        ",",
+        "Know",
+        "-",
+        "Your",
+        "-",
+        "Customer",
+        "and",
+        "Anti-Money",
+        "Laundering",
+        "regulations"
+      ],
+      "token_idx": [
+        49,
+        50,
+        51,
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59,
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74
+      ]
+    },
+    {
+      "entity/argument_text": "Company",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T13",
+      "start_idx": 478,
+      "end_idx": 485,
+      "tokens": [
+        "Company"
+      ],
+      "token_idx": [
+        80
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T15",
+      "start_idx": 497,
+      "end_idx": 501,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        83
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T16",
+      "start_idx": 502,
+      "end_idx": 522,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        84,
+        85
+      ]
+    },
+    {
+      "entity/argument_text": "longer periods",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T17",
+      "start_idx": 527,
+      "end_idx": 541,
+      "tokens": [
+        "longer",
+        "periods"
+      ],
+      "token_idx": [
+        87,
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "retaining such information is necessary for the Company's legitimate interests",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T18",
+      "start_idx": 557,
+      "end_idx": 635,
+      "tokens": [
+        "retaining",
+        "such",
+        "information",
+        "is",
+        "necessary",
+        "for",
+        "the",
+        "Company",
+        "'s",
+        "legitimate",
+        "interests"
+      ],
+      "token_idx": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T19",
+      "start_idx": 38,
+      "end_idx": 41,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "fraud prevention",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T4",
+      "start_idx": 645,
+      "end_idx": 661,
+      "tokens": [
+        "fraud",
+        "prevention"
+      ],
+      "token_idx": [
+        106,
+        107
+      ]
+    },
+    {
+      "entity/argument_text": "record keeping",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T20",
+      "start_idx": 666,
+      "end_idx": 680,
+      "tokens": [
+        "record",
+        "keeping"
+      ],
+      "token_idx": [
+        109,
+        110
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "retain",
+        "start_idx": 113,
+        "end_idx": 119,
+        "tokens": [
+          "retain"
+        ],
+        "token_idx": [
+          18
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Retention-Period",
+          "type": "retention-period",
+          "text": "the period your account is active",
+          "start_idx": 153,
+          "end_idx": 186
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 125,
+          "end_idx": 145
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "Company",
+          "start_idx": 100,
+          "end_idx": 107
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you have registered with an account through our Services",
+          "start_idx": 38,
+          "end_idx": 94
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "you",
+          "start_idx": 38,
+          "end_idx": 41
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "retain",
+        "start_idx": 218,
+        "end_idx": 224,
+        "tokens": [
+          "retain"
+        ],
+        "token_idx": [
+          36
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "Company",
+          "start_idx": 205,
+          "end_idx": 212
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 225,
+          "end_idx": 229
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "Personal Data",
+          "start_idx": 230,
+          "end_idx": 243
+        },
+        {
+          "role": "Retention-Period",
+          "type": "retention-period",
+          "text": "additional periods",
+          "start_idx": 248,
+          "end_idx": 266
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Legal-requirement",
+          "text": "meet its legal obligations under applicable laws or regulations, such as the applicable gambling regulations, Know-Your-Customer and Anti-Money Laundering regulations",
+          "start_idx": 293,
+          "end_idx": 459
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "retain",
+        "start_idx": 490,
+        "end_idx": 496,
+        "tokens": [
+          "retain"
+        ],
+        "token_idx": [
+          82
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "Company",
+          "start_idx": 478,
+          "end_idx": 485
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 497,
+          "end_idx": 501
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 502,
+          "end_idx": 522
+        },
+        {
+          "role": "Retention-Period",
+          "type": "retention-period",
+          "text": "longer periods",
+          "start_idx": 527,
+          "end_idx": 541
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Service-operation-and-security",
+          "text": "record keeping",
+          "start_idx": 666,
+          "end_idx": 680
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Service-operation-and-security",
+          "text": "fraud prevention",
+          "start_idx": 645,
+          "end_idx": 661
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Service-operation-and-security",
+          "text": "retaining such information is necessary for the Company's legitimate interests",
+          "start_idx": 557,
+          "end_idx": 635
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

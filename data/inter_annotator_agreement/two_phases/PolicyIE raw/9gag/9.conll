@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Analytics and Advertising Services
+1	Analytics	Analytic	NOUN	NNS	Number=Plur	0	root	_	TokenRange=0:9
+2	and	and	CCONJ	CC	_	4	cc	_	TokenRange=10:13
+3	Advertising	advertising	NOUN	NN	Number=Sing	4	compound	_	TokenRange=14:25
+4	Services	service	NOUN	NNS	Number=Plur	1	conj	_	SpacesAfter=\n\n\n|TokenRange=26:34
+

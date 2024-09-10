@@ -1,0 +1,156 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Types of information we collect
+1	Types	type	NOUN	NNS	Number=Plur	0	root	_	TokenRange=0:5
+2	of	of	ADP	IN	_	3	case	_	TokenRange=6:8
+3	information	information	NOUN	NN	Number=Sing	1	nmod	_	TokenRange=9:20
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=21:23
+5	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	acl:relcl	_	SpacesAfter=\n\n|TokenRange=24:31
+
+# newpar
+# sent_id = 2
+# text = When you browse through any website, certain information about your visit can be collected.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=33:37
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=38:41
+3	browse	browse	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=42:48
+4	through	through	ADP	IN	_	6	case	_	TokenRange=49:56
+5	any	any	DET	DT	_	6	det	_	TokenRange=57:60
+6	website	website	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=61:68
+7	,	,	PUNCT	,	_	9	punct	_	TokenRange=68:69
+8	certain	certain	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=70:77
+9	information	information	NOUN	NN	Number=Sing	15	nsubj:pass	_	TokenRange=78:89
+10	about	about	ADP	IN	_	12	case	_	TokenRange=90:95
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=96:100
+12	visit	visit	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=101:106
+13	can	can	AUX	MD	VerbForm=Fin	15	aux	_	TokenRange=107:110
+14	be	be	AUX	VB	VerbForm=Inf	15	aux:pass	_	TokenRange=111:113
+15	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|TokenRange=114:123
+16	.	.	PUNCT	.	_	15	punct	_	TokenRange=123:124
+
+# sent_id = 3
+# text = We automatically collect and temporarily store the following types of information about your visit: Domain from which you access the Internet IP address (an IP or internet protocol address is a number that is automatically given to a computer connected to the Web)
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=125:127
+2	automatically	automatically	ADV	RB	_	3	advmod	_	TokenRange=128:141
+3	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=142:149
+4	and	and	CCONJ	CC	_	6	cc	_	TokenRange=150:153
+5	temporarily	temporarily	ADV	RB	_	6	advmod	_	TokenRange=154:165
+6	store	store	NOUN	NN	Number=Sing	3	conj	_	TokenRange=166:171
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=172:175
+8	following	follow	VERB	VBG	VerbForm=Ger	9	amod	_	TokenRange=176:185
+9	types	type	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=186:191
+10	of	of	ADP	IN	_	11	case	_	TokenRange=192:194
+11	information	information	NOUN	NN	Number=Sing	9	nmod	_	TokenRange=195:206
+12	about	about	ADP	IN	_	14	case	_	TokenRange=207:212
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=213:217
+14	visit	visit	NOUN	NN	Number=Sing	11	nmod	_	SpaceAfter=No|TokenRange=218:223
+15	:	:	PUNCT	:	_	3	punct	_	SpacesAfter=\n|TokenRange=223:224
+16	Domain	domain	NOUN	NN	Number=Sing	3	appos	_	TokenRange=225:231
+17	from	from	ADP	IN	_	18	case	_	TokenRange=232:236
+18	which	which	PRON	WDT	PronType=Rel	20	obl	_	TokenRange=237:242
+19	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	TokenRange=243:246
+20	access	access	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	TokenRange=247:253
+21	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	TokenRange=254:257
+22	Internet	internet	NOUN	NN	Number=Sing	23	compound	_	SpacesAfter=\n|TokenRange=258:266
+23	IP	ip	NOUN	NN	Number=Sing	24	compound	_	TokenRange=267:269
+24	address	address	NOUN	NN	Number=Sing	20	obj	_	TokenRange=270:277
+25	(	(	PUNCT	-LRB-	_	27	punct	_	SpaceAfter=No|TokenRange=278:279
+26	an	a	DET	DT	Definite=Ind|PronType=Art	27	det	_	TokenRange=279:281
+27	IP	ip	NOUN	NN	Number=Sing	34	nsubj	_	TokenRange=282:284
+28	or	or	CCONJ	CC	_	31	cc	_	TokenRange=285:287
+29	internet	internet	NOUN	NN	Number=Sing	31	compound	_	TokenRange=288:296
+30	protocol	protocol	NOUN	NN	Number=Sing	31	compound	_	TokenRange=297:305
+31	address	address	NOUN	NN	Number=Sing	27	conj	_	TokenRange=306:313
+32	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	34	cop	_	TokenRange=314:316
+33	a	a	DET	DT	Definite=Ind|PronType=Art	34	det	_	TokenRange=317:318
+34	number	number	NOUN	NN	Number=Sing	16	parataxis	_	TokenRange=319:325
+35	that	that	PRON	WDT	PronType=Rel	38	nsubj:pass	_	TokenRange=326:330
+36	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	aux:pass	_	TokenRange=331:333
+37	automatically	automatically	ADV	RB	_	38	advmod	_	TokenRange=334:347
+38	given	give	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	34	acl:relcl	_	TokenRange=348:353
+39	to	to	ADP	IN	_	41	case	_	TokenRange=354:356
+40	a	a	DET	DT	Definite=Ind|PronType=Art	41	det	_	TokenRange=357:358
+41	computer	computer	NOUN	NN	Number=Sing	38	obl	_	TokenRange=359:367
+42	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part	41	acl	_	TokenRange=368:377
+43	to	to	ADP	IN	_	45	case	_	TokenRange=378:380
+44	the	the	DET	DT	Definite=Def|PronType=Art	45	det	_	TokenRange=381:384
+45	Web	web	NOUN	NN	Number=Sing	42	obl	_	SpaceAfter=No|TokenRange=385:388
+46	)	)	PUNCT	-RRB-	_	34	punct	_	SpacesAfter=\n|TokenRange=388:389
+
+# sent_id = 4
+# text = Operating system on your computer and information about the browser you used when visiting the site Date and time of your visit Pages you visited Address of the website that connected you to a CMS website (such as google.com or bing.com)
+1	Operating	operate	VERB	VBG	VerbForm=Ger	2	amod	_	TokenRange=390:399
+2	system	system	NOUN	NN	Number=Sing	0	root	_	TokenRange=400:406
+3	on	on	ADP	IN	_	5	case	_	TokenRange=407:409
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=410:414
+5	computer	computer	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=415:423
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=424:427
+7	information	information	NOUN	NN	Number=Sing	5	conj	_	TokenRange=428:439
+8	about	about	ADP	IN	_	10	case	_	TokenRange=440:445
+9	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=446:449
+10	browser	browser	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=450:457
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	12	nsubj	_	TokenRange=458:461
+12	used	use	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	10	acl:relcl	_	TokenRange=462:466
+13	when	when	ADV	WRB	PronType=Int	14	mark	_	TokenRange=467:471
+14	visiting	visit	VERB	VBG	VerbForm=Ger	12	advcl	_	TokenRange=472:480
+15	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=481:484
+16	site	site	NOUN	NN	Number=Sing	17	compound	_	SpacesAfter=\n|TokenRange=485:489
+17	Date	date	NOUN	NN	Number=Sing	14	obj	_	TokenRange=490:494
+18	and	and	CCONJ	CC	_	19	cc	_	TokenRange=495:498
+19	time	time	NOUN	NN	Number=Sing	17	conj	_	TokenRange=499:503
+20	of	of	ADP	IN	_	23	case	_	TokenRange=504:506
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=507:511
+22	visit	visit	NOUN	NN	Number=Sing	23	compound	_	SpacesAfter=\n|TokenRange=512:517
+23	Pages	page	NOUN	NNS	Number=Plur	17	nmod	_	TokenRange=518:523
+24	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	25	nsubj	_	TokenRange=524:527
+25	visited	visit	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	23	acl:relcl	_	SpacesAfter=\n|TokenRange=528:535
+26	Address	address	PROPN	NNP	Number=Sing	25	obj	_	TokenRange=536:543
+27	of	of	ADP	IN	_	29	case	_	TokenRange=544:546
+28	the	the	DET	DT	Definite=Def|PronType=Art	29	det	_	TokenRange=547:550
+29	website	website	NOUN	NN	Number=Sing	26	nmod	_	TokenRange=551:558
+30	that	that	PRON	WDT	PronType=Rel	31	nsubj	_	TokenRange=559:563
+31	connected	connect	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	29	acl:relcl	_	TokenRange=564:573
+32	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	31	obj	_	TokenRange=574:577
+33	to	to	ADP	IN	_	36	case	_	TokenRange=578:580
+34	a	a	DET	DT	Definite=Ind|PronType=Art	36	det	_	TokenRange=581:582
+35	CMS	CMS	NOUN	NN	Number=Sing	36	compound	_	TokenRange=583:586
+36	website	website	NOUN	NN	Number=Sing	31	obl	_	TokenRange=587:594
+37	(	(	PUNCT	-LRB-	_	36	punct	_	SpaceAfter=No|TokenRange=595:596
+38	such	such	ADJ	JJ	Degree=Pos	40	case	_	TokenRange=596:600
+39	as	as	ADP	IN	_	38	fixed	_	TokenRange=601:603
+40	google.com	google.com	X	ADD	_	36	nmod	_	TokenRange=604:614
+41	or	or	CCONJ	CC	_	42	cc	_	TokenRange=615:617
+42	bing.com	bing.com	X	ADD	_	40	conj	_	SpaceAfter=No|TokenRange=618:626
+43	)	)	PUNCT	-RRB-	_	2	punct	_	SpacesAfter=\n|TokenRange=626:627
+
+# sent_id = 5
+# text = We use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=628:630
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=631:634
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=635:639
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=640:651
+5	to	to	PART	TO	_	6	mark	_	TokenRange=652:654
+6	measure	measure	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=655:662
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=663:666
+8	number	number	NOUN	NN	Number=Sing	6	obj	_	TokenRange=667:673
+9	of	of	ADP	IN	_	10	case	_	TokenRange=674:676
+10	visitors	visitor	NOUN	NNS	Number=Plur	8	nmod	_	TokenRange=677:685
+11	to	to	ADP	IN	_	13	case	_	TokenRange=686:688
+12	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=689:692
+13	site	site	NOUN	NN	Number=Sing	10	nmod	_	TokenRange=693:697
+14	and	and	CCONJ	CC	_	17	cc	_	TokenRange=698:701
+15	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=702:705
+16	various	various	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=706:713
+17	sections	section	NOUN	NNS	Number=Plur	13	conj	_	TokenRange=714:722
+18	and	and	CCONJ	CC	_	20	cc	_	TokenRange=723:726
+19	to	to	PART	TO	_	20	mark	_	TokenRange=727:729
+20	help	help	VERB	VB	VerbForm=Inf	6	conj	_	TokenRange=730:734
+21	make	make	VERB	VB	VerbForm=Inf	20	xcomp	_	TokenRange=735:739
+22	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=740:743
+23	site	site	NOUN	NN	Number=Sing	21	obj	_	TokenRange=744:748
+24	more	more	ADV	RBR	_	25	advmod	_	TokenRange=749:753
+25	useful	useful	ADJ	JJ	Degree=Pos	21	xcomp	_	TokenRange=754:760
+26	to	to	ADP	IN	_	27	case	_	TokenRange=761:763
+27	visitors	visitor	NOUN	NNS	Number=Plur	25	obl	_	SpaceAfter=No|TokenRange=764:772
+28	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=772:773
+

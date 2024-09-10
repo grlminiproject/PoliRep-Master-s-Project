@@ -1,0 +1,20 @@
+T1	User 57 61	Your
+T2	Data-general 62 82	personal information
+T3	third-party-sharing-disclosure 91 95	used
+E1	third-party-sharing-disclosure:T3 Data-Provider:T1 Data-Shared:T2 Data-Receiver:T8 Data-Receiver2:T7 Data-Sharer:T4
+T4	First-party-entity 167 169	us
+T5	data-storage-retention-deletion 97 103	stored
+E2	data-storage-retention-deletion:T5 Data-Provider:T1 Data-Retained:T2 Storage-Place:T6 Data-Holder2:T4 Data-Holder3:T7 Storage-Place2:T9 Data-Holder:T8
+T6	storage-place 139 154	outside the EEA
+T7	Third-party-entity 177 197	members of our group
+T9	storage-place 243 267	United States of America
+T10	First-party-entity 374 376	we
+T11	Data-general 389 409	personal information
+T12	User 416 419	you
+T13	data-security-protection 538 546	protects
+E3	data-security-protection:T13 Data-Protector:T10 Data-Protected:T11 Data-Provider:T12 Condition-Argument:T15 method:T14 method2:T16 method4:T17
+T14	general-safeguard-method 488 508	appropriate measures
+T15	Condition 374 473	we provide any personal information about you to any such non-EEA members of our group or suppliers
+T16	Protection-other 709 890	in the case of US based entities, entering into European Commission approved standard contractual arrangements with them, or ensuring they have signed up to the EU-US Privacy Shield
+T17	Protection-other 943 1029	entering into European Commission approved standard contractual arrangements with them
+T8	Third-party-entity 201 210	suppliers

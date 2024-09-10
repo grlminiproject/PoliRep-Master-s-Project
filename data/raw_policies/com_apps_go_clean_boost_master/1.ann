@@ -1,0 +1,13 @@
+T1	first-party-collection-use 245 255	collecting
+E1	first-party-collection-use:T1 Data-Collector:T4 Data-Provider:T3 Data-Collected:T2
+T2	Data-general 256 267	information
+T3	User 274 277	you
+T4	First-party-entity 188 192	Hawk
+T5	storage-place 446 455	databases
+T6	data-storage-retention-deletion 438 442	held
+E2	data-storage-retention-deletion:T6 Data-Holder:T8 Data-Holder2:T9 Storage-Place:T5 Data-Retained:T7 Data-Provider:T10 Data-Retained2:T11
+T7	Data-general 419 430	information
+T8	Third-party-entity 481 497	other Hawk group
+T9	Third-party-entity 502 521	affiliate companies
+T10	User 311 314	You
+T11	Data-general 404 417	personal data

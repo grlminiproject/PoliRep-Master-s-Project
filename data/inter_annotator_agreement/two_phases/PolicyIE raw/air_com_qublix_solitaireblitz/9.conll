@@ -1,0 +1,15 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = ACCESSING, CORRECTING AND DELETING DATA WE COLLECT FROM YOU
+1	ACCESSING	accessing	PRON	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=0:9
+2	,	,	PUNCT	,	_	3	punct	_	TokenRange=9:10
+3	CORRECTING	Correcting	VERB	VBG	VerbForm=Ger	1	conj	_	TokenRange=11:21
+4	AND	and	CCONJ	CC	_	8	cc	_	TokenRange=22:25
+5	DELETING	deleting	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=26:34
+6	DATA	data	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=35:39
+7	WE	we	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=40:42
+8	COLLECT	collect	PROPN	NNP	Number=Sing	1	conj	_	TokenRange=43:50
+9	FROM	from	ADP	IN	_	10	case	_	TokenRange=51:55
+10	YOU	you	PROPN	NNP	Number=Sing	1	nmod	_	SpacesAfter=\n\n\n|TokenRange=56:59
+

@@ -1,0 +1,59 @@
+T1	First-party-entity 45 47	We
+T2	third-party-sharing-disclosure 52 57	share
+E1	third-party-sharing-disclosure:T2 Data-Receiver:T5 Data-Shared:T4 Data-Provider:T3 Data-Sharer:T1
+T3	User 58 62	your
+T4	Data-general 63 67	data
+T5	Third-party-entity 79 105	Hawk’s affiliate companies
+T6	First-party-entity 128 130	We
+T7	third-party-sharing-disclosure 140 145	share
+E2	third-party-sharing-disclosure:T7 Purpose-Argument:T11 Data-Receiver:T10 Data-Shared:T9 Data-Provider:T8 Data-Sharer:T6
+T8	User 146 150	your
+T9	Data-general 151 155	data
+T10	Third-party-entity 161 174	third parties
+T11	Basic-service-feature 179 224	help manage our business and deliver services
+T12	third-party-sharing-disclosure 281 287	access
+E3	third-party-sharing-disclosure:T12 Data-Shared:T15 Data-Provider:T14 Data-Receiver:T13 Data-Receiver2:T16 Data-Receiver3:T31 Data-Receiver4:T32 Data-Receiver5:T33 Purpose-Argument:T41 Purpose-Argument2:T42 Purpose-Argument3:T43 Purpose-Argument4:T44 Purpose-Argument5:T45 Purpose-Argument6:T46 Purpose-Argument7:T48 Purpose-Argument8:T47 Purpose-Argument9:T49 Purpose-Argument10:T50 Purpose-Argument11:T51 Data-Receiver6:T52 Data-Receiver7:T53
+T13	Third-party-entity 232 245	third parties
+T14	User 291 295	your
+T15	Data-general 296 309	personal data
+T16	Third-party-entity 344 373	Service providers or partners
+T17	third-party-sharing-disclosure 837 843	handle
+E4	third-party-sharing-disclosure:T17 Data-Sharer:T20 Data-Shared:T19 Data-Provider:T18 Data-Receiver:T21
+T18	User 844 848	your
+T19	Data-general 849 860	information
+T20	First-party-entity 874 876	us
+T21	Third-party-entity 819 832	third parties
+T23	User 976 979	you
+T24	Data-general 991 995	data
+T25	third-party-sharing-disclosure 1127 1134	managed
+E6	third-party-sharing-disclosure:T25 Data-Receiver:T29 Data-Receiver2:T28 Data-Receiver3:T27 Data-Receiver4:T26 Condition-Argument:T30 Data-Sharer:T22 Data-Shared:T24 Data-Provider:T23
+T22	First-party-entity 1011 1014	our
+T26	Third-party-entity 1042 1053	third party
+T27	Third-party-entity 1070 1078	Facebook
+T28	Third-party-entity 1080 1087	Google+
+T29	Third-party-entity 1091 1098	Twitter
+T30	Condition 976 1061	you share your data through one of our websites or devices with a third party account
+T31	Third-party-entity 1288 1302	Our regulators
+T32	Third-party-entity 1420 1439	Other third parties
+T33	Third-party-entity 1748 1796	Solicitors and other professional services firms
+T34	third-party-sharing-disclosure 1963 1971	transfer
+E5	third-party-sharing-disclosure:T34 Purpose-Argument:T38 Data-Receiver:T37 Data-Shared:T35 Data-Provider:T36 Condition-Argument:T39 Data-Sharer:T40
+T35	Data-general 1977 1990	personal data
+T36	User 1972 1976	your
+T37	Third-party-entity 1998 2007	purchaser
+T38	Merge-acquisition 2019 2093	carrying out relevant deals such as merger, acquisition or asset transfers
+T39	Condition 1832 1944	we were to sell part of our businesses or assets, as required by applicable laws or agreed with relevant parties
+T40	First-party-entity 1832 1834	we
+T41	Basic-service-feature 380 411	perform functions on our behalf
+T42	Basic-service-feature 420 437	fulfilling orders
+T43	Basic-service-feature 439 458	delivering packages
+T44	Communications 460 490	sending postal mail and e-mail
+T45	Basic-service-feature 492 543	removing repetitive information from customer lists
+T46	Analytics-research 545 559	analyzing data
+T47	Adverstising-Marketing 561 591	providing marketing assistance
+T48	Basic-service-feature 593 663	providing search results and links (including paid listings and links)
+T49	Basic-service-feature 665 696	processing credit card payments
+T50	Communications 702 812	providing customer services or other activities as necessary part of the functioning in our product or service
+T51	Service-operation-and-security 1462 1746	detecting, preventing or otherwise addressing fraud, security or technical issues (such as cyber-attack, or other illegal or immoral acts), targeting at or related to protecting against harm to the rights, property or safety of our users or us, our affiliates, employees or the public
+T52	Third-party-entity 1315 1325	regulators
+T53	Third-party-entity 1330 1418	law enforcement or investigation agencies in the E.U., U.S., China, and around the world

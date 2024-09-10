@@ -1,0 +1,55 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Links to other sites
+1	Links	link	NOUN	NNS	Number=Plur	0	root	_	TokenRange=0:5
+2	to	to	ADP	IN	_	4	case	_	TokenRange=6:8
+3	other	other	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=9:14
+4	sites	site	NOUN	NNS	Number=Plur	1	nmod	_	SpacesAfter=\n\n|TokenRange=15:20
+
+# newpar
+# sent_id = 2
+# text = CMS websites link to other HHS sites, other government sites, and occasionally to private organizations.
+1	CMS	Cm	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=22:25
+2	websites	website	NOUN	NNS	Number=Plur	3	compound	_	TokenRange=26:34
+3	link	link	NOUN	NN	Number=Sing	0	root	_	TokenRange=35:39
+4	to	to	ADP	IN	_	7	case	_	TokenRange=40:42
+5	other	other	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=43:48
+6	HHS	Hhs	NOUN	NN	Number=Sing	7	compound	_	TokenRange=49:52
+7	sites	site	NOUN	NNS	Number=Plur	3	nmod	_	SpaceAfter=No|TokenRange=53:58
+8	,	,	PUNCT	,	_	11	punct	_	TokenRange=58:59
+9	other	other	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=60:65
+10	government	government	NOUN	NN	Number=Sing	11	compound	_	TokenRange=66:76
+11	sites	site	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=77:82
+12	,	,	PUNCT	,	_	17	punct	_	TokenRange=82:83
+13	and	and	CCONJ	CC	_	17	cc	_	TokenRange=84:87
+14	occasionally	occasionally	ADV	RB	_	17	advmod	_	TokenRange=88:100
+15	to	to	ADP	IN	_	17	case	_	TokenRange=101:103
+16	private	private	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=104:111
+17	organizations	organization	NOUN	NNS	Number=Plur	3	conj	_	SpaceAfter=No|TokenRange=112:125
+18	.	.	PUNCT	.	_	3	punct	_	TokenRange=125:126
+
+# sent_id = 3
+# text = Once you leave a CMS website, you are subject to the privacy policy for the sites you are visiting.
+1	Once	once	SCONJ	IN	_	3	mark	_	TokenRange=127:131
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=132:135
+3	leave	leave	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	TokenRange=136:141
+4	a	a	DET	DT	Definite=Ind|PronType=Art	6	det	_	TokenRange=142:143
+5	CMS	CMS	NOUN	NN	Number=Sing	6	compound	_	TokenRange=144:147
+6	website	website	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=148:155
+7	,	,	PUNCT	,	_	10	punct	_	TokenRange=155:156
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	TokenRange=157:160
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	cop	_	TokenRange=161:164
+10	subject	subject	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=165:172
+11	to	to	ADP	IN	_	14	case	_	TokenRange=173:175
+12	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=176:179
+13	privacy	privacy	NOUN	NN	Number=Sing	14	compound	_	TokenRange=180:187
+14	policy	policy	NOUN	NN	Number=Sing	10	obl	_	TokenRange=188:194
+15	for	for	ADP	IN	_	17	case	_	TokenRange=195:198
+16	the	the	DET	DT	Definite=Def|PronType=Art	17	det	_	TokenRange=199:202
+17	sites	site	NOUN	NNS	Number=Plur	14	nmod	_	TokenRange=203:208
+18	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	20	nsubj	_	TokenRange=209:212
+19	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	aux	_	TokenRange=213:216
+20	visiting	visit	VERB	VBG	Tense=Pres|VerbForm=Part	10	ccomp	_	SpaceAfter=No|TokenRange=217:225
+21	.	.	PUNCT	.	_	10	punct	_	SpacesAfter=\n\n|TokenRange=225:226
+

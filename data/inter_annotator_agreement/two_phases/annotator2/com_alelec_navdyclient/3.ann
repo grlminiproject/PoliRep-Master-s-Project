@@ -1,0 +1,144 @@
+T1	First-party-entity 140 145	Navdy
+T2	Third-party-entity 151 164	third parties
+T3	Third-party-entity 197 226	third-party service providers
+T4	first-party-collection-use 232 235	use
+E1	first-party-collection-use:T4 Data-Collector:T1 Data-Provider:T2 Data-Provider2:T3 Data-Collected:T5 Data-Collected2:T6 Data-Collected3:T7 Data-Collected4:T8 Data-Provider3:T9 Purpose-Argument:T10 Data-Collected5:T94 Condition-Argument:T110
+T5	Data-other 236 243	cookies
+T6	Data-other 245 256	web beacons
+T7	Data-other 258 278	local shared objects
+T8	Data-other 319 339	similar technologies
+T9	User 359 363	your
+T10	ServiceProvision 386 417	provide and support the Service
+T11	Condition 1119 1135	Cookies are used
+T12	first-party-collection-use 1157 1164	collect
+E2	first-party-collection-use:T12 Condition-Argument:T11 Data-Collected:T13 Data-Provider:T14 Data-Collected2:T15 Data-Collected3:T16 Data-Collected4:T17 Data-Collected5:T18 Data-Collected6:T19 Data-Collected7:T95
+T13	Data-general 1165 1176	information
+T14	User 1183 1186	you
+T15	ServiceConsumptionBehavior 1191 1214	your use of the Service
+T16	DeviceBased 1229 1241	browser type
+T17	Preference 1243 1254	preferences
+T18	Interest 1256 1339	data relating to content that has been displayed to you or that you have clicked on
+T19	Behavioral 1349 1374	date and time of your use
+T20	ServiceOptimisation 1413 1451	further Service features and processes
+T21	Verification 1453 1525	provide authentication and security for your transactions on the Service
+T22	Personalisation 1527 1549	store your preferences
+T23	Advertising 1551 1582	facilitate relevant advertising
+T24	ServiceUsageAnalytics 1588 1646	help us learn more about how users engage with the Service
+T25	Data-other 1376 1383	Cookies
+T26	first-party-collection-use 1396 1400	used
+E3	first-party-collection-use:T26 Data-Collected:T25 Purpose-Argument:T20 Purpose-Argument2:T21 Purpose-Argument3:T22 Purpose-Argument4:T23 Data-Collector:T27 Purpose-Argument5:T24 Data-Provider:T96 Data-Provider2:T112
+T27	First-party-entity 1593 1595	us
+T28	Third-party-entity 1770 1791	third-party providers
+T29	first-party-collection-use 1796 1803	collect
+E4	first-party-collection-use:T29 Condition-Argument:T32 Data-Provider:T30 Data-Collected:T31 Data-Provider2:T28 Data-Collected2:T33 Data-Collected3:T97
+T30	User 1821 1824	you
+T31	Data-general 1804 1815	information
+T32	Condition 1821 1841	you view or use them
+T33	Data-general 1853 1864	information
+T34	Third-party-entity 1965 1986	third-party providers
+T35	Purpose-other 2022 2061	help share information with the Service
+T36	Data-general 2033 2044	information
+T37	ServiceConsumptionBehavior 2068 2108	how you use their website or application
+T39	first-party-collection-use 2305 2312	collect
+E6	first-party-collection-use:T39 Data-Collector:T42 Data-Provider:T40 Data-Collected:T41 Purpose-Argument:T43 Data-Provider2:T44 Data-Provider3:T100 Data-Provider4:T101
+T40	Third-party-entity 2250 2269	Char Software, Inc.
+T41	Behavioral 2313 2323	usage data
+T42	First-party-entity 2215 2217	we
+T43	ServiceUsageAnalytics 2410 2477	understand how you and other users are interacting with our Service
+T45	storage-place 2735 2763	servers in the United States
+T46	Data-general 2652 2663	information
+T47	IPAddress 2680 2690	IP address
+T48	User 2675 2679	your
+T49	data-storage-retention-deletion 2711 2717	stored
+E8	data-storage-retention-deletion:T49 Storage-Place:T45 Data-Retained:T47 Data-Provider:T48 Data-Retained2:T46 Data-Holder:T102
+T44	Third-party-entity 2277 2300	Localytics "Localytics"
+T50	first-party-collection-use 2501 2506	track
+E7	first-party-collection-use:T50 Data-Provider:T55 Data-Collected:T51 Data-Collected2:T52 Data-Collected3:T53
+T51	ServiceConsumptionBehavior 2507 2536	activities within our Service
+T52	ServiceConsumptionBehavior 2545 2571	how long you use a product
+T53	ServiceConsumptionBehavior 2575 2621	which features and functions you interact with
+T55	Third-party-entity 2479 2489	Localytics
+T56	ServiceUsageAnalytics 2991 3024	analyze how users use our website
+T57	Third-party-entity 2950 2966	Google Analytics
+T58	first-party-collection-use 2967 2971	uses
+E9	first-party-collection-use:T58 Data-Provider:T57 Data-Collected:T59 Data-Collector:T60 Purpose-Argument:T56 Data-Provider2:T61
+T59	Data-other 2972 2979	cookies
+T60	First-party-entity 2988 2990	us
+T61	User 3003 3008	users
+T62	data-storage-retention-deletion 3129 3135	stored
+E10	data-storage-retention-deletion:T62 Storage-Place:T63 Data-Retained:T66 Data-Retained2:T65 Data-Retained3:T64 Data-Holder:T103 Data-Provider:T113
+T63	storage-place 3149 3177	servers in the United States
+T64	Data-general 3030 3041	information
+T65	Data-other 3061 3068	cookies
+T66	IPAddress 3085 3105	truncated IP address
+T67	Third-party-name 3179 3185	Google
+T68	first-party-collection-use 3191 3194	use
+E11	first-party-collection-use:T68 Data-Provider:T67 Data-Collected:T69 Purpose-Argument:T70 Purpose-Argument2:T71 Purpose-Argument3:T72 Data-Provider2:T104 Data-Provider3:T105 Data-Collector:T106
+T69	Data-general 3200 3211	information
+T70	ServiceUsageAnalytics 3231 3285	evaluating your, and other users', use of our Services
+T71	ServiceProvision 3287 3331	compiling reports for us on Service activity
+T72	ServiceProvision 3336 3408	providing other services relating to Service activity and Internet usage
+T73	Third-party-entity 3427 3433	Google
+T74	first-party-collection-use 3439 3447	receives
+E12	first-party-collection-use:T74 Data-Provider:T75 Data-Provider2:T73 Data-Collected:T76
+T75	User 3448 3452	your
+T76	IPAddress 3453 3473	truncated IP address
+T78	third-party-sharing-disclosure 3926 3930	send
+E13	third-party-sharing-disclosure:T78 Condition-Argument:T80 Data-Shared:T82 Data-Shared2:T81 Data-Shared4:T79 Data-Shared5:T83 Data-Receiver:T88 Data-Provider:T85 Data-Shared6:T84 Data-Shared7:T86 Data-Shared8:T87 Data-Shared3:T108 Data-Shared12:T77 Data-Shared9:T107
+T79	Data-other 3939 3969	information about the incident
+T80	Condition 3866 3903	the Service crashes during normal use
+T81	DeviceSoftware 4017 4028	device type
+T82	DeviceOperatingSystem 4030 4040	OS version
+T83	DeviceOperatingSystem 4053 4073	hardware information
+T84	Data-other 4123 4144	the time of the crash
+T85	User 4080 4084	your
+T86	Data-other 4146 4199	the state of the application at the time of the crash
+T87	Data-other 4205 4217	stack traces
+T88	Third-party-entity 3973 3982	HockeyApp
+T89	Data-general 4223 4234	information
+T90	Negation 4240 4243	not
+T91	User 4252 4256	your
+T92	IPAddress 4257 4267	IP address
+T93	Identifier 4281 4349	information that could be used to identify you or your mobile device
+T94	Data-other 298 311	flash cookies
+T95	Data-cookies-web-beacons-and-other-technologies 1119 1126	Cookies
+T96	User 1493 1497	your
+T97	UserAgent 1884 1901	device or browser
+T99	Data-other 2006 2018	technologies
+T38	first-party-collection-use 1996 1999	use
+E5	first-party-collection-use:T38 Data-Provider:T34 Data-Collected:T99 Data-Collected2:T36 Purpose-Argument:T35 Data-Collected3:T37
+T100	User 2425 2428	you
+T101	User 2439 2444	users
+T102	Third-party-entity 2721 2731	Localytics
+T103	Third-party-entity 3139 3145	Google
+T104	User 3242 3246	your
+T105	User 3258 3263	users
+T106	First-party-entity 3273 3276	our
+T77	Data-other 4100 4117	the Navdy display
+T108	DeviceBased 4085 4098	mobile device
+T109	third-party-sharing-disclosure 4244 4251	include
+E14	third-party-sharing-disclosure:T109 Data-Shared:T89 Polarity:T90 Data-Provider:T91 Data-Shared2:T92 Data-Shared3:T93 Data-Shared4:T111
+T111	Data-general 4395 4451	information from your mobile device or the Navdy display
+T110	Condition 343 382	connection with your use of the Service
+T112	User 1617 1622	users
+T54	third-party-sharing-disclosure 2695 2706	transmitted
+E15	third-party-sharing-disclosure:T54 Data-Shared:T46 Data-Provider:T48 Data-Shared2:T47 Data-Receiver:T102
+T98	third-party-sharing-disclosure 3110 3121	transmitted
+E16	third-party-sharing-disclosure:T98 Data-Shared:T64 Data-Shared2:T65 Data-Shared3:T66 Data-Provider:T113 Data-Receiver:T103
+T113	User 3080 3084	your
+T107	Data-other 3910 3920	technology
+T114	ServiceProvision 23 62	n order to provide you with the Service
+T115	Third-party-entity 87 100	third parties
+T116	third-party-sharing-disclosure 105 138	use the services of third parties
+E17	third-party-sharing-disclosure:T116 Data-Receiver:T115 Purpose-Argument:T114 Data-Provider:T149
+T117	third-party-sharing-disclosure 73 81	interact
+E18	third-party-sharing-disclosure:T117 Purpose-Argument:T114 Data-Receiver:T115 Data-Provider:T149
+T138	Negation 4373 4376	not
+T143	Third-party-entity 1665 1682	service providers
+T146	data-security-protection 4574 4641	control the cookies that are set on your computer or mobile device.
+E22	data-security-protection:T146 method:T119 Data-Provider:T147
+T147	User 4526 4529	You
+T149	User 42 45	you
+T118	TODO 474 481	Cookies
+#1	AnnotatorNotes T118	Unsure if such descriptive sentences require annotation. Please let me know. 
+T119	general-safeguard-method 4534 4570	use the settings within your browser

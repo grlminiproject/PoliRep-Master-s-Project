@@ -1,0 +1,647 @@
+{
+  "text": "DATA RETENTION\n\nWe retain your information for as long as needed to provide you the Service. We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.\n\n",
+  "words": [
+    "DATA",
+    "RETENTION",
+    "We",
+    "retain",
+    "your",
+    "information",
+    "for",
+    "as",
+    "long",
+    "as",
+    "needed",
+    "to",
+    "provide",
+    "you",
+    "the",
+    "Service",
+    ".",
+    "We",
+    "will",
+    "also",
+    "retain",
+    "and",
+    "use",
+    "your",
+    "information",
+    "as",
+    "necessary",
+    "to",
+    "comply",
+    "with",
+    "our",
+    "legal",
+    "obligations",
+    ",",
+    "resolve",
+    "disputes",
+    ",",
+    "and",
+    "enforce",
+    "our",
+    "agreements",
+    "."
+  ],
+  "lemma": [
+    "data",
+    "retention",
+    "we",
+    "retain",
+    "you",
+    "information",
+    "for",
+    "as",
+    "long",
+    "as",
+    "need",
+    "to",
+    "provide",
+    "you",
+    "the",
+    "service",
+    ".",
+    "we",
+    "will",
+    "also",
+    "retain",
+    "and",
+    "use",
+    "you",
+    "information",
+    "as",
+    "necessary",
+    "to",
+    "comply",
+    "with",
+    "we",
+    "legal",
+    "obligation",
+    ",",
+    "resolve",
+    "dispute",
+    ",",
+    "and",
+    "enforce",
+    "we",
+    "agreement",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "NN",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "IN",
+    "RB",
+    "RB",
+    "IN",
+    "VBN",
+    "TO",
+    "VB",
+    "PRP",
+    "DT",
+    "NN",
+    ".",
+    "PRP",
+    "MD",
+    "RB",
+    "VB",
+    "CC",
+    "VB",
+    "PRP$",
+    "NN",
+    "IN",
+    "JJ",
+    "TO",
+    "VB",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NNS",
+    ",",
+    "VB",
+    "NNS",
+    ",",
+    "CC",
+    "IN",
+    "PRP$",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "compound",
+    "root",
+    "nsubj",
+    "root",
+    "nmod:poss",
+    "obj",
+    "case",
+    "advmod",
+    "obl",
+    "mark",
+    "advcl",
+    "mark",
+    "xcomp",
+    "iobj",
+    "det",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "cc",
+    "conj",
+    "nmod:poss",
+    "obj",
+    "mark",
+    "advcl",
+    "mark",
+    "advcl",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct",
+    "conj",
+    "obj",
+    "punct",
+    "cc",
+    "case",
+    "nmod:poss",
+    "conj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      14
+    ],
+    [
+      16,
+      18
+    ],
+    [
+      19,
+      25
+    ],
+    [
+      26,
+      30
+    ],
+    [
+      31,
+      42
+    ],
+    [
+      43,
+      46
+    ],
+    [
+      47,
+      49
+    ],
+    [
+      50,
+      54
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      58,
+      64
+    ],
+    [
+      65,
+      67
+    ],
+    [
+      68,
+      75
+    ],
+    [
+      76,
+      79
+    ],
+    [
+      80,
+      83
+    ],
+    [
+      84,
+      91
+    ],
+    [
+      91,
+      92
+    ],
+    [
+      93,
+      95
+    ],
+    [
+      96,
+      100
+    ],
+    [
+      101,
+      105
+    ],
+    [
+      106,
+      112
+    ],
+    [
+      113,
+      116
+    ],
+    [
+      117,
+      120
+    ],
+    [
+      121,
+      125
+    ],
+    [
+      126,
+      137
+    ],
+    [
+      138,
+      140
+    ],
+    [
+      141,
+      150
+    ],
+    [
+      151,
+      153
+    ],
+    [
+      154,
+      160
+    ],
+    [
+      161,
+      165
+    ],
+    [
+      166,
+      169
+    ],
+    [
+      170,
+      175
+    ],
+    [
+      176,
+      187
+    ],
+    [
+      187,
+      188
+    ],
+    [
+      189,
+      196
+    ],
+    [
+      197,
+      205
+    ],
+    [
+      205,
+      206
+    ],
+    [
+      207,
+      210
+    ],
+    [
+      211,
+      218
+    ],
+    [
+      219,
+      222
+    ],
+    [
+      223,
+      233
+    ],
+    [
+      233,
+      234
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      16
+    ],
+    [
+      17,
+      41
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 16,
+      "end_idx": 18,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        2
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T3",
+      "start_idx": 26,
+      "end_idx": 30,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        4
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T4",
+      "start_idx": 31,
+      "end_idx": 42,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        5
+      ]
+    },
+    {
+      "entity/argument_text": "as long as needed",
+      "entity/argument_type": "retention-period",
+      "entity/argument_id": "T5",
+      "start_idx": 47,
+      "end_idx": 64,
+      "tokens": [
+        "as",
+        "long",
+        "as",
+        "needed"
+      ],
+      "token_idx": [
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "provide you the Service",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T6",
+      "start_idx": 68,
+      "end_idx": 91,
+      "tokens": [
+        "provide",
+        "you",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        12,
+        13,
+        14,
+        15
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 93,
+      "end_idx": 95,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        17
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T9",
+      "start_idx": 121,
+      "end_idx": 125,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        23
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T10",
+      "start_idx": 126,
+      "end_idx": 137,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        24
+      ]
+    },
+    {
+      "entity/argument_text": "comply with our legal obligations",
+      "entity/argument_type": "Legal-requirement",
+      "entity/argument_id": "T11",
+      "start_idx": 154,
+      "end_idx": 187,
+      "tokens": [
+        "comply",
+        "with",
+        "our",
+        "legal",
+        "obligations"
+      ],
+      "token_idx": [
+        28,
+        29,
+        30,
+        31,
+        32
+      ]
+    },
+    {
+      "entity/argument_text": "resolve disputes",
+      "entity/argument_type": "Communications",
+      "entity/argument_id": "T12",
+      "start_idx": 189,
+      "end_idx": 205,
+      "tokens": [
+        "resolve",
+        "disputes"
+      ],
+      "token_idx": [
+        34,
+        35
+      ]
+    },
+    {
+      "entity/argument_text": "enforce our agreements",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T13",
+      "start_idx": 211,
+      "end_idx": 233,
+      "tokens": [
+        "enforce",
+        "our",
+        "agreements"
+      ],
+      "token_idx": [
+        38,
+        39,
+        40
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "retain",
+        "start_idx": 19,
+        "end_idx": 25,
+        "tokens": [
+          "retain"
+        ],
+        "token_idx": [
+          3
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 16,
+          "end_idx": 18
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 26,
+          "end_idx": 30
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 31,
+          "end_idx": 42
+        },
+        {
+          "role": "Retention-Period",
+          "type": "retention-period",
+          "text": "as long as needed",
+          "start_idx": 47,
+          "end_idx": 64
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "provide you the Service",
+          "start_idx": 68,
+          "end_idx": 91
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "retain",
+        "start_idx": 106,
+        "end_idx": 112,
+        "tokens": [
+          "retain"
+        ],
+        "token_idx": [
+          20
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 93,
+          "end_idx": 95
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 121,
+          "end_idx": 125
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 126,
+          "end_idx": 137
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Legal-requirement",
+          "text": "comply with our legal obligations",
+          "start_idx": 154,
+          "end_idx": 187
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Communications",
+          "text": "resolve disputes",
+          "start_idx": 189,
+          "end_idx": 205
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Service-operation-and-security",
+          "text": "enforce our agreements",
+          "start_idx": 211,
+          "end_idx": 233
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

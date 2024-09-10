@@ -1,0 +1,7 @@
+T2	Data-contact 107 120	email address
+T3	Condition 24 68	you choose to activate our App Lock function
+T4	User 24 27	you
+T5	First-party-entity 47 50	our
+T1	first-party-collection-use 88 95	provide
+E1	first-party-collection-use:T1 Data-Collected:T2 Data-Collector:T5 Condition-Argument:T3 Data-Provider:T4 Purpose-Argument:T6
+T6	Basic-service-feature 151 203	could be used to reset the password of your App Lock

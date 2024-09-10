@@ -1,0 +1,65 @@
+T1	collection-use 65 68	use
+E1	collection-use:T1 Condition-Argument:T5 Data-Collected:T4 Data-Provider:T3 Data-Collector:T2
+T2	First-party-entity 59 61	us
+T3	User 69 73	your
+T4	Data-general 74 94	personal information
+T5	Condition 100 135	certain conditions apply or are met
+T6	First-party-entity 236 238	We
+T7	collection-use 243 246	use
+E2	collection-use:T7 Condition-Argument:T10 Data-Collected:T9 Data-Provider:T8 Data-Collector:T6
+T8	User 247 251	your
+T9	Data-general 252 263	information
+T10	Condition 272 312	you’ve entered into an agreement with us
+T11	Condition 332 396	you buy our merchandise and have accepted our Terms and Services
+T12	First-party-entity 398 400	we
+T13	collection-use 405 408	use
+E3	collection-use:T13 Purpose-Argument:T17 Purpose-Argument2:T16 Data-Collected:T15 Data-Provider:T14 Data-Collector:T12 Condition-Argument:T11
+T14	User 417 421	your
+T15	Data-general 422 433	information
+T16	Purpose 437 452	collect payment
+T17	Purpose 460 540	make sure you receive the right product, at the right time, to the right address
+T18	First-party-entity 563 565	We
+T19	collection-use 570 573	use
+E4	collection-use:T19 Condition-Argument:T22 Data-Collected:T21 Data-Provider:T20 Data-Collector:T18 Data-Provider2:T56
+T20	User 574 578	your
+T21	Data-general 579 590	information
+T22	Condition 599 648	we - or a third party - has a legitimate interest
+T23	First-party-entity 663 665	we
+T24	collection-use 674 677	use
+E5	collection-use:T24 Purpose-Argument:T31 Purpose-Argument2:T30 Purpose-Argument3:T29 Purpose-Argument4:T28 Purpose-Argument5:T27 Data-Collected:T26 Data-Provider:T25 Data-Collector:T23
+T25	User 678 682	your
+T26	Data-general 683 694	information
+T27	Purpose 698 740	provide, maintain and improve our services
+T28	Purpose 756 779	protecting your account
+T29	Purpose 781 814	uploading your posts and comments
+T30	Purpose 816 842	providing customer support
+T31	Purpose 848 884	showing the best content you’ll like
+T32	First-party-entity 944 948	9GAG
+T33	collection-use 960 963	use
+E6	collection-use:T33 Purpose-Argument:T35 Data-Collected:T34 Data-Collector:T32 Data-Provider:T54
+T34	Data-general 969 980	information
+T35	Purpose 984 1005	show you relevant ads
+T36	Condition 1216 1243	We may ask for your consent
+T37	First-party-entity 1216 1218	We
+T38	collection-use 1247 1250	use
+E7	collection-use:T38 Purpose-Argument:T41 Data-Collected:T40 Data-Provider:T39 Condition-Argument:T36 Data-Collector:T37
+T39	User 1251 1255	your
+T40	Data-general 1256 1267	information
+T41	Purpose 1272 1289	specific purposes
+T43	collection-use 1504 1510	access
+E8	collection-use:T43 Data-Collected:T45 Data-Collected2:T44 Condition-Argument:T46 Data-Provider:T55 Data-Collector:T53
+T44	Data-general 1511 1515	data
+T45	Data 1529 1537	location
+T46	Condition 1471 1500	we may ask you for permission
+T47	First-party-entity 1557 1559	We
+T48	collection-use 1564 1567	use
+E9	collection-use:T48 Purpose-Argument:T52 Purpose-Argument2:T51 Data-Collected:T50 Data-Provider:T49 Data-Collector:T47 Purpose-Argument3:T42
+T49	User 1568 1572	your
+T50	Data-general 1573 1593	personal information
+T51	Purpose 1599 1637	we are required to comply with the law
+T52	Purpose 1652 1685	we respond to valid legal process
+T54	User 989 992	you
+T55	User 1453 1457	your
+T53	First-party-entity 1417 1422	we’re
+T42	Purpose 1697 1742	take action to protect our users or employees
+T56	Third-party-entity 609 620	third party

@@ -1,0 +1,9 @@
+T1	First-party-entity 42 44	We
+T2	first-party-collection-use 50 57	collect
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T4 Purpose-Argument:T5 Purpose-Argument2:T6 Purpose-Argument3:T7
+T3	data-storage-retention-deletion 67 72	store
+E2	data-storage-retention-deletion:T3 Data-Holder:T1 Data-Retained:T4 Purpose-Argument:T5 Purpose-Argument2:T6 Purpose-Argument3:T7
+T4	Data-general 77 97	personal information
+T5	Adverstising-Marketing 145 372	help us manage advertising and provide you with advertising and marketing via our apps that is relevant to you, both from us and from our third party partners, as further described in the 'Third party advertising' section below
+T6	Personalization-customization 381 460	record your preferences in relation to advertising and marketing communications
+T7	Communications 473 542	receive and respond to customer support enquiries we receive from you

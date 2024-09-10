@@ -1,0 +1,93 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Information We Collect From Third Parties
+1	Information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=0:11
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	compound	_	TokenRange=12:14
+3	Collect	collect	PROPN	NNP	Number=Sing	1	appos	_	TokenRange=15:22
+4	From	from	ADP	IN	_	6	case	_	TokenRange=23:27
+5	Third	third	PROPN	NNP	Number=Sing	6	compound	_	TokenRange=28:33
+6	Parties	party	PROPN	NNPS	Number=Plur	3	nmod	_	SpacesAfter=\n\n|TokenRange=34:41
+
+# newpar
+# sent_id = 2
+# text = We may collect information from our affiliates and third parties.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=43:45
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=46:49
+3	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=50:57
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=58:69
+5	from	from	ADP	IN	_	7	case	_	TokenRange=70:74
+6	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=75:78
+7	affiliates	affiliate	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=79:89
+8	and	and	CCONJ	CC	_	10	cc	_	TokenRange=90:93
+9	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	10	amod	_	TokenRange=94:99
+10	parties	party	NOUN	NNS	Number=Plur	7	conj	_	SpaceAfter=No|TokenRange=100:107
+11	.	.	PUNCT	.	_	3	punct	_	TokenRange=107:108
+
+# sent_id = 3
+# text = For example:
+1	For	for	ADP	IN	_	2	case	_	TokenRange=109:112
+2	example	example	NOUN	NN	Number=Sing	0	root	_	SpaceAfter=No|TokenRange=113:120
+3	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n|TokenRange=120:121
+
+# sent_id = 4
+# text = If you use your Google or Facebook account to sign up or sign in to our services, we may receive information so you can create or access your 9GAG account.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=122:124
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=125:128
+3	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	advcl	_	TokenRange=129:132
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=133:137
+5	Google	Google	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=138:144
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=145:147
+7	Facebook	Facebook	PROPN	NNP	Number=Sing	5	conj	_	TokenRange=148:156
+8	account	account	NOUN	NN	Number=Sing	3	obj	_	TokenRange=157:164
+9	to	to	PART	TO	_	10	mark	_	TokenRange=165:167
+10	sign	sign	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=168:172
+11	up	up	ADP	RP	_	10	compound:prt	_	TokenRange=173:175
+12	or	or	CCONJ	CC	_	13	cc	_	TokenRange=176:178
+13	sign	sign	VERB	VB	VerbForm=Inf	10	conj	_	TokenRange=179:183
+14	in	in	ADP	IN	_	13	compound:prt	_	TokenRange=184:186
+15	to	to	ADP	IN	_	17	case	_	TokenRange=187:189
+16	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	17	nmod:poss	_	TokenRange=190:193
+17	services	service	NOUN	NNS	Number=Plur	13	obl	_	SpaceAfter=No|TokenRange=194:202
+18	,	,	PUNCT	,	_	21	punct	_	TokenRange=202:203
+19	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	21	nsubj	_	TokenRange=204:206
+20	may	may	AUX	MD	VerbForm=Fin	21	aux	_	TokenRange=207:210
+21	receive	receive	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=211:218
+22	information	information	NOUN	NN	Number=Sing	21	obj	_	TokenRange=219:230
+23	so	so	SCONJ	IN	_	26	mark	_	TokenRange=231:233
+24	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	26	nsubj	_	TokenRange=234:237
+25	can	can	AUX	MD	VerbForm=Fin	26	aux	_	TokenRange=238:241
+26	create	create	VERB	VB	VerbForm=Inf	21	advcl	_	TokenRange=242:248
+27	or	or	CCONJ	CC	_	28	cc	_	TokenRange=249:251
+28	access	access	VERB	VB	VerbForm=Inf	26	conj	_	TokenRange=252:258
+29	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	31	nmod:poss	_	TokenRange=259:263
+30	9GAG	9gag	NOUN	NN	Number=Sing	31	compound	_	TokenRange=264:268
+31	account	account	NOUN	NN	Number=Sing	28	obj	_	SpaceAfter=No|TokenRange=269:276
+32	.	.	PUNCT	.	_	21	punct	_	SpacesAfter=\n|TokenRange=276:277
+
+# sent_id = 5
+# text = If you interact with one of our advertisers, they may share information with us to help target or measure ad performance.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=278:280
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=281:284
+3	interact	interact	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	advcl	_	TokenRange=285:293
+4	with	with	ADP	IN	_	5	case	_	TokenRange=294:298
+5	one	one	NUM	CD	NumType=Card	3	obl	_	TokenRange=299:302
+6	of	of	ADP	IN	_	8	case	_	TokenRange=303:305
+7	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=306:309
+8	advertisers	advertiser	NOUN	NNS	Number=Plur	5	nmod	_	SpaceAfter=No|TokenRange=310:321
+9	,	,	PUNCT	,	_	12	punct	_	TokenRange=321:322
+10	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	12	nsubj	_	TokenRange=323:327
+11	may	may	AUX	MD	VerbForm=Fin	12	aux	_	TokenRange=328:331
+12	share	share	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=332:337
+13	information	information	NOUN	NN	Number=Sing	12	obj	_	TokenRange=338:349
+14	with	with	SCONJ	IN	_	17	mark	_	TokenRange=350:354
+15	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	17	nsubj	_	TokenRange=355:357
+16	to	to	PART	TO	_	17	mark	_	TokenRange=358:360
+17	help	help	VERB	VB	VerbForm=Inf	12	advcl	_	TokenRange=361:365
+18	target	target	NOUN	NN	Number=Sing	22	compound	_	TokenRange=366:372
+19	or	or	CCONJ	CC	_	20	cc	_	TokenRange=373:375
+20	measure	measure	VERB	VB	VerbForm=Inf	18	conj	_	TokenRange=376:383
+21	ad	ad	NOUN	NN	Number=Sing	22	compound	_	TokenRange=384:386
+22	performance	performance	NOUN	NN	Number=Sing	17	obj	_	SpaceAfter=No|TokenRange=387:398
+23	.	.	PUNCT	.	_	12	punct	_	SpacesAfter=\n\n|TokenRange=398:399
+

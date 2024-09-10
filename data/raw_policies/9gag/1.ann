@@ -1,0 +1,13 @@
+T1	Data-general 60 71	information
+T2	First-party-entity 72 74	we
+T3	first-party-collection-use 75 82	collect
+E1	first-party-collection-use:T3 Data-Collector:T2 Data-Collected:T1 Condition-Argument:T4 Data-Provider:T10 Condition-Argument2:T9 Condition-Argument3:T5
+T4	Condition 96 117	you choose to give us
+T5	Condition 142 162	you use our services
+T9	Condition 182 200	from third parties
+T10	Third-party-entity 187 200	third parties
+T11	First-party-entity 212 214	we
+T12	first-party-collection-use 215 222	collect
+E2	first-party-collection-use:T12 Data-Collected:T14 Data-Provider:T13 Data-Collector:T11
+T13	User 223 227	your
+T14	Data-general 228 239	information

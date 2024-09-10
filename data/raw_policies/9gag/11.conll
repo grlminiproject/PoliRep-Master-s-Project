@@ -1,0 +1,97 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Provided by Us
+1	Provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	TokenRange=0:8
+2	by	by	ADP	IN	_	3	case	_	TokenRange=9:11
+3	Us	us	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	1	obl	_	SpacesAfter=\n\n|TokenRange=12:14
+
+# newpar
+# sent_id = 2
+# text = We may collect information about your activity on third-party services that use cookies and other technologies provided by us.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=16:18
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=19:22
+3	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=23:30
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=31:42
+5	about	about	ADP	IN	_	7	case	_	TokenRange=43:48
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=49:53
+7	activity	activity	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=54:62
+8	on	on	ADP	IN	_	12	case	_	TokenRange=63:65
+9	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	11	amod	_	SpaceAfter=No|TokenRange=66:71
+10	-	-	PUNCT	HYPH	_	11	punct	_	SpaceAfter=No|TokenRange=71:72
+11	party	party	NOUN	NN	Number=Sing	12	compound	_	TokenRange=72:77
+12	services	service	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=78:86
+13	that	that	PRON	WDT	PronType=Rel	14	nsubj	_	TokenRange=87:91
+14	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	12	acl:relcl	_	TokenRange=92:95
+15	cookies	cookie	NOUN	NNS	Number=Plur	14	obj	_	TokenRange=96:103
+16	and	and	CCONJ	CC	_	18	cc	_	TokenRange=104:107
+17	other	other	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=108:113
+18	technologies	technology	NOUN	NNS	Number=Plur	15	conj	_	TokenRange=114:126
+19	provided	provide	VERB	VBN	Tense=Past|VerbForm=Part	15	acl	_	TokenRange=127:135
+20	by	by	ADP	IN	_	21	case	_	TokenRange=136:138
+21	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	19	obl	_	SpaceAfter=No|TokenRange=139:141
+22	.	.	PUNCT	.	_	3	punct	_	TokenRange=141:142
+
+# sent_id = 3
+# text = We use this information to improve your user experience with our services and to improve your advertising services, including measuring the performance of ads and showing you relevant ads.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=143:145
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=146:149
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=150:154
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=155:166
+5	to	to	PART	TO	_	6	mark	_	TokenRange=167:169
+6	improve	improve	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=170:177
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=178:182
+8	user	user	NOUN	NN	Number=Sing	9	compound	_	TokenRange=183:187
+9	experience	experience	NOUN	NN	Number=Sing	6	obj	_	TokenRange=188:198
+10	with	with	ADP	IN	_	12	case	_	TokenRange=199:203
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=204:207
+12	services	service	NOUN	NNS	Number=Plur	6	obl	_	TokenRange=208:216
+13	and	and	CCONJ	CC	_	15	cc	_	TokenRange=217:220
+14	to	to	PART	TO	_	15	mark	_	TokenRange=221:223
+15	improve	improve	VERB	VB	VerbForm=Inf	12	conj	_	TokenRange=224:231
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=232:236
+17	advertising	advertising	NOUN	NN	Number=Sing	18	compound	_	TokenRange=237:248
+18	services	service	NOUN	NNS	Number=Plur	15	obj	_	SpaceAfter=No|TokenRange=249:257
+19	,	,	PUNCT	,	_	2	punct	_	TokenRange=257:258
+20	including	include	VERB	VBG	VerbForm=Ger	21	case	_	TokenRange=259:268
+21	measuring	measure	VERB	VBG	VerbForm=Ger	2	advcl	_	TokenRange=269:278
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	TokenRange=279:282
+23	performance	performance	NOUN	NN	Number=Sing	21	obj	_	TokenRange=283:294
+24	of	of	ADP	IN	_	25	case	_	TokenRange=295:297
+25	ads	ad	NOUN	NNS	Number=Plur	23	nmod	_	TokenRange=298:301
+26	and	and	CCONJ	CC	_	27	cc	_	TokenRange=302:305
+27	showing	show	VERB	VBG	VerbForm=Ger	21	conj	_	TokenRange=306:313
+28	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	27	iobj	_	TokenRange=314:317
+29	relevant	relevant	ADJ	JJ	Degree=Pos	30	amod	_	TokenRange=318:326
+30	ads	ad	NOUN	NNS	Number=Plur	27	obj	_	SpaceAfter=No|TokenRange=327:330
+31	.	.	PUNCT	.	_	2	punct	_	TokenRange=330:331
+
+# sent_id = 4
+# text = Visit our Advertising Preferences page to learn more about 9GAG advertising and how you can control the information used to select the ads you see.
+1	Visit	visit	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=332:337
+2	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=338:341
+3	Advertising	advertising	NOUN	NN	Number=Sing	4	compound	_	TokenRange=342:353
+4	Preferences	preference	NOUN	NNS	Number=Plur	5	nsubj	_	TokenRange=354:365
+5	page	page	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	ccomp	_	TokenRange=366:370
+6	to	to	PART	TO	_	7	mark	_	TokenRange=371:373
+7	learn	learn	VERB	VB	VerbForm=Inf	5	xcomp	_	TokenRange=374:379
+8	more	more	ADJ	JJR	Degree=Cmp	7	obj	_	TokenRange=380:384
+9	about	about	ADP	IN	_	11	case	_	TokenRange=385:390
+10	9GAG	9gag	NOUN	NN	Number=Sing	11	compound	_	TokenRange=391:395
+11	advertising	advertising	NOUN	NN	Number=Sing	8	obl	_	TokenRange=396:407
+12	and	and	CCONJ	CC	_	16	cc	_	TokenRange=408:411
+13	how	how	ADV	WRB	PronType=Int	16	advmod	_	TokenRange=412:415
+14	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	16	nsubj	_	TokenRange=416:419
+15	can	can	AUX	MD	VerbForm=Fin	16	aux	_	TokenRange=420:423
+16	control	control	VERB	VB	VerbForm=Inf	8	conj	_	TokenRange=424:431
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=432:435
+18	information	information	NOUN	NN	Number=Sing	16	obj	_	TokenRange=436:447
+19	used	use	VERB	VBN	Tense=Past|VerbForm=Part	18	acl	_	TokenRange=448:452
+20	to	to	PART	TO	_	21	mark	_	TokenRange=453:455
+21	select	select	VERB	VB	VerbForm=Inf	19	xcomp	_	TokenRange=456:462
+22	the	the	DET	DT	Definite=Def|PronType=Art	23	det	_	TokenRange=463:466
+23	ads	ad	NOUN	NNS	Number=Plur	21	obj	_	TokenRange=467:470
+24	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	25	nsubj	_	TokenRange=471:474
+25	see	see	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpaceAfter=No|TokenRange=475:478
+26	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|TokenRange=478:479
+

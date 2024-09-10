@@ -1,0 +1,19 @@
+T1	Data-cookies-web-beacons-and-other-technologies 275 282	Cookies
+T2	first-party-collection-use 287 291	used
+E1	first-party-collection-use:T2 Purpose-Argument:T4 Data-Collector:T6 Data-Provider:T5 Purpose-Argument2:T3 Data-Collected:T1
+T3	Adverstising-Marketing 295 391	make that advertising as relevant as possible to the needs and interests of users of our Service
+T4	Adverstising-Marketing 397 482	more valuable to our advertisers in being able to show our visitors more relevant ads
+T5	User 371 376	users
+T6	First-party-entity 380 391	our Service
+T7	first-party-collection-use 501 505	used
+E2	first-party-collection-use:T7 Purpose-Argument:T9 Data-Provider:T8 Data-Collected:T10
+T8	User 515 518	you
+T9	Adverstising-Marketing 509 590	avoid you seeing the same ad multiple times and to detect and prevent click fraud
+T10	Data-cookies-web-beacons-and-other-technologies 484 491	Cookies
+T11	First-party-entity 1085 1087	We
+T12	first-party-collection-use 1097 1100	use
+E3	first-party-collection-use:T12 Purpose-Argument:T16 Purpose-Argument2:T15 Data-Collected:T14 Data-Provider:T13 Data-Collector:T11
+T13	User 1101 1105	your
+T14	Data-computer-device 1106 1116	IP address
+T15	Adverstising-Marketing 1120 1175	select and provide advertising targeted to that address
+T16	Adverstising-Marketing 1189 1387	improve the relevance of the ads you see and to measure and report to advertisers non-personal statistical information about geographical location of those website visitors who are viewing their ads

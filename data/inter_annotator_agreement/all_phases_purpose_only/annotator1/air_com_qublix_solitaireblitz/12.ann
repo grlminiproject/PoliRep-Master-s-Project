@@ -1,0 +1,7 @@
+T12	RecordManagement 580 609	maintaining financial records
+T13	LegalCompliance 611 647	protecting or enforcing legal rights
+T14	DirectMarketing 649 688	maintaining marketing suppression lists
+T15	Purpose-general 696 713	technical reasons
+T16	EnforceSecurity 722 752	maintaining technical security
+T17	RecordManagement 760 778	database integrity
+T23	Purpose-other 557 571	other purposes

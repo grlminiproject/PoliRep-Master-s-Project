@@ -1,0 +1,7 @@
+How CMS websites use information they collect
+
+CMS websites use a variety of Web measurement software tools. We use them to collect the information listed in the “Types of information collected” section above. The tools collect information automatically and continuously. No personally identifiable information is collected by these tools.
+CMS website staff analyze and report on the collected data from these tools. The reports are available only to CMS website managers, members of the CMS websites communications and web teams, and other designated staff who need this information to perform their duties.
+CMS websites may also use an online survey to collect opinions and feedback. This online survey appears on the bottom left of many pages on the site. You don't have to answer these questions. Please do not to include any personally identifiable information (PII) in comments you make. We analyze and use this information to improve the site's operation and content. The reports are available only to CMS website managers, members of the communications and Web teams, and other designated staff who require this information to perform their duties.
+CMS websites keep the data from our measurement tools as long as needed to support the mission of the website.
+

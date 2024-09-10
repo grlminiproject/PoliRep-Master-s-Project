@@ -1,0 +1,7 @@
+10. The Protection of Your Information.
+
+We work hard to protect the information provided by, or collected about, the users of our Service, from unauthorized access, or alteration, disclosure or destruction. In particular:
+a. We encrypt much of that information using SSL.
+b. We review our information collection, storage and processing practices, including physical security measures, to guard against unauthorized access to our systems and the information collected and stored therein
+c. We restrict access to personal information to those of our employees, contractors and agents, who need to know that information in order to process it for us, who are subject to the obligation of strict confidentiality as relates to that information, and who will be subject to discipline, including termination, if they violate that obligation.
+

@@ -1,0 +1,30 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How Can I Edit my Codecademy Data?
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	TokenRange=0:3
+2	Can	can	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=4:7
+3	I	I	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	4	nsubj	_	TokenRange=8:9
+4	Edit	Edit	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=10:14
+5	my	my	PRON	PRP$	Number=Sing|Person=1|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=15:17
+6	Codecademy	Codecademy	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=18:28
+7	Data	data	PROPN	NNP	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=29:33
+8	?	?	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=33:34
+
+# newpar
+# sent_id = 2
+# text = You can edit your data at any time from your profile page .
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=36:39
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=40:43
+3	edit	edit	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=44:48
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=49:53
+5	data	data	NOUN	NN	Number=Sing	3	obj	_	TokenRange=54:58
+6	at	at	ADP	IN	_	8	case	_	TokenRange=59:61
+7	any	any	DET	DT	_	8	det	_	TokenRange=62:65
+8	time	time	NOUN	NN	Number=Sing	3	obl	_	TokenRange=66:70
+9	from	from	ADP	IN	_	12	case	_	TokenRange=71:75
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=76:80
+11	profile	profile	NOUN	NN	Number=Sing	12	compound	_	TokenRange=81:88
+12	page	page	NOUN	NN	Number=Sing	3	obl	_	TokenRange=89:93
+13	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=94:95
+

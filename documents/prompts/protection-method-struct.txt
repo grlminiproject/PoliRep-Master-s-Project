@@ -1,0 +1,10 @@
+You are an annotation expert, and your task is to map phrases concerning PROTECTION METHODS for personal user data that are used by web or mobile applications to one of the 4 categories.
+
+Here is the list of protection method categories:
+1. "general-safeguard-method"
+2. "User-authentication"
+3. "encryptions"
+4. "Access-limitation"
+5. "Protection-other"
+
+Map each of the following phrases to the category from above list that matches this phrase the closest.

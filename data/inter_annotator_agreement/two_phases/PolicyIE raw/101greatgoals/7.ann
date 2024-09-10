@@ -1,0 +1,26 @@
+T1	First-party-entity 15 22	Company
+T2	first-party-collection-use 28 31	use
+E1	first-party-collection-use:T2 Purpose-Argument:T10 Data-Collected:T8 Data-Collected2:T7 Data-Collected3:T6 Data-Collected4:T5 Data-Collected5:T4 Data-Provider:T3 Data-Collector:T1 Data-Provider2:T20 Data-Provider3:T22 Data-Provider4:T23 Data-Provider5:T21
+T3	User 32 36	your
+T4	Data-general 37 57	Personal Information
+T5	Data-contact 72 76	name
+T6	Data-contact 78 90	home address
+T7	Data-contact 92 105	email address
+T8	Data-contact 107 123	telephone number
+T10	Adverstising-Marketing 202 242	providing you with promotional materials
+T9	First-party-entity 512 514	We
+T11	third-party-sharing-disclosure 524 529	share
+E2	third-party-sharing-disclosure:T11 Data-Provider:T15 Purpose-Argument:T14 Data-Receiver:T13 Data-Shared:T12 Data-Sharer:T9
+T12	Data-general 543 563	Personal Information
+T13	Third-party-entity 573 593	Marketing Affiliates
+T14	Adverstising-Marketing 613 653	providing you different marketing offers
+T15	User 623 626	you
+T16	first-party-collection-use 753 756	use
+E3	first-party-collection-use:T16 Data-Provider:T17 Purpose-Argument5:T19 Data-Collected:T18
+T17	Third-party-entity 728 748	Marketing Affiliates
+T18	Data-general 762 782	Personal Information
+T19	Adverstising-Marketing 787 883	different marketing techniques, such as direct email, post, SMS and telephone marketing purposes
+T20	Third-party-entity 156 182	third party subcontractors
+T21	Third-party-entity 346 380	other companies within the Company
+T22	Third-party-entity 390 436	the Company's business partners and affiliates
+T23	Third-party-entity 453 473	Marketing Affiliates

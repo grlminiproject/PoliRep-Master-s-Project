@@ -1,0 +1,7 @@
+INFORMATION AND DATA WE COLLECT
+
+Here are some example of information and data we may collect from you:
+· Data that are collected automatically (your device’s operating system, browser type and language);
+· Identifiers that are used to identify your mobile device such as your unique device ID (persistent/non-persistent), hardware type, medial access control (“MAC”) address;
+· Profile information that you volunteer (such as name, email address, profile photo, gender, age or birthday, links to profiles on other social networking websites);
+

@@ -1,0 +1,49 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How We Collect and Use Information
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=4:6
+3	Collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7:14
+4	and	and	CCONJ	CC	_	6	cc	_	TokenRange=15:18
+5	Use	use	NOUN	NN	Number=Sing	6	compound	_	TokenRange=19:22
+6	Information	information	NOUN	NN	Number=Sing	3	conj	_	SpacesAfter=\n\n|TokenRange=23:34
+
+# newpar
+# sent_id = 2
+# text = Capitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.
+1	Capitalized	Capitaliz	VERB	VBN	Tense=Past|VerbForm=Part	2	amod	_	TokenRange=36:47
+2	terms	term	NOUN	NNS	Number=Plur	11	nsubj	_	TokenRange=48:53
+3	that	that	PRON	WDT	PronType=Rel	6	nsubj:pass	_	TokenRange=54:58
+4	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	6	aux:pass	_	TokenRange=59:62
+5	not	not	PART	RB	_	6	advmod	_	TokenRange=63:66
+6	defined	define	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	2	acl:relcl	_	TokenRange=67:74
+7	in	in	ADP	IN	_	10	case	_	TokenRange=75:77
+8	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	TokenRange=78:82
+9	Privacy	privacy	NOUN	NN	Number=Sing	10	compound	_	TokenRange=83:90
+10	Policy	policy	NOUN	NN	Number=Sing	6	obl	_	TokenRange=91:97
+11	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=98:102
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=103:106
+13	meaning	meaning	NOUN	NN	Number=Sing	11	obj	_	TokenRange=107:114
+14	given	give	VERB	VBN	Tense=Past|VerbForm=Part	13	acl	_	TokenRange=115:120
+15	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	14	obj	_	TokenRange=121:125
+16	in	in	ADP	IN	_	18	case	_	TokenRange=126:128
+17	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=129:132
+18	Terms	term	NOUN	NNS	Number=Plur	14	obl	_	TokenRange=133:138
+19	of	of	ADP	IN	_	20	case	_	TokenRange=139:141
+20	Service	service	NOUN	NN	Number=Sing	18	nmod	_	SpaceAfter=No|TokenRange=142:149
+21	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n|TokenRange=149:150
+
+# sent_id = 3
+# text = We collect the following types of information about you:
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=151:153
+2	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=154:161
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=162:165
+4	following	follow	VERB	VBG	VerbForm=Ger	5	amod	_	TokenRange=166:175
+5	types	type	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=176:181
+6	of	of	ADP	IN	_	7	case	_	TokenRange=182:184
+7	information	information	NOUN	NN	Number=Sing	5	nmod	_	TokenRange=185:196
+8	about	about	ADP	IN	_	9	case	_	TokenRange=197:202
+9	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	7	nmod	_	SpaceAfter=No|TokenRange=203:206
+10	:	:	PUNCT	:	_	2	punct	_	SpacesAfter=\n\n|TokenRange=206:207
+

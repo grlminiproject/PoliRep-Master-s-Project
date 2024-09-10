@@ -1,0 +1,12 @@
+5.2 Web Beacons
+
+We may log information using digital images called web beacons on our Service or in our emails. We use web beacons to manage cookies, count visits, and to learn which emails are read and used by our users and which are not. We also use web beacons to tell if you open or act on our emails. Similar to cookies, we use web beacons to improve your experience with our Service.
+Tracking Options and California Do Not Track Disclosures. You are welcome to adjust your browser or operating system settings to limit this tracking or to decline cookies and doing so will not change your experience in the Marco Polo App or Website.
+Check the "Help" menu of your browser or operating system to learn how to change your tracking settings or cookie preferences. For example:
+With Chrome:
+At the top right, click More Settings.
+At the bottom, click Advanced.
+Under "Privacy and security," turn on "Do Not Track."
+With Firefox, follow the instructions here.
+The Marco Polo Website respects your preferences and turns off tracking (including our use of Google Analytics).
+

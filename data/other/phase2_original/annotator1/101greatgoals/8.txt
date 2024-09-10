@@ -1,0 +1,18 @@
+WITH WHOM WE SHARE INFORMATION?
+
+We do not rent, sell, or share your Personal Information with third parties ("Recipients") except as described in this Privacy Policy. The Personal Information will be disclosed to Recipients only to the extent required for the specific purpose, as stipulated in this Privacy Policy.
+We share Personal Information with any of the following recipients:
+Our clients that deploy our Services on their online properties (such as websites and mobile apps); this includes our clients whose websites or apps you have visited, as well as an advertiser whose site or app you have visited – we share information about how you have interacted with such websites or apps.
+Companies within the Company and other affiliated companies;
+Subcontractors and third party service providers, as well as their subcontractors, which by way of example include (but is not limited to) cloud computing companies, marketing affiliates, identity verification and fraud prevention services, and other data verifiers;
+Auditors, contractors or advisers of any of the Company's business processes;
+To any third parties who investigate, detect or prevent fraudulent or illegal activity (e.g. governmental authorities, police, banks and other investigatory organizations);
+Licensing authorities, governmental and regulatory bodies, in accordance with applicable laws and regulations; and
+Potential purchasers or investors in any of the companies within the Company, or in the event of a corporate transaction (e.g. sale of a substantial part of our business, merger, reorganization, bankruptcy, consolidation or asset sale of an asset or transfer in the operation thereof) in relation to any company within the Company (in such event, the acquiring company or transferee will assume the rights and obligations as described in this Privacy Policy).
+In addition to the purposes listed in this Privacy Policy, we share Personal Information with those Recipients for any of the following purposes:
+Storing such information on our behalf, for example by using cloud computing service providers;
+Processing such information to assist us with our business operations (e.g. to process payments and your deposits; authenticate your access; auditing our operations; detect and prevent fraudulent or illegal activity; etc.);
+Performing research, technical diagnostics or analytics (such as for geo-location);
+Communicating targeted advertising, as well as promotional and informational materials, in accordance with our marketing policy (see below, under "Marketing"); and
+Whenever we believe in good faith that disclosure is necessary to protect our rights or legal claims, enforce our policies (including our User Agreement and Privacy Policy), protect your safety or the safety of others, as well as to investigate or prevent any fraud, for security reasons or to help us with any other related technical issue.
+

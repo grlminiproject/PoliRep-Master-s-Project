@@ -1,0 +1,19 @@
+T1	First-party-entity 440 443	CMS
+T2	collection-use 459 466	collect
+E1	collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Provider:T4 Condition-Argument:T5
+T3	Identifying 471 512	personally identifiable information (PII)
+T4	User 519 522	you
+T5	Condition 548 578	you choose to provide it to us
+T6	First-party-entity 580 582	We
+T7	collection-use 596 603	collect
+E2	collection-use:T7 Data-Collector:T6 Data-Collected:T8 Data-Provider:T9 Condition-Argument:T10
+T8	Data-general 604 615	information
+T9	User 621 629	visitors
+T10	Condition 634 689	read, browse, and/or download information from our site
+T11	First-party-entity 785 788	CMS
+T12	Negation 798 803	never
+T13	collection-use 804 811	collect
+E3	collection-use:T13 Data-Collector:T11 Polarity:T12 Data-Collected:T14 Purpose-Argument:T15 Purpose-Argument2:T16
+T14	Data-general 812 823	information
+T15	Marketing 828 848	commercial marketing
+T16	Purpose-other 852 898	any purpose unrelated to our mission and goals

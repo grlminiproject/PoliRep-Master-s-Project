@@ -1,0 +1,4 @@
+(3) Internet Protocol address
+
+Device event information such as crashes, system activity, hardware settings, browser type, the date and time of your request and referral URL.
+

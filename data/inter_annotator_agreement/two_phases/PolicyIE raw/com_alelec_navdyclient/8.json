@@ -1,0 +1,927 @@
+{
+  "text": "Security\n\nNavdy takes reasonable measures to protect the information you provide to Navdy or submit through the Service against loss, theft, unauthorized use, disclosure, or modification. However, Navdy cannot guarantee or warrant the security of any information you transmit to Navdy or submit through the Service and you do so at your own risk.\n\n",
+  "words": [
+    "Security",
+    "Navdy",
+    "takes",
+    "reasonable",
+    "measures",
+    "to",
+    "protect",
+    "the",
+    "information",
+    "you",
+    "provide",
+    "to",
+    "Navdy",
+    "or",
+    "submit",
+    "through",
+    "the",
+    "Service",
+    "against",
+    "loss",
+    ",",
+    "theft",
+    ",",
+    "unauthorized",
+    "use",
+    ",",
+    "disclosure",
+    ",",
+    "or",
+    "modification",
+    ".",
+    "However",
+    ",",
+    "Navdy",
+    "can",
+    "not",
+    "guarantee",
+    "or",
+    "warrant",
+    "the",
+    "security",
+    "of",
+    "any",
+    "information",
+    "you",
+    "transmit",
+    "to",
+    "Navdy",
+    "or",
+    "submit",
+    "through",
+    "the",
+    "Service",
+    "and",
+    "you",
+    "do",
+    "so",
+    "at",
+    "your",
+    "own",
+    "risk",
+    "."
+  ],
+  "lemma": [
+    "security",
+    "Navdy",
+    "take",
+    "reasonable",
+    "measure",
+    "to",
+    "protect",
+    "the",
+    "information",
+    "you",
+    "provide",
+    "to",
+    "Navdy",
+    "or",
+    "submit",
+    "through",
+    "the",
+    "service",
+    "against",
+    "loss",
+    ",",
+    "theft",
+    ",",
+    "unauthorized",
+    "use",
+    ",",
+    "disclosure",
+    ",",
+    "or",
+    "modification",
+    ".",
+    "however",
+    ",",
+    "Navdy",
+    "can",
+    "not",
+    "guarantee",
+    "or",
+    "warrant",
+    "the",
+    "security",
+    "of",
+    "any",
+    "information",
+    "you",
+    "transmit",
+    "to",
+    "Navdy",
+    "or",
+    "submit",
+    "through",
+    "the",
+    "service",
+    "and",
+    "you",
+    "do",
+    "so",
+    "at",
+    "you",
+    "own",
+    "risk",
+    "."
+  ],
+  "pos-tags": [
+    "NN",
+    "NNP",
+    "VBZ",
+    "JJ",
+    "NNS",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    "IN",
+    "NNP",
+    "CC",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "CC",
+    "NN",
+    ".",
+    "RB",
+    ",",
+    "NN",
+    "MD",
+    "RB",
+    "VB",
+    "CC",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    "IN",
+    "NNP",
+    "CC",
+    "VBP",
+    "IN",
+    "DT",
+    "NN",
+    "CC",
+    "PRP",
+    "VBP",
+    "RB",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "nsubj",
+    "root",
+    "amod",
+    "obj",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "obl",
+    "cc",
+    "conj",
+    "case",
+    "det",
+    "obl",
+    "case",
+    "nmod",
+    "punct",
+    "conj",
+    "punct",
+    "amod",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "cc",
+    "conj",
+    "punct",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "advmod",
+    "root",
+    "cc",
+    "conj",
+    "det",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "obl",
+    "cc",
+    "conj",
+    "case",
+    "det",
+    "obl",
+    "cc",
+    "nsubj",
+    "conj",
+    "advmod",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      10,
+      15
+    ],
+    [
+      16,
+      21
+    ],
+    [
+      22,
+      32
+    ],
+    [
+      33,
+      41
+    ],
+    [
+      42,
+      44
+    ],
+    [
+      45,
+      52
+    ],
+    [
+      53,
+      56
+    ],
+    [
+      57,
+      68
+    ],
+    [
+      69,
+      72
+    ],
+    [
+      73,
+      80
+    ],
+    [
+      81,
+      83
+    ],
+    [
+      84,
+      89
+    ],
+    [
+      90,
+      92
+    ],
+    [
+      93,
+      99
+    ],
+    [
+      100,
+      107
+    ],
+    [
+      108,
+      111
+    ],
+    [
+      112,
+      119
+    ],
+    [
+      120,
+      127
+    ],
+    [
+      128,
+      132
+    ],
+    [
+      132,
+      133
+    ],
+    [
+      134,
+      139
+    ],
+    [
+      139,
+      140
+    ],
+    [
+      141,
+      153
+    ],
+    [
+      154,
+      157
+    ],
+    [
+      157,
+      158
+    ],
+    [
+      159,
+      169
+    ],
+    [
+      169,
+      170
+    ],
+    [
+      171,
+      173
+    ],
+    [
+      174,
+      186
+    ],
+    [
+      186,
+      187
+    ],
+    [
+      188,
+      195
+    ],
+    [
+      195,
+      196
+    ],
+    [
+      197,
+      202
+    ],
+    [
+      203,
+      206
+    ],
+    [
+      206,
+      209
+    ],
+    [
+      210,
+      219
+    ],
+    [
+      220,
+      222
+    ],
+    [
+      223,
+      230
+    ],
+    [
+      231,
+      234
+    ],
+    [
+      235,
+      243
+    ],
+    [
+      244,
+      246
+    ],
+    [
+      247,
+      250
+    ],
+    [
+      251,
+      262
+    ],
+    [
+      263,
+      266
+    ],
+    [
+      267,
+      275
+    ],
+    [
+      276,
+      278
+    ],
+    [
+      279,
+      284
+    ],
+    [
+      285,
+      287
+    ],
+    [
+      288,
+      294
+    ],
+    [
+      295,
+      302
+    ],
+    [
+      303,
+      306
+    ],
+    [
+      307,
+      314
+    ],
+    [
+      315,
+      318
+    ],
+    [
+      319,
+      322
+    ],
+    [
+      323,
+      325
+    ],
+    [
+      326,
+      328
+    ],
+    [
+      329,
+      331
+    ],
+    [
+      332,
+      336
+    ],
+    [
+      337,
+      340
+    ],
+    [
+      341,
+      345
+    ],
+    [
+      345,
+      346
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      0
+    ],
+    [
+      1,
+      30
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      33,
+      61
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Navdy",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 10,
+      "end_idx": 15,
+      "tokens": [
+        "Navdy"
+      ],
+      "token_idx": [
+        1
+      ]
+    },
+    {
+      "entity/argument_text": "reasonable measures",
+      "entity/argument_type": "general-safeguard-method",
+      "entity/argument_id": "T2",
+      "start_idx": 22,
+      "end_idx": 41,
+      "tokens": [
+        "reasonable",
+        "measures"
+      ],
+      "token_idx": [
+        3,
+        4
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T4",
+      "start_idx": 57,
+      "end_idx": 68,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        8
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T5",
+      "start_idx": 69,
+      "end_idx": 72,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "loss",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T6",
+      "start_idx": 128,
+      "end_idx": 132,
+      "tokens": [
+        "loss"
+      ],
+      "token_idx": [
+        19
+      ]
+    },
+    {
+      "entity/argument_text": "theft",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T7",
+      "start_idx": 134,
+      "end_idx": 139,
+      "tokens": [
+        "theft"
+      ],
+      "token_idx": [
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "unauthorized use",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T8",
+      "start_idx": 141,
+      "end_idx": 157,
+      "tokens": [
+        "unauthorized",
+        "use"
+      ],
+      "token_idx": [
+        23,
+        24
+      ]
+    },
+    {
+      "entity/argument_text": "disclosure",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T9",
+      "start_idx": 159,
+      "end_idx": 169,
+      "tokens": [
+        "disclosure"
+      ],
+      "token_idx": [
+        26
+      ]
+    },
+    {
+      "entity/argument_text": "modification",
+      "entity/argument_type": "security-threat",
+      "entity/argument_id": "T10",
+      "start_idx": 174,
+      "end_idx": 186,
+      "tokens": [
+        "modification"
+      ],
+      "token_idx": [
+        29
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T11",
+      "start_idx": 251,
+      "end_idx": 262,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        43
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T12",
+      "start_idx": 263,
+      "end_idx": 266,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        44
+      ]
+    },
+    {
+      "entity/argument_text": "Navdy",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T14",
+      "start_idx": 197,
+      "end_idx": 202,
+      "tokens": [
+        "Navdy"
+      ],
+      "token_idx": [
+        33
+      ]
+    },
+    {
+      "entity/argument_text": "you transmit to Navdy or submit through the Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T15",
+      "start_idx": 263,
+      "end_idx": 314,
+      "tokens": [
+        "you",
+        "transmit",
+        "to",
+        "Navdy",
+        "or",
+        "submit",
+        "through",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51,
+        52
+      ]
+    },
+    {
+      "entity/argument_text": "cannot",
+      "entity/argument_type": "Negation",
+      "entity/argument_id": "T20",
+      "start_idx": 203,
+      "end_idx": 209,
+      "tokens": [
+        "can",
+        "not"
+      ],
+      "token_idx": [
+        34,
+        35
+      ]
+    },
+    {
+      "entity/argument_text": "guarantee or warrant",
+      "entity/argument_type": "general-safeguard-method",
+      "entity/argument_id": "T13",
+      "start_idx": 210,
+      "end_idx": 230,
+      "tokens": [
+        "guarantee",
+        "or",
+        "warrant"
+      ],
+      "token_idx": [
+        36,
+        37,
+        38
+      ]
+    },
+    {
+      "entity/argument_text": "you provide to Navdy or submit through the Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T16",
+      "start_idx": 69,
+      "end_idx": 119,
+      "tokens": [
+        "you",
+        "provide",
+        "to",
+        "Navdy",
+        "or",
+        "submit",
+        "through",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        9,
+        10,
+        11,
+        12,
+        13,
+        14,
+        15,
+        16,
+        17
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "protect",
+        "start_idx": 45,
+        "end_idx": 52,
+        "tokens": [
+          "protect"
+        ],
+        "token_idx": [
+          6
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "method",
+          "type": "general-safeguard-method",
+          "text": "reasonable measures",
+          "start_idx": 22,
+          "end_idx": 41
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "Navdy",
+          "start_idx": 10,
+          "end_idx": 15
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 57,
+          "end_idx": 68
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 69,
+          "end_idx": 72
+        },
+        {
+          "role": "protect-against",
+          "type": "security-threat",
+          "text": "loss",
+          "start_idx": 128,
+          "end_idx": 132
+        },
+        {
+          "role": "protect-against2",
+          "type": "security-threat",
+          "text": "theft",
+          "start_idx": 134,
+          "end_idx": 139
+        },
+        {
+          "role": "protect-against3",
+          "type": "security-threat",
+          "text": "modification",
+          "start_idx": 174,
+          "end_idx": 186
+        },
+        {
+          "role": "protect-against4",
+          "type": "security-threat",
+          "text": "disclosure",
+          "start_idx": 159,
+          "end_idx": 169
+        },
+        {
+          "role": "protect-against5",
+          "type": "security-threat",
+          "text": "unauthorized use",
+          "start_idx": 141,
+          "end_idx": 157
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you provide to Navdy or submit through the Service",
+          "start_idx": 69,
+          "end_idx": 119
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "security",
+        "start_idx": 235,
+        "end_idx": 243,
+        "tokens": [
+          "security"
+        ],
+        "token_idx": [
+          40
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "Navdy",
+          "start_idx": 197,
+          "end_idx": 202
+        },
+        {
+          "role": "Polarity",
+          "type": "Negation",
+          "text": "cannot",
+          "start_idx": 203,
+          "end_idx": 209
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 251,
+          "end_idx": 262
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 263,
+          "end_idx": 266
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you transmit to Navdy or submit through the Service",
+          "start_idx": 263,
+          "end_idx": 314
+        },
+        {
+          "role": "method",
+          "type": "general-safeguard-method",
+          "text": "guarantee or warrant",
+          "start_idx": 210,
+          "end_idx": 230
+        }
+      ],
+      "event_id": "E3"
+    }
+  ]
+}

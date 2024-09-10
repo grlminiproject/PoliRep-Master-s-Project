@@ -1,0 +1,87 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How long we keep data and how we access it
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	TokenRange=0:3
+2	long	long	ADV	RB	Degree=Pos	4	advmod	_	TokenRange=4:8
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=9:11
+4	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=12:16
+5	data	data	NOUN	NN	Number=Sing	4	obj	_	TokenRange=17:21
+6	and	and	CCONJ	CC	_	9	cc	_	TokenRange=22:25
+7	how	how	ADV	WRB	PronType=Int	9	advmod	_	TokenRange=26:29
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=30:32
+9	access	access	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	conj	_	TokenRange=33:39
+10	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	9	obj	_	SpacesAfter=\n\n|TokenRange=40:42
+
+# newpar
+# sent_id = 2
+# text = CMS websites keep data collected long enough to achieve the specified objective for which they were collected.
+1	CMS	Cm	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=44:47
+2	websites	websites	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=48:56
+3	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=57:61
+4	data	dato	NOUN	NN	Number=Sing	3	obj	_	TokenRange=62:66
+5	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	3	xcomp	_	TokenRange=67:76
+6	long	long	ADV	RB	Degree=Pos	5	advmod	_	TokenRange=77:81
+7	enough	enough	ADV	RB	_	5	advmod	_	TokenRange=82:88
+8	to	to	PART	TO	_	9	mark	_	TokenRange=89:91
+9	achieve	achieve	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=92:99
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=100:103
+11	specified	specify	VERB	VBN	Tense=Past|VerbForm=Part	12	amod	_	TokenRange=104:113
+12	objective	objective	ADJ	JJ	Degree=Pos	9	obj	_	TokenRange=114:123
+13	for	for	ADP	IN	_	14	case	_	TokenRange=124:127
+14	which	which	PRON	WDT	PronType=Rel	17	obl	_	TokenRange=128:133
+15	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	17	nsubj:pass	_	TokenRange=134:138
+16	were	be	AUX	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	17	aux:pass	_	TokenRange=139:143
+17	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	12	acl:relcl	_	SpaceAfter=No|TokenRange=144:153
+18	.	.	PUNCT	.	_	3	punct	_	TokenRange=153:154
+
+# sent_id = 3
+# text = The data generated from these activities falls under the National Archives and Records Administration (NARA) General Records Schedule (GRS) 20-item IC “Electronic Records,” and will be handled according to the requirements of that schedule ( https://www.archives.gov/records-mgmt/policy/transfer-guidance.html ).
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=155:158
+2	data	data	NOUN	NN	Number=Sing	7	nsubj	_	TokenRange=159:163
+3	generated	generate	VERB	VBN	Tense=Past|VerbForm=Part	2	acl	_	TokenRange=164:173
+4	from	from	ADP	IN	_	6	case	_	TokenRange=174:178
+5	these	these	DET	DT	Number=Plur|PronType=Dem	6	det	_	TokenRange=179:184
+6	activities	activity	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=185:195
+7	falls	fall	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=196:201
+8	under	under	ADP	IN	_	14	case	_	TokenRange=202:207
+9	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=208:211
+10	National	National	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=212:220
+11	Archives	archives	NOUN	NNS	Number=Plur	14	compound	_	TokenRange=221:229
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=230:233
+13	Records	record	NOUN	NNS	Number=Plur	11	conj	_	TokenRange=234:241
+14	Administration	Administration	NOUN	NN	Number=Sing	7	obl	_	TokenRange=242:256
+15	(	(	PUNCT	-LRB-	_	7	punct	_	SpaceAfter=No|TokenRange=257:258
+16	NARA	NARA	PROPN	NNP	Number=Sing	7	parataxis	_	SpaceAfter=No|TokenRange=258:262
+17	)	)	PUNCT	-RRB-	_	16	punct	_	TokenRange=262:263
+18	General	General	ADJ	JJ	Degree=Pos	19	amod	_	TokenRange=264:271
+19	Records	record	NOUN	NNS	Number=Plur	20	compound	_	TokenRange=272:279
+20	Schedule	schedule	NOUN	NN	Number=Sing	22	compound	_	TokenRange=280:288
+21	(	(	PUNCT	-LRB-	_	22	punct	_	SpaceAfter=No|TokenRange=289:290
+22	GRS	Gr	NOUN	NNS	Number=Plur	7	parataxis	_	SpaceAfter=No|TokenRange=290:293
+23	)	)	PUNCT	-RRB-	_	22	punct	_	TokenRange=293:294
+24	20	20	NUM	CD	NumType=Card	22	nummod	_	SpaceAfter=No|TokenRange=295:297
+25	-	-	PUNCT	HYPH	_	7	punct	_	SpaceAfter=No|TokenRange=297:298
+26	item	item	NOUN	NN	Number=Sing	27	compound	_	TokenRange=298:302
+27	IC	Ic	NOUN	NN	Number=Sing	30	compound	_	TokenRange=303:305
+28	“	"	PUNCT	``	_	30	punct	_	SpaceAfter=No|TokenRange=306:307
+29	Electronic	Electronic	ADJ	JJ	Degree=Pos	30	amod	_	TokenRange=307:317
+30	Records	record	NOUN	NNS	Number=Plur	7	parataxis	_	SpaceAfter=No|TokenRange=318:325
+31	,	,	PUNCT	,	_	30	punct	_	SpaceAfter=No|TokenRange=325:326
+32	”	"	PUNCT	''	_	7	punct	_	TokenRange=326:327
+33	and	and	CCONJ	CC	_	36	cc	_	TokenRange=328:331
+34	will	will	AUX	MD	VerbForm=Fin	36	aux	_	TokenRange=332:336
+35	be	be	AUX	VB	VerbForm=Inf	36	aux:pass	_	TokenRange=337:339
+36	handled	handle	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	7	conj	_	TokenRange=340:347
+37	according	accord	VERB	VBG	VerbForm=Ger	40	case	_	TokenRange=348:357
+38	to	to	ADP	IN	_	37	fixed	_	TokenRange=358:360
+39	the	the	DET	DT	Definite=Def|PronType=Art	40	det	_	TokenRange=361:364
+40	requirements	requirement	NOUN	NNS	Number=Plur	36	obl	_	TokenRange=365:377
+41	of	of	ADP	IN	_	43	case	_	TokenRange=378:380
+42	that	that	DET	DT	Number=Sing|PronType=Dem	43	det	_	TokenRange=381:385
+43	schedule	schedule	NOUN	NN	Number=Sing	40	nmod	_	TokenRange=386:394
+44	(	(	PUNCT	-LRB-	_	45	punct	_	TokenRange=395:396
+45	https://www.archives.gov/records-mgmt/policy/transfer-guidance.html	https://www.archives.gov/records-mgmt/policy/transfer-guidance.html	X	ADD	_	43	appos	_	TokenRange=397:464
+46	)	)	PUNCT	-RRB-	_	45	punct	_	SpaceAfter=No|TokenRange=465:466
+47	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n\n|TokenRange=466:467
+

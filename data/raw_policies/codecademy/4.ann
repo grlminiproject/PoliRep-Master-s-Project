@@ -1,0 +1,107 @@
+T1	First-party-entity 40 42	We
+T3	first-party-collection-use 57 64	collect
+E1	first-party-collection-use:T3 Condition-Argument2:T5 Data-Provider:T7 Data-Collected:T4 Data-Collector:T1
+T4	Data-general 82 99	usage information
+T5	Condition 105 145	you visit our website or use our Service
+T7	User 105 108	you
+T8	Condition 152 170	you visit the Site
+T9	First-party-entity 172 174	we
+T10	User 152 155	you
+T11	first-party-collection-use 179 183	send
+E2	first-party-collection-use:T11 Purpose-Argument:T14 Purpose-Argument2:T13 Data-Collected:T12 Data-Collector:T9 Condition-Argument:T8 Data-Provider:T10
+T12	Data-cookies-web-beacons-and-other-technologies 196 203	cookies
+T13	Basic-service-feature 340 362	help you log in faster
+T14	Basic-service-feature 367 407	enhance your navigation through the site
+T15	Analytics-research 458 481	how you use the Service
+T16	Data-cookies-web-beacons-and-other-technologies 411 417	cookie
+T17	first-party-collection-use 427 433	convey
+E3	first-party-collection-use:T17 Purpose-Argument:T21 Data-Provider:T20 Purpose-Argument2:T15 Data-Collector:T19 Data-Collected:T18 Data-Collected2:T16 Data-Collected3:T84 Data-Collected4:T79 Data-Collected5:T31
+T18	Data-general 434 445	information
+T19	First-party-entity 449 451	us
+T20	User 462 465	you
+T21	Analytics-research 588 629	track your usage of the Service over time
+T22	First-party-entity 631 633	We
+T23	first-party-collection-use 638 645	collect
+E4	first-party-collection-use:T23 Data-Collected:T24 Data-Collector:T22 Condition-Argument:T26 Data-Provider:T25 Data-Collected2:T94 Data-Collected3:T93 Data-Collected4:T92 Data-Collected5:T91 Data-Collected6:T90 Data-Collected7:T89 Data-Collected8:T88 Data-Collected9:T87 Data-Collected10:T86 Data-Collected11:T85 Data-Collected12:T2
+T24	Data-general 646 701	log file information from your browser or mobile device
+T26	Condition 712 735	you access the Service.
+T27	first-party-collection-use 1135 1139	used
+E5	first-party-collection-use:T27 Data-Collected:T29 Data-Collected2:T28 Data-Collector:T30 Data-Collected3:T95 Data-Provider:T37
+T28	Data-cookies-web-beacons-and-other-technologies 1086 1096	clear gifs
+T29	Data-aggregated-nonidentifiable 1161 1186	the online usage patterns
+T30	First-party-entity 1072 1074	We
+T32	First-party-entity 1214 1216	we
+T33	first-party-collection-use 1226 1229	use
+E6	first-party-collection-use:T33 Purpose-Argument2:T36 Data-Provider:T35 Data-Collected:T34 Data-Collector:T32 Purpose-Argument3:T40 Purpose-Argument4:T39
+T34	Data-cookies-web-beacons-and-other-technologies 1230 1240	clear gifs
+T35	User 1274 1279	users
+T36	Analytics-research 1283 1354	track which emails are opened and which links are clicked by recipients
+T39	Analytics-research 1383 1406	more accurate reporting
+T40	Analytics-research 1411 1437	improvement of the Service
+T38	First-party-entity 1439 1441	We
+T41	first-party-collection-use 1451 1458	collect
+E7	first-party-collection-use:T41 Purpose-Argument:T44 Purpose-Argument2:T43 Data-Collected:T42 Data-Collector:T38
+T42	Data-aggregated-nonidentifiable 1459 1473	analytics data
+T43	Analytics-research 1522 1537	measure traffic
+T44	Analytics-research 1542 1570	usage trends for the Service
+T45	first-party-collection-use 1584 1591	collect
+E8	first-party-collection-use:T45 Purpose-Argument:T51 Data-Collected:T50 Data-Collected2:T49 Data-Collected3:T48 Data-Provider:T47 Data-Collected4:T46 Data-Collector:T52
+T46	Data-general 1592 1603	information
+T47	User 1612 1616	your
+T48	Data-user-online-activities-profiles 1657 1672	pages you visit
+T49	Data-user-online-activities-profiles 1674 1710	your use of third party applications
+T50	Data-other 1716 1733	other information
+T51	Basic-service-feature 1753 1788	analyzing and improving the Service
+T52	First-party-entity 1747 1749	us
+T53	Condition 1795 1848	you access our Services by or through a mobile device
+T54	User 1795 1798	you
+T55	First-party-entity 1806 1809	our
+T56	first-party-collection-use 1857 1864	receive
+E9	first-party-collection-use:T56 Data-Collected:T63 Data-Collected2:T62 Data-Collected3:T61 Data-Collected4:T60 Data-Collected5:T59 Data-Collected6:T58 Data-Collected7:T57 Condition-Argument:T53 Data-Collector:T55 Data-Provider:T54
+T57	Data-computer-device 1888 1959	unique identification numbers associated with your device ("Device ID")
+T58	Data-computer-device 1961 1975	mobile carrier
+T59	Data-computer-device 1977 2005	device type and manufacturer
+T60	Data-computer-device 2007 2019	phone number
+T61	Data-location 2073 2099	geographical location data
+T62	Data-location 2111 2159	GPS coordinates (e.g. latitude and/or longitude)
+T63	Data-location 2163 2227	similar information regarding the location of your mobile device
+T64	First-party-entity 2229 2231	We
+T65	first-party-collection-use 2232 2235	use
+E10	first-party-collection-use:T65 Purpose-Argument:T71 Purpose-Argument2:T70 Purpose-Argument3:T69 Purpose-Argument4:T68 Purpose-Argument5:T67 Purpose-Argument6:T66 Data-Collected:T77 Data-Collected2:T76 Data-Collected3:T74 Data-Collected4:T73 Data-Collected5:T72 Data-Collector:T64 Data-Collected6:T75
+T66	Basic-service-feature 2362 2477	remember information so that you will not have to re-enter it during your visit or the next time you visit the site
+T67	Personalization-customization 2483 2535	provide custom, personalized content and information
+T68	Analytics-research 2541 2593	provide and monitor the effectiveness of our Service
+T69	Analytics-research 2599 2730	monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service
+T70	Communications 2736 2771	diagnose or fix technology problems
+T71	Analytics-research 2781 2826	otherwise to plan for and enhance our service
+T72	Data-general 2251 2255	data
+T73	Data-cookies-web-beacons-and-other-technologies 2274 2281	cookies
+T74	Data-cookies-web-beacons-and-other-technologies 2283 2291	log file
+T75	Data-cookies-web-beacons-and-other-technologies 2293 2311	device identifiers
+T76	Data-location 2313 2326	location data
+T77	Data-cookies-web-beacons-and-other-technologies 2331 2341	clear gifs
+T78	first-party-collection-use 2835 2844	associate
+E11	first-party-collection-use:T78 Data-Collected:T81 Data-Collected2:T83 Data-Provider:T82 Data-Collector:T80
+T80	First-party-entity 2828 2830	We
+T81	Data-general 2845 2856	information
+T82	User 2887 2891	your
+T83	Data-other 2892 2909	other information
+T31	Data-user-online-activities-profiles 492 506	pages you view
+T79	Data-user-online-activities-profiles 512 527	links you click
+T84	Data-user-online-activities-profiles 538 569	actions you take on the Service
+T25	User 712 715	you
+T85	Data-user-online-activities-profiles 804 815	web request
+T86	Data-computer-device 817 849	Internet Protocol ("IP") address
+T87	Data-computer-device 851 863	browser type
+T88	Data-computer-device 865 901	information about your mobile device
+T89	Data-user-online-activities-profiles 903 934	referring / exit pages and URLs
+T90	Data-user-online-activities-profiles 936 999	number of clicks and how you interact with links on the Service
+T91	Data-computer-device 1001 1013	domain names
+T92	Data-user-online-activities-profiles 1015 1028	landing pages
+T93	Data-user-online-activities-profiles 1030 1042	pages viewed
+T94	Data-other 1048 1070	other such information
+T95	Data-cookies-web-beacons-and-other-technologies 1112 1123	web beacons
+T2	Data-aggregated-nonidentifiable 769 790	anonymous information
+T37	User 1194 1199	Users
+T6	data-storage-retention-deletion 1880 1885	store
+E12	data-storage-retention-deletion:T6 Data-Provider:T54 Data-Holder:T55 Condition-Argument:T53 Data-Retained:T57 Data-Retained2:T58 Data-Retained3:T59 Data-Retained4:T60 Data-Retained5:T61 Data-Retained6:T62 Data-Retained7:T63

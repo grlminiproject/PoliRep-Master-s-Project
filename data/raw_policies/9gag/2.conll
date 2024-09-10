@@ -1,0 +1,9 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How We Collect Information
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=0:3
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=4:6
+3	Collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=7:14
+4	Information	information	NOUN	NN	Number=Sing	3	obj	_	SpacesAfter=\n\n\n|TokenRange=15:26
+

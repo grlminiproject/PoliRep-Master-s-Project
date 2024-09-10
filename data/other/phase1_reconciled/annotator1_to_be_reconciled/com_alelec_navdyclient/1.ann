@@ -1,0 +1,7 @@
+T1	collection-use 139 142	use
+E1	collection-use:T1 Data-Collector:T5 Data-Collected:T2 Data-Provider:T3 Data-Collected2:T4 Data-Collected3:T6
+T2	Data-general 146 157	information
+T3	User 164 167	you
+T4	TODO 191 208	notice@navdy.com.
+T5	First-party-entity 135 138	our
+T6	PrivacyPreference 108 122	Privacy Policy

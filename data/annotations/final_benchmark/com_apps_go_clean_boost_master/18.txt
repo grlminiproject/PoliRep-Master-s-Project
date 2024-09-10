@@ -1,0 +1,6 @@
+8. Profiling
+
+“Automated decision making” refers to a decision which is taken though the automated processing of your personal data alone. This means processing using, for example, software code or an algorithm, which does not involve any human intervention. As profiling uses automated processing, it is sometimes connected with automated decision making. Not all profiling results in automated decision making, but it can do.
+If you are a consumer that has signed up to receive marketing updates, we may use profiling to ensure that marketing materials are tailored to your preferences and to what we think you will be interested in. This does not have any significant effect, or a legal effect on you. In certain circumstances it may be possible to infer certain information about you from the result of profiling, which may include special categories of data. We will not however conduct profiling based on your special categories of data unless we have obtained your explicit consent to do so.
+PLEASE NOTE: You have certain rights in respect of automated decision making, including profiling where that decision has significant effects on you, including where it produces a legal effect on you. See Section 10.
+

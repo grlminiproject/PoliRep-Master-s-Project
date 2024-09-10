@@ -1,0 +1,17 @@
+T1	First-party-entity 16 18	We
+T2	data-storage-retention-deletion 19 25	retain
+E1	data-storage-retention-deletion:T2 Data-Holder:T1 Data-Provider:T3 Data-Retained:T4 Retention-Period:T5 Purpose-Argument:T6
+T3	User 26 30	your
+T4	Data-general 31 42	information
+T5	retention-period 47 64	as long as needed
+T6	ServiceProvision 68 91	provide you the Service
+T7	First-party-entity 93 95	We
+T8	data-storage-retention-deletion 106 112	retain
+E2	data-storage-retention-deletion:T8 Data-Holder:T7 Data-Provider:T9 Data-Retained:T10 Purpose-Argument:T11 Purpose-Argument2:T12 Purpose-Argument3:T13
+T9	User 121 125	your
+T10	Data-general 126 137	information
+T11	LegalCompliance 154 187	comply with our legal obligations
+T12	DisputeManagement 189 205	resolve disputes
+T13	Purpose-other 211 233	enforce our agreements
+T14	collection-use 117 120	use
+E3	collection-use:T14 Data-Collector:T7 Data-Provider:T9 Data-Collected:T10 Purpose-Argument:T11 Purpose-Argument2:T12 Purpose-Argument3:T13

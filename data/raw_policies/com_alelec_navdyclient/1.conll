@@ -1,0 +1,112 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Changes to this Privacy Policy
+1	Changes	change	NOUN	NNS	Number=Plur	0	root	_	TokenRange=0:7
+2	to	to	ADP	IN	_	5	case	_	TokenRange=8:10
+3	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	TokenRange=11:15
+4	Privacy	privacy	NOUN	NN	Number=Sing	5	compound	_	TokenRange=16:23
+5	Policy	policy	NOUN	NN	Number=Sing	1	nmod	_	SpacesAfter=\n\n|TokenRange=24:30
+
+# newpar
+# sent_id = 2
+# text = We may make changes to this Privacy Policy.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=32:34
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=35:38
+3	make	make	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=39:43
+4	changes	change	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=44:51
+5	to	to	ADP	IN	_	8	case	_	TokenRange=52:54
+6	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	TokenRange=55:59
+7	Privacy	privacy	NOUN	NN	Number=Sing	8	compound	_	TokenRange=60:67
+8	Policy	policy	NOUN	NN	Number=Sing	4	nmod	_	SpaceAfter=No|TokenRange=68:74
+9	.	.	PUNCT	.	_	3	punct	_	TokenRange=74:75
+
+# sent_id = 3
+# text = The most current version of the Privacy Policy will govern our use of information about you and will be located at notice@navdy.com.
+1	The	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=76:79
+2	most	most	ADV	RBS	_	3	advmod	_	TokenRange=80:84
+3	current	current	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=85:92
+4	version	version	NOUN	NN	Number=Sing	10	nsubj	_	TokenRange=93:100
+5	of	of	ADP	IN	_	8	case	_	TokenRange=101:103
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=104:107
+7	Privacy	privacy	NOUN	NN	Number=Sing	8	compound	_	TokenRange=108:115
+8	Policy	policy	NOUN	NN	Number=Sing	4	nmod	_	TokenRange=116:122
+9	will	will	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=123:127
+10	govern	govern	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=128:134
+11	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=135:138
+12	use	use	NOUN	NN	Number=Sing	10	obj	_	TokenRange=139:142
+13	of	of	ADP	IN	_	14	case	_	TokenRange=143:145
+14	information	information	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=146:157
+15	about	about	ADP	IN	_	16	case	_	TokenRange=158:163
+16	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	14	nmod	_	TokenRange=164:167
+17	and	and	CCONJ	CC	_	20	cc	_	TokenRange=168:171
+18	will	will	AUX	MD	VerbForm=Fin	20	aux	_	TokenRange=172:176
+19	be	be	AUX	VB	VerbForm=Inf	20	aux:pass	_	TokenRange=177:179
+20	located	locate	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	10	conj	_	TokenRange=180:187
+21	at	at	ADP	IN	_	22	case	_	TokenRange=188:190
+22	notice@navdy.com	notice@navdy.com	X	ADD	_	20	obl	_	SpaceAfter=No|TokenRange=191:207
+23	.	.	PUNCT	.	_	10	punct	_	TokenRange=207:208
+
+# sent_id = 4
+# text = If we make material changes to this Privacy Policy, we'll notify you by posting a notice on the Service and, if you provide your email to us, by sending an email to the address we have on file for you.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=209:211
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=212:214
+3	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	TokenRange=215:219
+4	material	material	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=220:228
+5	changes	change	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=229:236
+6	to	to	ADP	IN	_	9	case	_	TokenRange=237:239
+7	this	this	DET	DT	Number=Sing|PronType=Dem	9	det	_	TokenRange=240:244
+8	Privacy	privacy	NOUN	NN	Number=Sing	9	compound	_	TokenRange=245:252
+9	Policy	policy	NOUN	NN	Number=Sing	3	obl	_	SpaceAfter=No|TokenRange=253:259
+10	,	,	PUNCT	,	_	13	punct	_	TokenRange=259:260
+11	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	13	nsubj	_	SpaceAfter=No|TokenRange=261:263
+12	'll	will	AUX	MD	VerbForm=Fin	13	aux	_	TokenRange=263:266
+13	notify	notify	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=267:273
+14	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	13	obj	_	TokenRange=274:277
+15	by	by	SCONJ	IN	_	16	mark	_	TokenRange=278:280
+16	posting	post	VERB	VBG	VerbForm=Ger	13	advcl	_	TokenRange=281:288
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	TokenRange=289:290
+18	notice	notice	NOUN	NN	Number=Sing	16	obj	_	TokenRange=291:297
+19	on	on	ADP	IN	_	21	case	_	TokenRange=298:300
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	TokenRange=301:304
+21	Service	service	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=305:312
+22	and	and	CCONJ	CC	_	16	cc	_	SpaceAfter=No|TokenRange=313:316
+23	,	,	PUNCT	,	_	13	punct	_	TokenRange=316:317
+24	if	if	SCONJ	IN	_	26	mark	_	TokenRange=318:320
+25	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	26	nsubj	_	TokenRange=321:324
+26	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	TokenRange=325:332
+27	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	28	nmod:poss	_	TokenRange=333:337
+28	email	email	NOUN	NN	Number=Sing	26	obj	_	TokenRange=338:343
+29	to	to	ADP	IN	_	30	case	_	TokenRange=344:346
+30	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	26	obl	_	SpaceAfter=No|TokenRange=347:349
+31	,	,	PUNCT	,	_	26	punct	_	TokenRange=349:350
+32	by	by	SCONJ	IN	_	33	mark	_	TokenRange=351:353
+33	sending	send	VERB	VBG	VerbForm=Ger	26	advcl	_	TokenRange=354:361
+34	an	a	DET	DT	Definite=Ind|PronType=Art	35	det	_	TokenRange=362:364
+35	email	email	NOUN	NN	Number=Sing	33	obj	_	TokenRange=365:370
+36	to	to	ADP	IN	_	38	case	_	TokenRange=371:373
+37	the	the	DET	DT	Definite=Def|PronType=Art	38	det	_	TokenRange=374:377
+38	address	address	NOUN	NN	Number=Sing	35	nmod	_	TokenRange=378:385
+39	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	40	nsubj	_	TokenRange=386:388
+40	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	38	acl:relcl	_	TokenRange=389:393
+41	on	on	ADP	IN	_	42	case	_	TokenRange=394:396
+42	file	file	NOUN	NN	Number=Sing	40	obl	_	TokenRange=397:401
+43	for	for	ADP	IN	_	44	case	_	TokenRange=402:405
+44	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	42	nmod	_	SpaceAfter=No|TokenRange=406:409
+45	.	.	PUNCT	.	_	13	punct	_	TokenRange=409:410
+
+# sent_id = 5
+# text = Please ensure this address remains current so you'll receive updates.
+1	Please	please	INTJ	UH	_	2	discourse	_	TokenRange=411:417
+2	ensure	ensure	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=418:424
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=425:429
+4	address	address	NOUN	NN	Number=Sing	5	nsubj	_	TokenRange=430:437
+5	remains	remain	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	ccomp	_	TokenRange=438:445
+6	current	current	ADJ	JJ	Degree=Pos	5	xcomp	_	TokenRange=446:453
+7	so	so	SCONJ	IN	_	10	mark	_	TokenRange=454:456
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	SpaceAfter=No|TokenRange=457:460
+9	'll	will	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=460:463
+10	receive	receive	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=464:471
+11	updates	update	NOUN	NNS	Number=Plur	10	obj	_	SpaceAfter=No|TokenRange=472:479
+12	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=479:480
+

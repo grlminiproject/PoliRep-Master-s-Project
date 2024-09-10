@@ -1,0 +1,6 @@
+T1	data-security-protection 189 198	safeguard
+E1	data-security-protection:T1 Data-Provider:T6 Data-Protected:T5 method:T4 Data-Protector:T3
+T3	First-party-entity 113 115	We
+T4	general-safeguard-method 135 180	physical, administrative, and technical steps
+T5	Data-general 203 214	information
+T6	User 241 244	you

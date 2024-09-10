@@ -1,0 +1,17 @@
+T1	First-party-entity 128 131	our
+T2	first-party-collection-use 132 135	use
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Provider:T3 Data-Collected:T4 Purpose-Argument:T5 Purpose-Argument2:T6 Condition-Argument:T7
+T3	User 139 143	your
+T4	Data-general 144 164	personal information
+T5	Basic-service-feature 181 232	perform our obligations under any contract with you
+T6	Service-operation-and-security 250 294	comply with the terms of service of our apps
+T7	Condition 304 351	you have provided us with your consent to do so
+T8	Condition 562 593	where (a) or (b) does not apply
+T9	First-party-entity 595 598	our
+T10	first-party-collection-use 599 602	use
+E2	first-party-collection-use:T10 Condition-Argument:T8 Data-Collector:T9 Data-Provider:T11 Data-Collected:T12 Purpose-Argument:T13 Purpose-Argument2:T14 Purpose-Argument3:T15
+T11	User 606 610	your
+T12	Data-general 611 631	personal information
+T13	Other 649 711	our legitimate interests or the legitimate interests of others
+T14	Analytics-research 750 897	run, grow and develop our business (as well as the businesses of our group companies) including funding our business by use of advertising revenues
+T15	Analytics-research 908 985	operate, maintain and improve our apps and our marketing optimisation efforts

@@ -1,0 +1,132 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 5.
+1	5	5	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = Minors and Children under the Age of 16.
+1	Minors	Minors	NOUN	NNS	Number=Plur	0	root	_	TokenRange=3:9
+2	and	and	CCONJ	CC	_	3	cc	_	TokenRange=10:13
+3	Children	Children	NOUN	NNS	Number=Plur	1	conj	_	TokenRange=14:22
+4	under	under	ADP	IN	_	6	case	_	TokenRange=23:28
+5	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=29:32
+6	Age	age	PROPN	NNP	Number=Sing	1	nmod	_	TokenRange=33:36
+7	of	of	ADP	IN	_	8	case	_	TokenRange=37:39
+8	16	16	NUM	CD	NumType=Card	6	nmod	_	SpaceAfter=No|TokenRange=40:42
+9	.	.	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|TokenRange=42:43
+
+# newpar
+# sent_id = 3
+# text = EMI does not knowingly collect or solicit personal information from anyone under the age of 16 or knowingly allow such persons to register to use our Service.
+1	EMI	EMI	PRON	PRP	Case=Nom|Number=Sing|Person=1|PronType=Prs	5	nsubj	_	TokenRange=45:48
+2	does	do	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	5	aux	_	TokenRange=49:53
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=54:57
+4	knowingly	knowingly	ADV	RB	_	5	advmod	_	TokenRange=58:67
+5	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=68:75
+6	or	or	CCONJ	CC	_	7	cc	_	TokenRange=76:78
+7	solicit	solicit	VERB	VB	VerbForm=Inf	5	conj	_	TokenRange=79:86
+8	personal	personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=87:95
+9	information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=96:107
+10	from	from	ADP	IN	_	11	case	_	TokenRange=108:112
+11	anyone	anyone	PRON	NN	Number=Sing	5	obl	_	TokenRange=113:119
+12	under	under	ADP	IN	_	14	case	_	TokenRange=120:125
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=126:129
+14	age	age	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=130:133
+15	of	of	ADP	IN	_	16	case	_	TokenRange=134:136
+16	16	16	NUM	CD	NumType=Card	14	nmod	_	TokenRange=137:139
+17	or	or	CCONJ	CC	_	18	cc	_	TokenRange=140:142
+18	knowingly	knowingly	ADV	RB	_	11	conj	_	TokenRange=143:152
+19	allow	allow	VERB	VB	VerbForm=Inf	11	acl	_	TokenRange=153:158
+20	such	such	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=159:163
+21	persons	person	NOUN	NNS	Number=Plur	19	obj	_	TokenRange=164:171
+22	to	to	PART	TO	_	23	mark	_	TokenRange=172:174
+23	register	register	VERB	VB	VerbForm=Inf	21	acl	_	TokenRange=175:183
+24	to	to	PART	TO	_	25	mark	_	TokenRange=184:186
+25	use	use	VERB	VB	VerbForm=Inf	23	xcomp	_	TokenRange=187:190
+26	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	27	nmod:poss	_	TokenRange=191:194
+27	Service	service	NOUN	NN	Number=Sing	25	obj	_	SpaceAfter=No|TokenRange=195:202
+28	.	.	PUNCT	.	_	5	punct	_	TokenRange=202:203
+
+# sent_id = 4
+# text = No one under age 16 is allowed to provide any personal information to EMI or on our Service.
+1	No	no	DET	DT	_	2	det	_	TokenRange=204:206
+2	one	one	NOUN	NN	Number=Sing	7	nsubj:pass	_	TokenRange=207:210
+3	under	under	ADP	IN	_	4	case	_	TokenRange=211:216
+4	age	age	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=217:220
+5	16	16	NUM	CD	NumType=Card	4	nummod	_	TokenRange=221:223
+6	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	7	aux:pass	_	TokenRange=224:226
+7	allowed	allow	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=227:234
+8	to	to	PART	TO	_	9	mark	_	TokenRange=235:237
+9	provide	provide	VERB	VB	VerbForm=Inf	7	xcomp	_	TokenRange=238:245
+10	any	any	DET	DT	_	12	det	_	TokenRange=246:249
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=250:258
+12	information	information	NOUN	NN	Number=Sing	9	obj	_	TokenRange=259:270
+13	to	to	ADP	IN	_	14	case	_	TokenRange=271:273
+14	EMI	EMI	PROPN	NNP	Number=Sing	12	nmod	_	TokenRange=274:277
+15	or	or	CCONJ	CC	_	18	cc	_	TokenRange=278:280
+16	on	on	ADP	IN	_	18	case	_	TokenRange=281:283
+17	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=284:287
+18	Service	service	NOUN	NN	Number=Sing	14	conj	_	SpaceAfter=No|TokenRange=288:295
+19	.	.	PUNCT	.	_	7	punct	_	TokenRange=295:296
+
+# sent_id = 5
+# text = In the event that we learn that we have collected personal information from a child under age 16, we will delete that information as quickly as possible.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=297:299
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=300:303
+3	event	event	NOUN	NN	Number=Sing	22	obl	_	TokenRange=304:309
+4	that	that	PRON	WDT	PronType=Rel	6	obj	_	TokenRange=310:314
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	6	nsubj	_	TokenRange=315:317
+6	learn	learn	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	acl:relcl	_	TokenRange=318:323
+7	that	that	SCONJ	IN	_	10	mark	_	TokenRange=324:328
+8	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	10	nsubj	_	TokenRange=329:331
+9	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	TokenRange=332:336
+10	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part	6	ccomp	_	TokenRange=337:346
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=347:355
+12	information	information	NOUN	NN	Number=Sing	10	obj	_	TokenRange=356:367
+13	from	from	ADP	IN	_	15	case	_	TokenRange=368:372
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	TokenRange=373:374
+15	child	child	NOUN	NN	Number=Sing	10	obl	_	TokenRange=375:380
+16	under	under	ADP	IN	_	17	case	_	TokenRange=381:386
+17	age	age	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=387:390
+18	16	16	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|TokenRange=391:393
+19	,	,	PUNCT	,	_	22	punct	_	TokenRange=393:394
+20	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	22	nsubj	_	TokenRange=395:397
+21	will	will	AUX	MD	VerbForm=Fin	22	aux	_	TokenRange=398:402
+22	delete	delete	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=403:409
+23	that	that	DET	DT	Number=Sing|PronType=Dem	24	det	_	TokenRange=410:414
+24	information	information	NOUN	NN	Number=Sing	22	obj	_	TokenRange=415:426
+25	as	as	ADV	RB	_	26	advmod	_	TokenRange=427:429
+26	quickly	quickly	ADV	RB	_	22	advmod	_	TokenRange=430:437
+27	as	as	SCONJ	IN	_	28	mark	_	TokenRange=438:440
+28	possible	possible	ADJ	JJ	Degree=Pos	22	advcl	_	SpaceAfter=No|TokenRange=441:449
+29	.	.	PUNCT	.	_	22	punct	_	TokenRange=449:450
+
+# sent_id = 6
+# text = If you believe that we might have any information from or about a child under age 16, please contact us at legal@entrepreneur.com .
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=451:453
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=454:457
+3	believe	believe	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	20	advcl	_	TokenRange=458:465
+4	that	that	SCONJ	IN	_	7	mark	_	TokenRange=466:470
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TokenRange=471:473
+6	might	might	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=474:479
+7	have	have	VERB	VB	VerbForm=Inf	3	ccomp	_	TokenRange=480:484
+8	any	any	DET	DT	_	9	det	_	TokenRange=485:488
+9	information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=489:500
+10	from	from	ADP	IN	_	14	case	_	TokenRange=501:505
+11	or	or	CCONJ	CC	_	12	cc	_	TokenRange=506:508
+12	about	about	ADP	IN	_	10	conj	_	TokenRange=509:514
+13	a	a	DET	DT	Definite=Ind|PronType=Art	14	det	_	TokenRange=515:516
+14	child	child	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=517:522
+15	under	under	ADP	IN	_	16	case	_	TokenRange=523:528
+16	age	age	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=529:532
+17	16	16	NUM	CD	NumType=Card	16	nummod	_	SpaceAfter=No|TokenRange=533:535
+18	,	,	PUNCT	,	_	20	punct	_	TokenRange=535:536
+19	please	please	INTJ	UH	_	20	discourse	_	TokenRange=537:543
+20	contact	contact	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=544:551
+21	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	20	obj	_	TokenRange=552:554
+22	at	at	ADP	IN	_	23	case	_	TokenRange=555:557
+23	legal@entrepreneur.com	legal@entrepreneur.com	X	ADD	_	20	obl	_	TokenRange=558:580
+24	.	.	PUNCT	.	_	20	punct	_	SpacesAfter=\n\n|TokenRange=581:582
+

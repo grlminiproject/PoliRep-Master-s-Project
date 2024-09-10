@@ -1,0 +1,1334 @@
+{
+  "text": "INFORMATION AND DATA WE COLLECT\n\nHere are some example of information and data we may collect from you:\n\u00b7 Data that are collected automatically (your device\u2019s operating system, browser type and language);\n\u00b7 Identifiers that are used to identify your mobile device such as your unique device ID (persistent/non-persistent), hardware type, medial access control (\u201cMAC\u201d) address;\n\u00b7 Profile information that you volunteer (such as name, email address, profile photo, gender, age or birthday, links to profiles on other social networking websites);\n\n",
+  "words": [
+    "INFORMATION",
+    "AND",
+    "DATA",
+    "WE",
+    "COLLECT",
+    "Here",
+    "are",
+    "some",
+    "example",
+    "of",
+    "information",
+    "and",
+    "data",
+    "we",
+    "may",
+    "collect",
+    "from",
+    "you",
+    ":",
+    "\u00b7",
+    "Data",
+    "that",
+    "are",
+    "collected",
+    "automatically",
+    "(",
+    "your",
+    "device",
+    "\u2019s",
+    "operating",
+    "system",
+    ",",
+    "browser",
+    "type",
+    "and",
+    "language",
+    ")",
+    ";",
+    "\u00b7",
+    "Identifiers",
+    "that",
+    "are",
+    "used",
+    "to",
+    "identify",
+    "your",
+    "mobile",
+    "device",
+    "such",
+    "as",
+    "your",
+    "unique",
+    "device",
+    "ID",
+    "(",
+    "persistent",
+    "/",
+    "non-persistent",
+    ")",
+    ",",
+    "hardware",
+    "type",
+    ",",
+    "medial",
+    "access",
+    "control",
+    "(",
+    "\u201c",
+    "MAC",
+    "\u201d",
+    ")",
+    "address",
+    ";",
+    "\u00b7",
+    "Profile",
+    "information",
+    "that",
+    "you",
+    "volunteer",
+    "(",
+    "such",
+    "as",
+    "name",
+    ",",
+    "email",
+    "address",
+    ",",
+    "profile",
+    "photo",
+    ",",
+    "gender",
+    ",",
+    "age",
+    "or",
+    "birthday",
+    ",",
+    "links",
+    "to",
+    "profiles",
+    "on",
+    "other",
+    "social",
+    "networking",
+    "websites",
+    ")",
+    ";"
+  ],
+  "lemma": [
+    "information",
+    "and",
+    "data",
+    "we",
+    "collect",
+    "here",
+    "be",
+    "some",
+    "example",
+    "of",
+    "information",
+    "and",
+    "data",
+    "we",
+    "may",
+    "collect",
+    "from",
+    "you",
+    ":",
+    "\u00b7",
+    "data",
+    "that",
+    "be",
+    "collect",
+    "automatically",
+    "(",
+    "you",
+    "device",
+    "'s",
+    "operating",
+    "system",
+    ",",
+    "browser",
+    "type",
+    "and",
+    "language",
+    ")",
+    ";",
+    "\u00b7",
+    "Identifier",
+    "that",
+    "be",
+    "use",
+    "to",
+    "identify",
+    "you",
+    "mobile",
+    "device",
+    "such",
+    "as",
+    "you",
+    "unique",
+    "device",
+    "id",
+    "(",
+    "persistent",
+    "/",
+    "non-persistent",
+    ")",
+    ",",
+    "hardware",
+    "type",
+    ",",
+    "medial",
+    "access",
+    "control",
+    "(",
+    "\"",
+    "Mac",
+    "\"",
+    ")",
+    "address",
+    ";",
+    "\u00b7",
+    "profile",
+    "information",
+    "that",
+    "you",
+    "volunteer",
+    "(",
+    "such",
+    "as",
+    "name",
+    ",",
+    "email",
+    "address",
+    ",",
+    "profile",
+    "photo",
+    ",",
+    "gender",
+    ",",
+    "age",
+    "or",
+    "birthday",
+    ",",
+    "link",
+    "to",
+    "profile",
+    "on",
+    "other",
+    "social",
+    "networking",
+    "website",
+    ")",
+    ";"
+  ],
+  "pos-tags": [
+    "NN",
+    "CC",
+    "NN",
+    "PRP",
+    "VBP",
+    "RB",
+    "VBP",
+    "DT",
+    "NN",
+    "IN",
+    "NN",
+    "CC",
+    "NN",
+    "PRP",
+    "MD",
+    "VB",
+    "IN",
+    "PRP",
+    ":",
+    "NFP",
+    "NN",
+    "WDT",
+    "VBP",
+    "VBN",
+    "RB",
+    "-LRB-",
+    "PRP$",
+    "NN",
+    "POS",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    "CC",
+    "NN",
+    "-RRB-",
+    ",",
+    "NFP",
+    "NNS",
+    "WDT",
+    "VBP",
+    "VBN",
+    "TO",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "JJ",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    "NN",
+    "-LRB-",
+    "JJ",
+    ",",
+    "JJ",
+    "-RRB-",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    "NN",
+    "-LRB-",
+    "``",
+    "NN",
+    "''",
+    "-RRB-",
+    "NN",
+    ",",
+    "NFP",
+    "NN",
+    "NN",
+    "IN",
+    "PRP",
+    "NN",
+    "-LRB-",
+    "JJ",
+    "IN",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    ",",
+    "NN",
+    "CC",
+    "NN",
+    ",",
+    "NNS",
+    "IN",
+    "NNS",
+    "IN",
+    "JJ",
+    "JJ",
+    "NN",
+    "NNS",
+    "-RRB-",
+    ","
+  ],
+  "dependency-relation": [
+    "root",
+    "cc",
+    "conj",
+    "nsubj",
+    "parataxis",
+    "root",
+    "cop",
+    "det",
+    "nsubj",
+    "case",
+    "nmod",
+    "cc",
+    "conj",
+    "nsubj",
+    "aux",
+    "acl:relcl",
+    "case",
+    "obl",
+    "punct",
+    "punct",
+    "appos",
+    "nsubj:pass",
+    "aux:pass",
+    "acl:relcl",
+    "advmod",
+    "punct",
+    "nmod:poss",
+    "nmod:poss",
+    "case",
+    "compound",
+    "parataxis",
+    "punct",
+    "compound",
+    "conj",
+    "cc",
+    "conj",
+    "punct",
+    "punct",
+    "punct",
+    "appos",
+    "nsubj:pass",
+    "aux:pass",
+    "acl:relcl",
+    "mark",
+    "xcomp",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "fixed",
+    "nmod:poss",
+    "amod",
+    "compound",
+    "nmod",
+    "punct",
+    "appos",
+    "cc",
+    "conj",
+    "punct",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "amod",
+    "compound",
+    "conj",
+    "punct",
+    "punct",
+    "appos",
+    "punct",
+    "punct",
+    "obj",
+    "punct",
+    "punct",
+    "compound",
+    "conj",
+    "mark",
+    "acl",
+    "appos",
+    "punct",
+    "case",
+    "fixed",
+    "nmod",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "conj",
+    "punct",
+    "conj",
+    "cc",
+    "conj",
+    "punct",
+    "conj",
+    "case",
+    "nmod",
+    "case",
+    "amod",
+    "amod",
+    "compound",
+    "nmod",
+    "punct",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      11
+    ],
+    [
+      12,
+      15
+    ],
+    [
+      16,
+      20
+    ],
+    [
+      21,
+      23
+    ],
+    [
+      24,
+      31
+    ],
+    [
+      33,
+      37
+    ],
+    [
+      38,
+      41
+    ],
+    [
+      42,
+      46
+    ],
+    [
+      47,
+      54
+    ],
+    [
+      55,
+      57
+    ],
+    [
+      58,
+      69
+    ],
+    [
+      70,
+      73
+    ],
+    [
+      74,
+      78
+    ],
+    [
+      79,
+      81
+    ],
+    [
+      82,
+      85
+    ],
+    [
+      86,
+      93
+    ],
+    [
+      94,
+      98
+    ],
+    [
+      99,
+      102
+    ],
+    [
+      102,
+      103
+    ],
+    [
+      104,
+      105
+    ],
+    [
+      106,
+      110
+    ],
+    [
+      111,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      129
+    ],
+    [
+      130,
+      143
+    ],
+    [
+      144,
+      145
+    ],
+    [
+      145,
+      149
+    ],
+    [
+      150,
+      156
+    ],
+    [
+      156,
+      158
+    ],
+    [
+      159,
+      168
+    ],
+    [
+      169,
+      175
+    ],
+    [
+      175,
+      176
+    ],
+    [
+      177,
+      184
+    ],
+    [
+      185,
+      189
+    ],
+    [
+      190,
+      193
+    ],
+    [
+      194,
+      202
+    ],
+    [
+      202,
+      203
+    ],
+    [
+      203,
+      204
+    ],
+    [
+      205,
+      206
+    ],
+    [
+      207,
+      218
+    ],
+    [
+      219,
+      223
+    ],
+    [
+      224,
+      227
+    ],
+    [
+      228,
+      232
+    ],
+    [
+      233,
+      235
+    ],
+    [
+      236,
+      244
+    ],
+    [
+      245,
+      249
+    ],
+    [
+      250,
+      256
+    ],
+    [
+      257,
+      263
+    ],
+    [
+      264,
+      268
+    ],
+    [
+      269,
+      271
+    ],
+    [
+      272,
+      276
+    ],
+    [
+      277,
+      283
+    ],
+    [
+      284,
+      290
+    ],
+    [
+      291,
+      293
+    ],
+    [
+      294,
+      295
+    ],
+    [
+      295,
+      305
+    ],
+    [
+      305,
+      306
+    ],
+    [
+      306,
+      320
+    ],
+    [
+      320,
+      321
+    ],
+    [
+      321,
+      322
+    ],
+    [
+      323,
+      331
+    ],
+    [
+      332,
+      336
+    ],
+    [
+      336,
+      337
+    ],
+    [
+      338,
+      344
+    ],
+    [
+      345,
+      351
+    ],
+    [
+      352,
+      359
+    ],
+    [
+      360,
+      361
+    ],
+    [
+      361,
+      362
+    ],
+    [
+      362,
+      365
+    ],
+    [
+      365,
+      366
+    ],
+    [
+      366,
+      367
+    ],
+    [
+      368,
+      375
+    ],
+    [
+      375,
+      376
+    ],
+    [
+      377,
+      378
+    ],
+    [
+      379,
+      386
+    ],
+    [
+      387,
+      398
+    ],
+    [
+      399,
+      403
+    ],
+    [
+      404,
+      407
+    ],
+    [
+      408,
+      417
+    ],
+    [
+      418,
+      419
+    ],
+    [
+      419,
+      423
+    ],
+    [
+      424,
+      426
+    ],
+    [
+      427,
+      431
+    ],
+    [
+      431,
+      432
+    ],
+    [
+      433,
+      438
+    ],
+    [
+      439,
+      446
+    ],
+    [
+      446,
+      447
+    ],
+    [
+      448,
+      455
+    ],
+    [
+      456,
+      461
+    ],
+    [
+      461,
+      462
+    ],
+    [
+      463,
+      469
+    ],
+    [
+      469,
+      470
+    ],
+    [
+      471,
+      474
+    ],
+    [
+      475,
+      477
+    ],
+    [
+      478,
+      486
+    ],
+    [
+      486,
+      487
+    ],
+    [
+      488,
+      493
+    ],
+    [
+      494,
+      496
+    ],
+    [
+      497,
+      505
+    ],
+    [
+      506,
+      508
+    ],
+    [
+      509,
+      514
+    ],
+    [
+      515,
+      521
+    ],
+    [
+      522,
+      532
+    ],
+    [
+      533,
+      541
+    ],
+    [
+      541,
+      542
+    ],
+    [
+      542,
+      543
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      105
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T1",
+      "start_idx": 58,
+      "end_idx": 69,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "data",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T2",
+      "start_idx": 74,
+      "end_idx": 78,
+      "tokens": [
+        "data"
+      ],
+      "token_idx": [
+        12
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T3",
+      "start_idx": 79,
+      "end_idx": 81,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        13
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T5",
+      "start_idx": 99,
+      "end_idx": 102,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        17
+      ]
+    },
+    {
+      "entity/argument_text": "Data that are collected automatically",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T6",
+      "start_idx": 106,
+      "end_idx": 143,
+      "tokens": [
+        "Data",
+        "that",
+        "are",
+        "collected",
+        "automatically"
+      ],
+      "token_idx": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    },
+    {
+      "entity/argument_text": "device\u2019s operating system",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T7",
+      "start_idx": 150,
+      "end_idx": 175,
+      "tokens": [
+        "device",
+        "\u2019s",
+        "operating",
+        "system"
+      ],
+      "token_idx": [
+        27,
+        28,
+        29,
+        30
+      ]
+    },
+    {
+      "entity/argument_text": "browser type and language",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T8",
+      "start_idx": 177,
+      "end_idx": 202,
+      "tokens": [
+        "browser",
+        "type",
+        "and",
+        "language"
+      ],
+      "token_idx": [
+        32,
+        33,
+        34,
+        35
+      ]
+    },
+    {
+      "entity/argument_text": "Identifiers",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T9",
+      "start_idx": 207,
+      "end_idx": 218,
+      "tokens": [
+        "Identifiers"
+      ],
+      "token_idx": [
+        39
+      ]
+    },
+    {
+      "entity/argument_text": "unique device ID",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T10",
+      "start_idx": 277,
+      "end_idx": 293,
+      "tokens": [
+        "unique",
+        "device",
+        "ID"
+      ],
+      "token_idx": [
+        51,
+        52,
+        53
+      ]
+    },
+    {
+      "entity/argument_text": "hardware type",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T11",
+      "start_idx": 323,
+      "end_idx": 336,
+      "tokens": [
+        "hardware",
+        "type"
+      ],
+      "token_idx": [
+        60,
+        61
+      ]
+    },
+    {
+      "entity/argument_text": "medial access control (\u201cMAC\u201d) address",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T12",
+      "start_idx": 338,
+      "end_idx": 375,
+      "tokens": [
+        "medial",
+        "access",
+        "control",
+        "(",
+        "\u201c",
+        "MAC",
+        "\u201d",
+        ")",
+        "address"
+      ],
+      "token_idx": [
+        63,
+        64,
+        65,
+        66,
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "entity/argument_text": "Profile information",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T13",
+      "start_idx": 379,
+      "end_idx": 398,
+      "tokens": [
+        "Profile",
+        "information"
+      ],
+      "token_idx": [
+        74,
+        75
+      ]
+    },
+    {
+      "entity/argument_text": "name",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T14",
+      "start_idx": 427,
+      "end_idx": 431,
+      "tokens": [
+        "name"
+      ],
+      "token_idx": [
+        82
+      ]
+    },
+    {
+      "entity/argument_text": "email address",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T15",
+      "start_idx": 433,
+      "end_idx": 446,
+      "tokens": [
+        "email",
+        "address"
+      ],
+      "token_idx": [
+        84,
+        85
+      ]
+    },
+    {
+      "entity/argument_text": "profile photo",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T16",
+      "start_idx": 448,
+      "end_idx": 461,
+      "tokens": [
+        "profile",
+        "photo"
+      ],
+      "token_idx": [
+        87,
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "gender",
+      "entity/argument_type": "Data-demographic",
+      "entity/argument_id": "T17",
+      "start_idx": 463,
+      "end_idx": 469,
+      "tokens": [
+        "gender"
+      ],
+      "token_idx": [
+        90
+      ]
+    },
+    {
+      "entity/argument_text": "age",
+      "entity/argument_type": "Data-demographic",
+      "entity/argument_id": "T18",
+      "start_idx": 471,
+      "end_idx": 474,
+      "tokens": [
+        "age"
+      ],
+      "token_idx": [
+        92
+      ]
+    },
+    {
+      "entity/argument_text": "birthday",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T19",
+      "start_idx": 478,
+      "end_idx": 486,
+      "tokens": [
+        "birthday"
+      ],
+      "token_idx": [
+        94
+      ]
+    },
+    {
+      "entity/argument_text": "links to profiles on other social networking websites",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T20",
+      "start_idx": 488,
+      "end_idx": 541,
+      "tokens": [
+        "links",
+        "to",
+        "profiles",
+        "on",
+        "other",
+        "social",
+        "networking",
+        "websites"
+      ],
+      "token_idx": [
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102,
+        103
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 86,
+        "end_idx": 93,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          15
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 79,
+          "end_idx": 81
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "data",
+          "start_idx": 74,
+          "end_idx": 78
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 58,
+          "end_idx": 69
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 99,
+          "end_idx": 102
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-general",
+          "text": "Data that are collected automatically",
+          "start_idx": 106,
+          "end_idx": 143
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-computer-device",
+          "text": "device\u2019s operating system",
+          "start_idx": 150,
+          "end_idx": 175
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-computer-device",
+          "text": "browser type and language",
+          "start_idx": 177,
+          "end_idx": 202
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-computer-device",
+          "text": "Identifiers",
+          "start_idx": 207,
+          "end_idx": 218
+        },
+        {
+          "role": "Data-Collected7",
+          "type": "Data-computer-device",
+          "text": "unique device ID",
+          "start_idx": 277,
+          "end_idx": 293
+        },
+        {
+          "role": "Data-Collected8",
+          "type": "Data-computer-device",
+          "text": "hardware type",
+          "start_idx": 323,
+          "end_idx": 336
+        },
+        {
+          "role": "Data-Collected9",
+          "type": "Data-computer-device",
+          "text": "medial access control (\u201cMAC\u201d) address",
+          "start_idx": 338,
+          "end_idx": 375
+        },
+        {
+          "role": "Data-Collected10",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Profile information",
+          "start_idx": 379,
+          "end_idx": 398
+        },
+        {
+          "role": "Data-Collected11",
+          "type": "Data-contact",
+          "text": "name",
+          "start_idx": 427,
+          "end_idx": 431
+        },
+        {
+          "role": "Data-Collected12",
+          "type": "Data-contact",
+          "text": "email address",
+          "start_idx": 433,
+          "end_idx": 446
+        },
+        {
+          "role": "Data-Collected13",
+          "type": "Data-contact",
+          "text": "profile photo",
+          "start_idx": 448,
+          "end_idx": 461
+        },
+        {
+          "role": "Data-Collected14",
+          "type": "Data-demographic",
+          "text": "gender",
+          "start_idx": 463,
+          "end_idx": 469
+        },
+        {
+          "role": "Data-Collected15",
+          "type": "Data-demographic",
+          "text": "age",
+          "start_idx": 471,
+          "end_idx": 474
+        },
+        {
+          "role": "Data-Collected16",
+          "type": "Data-contact",
+          "text": "birthday",
+          "start_idx": 478,
+          "end_idx": 486
+        },
+        {
+          "role": "Data-Collected17",
+          "type": "Data-user-online-activities-profiles",
+          "text": "links to profiles on other social networking websites",
+          "start_idx": 488,
+          "end_idx": 541
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

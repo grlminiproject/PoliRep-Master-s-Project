@@ -1,0 +1,45 @@
+T5	Data-other 236 243	cookies
+T6	Data-other 245 256	web beacons
+T7	Data-other 258 278	local shared objects
+T8	Data-other 319 339	similar technologies
+T13	Data-general 1165 1176	information
+T15	ServiceConsumptionBehavior 1191 1214	your use of the Service
+T16	DeviceBased 1229 1241	browser type
+T17	Preference 1243 1254	preferences
+T18	Interest 1256 1339	data relating to content that has been displayed to you or that you have clicked on
+T19	Behavioral 1349 1374	date and time of your use
+T25	Data-other 1376 1383	Cookies
+T31	Data-general 1804 1815	information
+T33	Data-general 1853 1864	information
+T36	Data-general 2033 2044	information
+T37	ServiceConsumptionBehavior 2068 2108	how you use their website or application
+T41	Behavioral 2313 2323	usage data
+T46	Data-general 2652 2663	information
+T47	IPAddress 2680 2690	IP address
+T51	ServiceConsumptionBehavior 2507 2536	activities within our Service
+T52	ServiceConsumptionBehavior 2545 2571	how long you use a product
+T53	ServiceConsumptionBehavior 2575 2621	which features and functions you interact with
+T59	Data-other 2972 2979	cookies
+T64	Data-general 3030 3041	information
+T65	Data-other 3061 3068	cookies
+T66	IPAddress 3085 3105	truncated IP address
+T69	Data-general 3200 3211	information
+T76	IPAddress 3453 3473	truncated IP address
+T79	Data-other 3939 3969	information about the incident
+T81	DeviceSoftware 4017 4028	device type
+T82	DeviceOperatingSystem 4030 4040	OS version
+T83	DeviceOperatingSystem 4053 4073	hardware information
+T84	Data-other 4123 4144	the time of the crash
+T86	Data-other 4146 4199	the state of the application at the time of the crash
+T87	Data-other 4205 4217	stack traces
+T89	Data-general 4223 4234	information
+T92	IPAddress 4257 4267	IP address
+T93	Identifier 4281 4349	information that could be used to identify you or your mobile device
+T94	Data-other 298 311	flash cookies
+T95	Data-cookies-web-beacons-and-other-technologies 1119 1126	Cookies
+T97	UserAgent 1884 1901	device or browser
+T99	Data-other 2006 2018	technologies
+T77	Data-other 4100 4117	the Navdy display
+T108	DeviceBased 4085 4098	mobile device
+T111	Data-general 4395 4451	information from your mobile device or the Navdy display
+T107	Data-other 3910 3920	technology

@@ -1,0 +1,18 @@
+T1	Data-general 58 69	information
+T2	Data-general 74 78	data
+T6	Data-general 106 143	Data that are collected automatically
+T7	DeviceOperatingSystem 150 175	device’s operating system
+T9	Data-computer-device 207 218	Identifiers
+T10	DeviceBased 277 293	unique device ID
+T11	DeviceOperatingSystem 323 336	hardware type
+T12	MACAddress 338 375	medial access control (“MAC”) address
+T13	Data-user-online-activities-profiles 379 398	Profile information
+T14	Name 427 431	name
+T15	EmailAddress 433 446	email address
+T16	Picture 448 461	profile photo
+T17	Gender 463 469	gender
+T18	Age 471 474	age
+T19	BirthDate 478 486	birthday
+T20	SocialNetwork 488 541	links to profiles on other social networking websites
+T8	BrowserFingerprint 177 189	browser type
+T22	Language 194 202	language

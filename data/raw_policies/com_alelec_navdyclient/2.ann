@@ -1,0 +1,45 @@
+T1	First-party-entity 71 76	Navdy
+T2	first-party-collection-use 81 88	collect
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Provider:T4 Condition-Argument:T5 Condition-Argument2:T6 Condition-Argument3:T7 Condition-Argument4:T8 Data-Provider2:T10 Data-Collected3:T11 Data-Collected4:T12 Data-Collected5:T13 Data-Collected6:T14 Condition-Argument5:T15 Condition-Argument6:T51
+T3	Data-general 89 100	information
+T4	User 106 109	you
+T5	Condition 184 217	register as a user of the Service
+T6	Condition 250 295	make changes to your user profile information
+T7	Condition 301 355	send email messages, forms, or other information to us
+T8	Condition 361 386	interact with the Service
+T10	User 417 421	your
+T11	Data-contact 422 441	first and last name
+T12	Data-contact 443 460	your home address
+T13	Data-contact 462 475	email address
+T14	Data-general 485 507	additional information
+T15	Condition 532 567	you register as user of the Service
+T16	First-party-entity 569 571	We
+T17	first-party-collection-use 581 588	collect
+E2	first-party-collection-use:T17 Data-Collector:T16 Data-Collected:T18 Data-Collected3:T21 Data-Collected4:T22 Data-Collected5:T23 Data-Collected6:T24 Data-Collected7:T25 Data-Collected8:T26 Data-Collected9:T27 Data-Collected10:T28 Data-Collected11:T29 Data-Collected12:T30 Data-Collected13:T31 Data-Collected14:T32
+T18	Data-user-online-activities-profiles 597 648	technical information about your use of our Service
+T21	Data-computer-device 689 721	information about your device(s)
+T22	Data-other 723 763	driving behavior while using our Service
+T23	Data-other 765 784	vehicle information
+T24	Data-other 796 828	on-board diagnostics information
+T25	Data-computer-device 830 854	browser type and version
+T26	Data-location 856 880	geo-location information
+T27	Data-computer-device 882 917	computer and connection information
+T28	Data-aggregated-nonidentifiable 919 943	statistics on page views
+T29	Data-user-online-activities-profiles 945 976	traffic to and from the Service
+T30	Data-other 978 985	ad data
+T31	Data-computer-device 987 997	IP address
+T32	Data-computer-device 1003 1031	standard web log information
+T34	Condition 1180 1236	you sign up using a third party service provider account
+T35	User 1180 1183	you
+T36	Third-party-entity 1242 1270	third party service provider
+T37	third-party-sharing-disclosure 1298 1303	share
+E3	third-party-sharing-disclosure:T37 Data-Sharer:T39 Data-Shared:T38 Data-Receiver:T36 Condition-Argument:T34 Data-Provider:T35
+T38	Data-general 1312 1323	information
+T39	First-party-entity 1367 1372	Navdy
+T40	Data-general 1379 1390	information
+T41	first-party-collection-use 1394 1403	collected
+E4	first-party-collection-use:T41 Data-Collected:T40 Data-Provider:T42 Data-Collector:T43 Condition-Argument:T9
+T42	Third-party-entity 1411 1439	third party service provider
+T43	First-party-entity 1459 1464	Navdy
+T51	Condition 106 169	you provide to Navdy in connection with your use of the Service
+T9	Condition 1471 1533	the terms of the third party service provider's privacy policy

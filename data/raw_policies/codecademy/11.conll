@@ -1,0 +1,151 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = School Privacy
+1	School	School	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=0:6
+2	Privacy	privacy	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=7:14
+
+# newpar
+# sent_id = 2
+# text = In some circumstances, we may permit a School to register Students to our service for the purpose of providing educational services.
+1	In	in	ADP	IN	_	3	case	_	TokenRange=16:18
+2	some	some	DET	DT	_	3	det	_	TokenRange=19:23
+3	circumstances	circumstance	NOUN	NNS	Number=Plur	7	obl	_	SpaceAfter=No|TokenRange=24:37
+4	,	,	PUNCT	,	_	7	punct	_	TokenRange=37:38
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TokenRange=39:41
+6	may	may	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=42:45
+7	permit	permit	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=46:52
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=53:54
+9	School	school	NOUN	NN	Number=Sing	7	obj	_	TokenRange=55:61
+10	to	to	PART	TO	_	11	mark	_	TokenRange=62:64
+11	register	register	VERB	VB	VerbForm=Inf	7	xcomp	_	TokenRange=65:73
+12	Students	student	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=74:82
+13	to	to	ADP	IN	_	15	case	_	TokenRange=83:85
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=86:89
+15	service	service	NOUN	NN	Number=Sing	11	obl	_	TokenRange=90:97
+16	for	for	ADP	IN	_	18	case	_	TokenRange=98:101
+17	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=102:105
+18	purpose	purpose	NOUN	NN	Number=Sing	15	nmod	_	TokenRange=106:113
+19	of	of	SCONJ	IN	_	20	mark	_	TokenRange=114:116
+20	providing	provide	VERB	VBG	VerbForm=Ger	18	acl	_	TokenRange=117:126
+21	educational	educational	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=127:138
+22	services	service	NOUN	NNS	Number=Plur	20	obj	_	SpaceAfter=No|TokenRange=139:147
+23	.	.	PUNCT	.	_	7	punct	_	TokenRange=147:148
+
+# sent_id = 3
+# text = Because Codecademy provides the Service to School to benefit and enhance the School's curriculum, Codecademy relies on the school to obtain and provide appropriate consent, if needed, to collect personal information of students.
+1	Because	because	SCONJ	IN	_	3	mark	_	TokenRange=149:156
+2	Codecademy	Codecademy	PROPN	NNP	Number=Sing	3	nsubj	_	TokenRange=157:167
+3	provides	provide	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=168:176
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=177:180
+5	Service	service	NOUN	NN	Number=Sing	3	obj	_	TokenRange=181:188
+6	to	to	ADP	IN	_	7	case	_	TokenRange=189:191
+7	School	School	PROPN	NNP	Number=Sing	3	obl	_	TokenRange=192:198
+8	to	to	PART	TO	_	9	mark	_	TokenRange=199:201
+9	benefit	benefit	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=202:209
+10	and	and	CCONJ	CC	_	11	cc	_	TokenRange=210:213
+11	enhance	enhance	VERB	VB	VerbForm=Inf	9	conj	_	TokenRange=214:221
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=222:225
+13	School	school	PROPN	NNP	Number=Sing	15	nmod:poss	_	SpaceAfter=No|TokenRange=226:232
+14	's	's	PART	POS	_	13	case	_	TokenRange=232:234
+15	curriculum	curriculum	NOUN	NN	Number=Sing	9	obj	_	SpaceAfter=No|TokenRange=235:245
+16	,	,	PUNCT	,	_	15	punct	_	TokenRange=245:246
+17	Codecademy	Codecademy	NOUN	NN	Number=Sing	18	compound	_	TokenRange=247:257
+18	relies	rely	NOUN	NNS	Number=Plur	15	appos	_	TokenRange=258:264
+19	on	on	ADP	IN	_	21	case	_	TokenRange=265:267
+20	the	the	DET	DT	Definite=Def|PronType=Art	21	det	_	TokenRange=268:271
+21	school	school	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=272:278
+22	to	to	PART	TO	_	23	mark	_	TokenRange=279:281
+23	obtain	obtain	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=282:288
+24	and	and	CCONJ	CC	_	25	cc	_	TokenRange=289:292
+25	provide	provide	VERB	VB	VerbForm=Inf	23	conj	_	TokenRange=293:300
+26	appropriate	appropriate	ADJ	JJ	Degree=Pos	27	amod	_	TokenRange=301:312
+27	consent	consent	NOUN	NN	Number=Sing	23	obj	_	SpaceAfter=No|TokenRange=313:320
+28	,	,	PUNCT	,	_	30	punct	_	TokenRange=320:321
+29	if	if	SCONJ	IN	_	30	mark	_	TokenRange=322:324
+30	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|TokenRange=325:331
+31	,	,	PUNCT	,	_	33	punct	_	TokenRange=331:332
+32	to	to	PART	TO	_	33	mark	_	TokenRange=333:335
+33	collect	collect	VERB	VB	VerbForm=Inf	30	xcomp	_	TokenRange=336:343
+34	personal	personal	ADJ	JJ	Degree=Pos	35	amod	_	TokenRange=344:352
+35	information	information	NOUN	NN	Number=Sing	33	obj	_	TokenRange=353:364
+36	of	of	ADP	IN	_	37	case	_	TokenRange=365:367
+37	students	student	NOUN	NNS	Number=Plur	35	nmod	_	SpaceAfter=No|TokenRange=368:376
+38	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=376:377
+
+# sent_id = 4
+# text = The Services may, from time to time, contain links to and from third party websites.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=378:381
+2	Services	service	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=382:390
+3	may	may	AUX	MD	VerbForm=Fin	10	aux	_	SpaceAfter=No|TokenRange=391:394
+4	,	,	PUNCT	,	_	3	punct	_	TokenRange=394:395
+5	from	from	ADP	IN	_	6	case	_	TokenRange=396:400
+6	time	time	NOUN	NN	Number=Sing	3	obl	_	TokenRange=401:405
+7	to	to	ADP	IN	_	8	case	_	TokenRange=406:408
+8	time	time	NOUN	NN	Number=Sing	6	nmod	_	SpaceAfter=No|TokenRange=409:413
+9	,	,	PUNCT	,	_	3	punct	_	TokenRange=413:414
+10	contain	contain	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=415:422
+11	links	link	NOUN	NNS	Number=Plur	10	obj	_	TokenRange=423:428
+12	to	to	ADP	IN	_	17	case	_	TokenRange=429:431
+13	and	and	CCONJ	CC	_	17	cc	_	TokenRange=432:435
+14	from	from	ADP	IN	_	17	case	_	TokenRange=436:440
+15	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	16	amod	_	TokenRange=441:446
+16	party	party	NOUN	NN	Number=Sing	17	compound	_	TokenRange=447:452
+17	websites	website	NOUN	NNS	Number=Plur	10	obl	_	SpaceAfter=No|TokenRange=453:461
+18	.	.	PUNCT	.	_	10	punct	_	TokenRange=461:462
+
+# sent_id = 5
+# text = If you follow a link to any of these websites, please note that these websites have their own privacy policies and that we do not accept any responsibility or liability for their policies.
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=463:465
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=466:469
+3	follow	follow	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	advcl	_	TokenRange=470:476
+4	a	a	DET	DT	Definite=Ind|PronType=Art	5	det	_	TokenRange=477:478
+5	link	link	NOUN	NN	Number=Sing	3	obj	_	TokenRange=479:483
+6	to	to	ADP	IN	_	7	case	_	TokenRange=484:486
+7	any	any	DET	DT	_	3	obl	_	TokenRange=487:490
+8	of	of	ADP	IN	_	10	case	_	TokenRange=491:493
+9	these	these	DET	DT	Number=Plur|PronType=Dem	10	det	_	TokenRange=494:499
+10	websites	website	NOUN	NNS	Number=Plur	7	nmod	_	SpaceAfter=No|TokenRange=500:508
+11	,	,	PUNCT	,	_	13	punct	_	TokenRange=508:509
+12	please	please	INTJ	UH	_	13	discourse	_	TokenRange=510:516
+13	note	note	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=517:521
+14	that	that	SCONJ	IN	_	17	mark	_	TokenRange=522:526
+15	these	these	DET	DT	Number=Plur|PronType=Dem	16	det	_	TokenRange=527:532
+16	websites	website	NOUN	NNS	Number=Plur	17	nsubj	_	TokenRange=533:541
+17	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	ccomp	_	TokenRange=542:546
+18	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=547:552
+19	own	own	ADJ	JJ	Degree=Pos	20	amod	_	TokenRange=553:556
+20	privacy	privacy	NOUN	NN	Number=Sing	21	compound	_	TokenRange=557:564
+21	policies	policy	NOUN	NNS	Number=Plur	17	obj	_	TokenRange=565:573
+22	and	and	CCONJ	CC	_	27	cc	_	TokenRange=574:577
+23	that	that	SCONJ	IN	_	27	mark	_	TokenRange=578:582
+24	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	TokenRange=583:585
+25	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	27	aux	_	TokenRange=586:588
+26	not	not	PART	RB	_	27	advmod	_	TokenRange=589:592
+27	accept	accept	VERB	VB	VerbForm=Inf	17	conj	_	TokenRange=593:599
+28	any	any	DET	DT	_	29	det	_	TokenRange=600:603
+29	responsibility	responsibility	NOUN	NN	Number=Sing	27	obj	_	TokenRange=604:618
+30	or	or	CCONJ	CC	_	31	cc	_	TokenRange=619:621
+31	liability	liability	NOUN	NN	Number=Sing	29	conj	_	TokenRange=622:631
+32	for	for	ADP	IN	_	34	case	_	TokenRange=632:635
+33	their	they	PRON	PRP$	Number=Plur|Person=3|Poss=Yes|PronType=Prs	34	nmod:poss	_	TokenRange=636:641
+34	policies	policy	NOUN	NNS	Number=Plur	27	nmod	_	SpaceAfter=No|TokenRange=642:650
+35	.	.	PUNCT	.	_	13	punct	_	TokenRange=650:651
+
+# sent_id = 6
+# text = Please check the individual policies before you submit any information to those websites.
+1	Please	please	INTJ	UH	_	2	discourse	_	TokenRange=652:658
+2	check	check	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=659:664
+3	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=665:668
+4	individual	individual	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=669:679
+5	policies	policy	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=680:688
+6	before	before	SCONJ	IN	_	8	mark	_	TokenRange=689:695
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=696:699
+8	submit	submit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	advcl	_	TokenRange=700:706
+9	any	any	DET	DT	_	10	det	_	TokenRange=707:710
+10	information	information	NOUN	NN	Number=Sing	8	obj	_	TokenRange=711:722
+11	to	to	ADP	IN	_	13	case	_	TokenRange=723:725
+12	those	those	DET	DT	Number=Plur|PronType=Dem	13	det	_	TokenRange=726:731
+13	websites	website	NOUN	NNS	Number=Plur	2	nmod	_	SpaceAfter=No|TokenRange=732:740
+14	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=740:741
+

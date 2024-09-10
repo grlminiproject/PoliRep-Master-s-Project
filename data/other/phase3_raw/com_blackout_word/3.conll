@@ -1,0 +1,115 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 1.2
+1	1.2	1.2	NUM	CD	NumType=Card	0	root	_	TokenRange=0:3
+
+# sent_id = 2
+# text = How we use your personal information
+1	How	how	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=4:7
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=8:10
+3	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=11:14
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=15:19
+5	personal	personal	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=20:28
+6	information	information	NOUN	NN	Number=Sing	3	obj	_	SpacesAfter=\n\n|TokenRange=29:40
+
+# newpar
+# sent_id = 3
+# text = We will collect, use and store the personal information listed above for the following reasons: (a) to help us manage advertising and provide you with advertising and marketing via our apps that is relevant to you, both from us and from our third party partners, as further described in the 'Third party advertising' section below; (b) to record your preferences in relation to advertising and marketing communications; and (c) to receive and respond to customer support enquiries we receive from you.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=42:44
+2	will	will	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=45:49
+3	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=50:57
+4	,	,	PUNCT	,	_	5	punct	_	TokenRange=57:58
+5	use	use	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=59:62
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=63:66
+7	store	store	VERB	VB	VerbForm=Inf	3	conj	_	TokenRange=67:72
+8	the	the	DET	DT	Definite=Def|PronType=Art	10	det	_	TokenRange=73:76
+9	personal	personal	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=77:85
+10	information	information	NOUN	NN	Number=Sing	7	obj	_	TokenRange=86:97
+11	listed	list	VERB	VBN	Tense=Past|VerbForm=Part	10	acl	_	TokenRange=98:104
+12	above	above	ADP	IN	_	11	obl	_	TokenRange=105:110
+13	for	for	ADP	IN	_	16	case	_	TokenRange=111:114
+14	the	the	DET	DT	Definite=Def|PronType=Art	16	det	_	TokenRange=115:118
+15	following	follow	VERB	VBG	VerbForm=Ger	16	amod	_	TokenRange=119:128
+16	reasons	reason	NOUN	NNS	Number=Plur	10	nmod	_	SpaceAfter=No|TokenRange=129:136
+17	:	:	PUNCT	:	_	3	punct	_	TokenRange=136:137
+18	(	(	PUNCT	-LRB-	_	19	punct	_	SpaceAfter=No|TokenRange=138:139
+19	a	a	X	LS	_	20	nummod	_	SpaceAfter=No|TokenRange=139:140
+20	)	)	PUNCT	-RRB-	_	3	punct	_	TokenRange=140:141
+21	to	to	PART	TO	_	22	mark	_	TokenRange=142:144
+22	help	help	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=145:149
+23	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	22	obj	_	TokenRange=150:152
+24	manage	manage	VERB	VB	VerbForm=Inf	22	xcomp	_	TokenRange=153:159
+25	advertising	advertise	NOUN	NN	Number=Sing	24	obj	_	TokenRange=160:171
+26	and	and	CCONJ	CC	_	27	cc	_	TokenRange=172:175
+27	provide	provide	VERB	VB	VerbForm=Inf	24	conj	_	TokenRange=176:183
+28	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	27	obj	_	TokenRange=184:187
+29	with	with	ADP	IN	_	30	case	_	TokenRange=188:192
+30	advertising	advertising	NOUN	NN	Number=Sing	27	obl	_	TokenRange=193:204
+31	and	and	CCONJ	CC	_	32	cc	_	TokenRange=205:208
+32	marketing	market	NOUN	NN	Number=Sing	30	conj	_	TokenRange=209:218
+33	via	via	ADP	IN	_	35	case	_	TokenRange=219:222
+34	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	35	nmod:poss	_	TokenRange=223:226
+35	apps	app	NOUN	NN	Number=Sing	30	nmod	_	TokenRange=227:231
+36	that	that	PRON	WDT	PronType=Rel	38	nsubj	_	TokenRange=232:236
+37	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	38	cop	_	TokenRange=237:239
+38	relevant	relevant	ADJ	JJ	Degree=Pos	30	acl:relcl	_	TokenRange=240:248
+39	to	to	ADP	IN	_	40	case	_	TokenRange=249:251
+40	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	38	obl	_	SpaceAfter=No|TokenRange=252:255
+41	,	,	PUNCT	,	_	3	punct	_	TokenRange=255:256
+42	both	both	CCONJ	CC	_	44	cc:preconj	_	TokenRange=257:261
+43	from	from	ADP	IN	_	44	case	_	TokenRange=262:266
+44	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obl	_	TokenRange=267:269
+45	and	and	CCONJ	CC	_	50	cc	_	TokenRange=270:273
+46	from	from	ADP	IN	_	50	case	_	TokenRange=274:278
+47	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	50	nmod:poss	_	TokenRange=279:282
+48	third	third	ADJ	JJ	Degree=Pos|NumType=Ord	49	amod	_	TokenRange=283:288
+49	party	party	NOUN	NN	Number=Sing	50	compound	_	TokenRange=289:294
+50	partners	partner	NOUN	NNS	Number=Plur	44	conj	_	SpaceAfter=No|TokenRange=295:303
+51	,	,	PUNCT	,	_	3	punct	_	TokenRange=303:304
+52	as	as	SCONJ	IN	_	54	mark	_	TokenRange=305:307
+53	further	further	ADV	RB	_	54	advmod	_	TokenRange=308:315
+54	described	describe	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	TokenRange=316:325
+55	in	in	ADP	IN	_	62	case	_	TokenRange=326:328
+56	the	the	DET	DT	Definite=Def|PronType=Art	62	det	_	TokenRange=329:332
+57	'	'	PUNCT	``	_	60	punct	_	SpaceAfter=No|TokenRange=333:334
+58	Third	third	NOUN	NN	Number=Sing	59	compound	_	TokenRange=334:339
+59	party	party	NOUN	NN	Number=Sing	60	compound	_	TokenRange=340:345
+60	advertising	advertising	NOUN	NN	Number=Sing	62	compound	_	SpaceAfter=No|TokenRange=346:357
+61	'	'	PUNCT	''	_	60	punct	_	TokenRange=357:358
+62	section	section	NOUN	NN	Number=Sing	54	obl	_	TokenRange=359:366
+63	below	below	ADV	RB	_	62	advmod	_	SpaceAfter=No|TokenRange=367:372
+64	;	;	PUNCT	,	_	3	punct	_	TokenRange=372:373
+65	(	(	PUNCT	-LRB-	_	66	punct	_	SpaceAfter=No|TokenRange=374:375
+66	b	b	X	LS	_	3	parataxis	_	SpaceAfter=No|TokenRange=375:376
+67	)	)	PUNCT	-RRB-	_	66	punct	_	TokenRange=376:377
+68	to	to	PART	TO	_	69	mark	_	TokenRange=378:380
+69	record	record	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=381:387
+70	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	71	nmod:poss	_	TokenRange=388:392
+71	preferences	preference	NOUN	NNS	Number=Plur	69	obj	_	TokenRange=393:404
+72	in	in	ADP	IN	_	73	case	_	TokenRange=405:407
+73	relation	relation	NOUN	NN	Number=Sing	71	nmod	_	TokenRange=408:416
+74	to	to	ADP	IN	_	78	case	_	TokenRange=417:419
+75	advertising	advertise	NOUN	NN	Number=Sing	78	compound	_	TokenRange=420:431
+76	and	and	CCONJ	CC	_	77	cc	_	TokenRange=432:435
+77	marketing	markete	NOUN	NN	Number=Sing	75	conj	_	TokenRange=436:445
+78	communications	communication	NOUN	NNS	Number=Plur	73	nmod	_	SpaceAfter=No|TokenRange=446:460
+79	;	;	PUNCT	,	_	3	punct	_	TokenRange=460:461
+80	and	and	CCONJ	CC	_	84	cc	_	TokenRange=462:465
+81	(	(	PUNCT	-LRB-	_	82	punct	_	SpaceAfter=No|TokenRange=466:467
+82	c	c	X	LS	_	83	nummod	_	SpaceAfter=No|TokenRange=467:468
+83	)	)	PUNCT	-RRB-	_	84	punct	_	TokenRange=468:469
+84	to	to	PART	TO	_	3	conj	_	TokenRange=470:472
+85	receive	receive	VERB	VB	VerbForm=Inf	3	parataxis	_	TokenRange=473:480
+86	and	and	CCONJ	CC	_	87	cc	_	TokenRange=481:484
+87	respond	respond	VERB	VB	VerbForm=Inf	85	conj	_	TokenRange=485:492
+88	to	to	ADP	IN	_	91	case	_	TokenRange=493:495
+89	customer	customer	NOUN	NN	Number=Sing	90	compound	_	TokenRange=496:504
+90	support	support	NOUN	NN	Number=Sing	91	compound	_	TokenRange=505:512
+91	enquiries	enquiry	NOUN	NNS	Number=Plur	87	obl	_	TokenRange=513:522
+92	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	93	nsubj	_	TokenRange=523:525
+93	receive	receive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	85	acl:relcl	_	TokenRange=526:533
+94	from	from	ADP	IN	_	95	case	_	TokenRange=534:538
+95	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	93	obl	_	SpaceAfter=No|TokenRange=539:542
+96	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=542:543
+

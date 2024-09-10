@@ -1,0 +1,140 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 10.
+1	10	10	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:2
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=2:3
+
+# sent_id = 2
+# text = What are your rights?
+1	What	what	PRON	WP	PronType=Int	0	root	_	TokenRange=4:8
+2	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	cop	_	TokenRange=9:12
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=13:17
+4	rights	right	NOUN	NNS	Number=Plur	1	nsubj	_	SpaceAfter=No|TokenRange=18:24
+5	?	?	PUNCT	.	_	1	punct	_	SpacesAfter=\n\n|TokenRange=24:25
+
+# newpar
+# sent_id = 3
+# text = You have a number of rights in relation to your personal data.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	2	nsubj	_	TokenRange=27:30
+2	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=31:35
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	TokenRange=36:37
+4	number	number	NOUN	NN	Number=Sing	2	obj	_	TokenRange=38:44
+5	of	of	ADP	IN	_	6	case	_	TokenRange=45:47
+6	rights	rights	NOUN	NNS	Number=Plur	4	nmod	_	TokenRange=48:54
+7	in	in	ADP	IN	_	8	case	_	TokenRange=55:57
+8	relation	relation	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=58:66
+9	to	to	ADP	IN	_	12	case	_	TokenRange=67:69
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=70:74
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=75:83
+12	data	data	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=84:88
+13	.	.	PUNCT	.	_	2	punct	_	TokenRange=88:89
+
+# sent_id = 4
+# text = In summary, you may request access to your data, rectification of any mistakes in our files, erasure of records where no longer required, restriction on the processing of your data, objection to the processing of your data, data portability and various information in relation to any automated decision making and profiling or the basis for international transfers.
+1	In	in	ADP	IN	_	2	case	_	TokenRange=90:92
+2	summary	summary	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=93:100
+3	,	,	PUNCT	,	_	6	punct	_	TokenRange=100:101
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	6	nsubj	_	TokenRange=102:105
+5	may	may	AUX	MD	VerbForm=Fin	6	aux	_	TokenRange=106:109
+6	request	request	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=110:117
+7	access	access	NOUN	NN	Number=Sing	6	obj	_	TokenRange=118:124
+8	to	to	ADP	IN	_	10	case	_	TokenRange=125:127
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=128:132
+10	data	data	NOUN	NN	Number=Sing	7	nmod	_	SpaceAfter=No|TokenRange=133:137
+11	,	,	PUNCT	,	_	7	punct	_	TokenRange=137:138
+12	rectification	rectification	NOUN	NN	Number=Sing	7	appos	_	TokenRange=139:152
+13	of	of	ADP	IN	_	15	case	_	TokenRange=153:155
+14	any	any	DET	DT	_	15	det	_	TokenRange=156:159
+15	mistakes	mistakes	NOUN	NNS	Number=Plur	12	nmod	_	TokenRange=160:168
+16	in	in	ADP	IN	_	18	case	_	TokenRange=169:171
+17	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=172:175
+18	files	file	NOUN	NNS	Number=Plur	15	nmod	_	SpaceAfter=No|TokenRange=176:181
+19	,	,	PUNCT	,	_	7	punct	_	TokenRange=181:182
+20	erasure	erasure	NOUN	NN	Number=Sing	7	appos	_	TokenRange=183:190
+21	of	of	ADP	IN	_	22	case	_	TokenRange=191:193
+22	records	record	NOUN	NNS	Number=Plur	20	nmod	_	TokenRange=194:201
+23	where	where	ADV	WRB	PronType=Rel	26	advmod	_	TokenRange=202:207
+24	no	no	ADV	RB	_	25	advmod	_	TokenRange=208:210
+25	longer	longer	ADV	RBR	Degree=Cmp	26	advmod	_	TokenRange=211:217
+26	required	require	VERB	VBN	Tense=Past|VerbForm=Part	7	acl:relcl	_	SpaceAfter=No|TokenRange=218:226
+27	,	,	PUNCT	,	_	28	punct	_	TokenRange=226:227
+28	restriction	restriction	NOUN	NN	Number=Sing	26	conj	_	TokenRange=228:239
+29	on	on	ADP	IN	_	31	case	_	TokenRange=240:242
+30	the	the	DET	DT	Definite=Def|PronType=Art	31	det	_	TokenRange=243:246
+31	processing	processing	NOUN	NN	Number=Sing	28	nmod	_	TokenRange=247:257
+32	of	of	ADP	IN	_	34	case	_	TokenRange=258:260
+33	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	34	nmod:poss	_	TokenRange=261:265
+34	data	data	NOUN	NN	Number=Sing	31	nmod	_	SpaceAfter=No|TokenRange=266:270
+35	,	,	PUNCT	,	_	26	punct	_	TokenRange=270:271
+36	objection	objection	NOUN	NN	Number=Sing	26	obj	_	TokenRange=272:281
+37	to	to	ADP	IN	_	39	case	_	TokenRange=282:284
+38	the	the	DET	DT	Definite=Def|PronType=Art	39	det	_	TokenRange=285:288
+39	processing	processing	NOUN	NN	Number=Sing	26	obl	_	TokenRange=289:299
+40	of	of	ADP	IN	_	48	case	_	TokenRange=300:302
+41	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	48	nmod:poss	_	TokenRange=303:307
+42	data	data	NOUN	NN	Number=Sing	48	compound	_	SpaceAfter=No|TokenRange=308:312
+43	,	,	PUNCT	,	_	45	punct	_	TokenRange=312:313
+44	data	data	NOUN	NN	Number=Sing	45	compound	_	TokenRange=314:318
+45	portability	portability	NOUN	NN	Number=Sing	42	conj	_	TokenRange=319:330
+46	and	and	CCONJ	CC	_	47	cc	_	TokenRange=331:334
+47	various	various	ADJ	JJ	Degree=Pos	42	conj	_	TokenRange=335:342
+48	information	information	NOUN	NN	Number=Sing	39	nmod	_	TokenRange=343:354
+49	in	in	ADP	IN	_	50	case	_	TokenRange=355:357
+50	relation	relation	NOUN	NN	Number=Sing	39	nmod	_	TokenRange=358:366
+51	to	to	ADP	IN	_	55	case	_	TokenRange=367:369
+52	any	any	DET	DT	_	55	det	_	TokenRange=370:373
+53	automated	automated	ADJ	JJ	Degree=Pos	55	amod	_	TokenRange=374:383
+54	decision	decision	NOUN	NN	Number=Sing	55	compound	_	TokenRange=384:392
+55	making	make	NOUN	NN	Number=Sing	50	nmod	_	TokenRange=393:399
+56	and	and	CCONJ	CC	_	57	cc	_	TokenRange=400:403
+57	profiling	profil	NOUN	NN	Number=Sing	55	conj	_	TokenRange=404:413
+58	or	or	CCONJ	CC	_	60	cc	_	TokenRange=414:416
+59	the	the	DET	DT	Definite=Def|PronType=Art	60	det	_	TokenRange=417:420
+60	basis	basis	NOUN	NN	Number=Sing	39	conj	_	TokenRange=421:426
+61	for	for	ADP	IN	_	63	case	_	TokenRange=427:430
+62	international	international	ADJ	JJ	Degree=Pos	63	amod	_	TokenRange=431:444
+63	transfers	transfer	NOUN	NNS	Number=Plur	60	nmod	_	SpaceAfter=No|TokenRange=445:454
+64	.	.	PUNCT	.	_	6	punct	_	TokenRange=454:455
+
+# sent_id = 5
+# text = You also have the right to complain to your supervisory authority (further details of which are set out in Section 12 below).
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=456:459
+2	also	also	ADV	RB	_	3	advmod	_	TokenRange=460:464
+3	have	have	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=465:469
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=470:473
+5	right	right	NOUN	NN	Number=Sing	3	obj	_	TokenRange=474:479
+6	to	to	PART	TO	_	7	mark	_	TokenRange=480:482
+7	complain	complain	VERB	VB	VerbForm=Inf	5	acl	_	TokenRange=483:491
+8	to	to	ADP	IN	_	11	case	_	TokenRange=492:494
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=495:499
+10	supervisory	supervisory	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=500:511
+11	authority	authority	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=512:521
+12	(	(	PUNCT	-LRB-	_	11	punct	_	SpaceAfter=No|TokenRange=522:523
+13	further	further	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=523:530
+14	details	detail	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=531:538
+15	of	of	ADP	IN	_	16	case	_	TokenRange=539:541
+16	which	which	PRON	WDT	PronType=Rel	18	nsubj:pass	_	TokenRange=542:547
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	_	TokenRange=548:551
+18	set	set	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	14	acl:relcl	_	TokenRange=552:555
+19	out	out	ADP	RP	_	18	compound:prt	_	TokenRange=556:559
+20	in	in	ADP	IN	_	21	case	_	TokenRange=560:562
+21	Section	section	NOUN	NN	Number=Sing	18	obl	_	TokenRange=563:570
+22	12	12	NUM	CD	NumType=Card	21	nummod	_	TokenRange=571:573
+23	below	below	ADV	RB	_	18	advmod	_	SpaceAfter=No|TokenRange=574:579
+24	)	)	PUNCT	-RRB-	_	3	punct	_	SpaceAfter=No|TokenRange=579:580
+25	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=580:581
+
+# sent_id = 6
+# text = Those underlined are defined in more detail as follows:
+1	Those	those	DET	DT	Number=Plur|PronType=Dem	2	det	_	TokenRange=582:587
+2	underlined	underlin	ADJ	JJ	Degree=Pos	4	nsubj:pass	_	TokenRange=588:598
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	TokenRange=599:602
+4	defined	define	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=603:610
+5	in	in	ADP	IN	_	7	case	_	TokenRange=611:613
+6	more	more	ADJ	JJR	Degree=Cmp	7	amod	_	TokenRange=614:618
+7	detail	detail	NOUN	NN	Number=Sing	4	obl	_	TokenRange=619:625
+8	as	as	SCONJ	IN	_	9	mark	_	TokenRange=626:628
+9	follows	follow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	advcl	_	SpaceAfter=No|TokenRange=629:636
+10	:	:	PUNCT	:	_	4	punct	_	SpacesAfter=\n\n|TokenRange=636:637
+

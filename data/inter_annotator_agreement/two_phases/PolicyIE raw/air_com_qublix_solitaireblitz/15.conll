@@ -1,0 +1,54 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = DATA RETENTION
+1	DATA	data	NOUN	NN	Number=Sing	2	compound	_	TokenRange=0:4
+2	RETENTION	retention	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=5:14
+
+# newpar
+# sent_id = 2
+# text = We retain your information for as long as needed to provide you the Service.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=16:18
+2	retain	retain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=19:25
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=26:30
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=31:42
+5	for	for	ADP	IN	_	7	case	_	TokenRange=43:46
+6	as	as	ADV	RB	_	7	advmod	_	TokenRange=47:49
+7	long	long	ADV	RB	Degree=Pos	2	obl	_	TokenRange=50:54
+8	as	as	SCONJ	IN	_	9	mark	_	TokenRange=55:57
+9	needed	need	VERB	VBN	Tense=Past|VerbForm=Part	2	advcl	_	TokenRange=58:64
+10	to	to	PART	TO	_	11	mark	_	TokenRange=65:67
+11	provide	provide	VERB	VB	VerbForm=Inf	9	xcomp	_	TokenRange=68:75
+12	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	11	iobj	_	TokenRange=76:79
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=80:83
+14	Service	service	NOUN	NN	Number=Sing	11	obj	_	SpaceAfter=No|TokenRange=84:91
+15	.	.	PUNCT	.	_	2	punct	_	TokenRange=91:92
+
+# sent_id = 3
+# text = We will also retain and use your information as necessary to comply with our legal obligations, resolve disputes, and enforce our agreements.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=93:95
+2	will	will	AUX	MD	VerbForm=Fin	4	aux	_	TokenRange=96:100
+3	also	also	ADV	RB	_	4	advmod	_	TokenRange=101:105
+4	retain	retain	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=106:112
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=113:116
+6	use	use	VERB	VB	VerbForm=Inf	4	conj	_	TokenRange=117:120
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=121:125
+8	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=126:137
+9	as	as	SCONJ	IN	_	10	mark	_	TokenRange=138:140
+10	necessary	necessary	ADJ	JJ	Degree=Pos	6	advcl	_	TokenRange=141:150
+11	to	to	PART	TO	_	12	mark	_	TokenRange=151:153
+12	comply	comply	VERB	VB	VerbForm=Inf	10	advcl	_	TokenRange=154:160
+13	with	with	ADP	IN	_	16	case	_	TokenRange=161:165
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=166:169
+15	legal	legal	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=170:175
+16	obligations	obligation	NOUN	NNS	Number=Plur	12	obl	_	SpaceAfter=No|TokenRange=176:187
+17	,	,	PUNCT	,	_	18	punct	_	TokenRange=187:188
+18	resolve	resolve	VERB	VB	VerbForm=Inf	10	conj	_	TokenRange=189:196
+19	disputes	dispute	NOUN	NNS	Number=Plur	18	obj	_	SpaceAfter=No|TokenRange=197:205
+20	,	,	PUNCT	,	_	24	punct	_	TokenRange=205:206
+21	and	and	CCONJ	CC	_	24	cc	_	TokenRange=207:210
+22	enforce	enforce	SCONJ	IN	_	24	case	_	TokenRange=211:218
+23	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	24	nmod:poss	_	TokenRange=219:222
+24	agreements	agreement	NOUN	NNS	Number=Plur	10	conj	_	SpaceAfter=No|TokenRange=223:233
+25	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=233:234
+

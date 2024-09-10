@@ -1,0 +1,38 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 2.1 Personal data or information you directly provide to us
+1	2.1	2.1	NUM	CD	NumType=Card	3	nummod	_	TokenRange=0:3
+2	Personal	personal	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=4:12
+3	data	data	NOUN	NN	Number=Sing	0	root	_	TokenRange=13:17
+4	or	or	CCONJ	CC	_	5	cc	_	TokenRange=18:20
+5	information	information	NOUN	NN	Number=Sing	3	conj	_	TokenRange=21:32
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	8	nsubj	_	TokenRange=33:36
+7	directly	directly	ADV	RB	_	8	advmod	_	TokenRange=37:45
+8	provide	provide	VERB	VB	VerbForm=Inf	3	parataxis	_	TokenRange=46:53
+9	to	to	ADP	IN	_	10	case	_	TokenRange=54:56
+10	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	8	obl	_	SpacesAfter=\n\n|TokenRange=57:59
+
+# newpar
+# sent_id = 2
+# text = When submitting a complaint or suggestion, the user needs to provide email address or other contact information.
+1	When	when	ADV	WRB	PronType=Int	2	mark	_	TokenRange=61:65
+2	submitting	submit	VERB	VBG	VerbForm=Ger	10	advcl	_	TokenRange=66:76
+3	a	a	DET	DT	Definite=Ind|PronType=Art	4	det	_	TokenRange=77:78
+4	complaint	complaint	NOUN	NN	Number=Sing	2	obj	_	TokenRange=79:88
+5	or	or	CCONJ	CC	_	6	cc	_	TokenRange=89:91
+6	suggestion	suggestion	NOUN	NN	Number=Sing	4	conj	_	SpaceAfter=No|TokenRange=92:102
+7	,	,	PUNCT	,	_	10	punct	_	TokenRange=102:103
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=104:107
+9	user	user	NOUN	NN	Number=Sing	10	nsubj	_	TokenRange=108:112
+10	needs	need	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=113:118
+11	to	to	PART	TO	_	12	mark	_	TokenRange=119:121
+12	provide	provide	VERB	VB	VerbForm=Inf	10	xcomp	_	TokenRange=122:129
+13	email	email	NOUN	NN	Number=Sing	14	compound	_	TokenRange=130:135
+14	address	address	NOUN	NN	Number=Sing	12	obj	_	TokenRange=136:143
+15	or	or	CCONJ	CC	_	18	cc	_	TokenRange=144:146
+16	other	other	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=147:152
+17	contact	contact	NOUN	NN	Number=Sing	18	compound	_	TokenRange=153:160
+18	information	information	NOUN	NN	Number=Sing	14	conj	_	SpaceAfter=No|TokenRange=161:172
+19	.	.	PUNCT	.	_	10	punct	_	SpacesAfter=\n\n|TokenRange=172:173
+

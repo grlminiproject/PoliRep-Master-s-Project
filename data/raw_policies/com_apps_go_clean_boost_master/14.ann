@@ -1,0 +1,73 @@
+T1	First-party-entity 52 54	We
+T2	first-party-collection-use 60 63	use
+E1	first-party-collection-use:T2 Purpose-Argument:T16 Purpose-Argument2:T15 Purpose-Argument3:T14 Purpose-Argument4:T13 Purpose-Argument5:T12 Purpose-Argument6:T11 Purpose-Argument7:T10 Purpose-Argument8:T9 Purpose-Argument9:T8 Purpose-Argument10:T7 Purpose-Argument11:T6 Purpose-Argument12:T5 Data-Collected:T4 Data-Provider:T3 Data-Collector:T1
+T3	User 64 68	your
+T4	Data-general 69 82	personal data
+T5	Communications 87 198	keep you posted on software updates, technical updates, security alerts and support and administrative messages
+T6	Basic-service-feature 203 301	allow you to download and purchase our products and services such as our apps and related websites
+T7	Analytics-research 306 468	help us create, provide, develop, operate, deliver, maintain and improve our products, services, content, advertising and continually improve your user experience
+T8	Analytics-research 473 631	assess customer satisfaction and link or combine with information we get from others to help understand your needs and provide you with better user experience
+T9	Basic-service-feature 636 727	process transactions and send you related information, including confirmations and invoices
+T10	Communications 732 842	respond to your comments, inquiries, questions, provide customer service and support and fulfill your requests
+T11	Service-operation-and-security 847 938	verify identity, assist with identification of users, and to determine appropriate services
+T12	Communications 943 1110	communicate with you and send you important notices or personalized messages, such as communications about purchases and changes to our terms, conditions, and policies
+T13	Analytics-research 1115 1238	monitor, evaluate and analyze trends, data, transactions, usage and activities in connection with our products and services
+T14	Analytics-research 1243 1380	facilitate internal purposes such as auditing, data analysis, and research to improve our products, services, and customer communications
+T15	Service-operation-and-security 1385 1505	detect, investigate and prevent fraudulent transactions and other illegal activities and protect our rights and property
+T16	Legal-requirement 1510 1598	use your personal data for purposes associated with our legal and regulatory obligations
+T17	Basic-service-feature 1792 1979	our use of your personal data is necessary to perform a contract or take steps to enter into a contract with you (e.g. to fulfill obligations under the contract signed between you and us)
+T18	Legal-requirement 1984 2106	our use of your personal data is necessary to comply with a relevant legal or regulatory obligation that we are subject to
+T19	Condition 2311 2405	it is always carried out in a way that is proportionate, and that respects your privacy rights
+T20	first-party-collection-use 1639 1642	use
+E2	first-party-collection-use:T20 Data-Collected:T23 Condition-Argument:T19 Data-Provider:T22 Data-Collector:T21 Purpose-Argument:T50 Purpose-Argument2:T17 Purpose-Argument3:T18 Purpose-Argument4:T65 Purpose-Argument5:T64 Purpose-Argument6:T66
+T21	First-party-entity 1600 1602	We
+T22	User 1643 1647	your
+T23	Data-general 1648 1661	personal data
+T24	first-party-collection-use 2498 2505	collect
+E3	first-party-collection-use:T24 Data-Collected:T25 Purpose-Argument:T27 Data-Provider:T28 Data-Collector:T26
+T25	Data-other 2506 2532	special categories of data
+T26	First-party-entity 2420 2422	us
+T28	User 2434 2437	you
+T29	Condition 2764 2785	your explicit consent
+T27	Basic-service-feature 2426 2489	provide you with our services when you use certain applications
+T30	Condition 2787 2864	the establishment, exercise or defense by us or third parties of legal claims
+T32	data-storage-retention-deletion 3719 3725	delete
+E4	data-storage-retention-deletion:T32 Data-Retained:T36 Data-Holder:T35 Condition-Argument:T34 Data-Provider:T33
+T33	User 3532 3535	you
+T34	Condition 3532 3697	you cancel your user account and / or completely uninstall our product (or stop using our service), we will, pursuant to applicable laws and according to this Policy
+T35	First-party-entity 3591 3594	our
+T36	Data-general 3731 3742	information
+T37	Condition 4443 4579	the collection and usage is related to national secure or national defense, public safety, public health or significant public interests
+T38	first-party-collection-use 4229 4239	collecting
+E5	first-party-collection-use:T38 Condition-Argument:T49 Condition-Argument2:T48 Condition-Argument3:T47 Condition-Argument4:T46 Condition-Argument5:T45 Condition-Argument6:T44 Condition-Argument7:T43 Condition-Argument8:T42 Condition-Argument9:T37 Data-Collected:T41 Data-Provider:T40 Data-Collector:T39 Condition-Argument11:T62
+T39	First-party-entity 4148 4150	We
+T40	User 4207 4211	your
+T41	Data-general 4260 4273	personal data
+T42	Condition 4586 4699	the collection and usage is related to investigation, prosecution, trial or judgment enforcement of criminal acts
+T43	Condition 4705 4865	the sake of life, property or other major legitimate interests of you or others, while in such incidents we have difficulty to reach you to confirm your consent
+T44	Condition 4872 4941	the information we collect has been voluntarily disclosed by yourself
+T45	Condition 4948 5139	we collect your information from sources that have made legitimate and public relevant disclosures of such information, such as legitimate news reports, or governmental information disclosure
+T46	Condition 5146 5363	relevant collection or usage is necessary for ensuring the safe, stable and legitimate operations of our product and service, such as when we need to diagnose or deal with failure or defects in our product and service
+T47	Condition 5370 5433	the collection or usage is required for legitimate news reports
+T48	Condition 5440 5692	the collection or usage is necessary for academic or research institutes to make statistical or academy research for public interests, and when such results of research are being disclosed, the personal data contained has been made to be “de-identified
+T49	Condition 5700 5809	the collection or usage of your information is permitted by applicable laws and regulations for other reasons
+T50	Legal-requirement 1611 1635	establish a legal ground
+T51	first-party-collection-use 2551 2561	collection
+E6	first-party-collection-use:T51 Data-Collector:T53 Data-Provider:T54 Data-Collected:T52 Condition-Argument2:T29 Condition-Argument3:T30 Purpose-Argument:T55
+T52	Data-other 2577 2603	special categories of data
+T53	First-party-entity 2547 2550	our
+T54	User 2572 2576	your
+T55	Legal-requirement 2605 2673	we will establish an additional lawful ground to those set out above
+T31	first-party-collection-use 3253 3256	use
+E7	first-party-collection-use:T31 Data-Collector:T61 Condition-Argument3:T57 Data-Provider:T60 Data-Collected:T56
+T56	Data-general 3111 3122	information
+T57	Condition 3123 3188	you’ve consented to provide us while using our product or service
+T60	User 3123 3129	you’ve
+T61	First-party-entity 3151 3153	us
+T64	Basic-service-feature 2111 2214	our use of your personal data is necessary to support ‘legitimate interests’ that we have as a business
+T65	Analytics-research 2232 2252	improve our products
+T66	Analytics-research 2260 2299	carry out analytics across our datasets
+T58	first-party-collection-use 3704 3709	using
+E8	first-party-collection-use:T58 Data-Collected:T36 Polarity:T59 Condition-Argument:T34 Data-Collector:T35 Data-Provider:T33
+T59	Negation 3699 3703	stop
+T62	Condition 4148 4225	We will not need to, or will be effectively unable to, get your prior consent

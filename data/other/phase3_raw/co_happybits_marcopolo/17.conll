@@ -1,0 +1,45 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = General Data Protection Regulation (GDPR)
+1	General	General	PROPN	NNP	Number=Sing	2	compound	_	TokenRange=0:7
+2	Data	data	PROPN	NNP	Number=Sing	3	compound	_	TokenRange=8:12
+3	Protection	Protection	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=13:23
+4	Regulation	regulation	PROPN	NNP	Number=Sing	0	root	_	TokenRange=24:34
+5	(	(	PUNCT	-LRB-	_	6	punct	_	SpaceAfter=No|TokenRange=35:36
+6	GDPR	GDPR	PROPN	NNP	Number=Sing	4	appos	_	SpaceAfter=No|TokenRange=36:40
+7	)	)	PUNCT	-RRB-	_	6	punct	_	SpacesAfter=\n\n|TokenRange=40:41
+
+# newpar
+# sent_id = 2
+# text = We, Joya, are the data controller of your Personal Information.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	SpaceAfter=No|TokenRange=43:45
+2	,	,	PUNCT	,	_	3	punct	_	TokenRange=45:46
+3	Joya	Joya	PROPN	NNP	Number=Sing	1	conj	_	SpaceAfter=No|TokenRange=47:51
+4	,	,	PUNCT	,	_	8	punct	_	TokenRange=51:52
+5	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=53:56
+6	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=57:60
+7	data	data	NOUN	NN	Number=Sing	8	compound	_	TokenRange=61:65
+8	controller	controller	NOUN	NN	Number=Sing	0	root	_	TokenRange=66:76
+9	of	of	ADP	IN	_	12	case	_	TokenRange=77:79
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=80:84
+11	Personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=85:93
+12	Information	information	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=94:105
+13	.	.	PUNCT	.	_	8	punct	_	TokenRange=105:106
+
+# sent_id = 3
+# text = Our contact information can be found at the end of this Policy.
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=107:110
+2	contact	contact	NOUN	NN	Number=Sing	3	compound	_	TokenRange=111:118
+3	information	information	NOUN	NN	Number=Sing	6	nsubj:pass	_	TokenRange=119:130
+4	can	can	AUX	MD	VerbForm=Fin	6	aux	_	TokenRange=131:134
+5	be	be	AUX	VB	VerbForm=Inf	6	aux:pass	_	TokenRange=135:137
+6	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=138:143
+7	at	at	ADP	IN	_	9	case	_	TokenRange=144:146
+8	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=147:150
+9	end	end	NOUN	NN	Number=Sing	6	obl	_	TokenRange=151:154
+10	of	of	ADP	IN	_	12	case	_	TokenRange=155:157
+11	this	this	DET	DT	Number=Sing|PronType=Dem	12	det	_	TokenRange=158:162
+12	Policy	policy	NOUN	NN	Number=Sing	9	nmod	_	SpaceAfter=No|TokenRange=163:169
+13	.	.	PUNCT	.	_	6	punct	_	SpacesAfter=\n\n|TokenRange=169:170
+

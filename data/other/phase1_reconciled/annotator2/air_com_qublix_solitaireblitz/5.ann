@@ -1,0 +1,56 @@
+T1	Third-party-entity 371 384	third parties
+T2	third-party-sharing-disclosure 394 400	access
+E1	third-party-sharing-disclosure:T2 Data-Receiver:T1 Data-Shared:T4 Data-Shared2:T3 Data-Shared3:T11 Data-Shared4:T12 Data-Shared5:T12 Data-Shared6:T13 Data-Shared7:T14 Data-Shared8:T15 Data-Shared9:T16 Data-Shared10:T17 Data-Shared11:T18 Data-Shared12:T19 Purpose-Argument:T20 Purpose-Argument2:T21 Data-Provider:T22
+T3	Data-general 425 436	information
+T4	Data-general 416 420	data
+T5	Third-party-entity 207 220	third parties
+T6	Data-other 229 252	cookies, APIs, and SDKs
+T7	collection-use 287 294	collect
+E2	collection-use:T7 Data-Collected:T6 Data-Provider:T5 Data-Collected2:T8 Data-Collected3:T9 Data-Collector:T10
+T8	Data-general 307 335	user and device related data
+T9	Data-general 340 351	information
+T11	Identifier 461 478	device identifier
+T12	MACAddress 480 491	MAC address
+T13	Contact 493 497	IMEI
+T14	Location 499 505	locale
+T15	IPAddress 560 570	IP address
+T16	ServiceConsumptionBehavior 572 589	application usage
+T17	BrowsingBehavior 591 615	access and session times
+T18	DeviceApplications 617 696	applications present on the device or in use at a particular time on the device
+T19	BrowsingBehavior 702 751	your viewing of and interactions with advertising
+T20	Purpose-general 772 796	providing their services
+T21	Advertising 822 868	enabling, providing and delivering advertising
+T10	First-party-entity 256 259	our
+T22	User 443 446	you
+T23	First-party-entity 22 25	Our
+T24	Third-party-entity 46 57	third party
+T25	Tracking 58 106	tracking and data collection and analytics tools
+T26	Third-party-name 161 177	Google Analytics
+T27	Third-party-name 182 200	Facebook Analytics
+T28	Third-party-entity 116 133	service providers
+R1	SUBSUME Arg1:T28 Arg2:T26	
+R2	SUBSUME Arg1:T28 Arg2:T27	
+T29	Purpose-general 272 306	enable them to collect and analyze
+R3	SUBSUME Arg1:T3 Arg2:T11	
+R4	SUBSUME Arg1:T3 Arg2:T12	
+R5	SUBSUME Arg1:T3 Arg2:T13	
+R6	SUBSUME Arg1:T3 Arg2:T14	
+R7	SUBSUME Arg1:T3 Arg2:T15	
+R8	SUBSUME Arg1:T3 Arg2:T16	
+R9	SUBSUME Arg1:T3 Arg2:T17	
+R10	SUBSUME Arg1:T3 Arg2:T18	
+R11	SUBSUME Arg1:T3 Arg2:T19	
+R12	SUBSUME Arg1:T20 Arg2:T21	
+T30	Third-party-entity 1260 1315	links to third party applications, services or websites
+T31	First-party-entity 1321 1333	our Services
+T32	Third-party-entity 1434 1439	links
+R13	SUBSUME Arg1:T30 Arg2:T32	
+T33	third-party-sharing-disclosure 1252 1259	provide
+E3	third-party-sharing-disclosure:T33 
+T34	User 1390 1393	You
+T35	User 1415 1418	you
+T37	Condition 1481 1541	subject to that third party’s privacy policy and not to ours
+T36	Data-general 1444 1448	data
+T39	third-party-sharing-disclosure 1459 1477	provide afterwards
+E4	third-party-sharing-disclosure:T39 Condition-Argument:T37 Data-Shared:T36 Data-Receiver:T32 Data-Provider:T35 Condition-Argument2:T40 Data-Provider2:T34
+T40	Condition 1394 1404	understand

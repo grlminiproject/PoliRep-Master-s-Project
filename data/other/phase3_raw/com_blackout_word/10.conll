@@ -1,0 +1,87 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 4.
+1	4	4	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = How long we store your personal information
+1	How	how	ADV	WRB	PronType=Int	2	advmod	_	TokenRange=3:6
+2	long	long	ADV	RB	Degree=Pos	4	advmod	_	TokenRange=7:11
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=12:14
+4	store	store	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=15:20
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=21:25
+6	personal	personal	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=26:34
+7	information	information	NOUN	NN	Number=Sing	4	obj	_	SpacesAfter=\n\n|TokenRange=35:46
+
+# newpar
+# sent_id = 3
+# text = We keep your personal information for no longer than necessary for the purposes for which the personal information is processed.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=48:50
+2	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=51:55
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=56:60
+4	personal	personal	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=61:69
+5	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=70:81
+6	for	for	ADP	IN	_	10	mark	_	TokenRange=82:85
+7	no	no	ADV	RB	_	8	advmod	_	TokenRange=86:88
+8	longer	longer	ADV	RBR	Degree=Cmp	10	advmod	_	TokenRange=89:95
+9	than	than	SCONJ	IN	_	10	mark	_	TokenRange=96:100
+10	necessary	necessary	ADJ	JJ	Degree=Pos	2	xcomp	_	TokenRange=101:110
+11	for	for	ADP	IN	_	13	case	_	TokenRange=111:114
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=115:118
+13	purposes	purpose	NOUN	NNS	Number=Plur	2	obl	_	TokenRange=119:127
+14	for	for	ADP	IN	_	15	case	_	TokenRange=128:131
+15	which	which	PRON	WDT	PronType=Rel	20	obl	_	TokenRange=132:137
+16	the	the	DET	DT	Definite=Def|PronType=Art	18	det	_	TokenRange=138:141
+17	personal	personal	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=142:150
+18	information	information	NOUN	NN	Number=Sing	20	nsubj:pass	_	TokenRange=151:162
+19	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	aux:pass	_	TokenRange=163:165
+20	processed	process	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	13	acl:relcl	_	SpaceAfter=No|TokenRange=166:175
+21	.	.	PUNCT	.	_	2	punct	_	TokenRange=175:176
+
+# sent_id = 4
+# text = The length of time for which we retain personal information depends on the purposes for which we collect and use it and/or as required to comply with applicable laws and to establish, exercise or defend our legal rights.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=177:180
+2	length	length	NOUN	NN	Number=Sing	0	root	_	TokenRange=181:187
+3	of	of	ADP	IN	_	4	case	_	TokenRange=188:190
+4	time	time	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=191:195
+5	for	for	ADP	IN	_	6	case	_	TokenRange=196:199
+6	which	which	PRON	WDT	PronType=Rel	8	obl	_	TokenRange=200:205
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	TokenRange=206:208
+8	retain	retain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	TokenRange=209:215
+9	personal	personal	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=216:224
+10	information	information	NOUN	NN	Number=Sing	11	compound	_	TokenRange=225:236
+11	depends	depend	NOUN	NNS	Number=Plur	8	obj	_	TokenRange=237:244
+12	on	on	ADP	IN	_	14	case	_	TokenRange=245:247
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=248:251
+14	purposes	purpose	NOUN	NNS	Number=Plur	11	nmod	_	TokenRange=252:260
+15	for	for	ADP	IN	_	16	case	_	TokenRange=261:264
+16	which	which	PRON	WDT	PronType=Rel	18	obl	_	TokenRange=265:270
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	TokenRange=271:273
+18	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	TokenRange=274:281
+19	and	and	CCONJ	CC	_	20	cc	_	TokenRange=282:285
+20	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	conj	_	TokenRange=286:289
+21	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	20	obj	_	TokenRange=290:292
+22	and	and	CCONJ	CC	_	26	cc	_	SpaceAfter=No|TokenRange=293:296
+23	/	/	PUNCT	,	_	24	cc	_	SpaceAfter=No|TokenRange=296:297
+24	or	or	CCONJ	CC	_	22	conj	_	TokenRange=297:299
+25	as	as	SCONJ	IN	_	26	mark	_	TokenRange=300:302
+26	required	require	VERB	VBN	Tense=Past|VerbForm=Part	20	conj	_	TokenRange=303:311
+27	to	to	PART	TO	_	28	mark	_	TokenRange=312:314
+28	comply	comply	VERB	VB	VerbForm=Inf	26	xcomp	_	TokenRange=315:321
+29	with	with	ADP	IN	_	31	case	_	TokenRange=322:326
+30	applicable	applicable	ADJ	JJ	Degree=Pos	31	amod	_	TokenRange=327:337
+31	laws	law	NOUN	NNS	Number=Plur	28	obl	_	TokenRange=338:342
+32	and	and	CCONJ	CC	_	34	cc	_	TokenRange=343:346
+33	to	to	PART	TO	_	34	mark	_	TokenRange=347:349
+34	establish	establish	VERB	VB	VerbForm=Inf	26	conj	_	SpaceAfter=No|TokenRange=350:359
+35	,	,	PUNCT	,	_	36	punct	_	TokenRange=359:360
+36	exercise	exercise	VERB	VB	VerbForm=Inf	34	xcomp	_	TokenRange=361:369
+37	or	or	CCONJ	CC	_	38	cc	_	TokenRange=370:372
+38	defend	defend	VERB	VB	VerbForm=Inf	36	conj	_	TokenRange=373:379
+39	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	41	nmod:poss	_	TokenRange=380:383
+40	legal	legal	ADJ	JJ	Degree=Pos	41	amod	_	TokenRange=384:389
+41	rights	rights	NOUN	NNS	Number=Plur	36	obj	_	SpaceAfter=No|TokenRange=390:396
+42	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=396:397
+

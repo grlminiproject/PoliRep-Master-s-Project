@@ -1,0 +1,44 @@
+T6	First-party-entity 357 359	we
+T7	data-security-protection 377 387	protecting
+E2	data-security-protection:T7 Data-Protector:T6 Data-Provider:T8 Data-Protected:T9 protect-against:T10
+T8	User 388 392	your
+T9	Data-general 393 413	personal information
+T10	security-threat 419 441	loss, theft and misuse
+T11	First-party-entity 443 445	We
+T12	data-security-protection 477 486	safeguard
+E3	data-security-protection:T12 Data-Protector:T11 method:T13 method2:T16 Data-Provider:T14 Data-Protected:T15
+T13	general-safeguard-method 451 473	reasonable precautions
+T14	User 510 514	your
+T15	Data-general 515 535	personal information
+T16	general-safeguard-method 555 611	use of appropriate organisational and technical measures
+T17	First-party-entity 613 615	We
+T18	data-security-protection 713 722	safeguard
+E4	data-security-protection:T18 Data-Protector:T17 method:T19 method2:T20 method3:T21 Data-Protected:T22 Condition-Argument:T23 Data-Provider:T24
+T19	encryptions 656 666	encryption
+T20	Access-limitation 668 677	firewalls
+T21	User-authentication 682 709	password protection systems
+T22	Data-general 750 770	personal information
+T23	Condition 776 801	we might collect from you
+T24	User 798 801	you
+T25	First-party-entity 948 950	We
+T26	data-security-protection 956 962	strive
+E5	data-security-protection:T26 Data-Protector2:T25 method:T27 Data-Provider:T28 Data-Protected:T29
+T27	Access-limitation 966 978	limit access
+T28	User 982 986	your
+T29	Data-general 987 991	data
+T31	First-party-entity 1495 1497	we
+T32	Negation 1498 1504	cannot
+T33	data-security-protection 1519 1527	security
+E6	data-security-protection:T33 Data-Protector:T31 Polarity:T32 Data-Provider:T34 Data-Protected:T35 Condition-Argument:T36 Condition-Argument2:T30
+T34	User 1531 1535	your
+T35	Data-general 1536 1556	personal information
+T36	Condition 1557 1610	transmitted to our apps or customer services function
+T37	First-party-entity 1668 1670	we
+T38	User 1685 1689	your
+T39	Data-general 1690 1710	personal information
+T40	data-security-protection 1720 1723	use
+E7	data-security-protection:T40 Data-Protector:T37 Data-Provider:T38 Data-Protected:T39 method:T41 method2:T42 protect-against:T43
+T41	general-safeguard-method 1724 1741	strict procedures
+T42	general-safeguard-method 1746 1763	security features
+T43	security-threat 1775 1794	unauthorised access
+T30	Condition 1505 1514	guarantee

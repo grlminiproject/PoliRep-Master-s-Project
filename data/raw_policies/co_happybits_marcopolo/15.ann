@@ -1,0 +1,14 @@
+T1	first-party-collection-use 96 103	collect
+E1	first-party-collection-use:T1 Polarity:T5 Data-Collector:T2 Data-Collected:T3 Data-Provider:T4
+T2	First-party-entity 43 45	We
+T3	Data-general 108 128	Personal Information
+T4	User 134 151	children under 13
+T5	Negation 49 52	not
+T7	data-storage-retention-deletion 280 286	remove
+E2	data-storage-retention-deletion:T7 Data-Retained:T10 Storage-Place:T11 Data-Provider:T9 Data-Holder:T8 Condition-Argument:T12 Purpose-Argument:T13
+T8	First-party-entity 211 213	we
+T9	User 227 256	user is under 13 years of age
+T10	Data-general 299 319	Personal Information
+T11	storage-place 325 338	our databases
+T12	Condition 211 256	we learn that a user is under 13 years of age
+T13	Legal-requirement 346 390	prevent that user from utilizing the Service

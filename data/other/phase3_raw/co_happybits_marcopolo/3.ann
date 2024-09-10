@@ -1,0 +1,29 @@
+T1	first-party-collection-use 71 78	provide
+E1	first-party-collection-use:T1 Data-Provider:T2 Data-Collected:T3 Data-Collected2:T4 Data-Collected3:T6 Data-Collected4:T7 Data-Collected5:T5 Condition-Argument:T24 Data-Collector:T25
+T2	User 67 70	you
+T3	Data-contact 84 97	mobile number
+T4	Data-contact 107 111	name
+T5	Data-contact 144 157	email address
+T6	Data-contact 159 164	photo
+T7	Data-contact 166 191	birth day and birth month
+T8	third-party-sharing-disclosure 358 361	see
+E2	third-party-sharing-disclosure:T8 Data-Receiver:T9 Condition-Argument:T10 Condition-Argument2:T11 Condition-Argument3:T12 Data-Shared:T13 Data-Shared2:T14 Data-Shared3:T15 Data-Shared4:T16 Data-Shared5:T17 Data-Provider:T26
+T9	Third-party-entity 204 231	registered Marco Polo users
+T10	Condition 238 298	already have your phone number in their phone’s address book
+T11	Condition 300 323	are in a group with you
+T12	Condition 328 353	you invited to Marco Polo
+T13	Data-contact 367 371	name
+T14	Data-contact 373 378	photo
+T15	Data-contact 380 393	mobile number
+T16	Data-contact 395 400	email
+T17	Data-contact 402 430	birth day and/or birth month
+T18	first-party-collection-use 731 738	collect
+E3	first-party-collection-use:T18 Data-Collected:T22 Data-Collector:T19 Condition-Argument:T21 Data-Provider:T20 Purpose-Argument:T23
+T19	First-party-entity 728 730	we
+T20	User 701 704	you
+T21	Condition 701 726	you chose to provide them
+T22	Data-contact 744 763	birth day and month
+T23	Basic-service-feature 767 819	people you know get reminded when it’s your birthday
+T24	Condition 26 65	create a Marco Polo account ("Account")
+T25	First-party-entity 35 45	Marco Polo
+T26	User 251 255	your

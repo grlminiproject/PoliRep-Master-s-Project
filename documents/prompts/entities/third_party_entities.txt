@@ -1,0 +1,38 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and will be asked to annotate third party entities in it.
+
+IMPORTANT: Filtering Out General Phrases
+Before annotating, carefully check each potential third party entity. DO NOT annotate general phrases that do not provide specific third party name.
+Examples of general phrases to omit include, but are not limited to:
+
+"third party"
+"advertisers"
+"downstream services"
+"companies and organizations"
+"promotional partners"
+
+Third party entities are phrases in segment text that refer to the third party entity name that collect or use USER'S PERSONAL DATA or with which USER'S PERSONAL DATA is being shared or disclosed to.
+The third party entity must be mentioned in one of the following context types:
+1. third-party-collection-use - the policy segment mentions collection, usage, or processing of a personal user datum or data by a third party.
+2. third-party-sharing-disclosure - the policy segment mentions sharing, or disclosure of a personal user datum or data to a third party.
+
+Note the following!
+Third party entity that is mentioned outside of one of these contexts does not classify as purpose entity and should NOT be annotated.
+
+Provide the output as a list of third party entities with the following details for each entity:
+1. The type of the context in which this third party is mentioned.
+2. The exact text of the third party entity as it appears in the text segment.
+
+Examples
+
+Question:
+
+"Because Exim Labs’ Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processor. In particular, we share your app usage statistics with Gamify.Labs to recommend you similar games."
+
+Answer:
+{
+  "entities": [
+    {"type": "third-party-sharing-disclosure", "text": "Gamify.Labs"}
+  ]
+}
+
+Please identify and annotate ALL third party entities in the following privacy policy segment.

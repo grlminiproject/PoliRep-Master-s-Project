@@ -1,0 +1,31 @@
+T1	collection-use 113 116	use
+E1	collection-use:T1 Data-Provider:T5 Data-Provider2:T4 Data-Collected:T6 Purpose-Argument:T7 Purpose-Argument2:T8 Data-Collected2:T9 Data-Collected3:T10 Purpose-Argument3:T11 Purpose-Argument4:T12 Purpose-Argument5:T13 Data-Collector:T2 Data-Provider3:T3 Data-Collected4:T14 Data-Collected5:T15 Data-Collected6:T16 Data-Provider4:T17 Data-Collected7:T18
+T2	First-party-entity 23 25	We
+T3	Third-party-entity 34 68	marketing and outsourcing partners
+T4	Third-party-entity 70 80	affiliates
+T5	Third-party-entity 85 112	analytics service providers
+T6	Data-other 138 145	cookies
+T7	ServicePersonalisation 177 210	identify a user’s computer/device
+T8	Purpose-other 218 252	store information about your visit
+T9	Data-general 310 330	personal information
+T10	UID 345 352	user ID
+T11	ServiceOptimisation 375 411	improving the quality of our Service
+T12	ServicePersonalisation 413 456	tailoring recommendations to your interests
+T13	ServiceProvision 462 494	making the Service easier to use
+T14	Data-other 147 154	beacons
+T15	Data-other 156 163	scripts
+T16	Data-other 169 173	tags
+T17	User 188 194	user’s
+T18	Data-general 117 129	technologies
+R1	SUBSUME Arg1:T18 Arg2:T6	
+R2	SUBSUME Arg1:T18 Arg2:T14	
+R3	SUBSUME Arg1:T18 Arg2:T15	
+R4	SUBSUME Arg1:T18 Arg2:T16	
+T19	Data-general 254 265	Information
+T20	Data-other 281 287	cookie
+T21	derivation 295 301	linked
+E2	derivation:T21 Derived-From:T19 Derived-From2:T20 Data-Derived:T9 Data-Derived2:T10 Purpose-Argument:T11 Purpose-Argument2:T12 Purpose-Argument3:T13
+R5	SUBSUME Arg1:T9 Arg2:T10	
+T22	derivation 177 185	identify
+E3	derivation:T22 Data-Derived:T23 Derived-From:T16 Data-Derived2:T15 Derived-From2:T14 Data-Derived3:T6 Data-Derived4:T18
+T23	DeviceBased 195 210	computer/device

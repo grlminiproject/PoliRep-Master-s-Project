@@ -1,0 +1,5 @@
+How to opt out or disable cookies
+
+If you do not wish to have session or persistent cookies placed on your computer, you can disable them using your Web browser. If you opt out of cookies, you will still have access to all information and resources on CMS websites. Instructions for disabling or opting out of cookies in the most popular browsers are located at http://www.usa.gov/optout_instructions.shtml.
+Please note that by opting out of cookies, you will disable cookies from all sources, not just from CMS websites.
+

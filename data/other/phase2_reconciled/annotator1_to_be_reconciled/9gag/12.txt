@@ -1,0 +1,9 @@
+How Long We Keep Your Information
+
+9GAG stores your information, the posts you upload, and the comments you upload for a period of time. For example:
+We store your basic account information, including your name, username, and email address until you ask us to delete them
+We store location information for different lengths of time based on how precise it is and which services you use.
+We are constantly collecting and updating information about the things you like or dislike, so we can provide you with more relevant data, more relevant ads, and a better user experience.
+If you decide to stop using 9GAG, you can ask us to delete your account.
+There may be legal requirements to store your data and we may need to suspend those deletion practices if we receive valid legal process or request asking us to preserve that content, or if we receive reports of abuse or other Terms of Service Violations. We may also need to retain certain information in backup for a limited period of time, or as required by law.
+

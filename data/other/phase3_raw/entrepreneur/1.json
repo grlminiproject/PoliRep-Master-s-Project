@@ -1,0 +1,7843 @@
+{
+  "text": "1. The Kinds of Information We Collect.\n\nWe collect information to provide better services to all of users of our Service, including determining what types of editorial content and the products and services offered on our Service that are of the most interest and relevance to you.\nWe collect information about you from the following two sources:\na. The Information you give us (\"EMI Profile\"). For example, many of our services require that you create an account. When you do, we'll ask for personal information, like your name, email address, telephone number, and, if you are purchasing products or services on our Service, purchase information such as the products or services purchased, the dates of purchase and the purchase price.\nb. The information we collect from your use of our Service. This information relates generally to what editorial and advertising content you view, and the products and services you use that we and our third-party providers offer. This information includes:\n(i) Device Information, we collect information about the devices you use to access our Service, such as hardware settings, browser type, browser language, the date and time of your request and referral URL.\n(ii) Log Information. When you use our Service, we automatically collect and store certain information in server logs, which automatically record certain information when you use our Service, including the following:\n(a) details about how you have used our Service, such as your search queries;\n(b) your IP address, which is the number assigned to an Internet connected device such as a tablet or smartphone and used to identify the geographic location of that device; and\n(c) cookies that may uniquely identify your browser and collect information about how our visitors interact with our Service, as well as help us identify problems such as error messages from certain pages. A cookie is a small file containing a string of characters that is sent to your computer or other device when you visit our Service. When you visit our Service any time thereafter, the cookie allows our Service to recognize your browser and to store information about your user preferences and other personal information.\n(iii) Location information. When you visit our Service, we may collect and process information about your actual location. We use various technologies to determine location, including IP address.\n(iv) Local storage. We may collect and store information (including personal information) locally on your device, using mechanisms such as browser web storage (including HTML 5), which allows for data to be stored on a browser even after the browser has been closed and the reopened, and application data caches, which allow for data to be stored on your device, enabling an application to run without an Internet connection and to load content faster.\n(v) Collection and Storage technologies. We and our partners use various technologies to collect and store information when you access the EMI Service, and this may include using cookies or other technologies to identify your browser or device. We also use these technologies to collect and store information when you access our Service and interact with the content and products and services we offer, such as advertising services.\nc. Our properties may feature Nielsen proprietary measurement software, which will allow you to contribute to market research, such as Nielsen TV Ratings. To learn more about the information that Nielsen software may collect and your choices with regard to it, please see the Nielsen Digital Measurement Privacy Policy at http://www.nielsen.com/digitalprivacy .\n\n",
+  "words": [
+    "1",
+    ".",
+    "The",
+    "Kinds",
+    "of",
+    "Information",
+    "We",
+    "Collect",
+    ".",
+    "We",
+    "collect",
+    "information",
+    "to",
+    "provide",
+    "better",
+    "services",
+    "to",
+    "all",
+    "of",
+    "users",
+    "of",
+    "our",
+    "Service",
+    ",",
+    "including",
+    "determining",
+    "what",
+    "types",
+    "of",
+    "editorial",
+    "content",
+    "and",
+    "the",
+    "products",
+    "and",
+    "services",
+    "offered",
+    "on",
+    "our",
+    "Service",
+    "that",
+    "are",
+    "of",
+    "the",
+    "most",
+    "interest",
+    "and",
+    "relevance",
+    "to",
+    "you",
+    ".",
+    "We",
+    "collect",
+    "information",
+    "about",
+    "you",
+    "from",
+    "the",
+    "following",
+    "two",
+    "sources",
+    ":",
+    "a",
+    ".",
+    "The",
+    "Information",
+    "you",
+    "give",
+    "us",
+    "(",
+    "\"",
+    "EMI",
+    "Profile",
+    "\"",
+    ")",
+    ".",
+    "For",
+    "example",
+    ",",
+    "many",
+    "of",
+    "our",
+    "services",
+    "require",
+    "that",
+    "you",
+    "create",
+    "an",
+    "account",
+    ".",
+    "When",
+    "you",
+    "do",
+    ",",
+    "we",
+    "'ll",
+    "ask",
+    "for",
+    "personal",
+    "information",
+    ",",
+    "like",
+    "your",
+    "name",
+    ",",
+    "email",
+    "address",
+    ",",
+    "telephone",
+    "number",
+    ",",
+    "and",
+    ",",
+    "if",
+    "you",
+    "are",
+    "purchasing",
+    "products",
+    "or",
+    "services",
+    "on",
+    "our",
+    "Service",
+    ",",
+    "purchase",
+    "information",
+    "such",
+    "as",
+    "the",
+    "products",
+    "or",
+    "services",
+    "purchased",
+    ",",
+    "the",
+    "dates",
+    "of",
+    "purchase",
+    "and",
+    "the",
+    "purchase",
+    "price",
+    ".",
+    "b",
+    ".",
+    "The",
+    "information",
+    "we",
+    "collect",
+    "from",
+    "your",
+    "use",
+    "of",
+    "our",
+    "Service",
+    ".",
+    "This",
+    "information",
+    "relates",
+    "generally",
+    "to",
+    "what",
+    "editorial",
+    "and",
+    "advertising",
+    "content",
+    "you",
+    "view",
+    ",",
+    "and",
+    "the",
+    "products",
+    "and",
+    "services",
+    "you",
+    "use",
+    "that",
+    "we",
+    "and",
+    "our",
+    "third",
+    "-",
+    "party",
+    "providers",
+    "offer",
+    ".",
+    "This",
+    "information",
+    "includes",
+    ":",
+    "(",
+    "i",
+    ")",
+    "Device",
+    "Information",
+    ",",
+    "we",
+    "collect",
+    "information",
+    "about",
+    "the",
+    "devices",
+    "you",
+    "use",
+    "to",
+    "access",
+    "our",
+    "Service",
+    ",",
+    "such",
+    "as",
+    "hardware",
+    "settings",
+    ",",
+    "browser",
+    "type",
+    ",",
+    "browser",
+    "language",
+    ",",
+    "the",
+    "date",
+    "and",
+    "time",
+    "of",
+    "your",
+    "request",
+    "and",
+    "referral",
+    "URL",
+    ".",
+    "(",
+    "ii",
+    ")",
+    "Log",
+    "Information",
+    ".",
+    "When",
+    "you",
+    "use",
+    "our",
+    "Service",
+    ",",
+    "we",
+    "automatically",
+    "collect",
+    "and",
+    "store",
+    "certain",
+    "information",
+    "in",
+    "server",
+    "logs",
+    ",",
+    "which",
+    "automatically",
+    "record",
+    "certain",
+    "information",
+    "when",
+    "you",
+    "use",
+    "our",
+    "Service",
+    ",",
+    "including",
+    "the",
+    "following",
+    ":",
+    "(",
+    "a",
+    ")",
+    "details",
+    "about",
+    "how",
+    "you",
+    "have",
+    "used",
+    "our",
+    "Service",
+    ",",
+    "such",
+    "as",
+    "your",
+    "search",
+    "queries",
+    ";",
+    "(",
+    "b",
+    ")",
+    "your",
+    "IP",
+    "address",
+    ",",
+    "which",
+    "is",
+    "the",
+    "number",
+    "assigned",
+    "to",
+    "an",
+    "Internet",
+    "connected",
+    "device",
+    "such",
+    "as",
+    "a",
+    "tablet",
+    "or",
+    "smartphone",
+    "and",
+    "used",
+    "to",
+    "identify",
+    "the",
+    "geographic",
+    "location",
+    "of",
+    "that",
+    "device",
+    ";",
+    "and",
+    "(",
+    "c",
+    ")",
+    "cookies",
+    "that",
+    "may",
+    "uniquely",
+    "identify",
+    "your",
+    "browser",
+    "and",
+    "collect",
+    "information",
+    "about",
+    "how",
+    "our",
+    "visitors",
+    "interact",
+    "with",
+    "our",
+    "Service",
+    ",",
+    "as",
+    "well",
+    "as",
+    "help",
+    "us",
+    "identify",
+    "problems",
+    "such",
+    "as",
+    "error",
+    "messages",
+    "from",
+    "certain",
+    "pages",
+    ".",
+    "A",
+    "cookie",
+    "is",
+    "a",
+    "small",
+    "file",
+    "containing",
+    "a",
+    "string",
+    "of",
+    "characters",
+    "that",
+    "is",
+    "sent",
+    "to",
+    "your",
+    "computer",
+    "or",
+    "other",
+    "device",
+    "when",
+    "you",
+    "visit",
+    "our",
+    "Service",
+    ".",
+    "When",
+    "you",
+    "visit",
+    "our",
+    "Service",
+    "any",
+    "time",
+    "thereafter",
+    ",",
+    "the",
+    "cookie",
+    "allows",
+    "our",
+    "Service",
+    "to",
+    "recognize",
+    "your",
+    "browser",
+    "and",
+    "to",
+    "store",
+    "information",
+    "about",
+    "your",
+    "user",
+    "preferences",
+    "and",
+    "other",
+    "personal",
+    "information",
+    ".",
+    "(",
+    "iii",
+    ")",
+    "Location",
+    "information",
+    ".",
+    "When",
+    "you",
+    "visit",
+    "our",
+    "Service",
+    ",",
+    "we",
+    "may",
+    "collect",
+    "and",
+    "process",
+    "information",
+    "about",
+    "your",
+    "actual",
+    "location",
+    ".",
+    "We",
+    "use",
+    "various",
+    "technologies",
+    "to",
+    "determine",
+    "location",
+    ",",
+    "including",
+    "IP",
+    "address",
+    ".",
+    "(",
+    "iv",
+    ")",
+    "Local",
+    "storage",
+    ".",
+    "We",
+    "may",
+    "collect",
+    "and",
+    "store",
+    "information",
+    "(",
+    "including",
+    "personal",
+    "information",
+    ")",
+    "locally",
+    "on",
+    "your",
+    "device",
+    ",",
+    "using",
+    "mechanisms",
+    "such",
+    "as",
+    "browser",
+    "web",
+    "storage",
+    "(",
+    "including",
+    "HTML",
+    "5",
+    ")",
+    ",",
+    "which",
+    "allows",
+    "for",
+    "data",
+    "to",
+    "be",
+    "stored",
+    "on",
+    "a",
+    "browser",
+    "even",
+    "after",
+    "the",
+    "browser",
+    "has",
+    "been",
+    "closed",
+    "and",
+    "the",
+    "reopened",
+    ",",
+    "and",
+    "application",
+    "data",
+    "caches",
+    ",",
+    "which",
+    "allow",
+    "for",
+    "data",
+    "to",
+    "be",
+    "stored",
+    "on",
+    "your",
+    "device",
+    ",",
+    "enabling",
+    "an",
+    "application",
+    "to",
+    "run",
+    "without",
+    "an",
+    "Internet",
+    "connection",
+    "and",
+    "to",
+    "load",
+    "content",
+    "faster",
+    ".",
+    "(",
+    "v",
+    ")",
+    "Collection",
+    "and",
+    "Storage",
+    "technologies",
+    ".",
+    "We",
+    "and",
+    "our",
+    "partners",
+    "use",
+    "various",
+    "technologies",
+    "to",
+    "collect",
+    "and",
+    "store",
+    "information",
+    "when",
+    "you",
+    "access",
+    "the",
+    "EMI",
+    "Service",
+    ",",
+    "and",
+    "this",
+    "may",
+    "include",
+    "using",
+    "cookies",
+    "or",
+    "other",
+    "technologies",
+    "to",
+    "identify",
+    "your",
+    "browser",
+    "or",
+    "device",
+    ".",
+    "We",
+    "also",
+    "use",
+    "these",
+    "technologies",
+    "to",
+    "collect",
+    "and",
+    "store",
+    "information",
+    "when",
+    "you",
+    "access",
+    "our",
+    "Service",
+    "and",
+    "interact",
+    "with",
+    "the",
+    "content",
+    "and",
+    "products",
+    "and",
+    "services",
+    "we",
+    "offer",
+    ",",
+    "such",
+    "as",
+    "advertising",
+    "services",
+    ".",
+    "c",
+    ".",
+    "Our",
+    "properties",
+    "may",
+    "feature",
+    "Nielsen",
+    "proprietary",
+    "measurement",
+    "software",
+    ",",
+    "which",
+    "will",
+    "allow",
+    "you",
+    "to",
+    "contribute",
+    "to",
+    "market",
+    "research",
+    ",",
+    "such",
+    "as",
+    "Nielsen",
+    "TV",
+    "Ratings",
+    ".",
+    "To",
+    "learn",
+    "more",
+    "about",
+    "the",
+    "information",
+    "that",
+    "Nielsen",
+    "software",
+    "may",
+    "collect",
+    "and",
+    "your",
+    "choices",
+    "with",
+    "regard",
+    "to",
+    "it",
+    ",",
+    "please",
+    "see",
+    "the",
+    "Nielsen",
+    "Digital",
+    "Measurement",
+    "Privacy",
+    "Policy",
+    "at",
+    "http://www.nielsen.com/digitalprivacy",
+    "."
+  ],
+  "lemma": [
+    "1",
+    ".",
+    "the",
+    "kind",
+    "of",
+    "Information",
+    "we",
+    "collect",
+    ".",
+    "we",
+    "collect",
+    "information",
+    "to",
+    "provide",
+    "better",
+    "service",
+    "to",
+    "all",
+    "of",
+    "user",
+    "of",
+    "we",
+    "service",
+    ",",
+    "include",
+    "determine",
+    "what",
+    "type",
+    "of",
+    "editorial",
+    "content",
+    "and",
+    "the",
+    "product",
+    "and",
+    "service",
+    "offer",
+    "on",
+    "we",
+    "service",
+    "that",
+    "be",
+    "of",
+    "the",
+    "most",
+    "interest",
+    "and",
+    "relevance",
+    "to",
+    "you",
+    ".",
+    "we",
+    "collect",
+    "information",
+    "about",
+    "you",
+    "from",
+    "the",
+    "follow",
+    "two",
+    "source",
+    ":",
+    "a",
+    ".",
+    "the",
+    "information",
+    "you",
+    "give",
+    "we",
+    "(",
+    "\"",
+    "EMI",
+    "profile",
+    "\"",
+    ")",
+    ".",
+    "for",
+    "example",
+    ",",
+    "many",
+    "of",
+    "we",
+    "service",
+    "require",
+    "that",
+    "you",
+    "create",
+    "a",
+    "account",
+    ".",
+    "when",
+    "you",
+    "do",
+    ",",
+    "we",
+    "will",
+    "ask",
+    "for",
+    "personal",
+    "information",
+    ",",
+    "like",
+    "you",
+    "name",
+    ",",
+    "email",
+    "address",
+    ",",
+    "telephone",
+    "number",
+    ",",
+    "and",
+    ",",
+    "if",
+    "you",
+    "be",
+    "purchase",
+    "product",
+    "or",
+    "service",
+    "on",
+    "we",
+    "service",
+    ",",
+    "purchase",
+    "information",
+    "such",
+    "as",
+    "the",
+    "product",
+    "or",
+    "service",
+    "purchase",
+    ",",
+    "the",
+    "date",
+    "of",
+    "purchase",
+    "and",
+    "the",
+    "purchase",
+    "price",
+    ".",
+    "benefit",
+    ".",
+    "the",
+    "information",
+    "we",
+    "collect",
+    "from",
+    "you",
+    "use",
+    "of",
+    "we",
+    "service",
+    ".",
+    "this",
+    "information",
+    "relate",
+    "generally",
+    "to",
+    "what",
+    "editorial",
+    "and",
+    "advertising",
+    "content",
+    "you",
+    "view",
+    ",",
+    "and",
+    "the",
+    "product",
+    "and",
+    "service",
+    "you",
+    "use",
+    "that",
+    "we",
+    "and",
+    "we",
+    "third",
+    "-",
+    "party",
+    "provider",
+    "offer",
+    ".",
+    "this",
+    "information",
+    "include",
+    ":",
+    "(",
+    "i",
+    ")",
+    "device",
+    "Information",
+    ",",
+    "we",
+    "collect",
+    "information",
+    "about",
+    "the",
+    "device",
+    "you",
+    "use",
+    "to",
+    "access",
+    "we",
+    "service",
+    ",",
+    "such",
+    "as",
+    "hardware",
+    "setting",
+    ",",
+    "browser",
+    "type",
+    ",",
+    "browser",
+    "language",
+    ",",
+    "the",
+    "date",
+    "and",
+    "time",
+    "of",
+    "you",
+    "request",
+    "and",
+    "referral",
+    "url",
+    ".",
+    "(",
+    "ii",
+    ")",
+    "log",
+    "information",
+    ".",
+    "when",
+    "you",
+    "use",
+    "we",
+    "service",
+    ",",
+    "we",
+    "automatically",
+    "collect",
+    "and",
+    "store",
+    "certain",
+    "information",
+    "in",
+    "server",
+    "logs",
+    ",",
+    "which",
+    "automatically",
+    "record",
+    "certain",
+    "information",
+    "when",
+    "you",
+    "use",
+    "we",
+    "service",
+    ",",
+    "include",
+    "the",
+    "follow",
+    ":",
+    "(",
+    "a",
+    ")",
+    "detail",
+    "about",
+    "how",
+    "you",
+    "have",
+    "use",
+    "we",
+    "service",
+    ",",
+    "such",
+    "as",
+    "you",
+    "search",
+    "query",
+    ";",
+    "(",
+    "b",
+    ")",
+    "you",
+    "ip",
+    "address",
+    ",",
+    "which",
+    "be",
+    "the",
+    "number",
+    "assign",
+    "to",
+    "a",
+    "internet",
+    "connect",
+    "device",
+    "such",
+    "as",
+    "a",
+    "tablet",
+    "or",
+    "smartphone",
+    "and",
+    "use",
+    "to",
+    "identify",
+    "the",
+    "geographic",
+    "location",
+    "of",
+    "that",
+    "device",
+    ";",
+    "and",
+    "(",
+    "c",
+    ")",
+    "cookie",
+    "that",
+    "may",
+    "uniquely",
+    "identify",
+    "you",
+    "browser",
+    "and",
+    "collect",
+    "information",
+    "about",
+    "how",
+    "we",
+    "visitor",
+    "interact",
+    "with",
+    "we",
+    "service",
+    ",",
+    "as",
+    "well",
+    "as",
+    "help",
+    "we",
+    "identify",
+    "problem",
+    "such",
+    "as",
+    "error",
+    "message",
+    "from",
+    "certain",
+    "page",
+    ".",
+    "a",
+    "cookie",
+    "be",
+    "a",
+    "small",
+    "file",
+    "contain",
+    "a",
+    "string",
+    "of",
+    "character",
+    "that",
+    "be",
+    "send",
+    "to",
+    "you",
+    "computer",
+    "or",
+    "other",
+    "device",
+    "when",
+    "you",
+    "visit",
+    "we",
+    "service",
+    ".",
+    "when",
+    "you",
+    "visit",
+    "we",
+    "service",
+    "any",
+    "time",
+    "thereafter",
+    ",",
+    "the",
+    "cookie",
+    "allow",
+    "we",
+    "service",
+    "to",
+    "recognize",
+    "you",
+    "browser",
+    "and",
+    "to",
+    "store",
+    "information",
+    "about",
+    "you",
+    "user",
+    "preference",
+    "and",
+    "other",
+    "personal",
+    "information",
+    ".",
+    "(",
+    "iii",
+    ")",
+    "location",
+    "information",
+    ".",
+    "when",
+    "you",
+    "visit",
+    "we",
+    "service",
+    ",",
+    "we",
+    "may",
+    "collect",
+    "and",
+    "process",
+    "information",
+    "about",
+    "you",
+    "actual",
+    "location",
+    ".",
+    "we",
+    "use",
+    "various",
+    "technology",
+    "to",
+    "determine",
+    "location",
+    ",",
+    "include",
+    "ip",
+    "address",
+    ".",
+    "(",
+    "iv",
+    ")",
+    "local",
+    "storage",
+    ".",
+    "we",
+    "may",
+    "collect",
+    "and",
+    "store",
+    "information",
+    "(",
+    "include",
+    "personal",
+    "information",
+    ")",
+    "locally",
+    "on",
+    "you",
+    "device",
+    ",",
+    "use",
+    "mechanism",
+    "such",
+    "as",
+    "browser",
+    "web",
+    "storage",
+    "(",
+    "include",
+    "html",
+    "5",
+    ")",
+    ",",
+    "which",
+    "allow",
+    "for",
+    "data",
+    "to",
+    "be",
+    "store",
+    "on",
+    "a",
+    "browser",
+    "even",
+    "after",
+    "the",
+    "browser",
+    "have",
+    "be",
+    "close",
+    "and",
+    "the",
+    "reopened",
+    ",",
+    "and",
+    "application",
+    "data",
+    "cache",
+    ",",
+    "which",
+    "allow",
+    "for",
+    "data",
+    "to",
+    "be",
+    "store",
+    "on",
+    "you",
+    "device",
+    ",",
+    "enable",
+    "a",
+    "application",
+    "to",
+    "run",
+    "without",
+    "a",
+    "internet",
+    "connection",
+    "and",
+    "to",
+    "load",
+    "content",
+    "faster",
+    ".",
+    "(",
+    "v",
+    ")",
+    "collection",
+    "and",
+    "storage",
+    "technology",
+    ".",
+    "we",
+    "and",
+    "we",
+    "partner",
+    "use",
+    "various",
+    "technology",
+    "to",
+    "collect",
+    "and",
+    "store",
+    "information",
+    "when",
+    "you",
+    "access",
+    "the",
+    "EMI",
+    "Service",
+    ",",
+    "and",
+    "this",
+    "may",
+    "include",
+    "use",
+    "cookie",
+    "or",
+    "other",
+    "technology",
+    "to",
+    "identify",
+    "you",
+    "browser",
+    "or",
+    "device",
+    ".",
+    "we",
+    "also",
+    "use",
+    "these",
+    "technology",
+    "to",
+    "collect",
+    "and",
+    "store",
+    "information",
+    "when",
+    "you",
+    "access",
+    "we",
+    "service",
+    "and",
+    "interact",
+    "with",
+    "the",
+    "content",
+    "and",
+    "product",
+    "and",
+    "service",
+    "we",
+    "offer",
+    ",",
+    "such",
+    "as",
+    "advertising",
+    "service",
+    ".",
+    "class",
+    ".",
+    "we",
+    "property",
+    "may",
+    "feature",
+    "Nielsen",
+    "proprietary",
+    "measurement",
+    "software",
+    ",",
+    "which",
+    "will",
+    "allow",
+    "you",
+    "to",
+    "contribute",
+    "to",
+    "market",
+    "research",
+    ",",
+    "such",
+    "as",
+    "Nielsen",
+    "tv",
+    "Ratings",
+    ".",
+    "to",
+    "learn",
+    "more",
+    "about",
+    "the",
+    "information",
+    "that",
+    "Nielsen",
+    "software",
+    "may",
+    "collect",
+    "and",
+    "you",
+    "choice",
+    "with",
+    "regard",
+    "to",
+    "it",
+    ",",
+    "please",
+    "see",
+    "the",
+    "Nielsen",
+    "digital",
+    "Measurement",
+    "privacy",
+    "policy",
+    "at",
+    "http://www.nielsen.com/digitalprivacy",
+    "."
+  ],
+  "pos-tags": [
+    "LS",
+    ".",
+    "DT",
+    "NNS",
+    "IN",
+    "NN",
+    "PRP",
+    "VBP",
+    ".",
+    "PRP",
+    "VBP",
+    "NN",
+    "TO",
+    "VB",
+    "JJR",
+    "NNS",
+    "IN",
+    "DT",
+    "IN",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "VBG",
+    "VBG",
+    "WDT",
+    "NNS",
+    "IN",
+    "JJ",
+    "NN",
+    "CC",
+    "DT",
+    "NNS",
+    "CC",
+    "NNS",
+    "VBD",
+    "IN",
+    "PRP$",
+    "NN",
+    "WDT",
+    "VBP",
+    "IN",
+    "DT",
+    "JJS",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "PRP",
+    ".",
+    "PRP",
+    "VBP",
+    "NN",
+    "IN",
+    "PRP",
+    "IN",
+    "DT",
+    "VBG",
+    "CD",
+    "NNS",
+    ":",
+    "LS",
+    ".",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    "PRP",
+    "-LRB-",
+    "``",
+    "NNP",
+    "NNP",
+    "''",
+    "-RRB-",
+    ".",
+    "IN",
+    "NN",
+    ",",
+    "JJ",
+    "IN",
+    "PRP$",
+    "NNS",
+    "VBP",
+    "IN",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    ".",
+    "WRB",
+    "PRP",
+    "VBP",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "IN",
+    "JJ",
+    "NN",
+    ",",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "CC",
+    ",",
+    "IN",
+    "PRP",
+    "VBP",
+    "VBG",
+    "NNS",
+    "CC",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "VB",
+    "NN",
+    "JJ",
+    "IN",
+    "DT",
+    "NNS",
+    "CC",
+    "NNS",
+    "VBN",
+    ",",
+    "DT",
+    "NNS",
+    "IN",
+    "NN",
+    "CC",
+    "DT",
+    "NN",
+    "NN",
+    ".",
+    "LS",
+    ".",
+    "DT",
+    "NN",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP$",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ".",
+    "DT",
+    "NN",
+    "VBZ",
+    "RB",
+    "IN",
+    "WDT",
+    "NN",
+    "CC",
+    "NN",
+    "NN",
+    "PRP",
+    "VBP",
+    ",",
+    "CC",
+    "DT",
+    "NNS",
+    "CC",
+    "NNS",
+    "PRP",
+    "VBP",
+    "IN",
+    "PRP",
+    "CC",
+    "PRP$",
+    "JJ",
+    "HYPH",
+    "NN",
+    "NNS",
+    "VBP",
+    ".",
+    "DT",
+    "NN",
+    "VBZ",
+    ":",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "NN",
+    ",",
+    "PRP",
+    "VBP",
+    "NN",
+    "IN",
+    "DT",
+    "NNS",
+    "PRP",
+    "VBP",
+    "TO",
+    "VB",
+    "PRP$",
+    "NN",
+    ",",
+    "JJ",
+    "IN",
+    "NN",
+    "NNS",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "NN",
+    "NN",
+    ",",
+    "DT",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    ".",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "NN",
+    ".",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    ",",
+    "PRP",
+    "RB",
+    "NN",
+    "CC",
+    "NN",
+    "JJ",
+    "NN",
+    "IN",
+    "NN",
+    "NNS",
+    ",",
+    "WDT",
+    "RB",
+    "VBP",
+    "JJ",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    ",",
+    "VBG",
+    "DT",
+    "VBG",
+    ":",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NNS",
+    "IN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "VBN",
+    "PRP$",
+    "NN",
+    ",",
+    "JJ",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNS",
+    ",",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "PRP$",
+    "NN",
+    "NN",
+    ",",
+    "WDT",
+    "VBZ",
+    "DT",
+    "NN",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "VBN",
+    "NN",
+    "JJ",
+    "IN",
+    "DT",
+    "NN",
+    "CC",
+    "NN",
+    "CC",
+    "VBD",
+    "TO",
+    "VB",
+    "DT",
+    "JJ",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "CC",
+    "-LRB-",
+    "NN",
+    "-RRB-",
+    "NNS",
+    "WDT",
+    "MD",
+    "RB",
+    "VB",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    "NN",
+    "IN",
+    "WRB",
+    "PRP$",
+    "NNS",
+    "VBP",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "RB",
+    "RB",
+    "IN",
+    "VB",
+    "PRP",
+    "VB",
+    "NNS",
+    "JJ",
+    "IN",
+    "NN",
+    "NNS",
+    "IN",
+    "JJ",
+    "NNS",
+    ".",
+    "DT",
+    "NN",
+    "VBZ",
+    "DT",
+    "JJ",
+    "NN",
+    "VBG",
+    "DT",
+    "NN",
+    "IN",
+    "NNS",
+    "WDT",
+    "VBZ",
+    "VBN",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "JJ",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    ".",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "DT",
+    "NN",
+    "RB",
+    ",",
+    "DT",
+    "NN",
+    "VBZ",
+    "PRP$",
+    "NN",
+    "TO",
+    "VB",
+    "PRP$",
+    "NN",
+    "CC",
+    "IN",
+    "NN",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNS",
+    "CC",
+    "JJ",
+    "JJ",
+    "NN",
+    ".",
+    "-LRB-",
+    "LS",
+    "-RRB-",
+    "NN",
+    "NN",
+    ".",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "CC",
+    "NN",
+    "NN",
+    "IN",
+    "PRP$",
+    "JJ",
+    "NN",
+    ".",
+    "PRP",
+    "VBP",
+    "JJ",
+    "NNS",
+    "TO",
+    "VB",
+    "NN",
+    ",",
+    "VBG",
+    "NN",
+    "NN",
+    ".",
+    "-LRB-",
+    "ADD",
+    "-RRB-",
+    "JJ",
+    "NN",
+    ".",
+    "PRP",
+    "MD",
+    "VB",
+    "CC",
+    "NN",
+    "NN",
+    "-LRB-",
+    "VBG",
+    "JJ",
+    "NN",
+    "-RRB-",
+    "RB",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "VBG",
+    "NNS",
+    "JJ",
+    "IN",
+    "JJR",
+    "NN",
+    "NN",
+    "-LRB-",
+    "VBG",
+    "NNP",
+    "CD",
+    "-RRB-",
+    ",",
+    "WDT",
+    "NNS",
+    "IN",
+    "NN",
+    "TO",
+    "VB",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "RB",
+    "IN",
+    "DT",
+    "NN",
+    "VBZ",
+    "VBN",
+    "VBN",
+    "CC",
+    "DT",
+    "VBN",
+    ",",
+    "CC",
+    "NN",
+    "NN",
+    "NNS",
+    ",",
+    "WDT",
+    "VBP",
+    "IN",
+    "NN",
+    "TO",
+    "VB",
+    "VBN",
+    "IN",
+    "PRP$",
+    "NN",
+    ",",
+    "VBG",
+    "DT",
+    "NN",
+    "TO",
+    "VB",
+    "IN",
+    "DT",
+    "NN",
+    "NN",
+    "CC",
+    "TO",
+    "VB",
+    "NN",
+    "NN",
+    ".",
+    "-LRB-",
+    "NN",
+    "-RRB-",
+    "NN",
+    "CC",
+    "NN",
+    "NNS",
+    ".",
+    "PRP",
+    "CC",
+    "PRP$",
+    "NNS",
+    "VBP",
+    "JJ",
+    "NNS",
+    "TO",
+    "VB",
+    "CC",
+    "NN",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "DT",
+    "NNP",
+    "NNP",
+    ",",
+    "CC",
+    "DT",
+    "MD",
+    "VB",
+    "VBG",
+    "NNS",
+    "CC",
+    "JJ",
+    "NNS",
+    "TO",
+    "VB",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    ".",
+    "PRP",
+    "RB",
+    "VBP",
+    "DT",
+    "NNS",
+    "IN",
+    "NN",
+    "CC",
+    "NN",
+    "NN",
+    "WRB",
+    "PRP",
+    "VBP",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "CC",
+    "NNS",
+    "CC",
+    "NNS",
+    "PRP",
+    "VBP",
+    ",",
+    "JJ",
+    "IN",
+    "NN",
+    "NNS",
+    ".",
+    "LS",
+    ".",
+    "PRP$",
+    "NNS",
+    "MD",
+    "VB",
+    "NNP",
+    "JJ",
+    "NN",
+    "NN",
+    ",",
+    "WDT",
+    "MD",
+    "VB",
+    "PRP",
+    "TO",
+    "VB",
+    "IN",
+    "NN",
+    "NN",
+    ",",
+    "JJ",
+    "IN",
+    "JJ",
+    "NN",
+    "NNS",
+    ".",
+    "TO",
+    "VB",
+    "JJR",
+    "IN",
+    "DT",
+    "NN",
+    "IN",
+    "JJ",
+    "NN",
+    "MD",
+    "VB",
+    "CC",
+    "PRP$",
+    "NNS",
+    "IN",
+    "NN",
+    "IN",
+    "PRP",
+    ",",
+    "UH",
+    "VB",
+    "DT",
+    "NNP",
+    "JJ",
+    "NN",
+    "NN",
+    "NN",
+    "IN",
+    "NN",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "punct",
+    "det",
+    "root",
+    "case",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "punct",
+    "nsubj",
+    "root",
+    "obj",
+    "mark",
+    "xcomp",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "mark",
+    "acl",
+    "det",
+    "obj",
+    "case",
+    "amod",
+    "nmod",
+    "cc",
+    "det",
+    "nsubj",
+    "cc",
+    "conj",
+    "conj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "nsubj",
+    "cop",
+    "case",
+    "det",
+    "amod",
+    "acl:relcl",
+    "cc",
+    "conj",
+    "case",
+    "nmod",
+    "punct",
+    "nsubj",
+    "root",
+    "obj",
+    "case",
+    "nmod",
+    "case",
+    "det",
+    "amod",
+    "nummod",
+    "obl",
+    "punct",
+    "root",
+    "punct",
+    "det",
+    "root",
+    "nsubj",
+    "acl:relcl",
+    "iobj",
+    "punct",
+    "punct",
+    "compound",
+    "appos",
+    "punct",
+    "punct",
+    "punct",
+    "case",
+    "obl",
+    "punct",
+    "nsubj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "root",
+    "mark",
+    "nsubj",
+    "ccomp",
+    "det",
+    "obj",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "case",
+    "amod",
+    "obl",
+    "punct",
+    "case",
+    "nmod:poss",
+    "compound",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "cc",
+    "punct",
+    "mark",
+    "nsubj",
+    "aux",
+    "advcl",
+    "obj",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct",
+    "conj",
+    "list",
+    "case",
+    "fixed",
+    "det",
+    "nmod",
+    "cc",
+    "conj",
+    "acl",
+    "punct",
+    "det",
+    "obj",
+    "case",
+    "nmod",
+    "cc",
+    "det",
+    "compound",
+    "conj",
+    "punct",
+    "root",
+    "punct",
+    "det",
+    "root",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "det",
+    "nsubj",
+    "root",
+    "advmod",
+    "case",
+    "det",
+    "obl",
+    "cc",
+    "compound",
+    "conj",
+    "nsubj",
+    "ccomp",
+    "punct",
+    "cc",
+    "det",
+    "conj",
+    "cc",
+    "conj",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "nsubj",
+    "cc",
+    "nmod:poss",
+    "amod",
+    "punct",
+    "compound",
+    "conj",
+    "ccomp",
+    "punct",
+    "det",
+    "nsubj",
+    "root",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "compound",
+    "ccomp",
+    "punct",
+    "nsubj",
+    "parataxis",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "ccomp",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "case",
+    "fixed",
+    "compound",
+    "nmod",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "compound",
+    "conj",
+    "punct",
+    "det",
+    "conj",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "compound",
+    "root",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "nsubj",
+    "advmod",
+    "compound",
+    "cc",
+    "conj",
+    "amod",
+    "root",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "nsubj",
+    "advmod",
+    "acl:relcl",
+    "amod",
+    "obj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "case",
+    "nmod",
+    "amod",
+    "punct",
+    "punct",
+    "appos",
+    "punct",
+    "obj",
+    "mark",
+    "advmod",
+    "nsubj",
+    "aux",
+    "acl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "case",
+    "fixed",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "nmod:poss",
+    "compound",
+    "appos",
+    "punct",
+    "nsubj",
+    "cop",
+    "det",
+    "acl:relcl",
+    "acl",
+    "case",
+    "det",
+    "amod",
+    "acl",
+    "obj",
+    "case",
+    "fixed",
+    "det",
+    "nmod",
+    "cc",
+    "conj",
+    "cc",
+    "conj",
+    "mark",
+    "xcomp",
+    "det",
+    "amod",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "punct",
+    "cc",
+    "punct",
+    "conj",
+    "punct",
+    "obl",
+    "nsubj",
+    "aux",
+    "advmod",
+    "acl:relcl",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "compound",
+    "conj",
+    "mark",
+    "advmod",
+    "nmod:poss",
+    "nsubj",
+    "acl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct",
+    "cc",
+    "fixed",
+    "fixed",
+    "conj",
+    "iobj",
+    "ccomp",
+    "obj",
+    "case",
+    "fixed",
+    "compound",
+    "nmod",
+    "case",
+    "amod",
+    "nmod",
+    "punct",
+    "det",
+    "nsubj",
+    "cop",
+    "det",
+    "amod",
+    "root",
+    "acl",
+    "det",
+    "obj",
+    "case",
+    "nmod",
+    "nsubj:pass",
+    "aux:pass",
+    "acl:relcl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "cc",
+    "amod",
+    "conj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "det",
+    "obl:tmod",
+    "advmod",
+    "punct",
+    "det",
+    "nsubj",
+    "root",
+    "nmod:poss",
+    "obj",
+    "mark",
+    "acl",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "case",
+    "compound",
+    "conj",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "cc",
+    "amod",
+    "amod",
+    "conj",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "compound",
+    "root",
+    "punct",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "cc",
+    "compound",
+    "conj",
+    "case",
+    "nmod:poss",
+    "amod",
+    "obl",
+    "punct",
+    "nsubj",
+    "root",
+    "amod",
+    "obj",
+    "mark",
+    "xcomp",
+    "obj",
+    "punct",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "punct",
+    "nummod",
+    "punct",
+    "amod",
+    "root",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "cc",
+    "conj",
+    "obj",
+    "punct",
+    "case",
+    "amod",
+    "nmod",
+    "punct",
+    "advmod",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct",
+    "advcl",
+    "obj",
+    "case",
+    "fixed",
+    "amod",
+    "compound",
+    "nmod",
+    "punct",
+    "case",
+    "nmod",
+    "nummod",
+    "punct",
+    "punct",
+    "det",
+    "obj",
+    "case",
+    "nmod",
+    "mark",
+    "aux:pass",
+    "acl",
+    "case",
+    "det",
+    "obl",
+    "advmod",
+    "case",
+    "det",
+    "nsubj:pass",
+    "aux",
+    "aux:pass",
+    "conj",
+    "cc",
+    "det",
+    "conj",
+    "punct",
+    "cc",
+    "compound",
+    "compound",
+    "conj",
+    "punct",
+    "nsubj",
+    "acl:relcl",
+    "case",
+    "obl",
+    "mark",
+    "aux:pass",
+    "acl",
+    "case",
+    "nmod:poss",
+    "obl",
+    "punct",
+    "advcl",
+    "det",
+    "obj",
+    "mark",
+    "xcomp",
+    "case",
+    "det",
+    "compound",
+    "obl",
+    "cc",
+    "mark",
+    "conj",
+    "compound",
+    "obj",
+    "punct",
+    "punct",
+    "parataxis",
+    "punct",
+    "compound",
+    "cc",
+    "conj",
+    "obj",
+    "punct",
+    "nsubj",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "root",
+    "amod",
+    "obj",
+    "mark",
+    "xcomp",
+    "cc",
+    "compound",
+    "conj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "det",
+    "compound",
+    "obj",
+    "punct",
+    "cc",
+    "nsubj",
+    "aux",
+    "conj",
+    "acl",
+    "obj",
+    "cc",
+    "amod",
+    "conj",
+    "mark",
+    "xcomp",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "conj",
+    "punct",
+    "nsubj",
+    "advmod",
+    "root",
+    "det",
+    "obj",
+    "case",
+    "obl",
+    "cc",
+    "compound",
+    "conj",
+    "mark",
+    "nsubj",
+    "advcl",
+    "nmod:poss",
+    "obj",
+    "cc",
+    "conj",
+    "case",
+    "det",
+    "nmod",
+    "cc",
+    "conj",
+    "cc",
+    "conj",
+    "nsubj",
+    "ccomp",
+    "punct",
+    "case",
+    "fixed",
+    "compound",
+    "obl",
+    "punct",
+    "nummod",
+    "punct",
+    "nmod:poss",
+    "nsubj",
+    "aux",
+    "root",
+    "compound",
+    "amod",
+    "compound",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "acl:relcl",
+    "obj",
+    "mark",
+    "xcomp",
+    "case",
+    "compound",
+    "obl",
+    "punct",
+    "case",
+    "fixed",
+    "amod",
+    "compound",
+    "obl",
+    "punct",
+    "mark",
+    "advcl",
+    "obj",
+    "case",
+    "det",
+    "obl",
+    "mark",
+    "amod",
+    "nsubj",
+    "aux",
+    "acl",
+    "cc",
+    "nmod:poss",
+    "conj",
+    "case",
+    "nmod",
+    "case",
+    "nmod",
+    "punct",
+    "discourse",
+    "root",
+    "det",
+    "compound",
+    "amod",
+    "compound",
+    "compound",
+    "obj",
+    "case",
+    "obl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      1,
+      2
+    ],
+    [
+      3,
+      6
+    ],
+    [
+      7,
+      12
+    ],
+    [
+      13,
+      15
+    ],
+    [
+      16,
+      27
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      31,
+      38
+    ],
+    [
+      38,
+      39
+    ],
+    [
+      41,
+      43
+    ],
+    [
+      44,
+      51
+    ],
+    [
+      52,
+      63
+    ],
+    [
+      64,
+      66
+    ],
+    [
+      67,
+      74
+    ],
+    [
+      75,
+      81
+    ],
+    [
+      82,
+      90
+    ],
+    [
+      91,
+      93
+    ],
+    [
+      94,
+      97
+    ],
+    [
+      98,
+      100
+    ],
+    [
+      101,
+      106
+    ],
+    [
+      107,
+      109
+    ],
+    [
+      110,
+      113
+    ],
+    [
+      114,
+      121
+    ],
+    [
+      121,
+      122
+    ],
+    [
+      123,
+      132
+    ],
+    [
+      133,
+      144
+    ],
+    [
+      145,
+      149
+    ],
+    [
+      150,
+      155
+    ],
+    [
+      156,
+      158
+    ],
+    [
+      159,
+      168
+    ],
+    [
+      169,
+      176
+    ],
+    [
+      177,
+      180
+    ],
+    [
+      181,
+      184
+    ],
+    [
+      185,
+      193
+    ],
+    [
+      194,
+      197
+    ],
+    [
+      198,
+      206
+    ],
+    [
+      207,
+      214
+    ],
+    [
+      215,
+      217
+    ],
+    [
+      218,
+      221
+    ],
+    [
+      222,
+      229
+    ],
+    [
+      230,
+      234
+    ],
+    [
+      235,
+      238
+    ],
+    [
+      239,
+      241
+    ],
+    [
+      242,
+      245
+    ],
+    [
+      246,
+      250
+    ],
+    [
+      251,
+      259
+    ],
+    [
+      260,
+      263
+    ],
+    [
+      264,
+      273
+    ],
+    [
+      274,
+      276
+    ],
+    [
+      277,
+      280
+    ],
+    [
+      280,
+      281
+    ],
+    [
+      282,
+      284
+    ],
+    [
+      285,
+      292
+    ],
+    [
+      293,
+      304
+    ],
+    [
+      305,
+      310
+    ],
+    [
+      311,
+      314
+    ],
+    [
+      315,
+      319
+    ],
+    [
+      320,
+      323
+    ],
+    [
+      324,
+      333
+    ],
+    [
+      334,
+      337
+    ],
+    [
+      338,
+      345
+    ],
+    [
+      345,
+      346
+    ],
+    [
+      347,
+      348
+    ],
+    [
+      348,
+      349
+    ],
+    [
+      350,
+      353
+    ],
+    [
+      354,
+      365
+    ],
+    [
+      366,
+      369
+    ],
+    [
+      370,
+      374
+    ],
+    [
+      375,
+      377
+    ],
+    [
+      378,
+      379
+    ],
+    [
+      379,
+      380
+    ],
+    [
+      380,
+      383
+    ],
+    [
+      384,
+      391
+    ],
+    [
+      391,
+      392
+    ],
+    [
+      392,
+      393
+    ],
+    [
+      393,
+      394
+    ],
+    [
+      395,
+      398
+    ],
+    [
+      399,
+      406
+    ],
+    [
+      406,
+      407
+    ],
+    [
+      408,
+      412
+    ],
+    [
+      413,
+      415
+    ],
+    [
+      416,
+      419
+    ],
+    [
+      420,
+      428
+    ],
+    [
+      429,
+      436
+    ],
+    [
+      437,
+      441
+    ],
+    [
+      442,
+      445
+    ],
+    [
+      446,
+      452
+    ],
+    [
+      453,
+      455
+    ],
+    [
+      456,
+      463
+    ],
+    [
+      463,
+      464
+    ],
+    [
+      465,
+      469
+    ],
+    [
+      470,
+      473
+    ],
+    [
+      474,
+      476
+    ],
+    [
+      476,
+      477
+    ],
+    [
+      478,
+      480
+    ],
+    [
+      480,
+      483
+    ],
+    [
+      484,
+      487
+    ],
+    [
+      488,
+      491
+    ],
+    [
+      492,
+      500
+    ],
+    [
+      501,
+      512
+    ],
+    [
+      512,
+      513
+    ],
+    [
+      514,
+      518
+    ],
+    [
+      519,
+      523
+    ],
+    [
+      524,
+      528
+    ],
+    [
+      528,
+      529
+    ],
+    [
+      530,
+      535
+    ],
+    [
+      536,
+      543
+    ],
+    [
+      543,
+      544
+    ],
+    [
+      545,
+      554
+    ],
+    [
+      555,
+      561
+    ],
+    [
+      561,
+      562
+    ],
+    [
+      563,
+      566
+    ],
+    [
+      566,
+      567
+    ],
+    [
+      568,
+      570
+    ],
+    [
+      571,
+      574
+    ],
+    [
+      575,
+      578
+    ],
+    [
+      579,
+      589
+    ],
+    [
+      590,
+      598
+    ],
+    [
+      599,
+      601
+    ],
+    [
+      602,
+      610
+    ],
+    [
+      611,
+      613
+    ],
+    [
+      614,
+      617
+    ],
+    [
+      618,
+      625
+    ],
+    [
+      625,
+      626
+    ],
+    [
+      627,
+      635
+    ],
+    [
+      636,
+      647
+    ],
+    [
+      648,
+      652
+    ],
+    [
+      653,
+      655
+    ],
+    [
+      656,
+      659
+    ],
+    [
+      660,
+      668
+    ],
+    [
+      669,
+      671
+    ],
+    [
+      672,
+      680
+    ],
+    [
+      681,
+      690
+    ],
+    [
+      690,
+      691
+    ],
+    [
+      692,
+      695
+    ],
+    [
+      696,
+      701
+    ],
+    [
+      702,
+      704
+    ],
+    [
+      705,
+      713
+    ],
+    [
+      714,
+      717
+    ],
+    [
+      718,
+      721
+    ],
+    [
+      722,
+      730
+    ],
+    [
+      731,
+      736
+    ],
+    [
+      736,
+      737
+    ],
+    [
+      738,
+      739
+    ],
+    [
+      739,
+      740
+    ],
+    [
+      741,
+      744
+    ],
+    [
+      745,
+      756
+    ],
+    [
+      757,
+      759
+    ],
+    [
+      760,
+      767
+    ],
+    [
+      768,
+      772
+    ],
+    [
+      773,
+      777
+    ],
+    [
+      778,
+      781
+    ],
+    [
+      782,
+      784
+    ],
+    [
+      785,
+      788
+    ],
+    [
+      789,
+      796
+    ],
+    [
+      796,
+      797
+    ],
+    [
+      798,
+      802
+    ],
+    [
+      803,
+      814
+    ],
+    [
+      815,
+      822
+    ],
+    [
+      823,
+      832
+    ],
+    [
+      833,
+      835
+    ],
+    [
+      836,
+      840
+    ],
+    [
+      841,
+      850
+    ],
+    [
+      851,
+      854
+    ],
+    [
+      855,
+      866
+    ],
+    [
+      867,
+      874
+    ],
+    [
+      875,
+      878
+    ],
+    [
+      879,
+      883
+    ],
+    [
+      883,
+      884
+    ],
+    [
+      885,
+      888
+    ],
+    [
+      889,
+      892
+    ],
+    [
+      893,
+      901
+    ],
+    [
+      902,
+      905
+    ],
+    [
+      906,
+      914
+    ],
+    [
+      915,
+      918
+    ],
+    [
+      919,
+      922
+    ],
+    [
+      923,
+      927
+    ],
+    [
+      928,
+      930
+    ],
+    [
+      931,
+      934
+    ],
+    [
+      935,
+      938
+    ],
+    [
+      939,
+      944
+    ],
+    [
+      944,
+      945
+    ],
+    [
+      945,
+      950
+    ],
+    [
+      951,
+      960
+    ],
+    [
+      961,
+      966
+    ],
+    [
+      966,
+      967
+    ],
+    [
+      968,
+      972
+    ],
+    [
+      973,
+      984
+    ],
+    [
+      985,
+      993
+    ],
+    [
+      993,
+      994
+    ],
+    [
+      995,
+      996
+    ],
+    [
+      996,
+      997
+    ],
+    [
+      997,
+      998
+    ],
+    [
+      999,
+      1005
+    ],
+    [
+      1006,
+      1017
+    ],
+    [
+      1017,
+      1018
+    ],
+    [
+      1019,
+      1021
+    ],
+    [
+      1022,
+      1029
+    ],
+    [
+      1030,
+      1041
+    ],
+    [
+      1042,
+      1047
+    ],
+    [
+      1048,
+      1051
+    ],
+    [
+      1052,
+      1059
+    ],
+    [
+      1060,
+      1063
+    ],
+    [
+      1064,
+      1067
+    ],
+    [
+      1068,
+      1070
+    ],
+    [
+      1071,
+      1077
+    ],
+    [
+      1078,
+      1081
+    ],
+    [
+      1082,
+      1089
+    ],
+    [
+      1089,
+      1090
+    ],
+    [
+      1091,
+      1095
+    ],
+    [
+      1096,
+      1098
+    ],
+    [
+      1099,
+      1107
+    ],
+    [
+      1108,
+      1116
+    ],
+    [
+      1116,
+      1117
+    ],
+    [
+      1118,
+      1125
+    ],
+    [
+      1126,
+      1130
+    ],
+    [
+      1130,
+      1131
+    ],
+    [
+      1132,
+      1139
+    ],
+    [
+      1140,
+      1148
+    ],
+    [
+      1148,
+      1149
+    ],
+    [
+      1150,
+      1153
+    ],
+    [
+      1154,
+      1158
+    ],
+    [
+      1159,
+      1162
+    ],
+    [
+      1163,
+      1167
+    ],
+    [
+      1168,
+      1170
+    ],
+    [
+      1171,
+      1175
+    ],
+    [
+      1176,
+      1183
+    ],
+    [
+      1184,
+      1187
+    ],
+    [
+      1188,
+      1196
+    ],
+    [
+      1197,
+      1200
+    ],
+    [
+      1200,
+      1201
+    ],
+    [
+      1202,
+      1203
+    ],
+    [
+      1203,
+      1205
+    ],
+    [
+      1205,
+      1206
+    ],
+    [
+      1207,
+      1210
+    ],
+    [
+      1211,
+      1222
+    ],
+    [
+      1222,
+      1223
+    ],
+    [
+      1224,
+      1228
+    ],
+    [
+      1229,
+      1232
+    ],
+    [
+      1233,
+      1236
+    ],
+    [
+      1237,
+      1240
+    ],
+    [
+      1241,
+      1248
+    ],
+    [
+      1248,
+      1249
+    ],
+    [
+      1250,
+      1252
+    ],
+    [
+      1253,
+      1266
+    ],
+    [
+      1267,
+      1274
+    ],
+    [
+      1275,
+      1278
+    ],
+    [
+      1279,
+      1284
+    ],
+    [
+      1285,
+      1292
+    ],
+    [
+      1293,
+      1304
+    ],
+    [
+      1305,
+      1307
+    ],
+    [
+      1308,
+      1314
+    ],
+    [
+      1315,
+      1319
+    ],
+    [
+      1319,
+      1320
+    ],
+    [
+      1321,
+      1326
+    ],
+    [
+      1327,
+      1340
+    ],
+    [
+      1341,
+      1347
+    ],
+    [
+      1348,
+      1355
+    ],
+    [
+      1356,
+      1367
+    ],
+    [
+      1368,
+      1372
+    ],
+    [
+      1373,
+      1376
+    ],
+    [
+      1377,
+      1380
+    ],
+    [
+      1381,
+      1384
+    ],
+    [
+      1385,
+      1392
+    ],
+    [
+      1392,
+      1393
+    ],
+    [
+      1394,
+      1403
+    ],
+    [
+      1404,
+      1407
+    ],
+    [
+      1408,
+      1417
+    ],
+    [
+      1417,
+      1418
+    ],
+    [
+      1419,
+      1420
+    ],
+    [
+      1420,
+      1421
+    ],
+    [
+      1421,
+      1422
+    ],
+    [
+      1423,
+      1430
+    ],
+    [
+      1431,
+      1436
+    ],
+    [
+      1437,
+      1440
+    ],
+    [
+      1441,
+      1444
+    ],
+    [
+      1445,
+      1449
+    ],
+    [
+      1450,
+      1454
+    ],
+    [
+      1455,
+      1458
+    ],
+    [
+      1459,
+      1466
+    ],
+    [
+      1466,
+      1467
+    ],
+    [
+      1468,
+      1472
+    ],
+    [
+      1473,
+      1475
+    ],
+    [
+      1476,
+      1480
+    ],
+    [
+      1481,
+      1487
+    ],
+    [
+      1488,
+      1495
+    ],
+    [
+      1495,
+      1496
+    ],
+    [
+      1497,
+      1498
+    ],
+    [
+      1498,
+      1499
+    ],
+    [
+      1499,
+      1500
+    ],
+    [
+      1501,
+      1505
+    ],
+    [
+      1506,
+      1508
+    ],
+    [
+      1509,
+      1516
+    ],
+    [
+      1516,
+      1517
+    ],
+    [
+      1518,
+      1523
+    ],
+    [
+      1524,
+      1526
+    ],
+    [
+      1527,
+      1530
+    ],
+    [
+      1531,
+      1537
+    ],
+    [
+      1538,
+      1546
+    ],
+    [
+      1547,
+      1549
+    ],
+    [
+      1550,
+      1552
+    ],
+    [
+      1553,
+      1561
+    ],
+    [
+      1562,
+      1571
+    ],
+    [
+      1572,
+      1578
+    ],
+    [
+      1579,
+      1583
+    ],
+    [
+      1584,
+      1586
+    ],
+    [
+      1587,
+      1588
+    ],
+    [
+      1589,
+      1595
+    ],
+    [
+      1596,
+      1598
+    ],
+    [
+      1599,
+      1609
+    ],
+    [
+      1610,
+      1613
+    ],
+    [
+      1614,
+      1618
+    ],
+    [
+      1619,
+      1621
+    ],
+    [
+      1622,
+      1630
+    ],
+    [
+      1631,
+      1634
+    ],
+    [
+      1635,
+      1645
+    ],
+    [
+      1646,
+      1654
+    ],
+    [
+      1655,
+      1657
+    ],
+    [
+      1658,
+      1662
+    ],
+    [
+      1663,
+      1669
+    ],
+    [
+      1669,
+      1670
+    ],
+    [
+      1671,
+      1674
+    ],
+    [
+      1675,
+      1676
+    ],
+    [
+      1676,
+      1677
+    ],
+    [
+      1677,
+      1678
+    ],
+    [
+      1679,
+      1686
+    ],
+    [
+      1687,
+      1691
+    ],
+    [
+      1692,
+      1695
+    ],
+    [
+      1696,
+      1704
+    ],
+    [
+      1705,
+      1713
+    ],
+    [
+      1714,
+      1718
+    ],
+    [
+      1719,
+      1726
+    ],
+    [
+      1727,
+      1730
+    ],
+    [
+      1731,
+      1738
+    ],
+    [
+      1739,
+      1750
+    ],
+    [
+      1751,
+      1756
+    ],
+    [
+      1757,
+      1760
+    ],
+    [
+      1761,
+      1764
+    ],
+    [
+      1765,
+      1773
+    ],
+    [
+      1774,
+      1782
+    ],
+    [
+      1783,
+      1787
+    ],
+    [
+      1788,
+      1791
+    ],
+    [
+      1792,
+      1799
+    ],
+    [
+      1799,
+      1800
+    ],
+    [
+      1801,
+      1803
+    ],
+    [
+      1804,
+      1808
+    ],
+    [
+      1809,
+      1811
+    ],
+    [
+      1812,
+      1816
+    ],
+    [
+      1817,
+      1819
+    ],
+    [
+      1820,
+      1828
+    ],
+    [
+      1829,
+      1837
+    ],
+    [
+      1838,
+      1842
+    ],
+    [
+      1843,
+      1845
+    ],
+    [
+      1846,
+      1851
+    ],
+    [
+      1852,
+      1860
+    ],
+    [
+      1861,
+      1865
+    ],
+    [
+      1866,
+      1873
+    ],
+    [
+      1874,
+      1879
+    ],
+    [
+      1879,
+      1880
+    ],
+    [
+      1881,
+      1882
+    ],
+    [
+      1883,
+      1889
+    ],
+    [
+      1890,
+      1892
+    ],
+    [
+      1893,
+      1894
+    ],
+    [
+      1895,
+      1900
+    ],
+    [
+      1901,
+      1905
+    ],
+    [
+      1906,
+      1916
+    ],
+    [
+      1917,
+      1918
+    ],
+    [
+      1919,
+      1925
+    ],
+    [
+      1926,
+      1928
+    ],
+    [
+      1929,
+      1939
+    ],
+    [
+      1940,
+      1944
+    ],
+    [
+      1945,
+      1947
+    ],
+    [
+      1948,
+      1952
+    ],
+    [
+      1953,
+      1955
+    ],
+    [
+      1956,
+      1960
+    ],
+    [
+      1961,
+      1969
+    ],
+    [
+      1970,
+      1972
+    ],
+    [
+      1973,
+      1978
+    ],
+    [
+      1979,
+      1985
+    ],
+    [
+      1986,
+      1990
+    ],
+    [
+      1991,
+      1994
+    ],
+    [
+      1995,
+      2000
+    ],
+    [
+      2001,
+      2004
+    ],
+    [
+      2005,
+      2012
+    ],
+    [
+      2012,
+      2013
+    ],
+    [
+      2014,
+      2018
+    ],
+    [
+      2019,
+      2022
+    ],
+    [
+      2023,
+      2028
+    ],
+    [
+      2029,
+      2032
+    ],
+    [
+      2033,
+      2040
+    ],
+    [
+      2041,
+      2044
+    ],
+    [
+      2045,
+      2049
+    ],
+    [
+      2050,
+      2060
+    ],
+    [
+      2060,
+      2061
+    ],
+    [
+      2062,
+      2065
+    ],
+    [
+      2066,
+      2072
+    ],
+    [
+      2073,
+      2079
+    ],
+    [
+      2080,
+      2083
+    ],
+    [
+      2084,
+      2091
+    ],
+    [
+      2092,
+      2094
+    ],
+    [
+      2095,
+      2104
+    ],
+    [
+      2105,
+      2109
+    ],
+    [
+      2110,
+      2117
+    ],
+    [
+      2118,
+      2121
+    ],
+    [
+      2122,
+      2124
+    ],
+    [
+      2125,
+      2130
+    ],
+    [
+      2131,
+      2142
+    ],
+    [
+      2143,
+      2148
+    ],
+    [
+      2149,
+      2153
+    ],
+    [
+      2154,
+      2158
+    ],
+    [
+      2159,
+      2170
+    ],
+    [
+      2171,
+      2174
+    ],
+    [
+      2175,
+      2180
+    ],
+    [
+      2181,
+      2189
+    ],
+    [
+      2190,
+      2201
+    ],
+    [
+      2201,
+      2202
+    ],
+    [
+      2203,
+      2204
+    ],
+    [
+      2204,
+      2207
+    ],
+    [
+      2207,
+      2208
+    ],
+    [
+      2209,
+      2217
+    ],
+    [
+      2218,
+      2229
+    ],
+    [
+      2229,
+      2230
+    ],
+    [
+      2231,
+      2235
+    ],
+    [
+      2236,
+      2239
+    ],
+    [
+      2240,
+      2245
+    ],
+    [
+      2246,
+      2249
+    ],
+    [
+      2250,
+      2257
+    ],
+    [
+      2257,
+      2258
+    ],
+    [
+      2259,
+      2261
+    ],
+    [
+      2262,
+      2265
+    ],
+    [
+      2266,
+      2273
+    ],
+    [
+      2274,
+      2277
+    ],
+    [
+      2278,
+      2285
+    ],
+    [
+      2286,
+      2297
+    ],
+    [
+      2298,
+      2303
+    ],
+    [
+      2304,
+      2308
+    ],
+    [
+      2309,
+      2315
+    ],
+    [
+      2316,
+      2324
+    ],
+    [
+      2324,
+      2325
+    ],
+    [
+      2326,
+      2328
+    ],
+    [
+      2329,
+      2332
+    ],
+    [
+      2333,
+      2340
+    ],
+    [
+      2341,
+      2353
+    ],
+    [
+      2354,
+      2356
+    ],
+    [
+      2357,
+      2366
+    ],
+    [
+      2367,
+      2375
+    ],
+    [
+      2375,
+      2376
+    ],
+    [
+      2377,
+      2386
+    ],
+    [
+      2387,
+      2389
+    ],
+    [
+      2390,
+      2397
+    ],
+    [
+      2397,
+      2398
+    ],
+    [
+      2399,
+      2400
+    ],
+    [
+      2400,
+      2402
+    ],
+    [
+      2402,
+      2403
+    ],
+    [
+      2404,
+      2409
+    ],
+    [
+      2410,
+      2417
+    ],
+    [
+      2417,
+      2418
+    ],
+    [
+      2419,
+      2421
+    ],
+    [
+      2422,
+      2425
+    ],
+    [
+      2426,
+      2433
+    ],
+    [
+      2434,
+      2437
+    ],
+    [
+      2438,
+      2443
+    ],
+    [
+      2444,
+      2455
+    ],
+    [
+      2456,
+      2457
+    ],
+    [
+      2457,
+      2466
+    ],
+    [
+      2467,
+      2475
+    ],
+    [
+      2476,
+      2487
+    ],
+    [
+      2487,
+      2488
+    ],
+    [
+      2489,
+      2496
+    ],
+    [
+      2497,
+      2499
+    ],
+    [
+      2500,
+      2504
+    ],
+    [
+      2505,
+      2511
+    ],
+    [
+      2511,
+      2512
+    ],
+    [
+      2513,
+      2518
+    ],
+    [
+      2519,
+      2529
+    ],
+    [
+      2530,
+      2534
+    ],
+    [
+      2535,
+      2537
+    ],
+    [
+      2538,
+      2545
+    ],
+    [
+      2546,
+      2549
+    ],
+    [
+      2550,
+      2557
+    ],
+    [
+      2558,
+      2559
+    ],
+    [
+      2559,
+      2568
+    ],
+    [
+      2569,
+      2573
+    ],
+    [
+      2574,
+      2575
+    ],
+    [
+      2575,
+      2576
+    ],
+    [
+      2576,
+      2577
+    ],
+    [
+      2578,
+      2583
+    ],
+    [
+      2584,
+      2590
+    ],
+    [
+      2591,
+      2594
+    ],
+    [
+      2595,
+      2599
+    ],
+    [
+      2600,
+      2602
+    ],
+    [
+      2603,
+      2605
+    ],
+    [
+      2606,
+      2612
+    ],
+    [
+      2613,
+      2615
+    ],
+    [
+      2616,
+      2617
+    ],
+    [
+      2618,
+      2625
+    ],
+    [
+      2626,
+      2630
+    ],
+    [
+      2631,
+      2636
+    ],
+    [
+      2637,
+      2640
+    ],
+    [
+      2641,
+      2648
+    ],
+    [
+      2649,
+      2652
+    ],
+    [
+      2653,
+      2657
+    ],
+    [
+      2658,
+      2664
+    ],
+    [
+      2665,
+      2668
+    ],
+    [
+      2669,
+      2672
+    ],
+    [
+      2673,
+      2681
+    ],
+    [
+      2681,
+      2682
+    ],
+    [
+      2683,
+      2686
+    ],
+    [
+      2687,
+      2698
+    ],
+    [
+      2699,
+      2703
+    ],
+    [
+      2704,
+      2710
+    ],
+    [
+      2710,
+      2711
+    ],
+    [
+      2712,
+      2717
+    ],
+    [
+      2718,
+      2723
+    ],
+    [
+      2724,
+      2727
+    ],
+    [
+      2728,
+      2732
+    ],
+    [
+      2733,
+      2735
+    ],
+    [
+      2736,
+      2738
+    ],
+    [
+      2739,
+      2745
+    ],
+    [
+      2746,
+      2748
+    ],
+    [
+      2749,
+      2753
+    ],
+    [
+      2754,
+      2760
+    ],
+    [
+      2760,
+      2761
+    ],
+    [
+      2762,
+      2770
+    ],
+    [
+      2771,
+      2773
+    ],
+    [
+      2774,
+      2785
+    ],
+    [
+      2786,
+      2788
+    ],
+    [
+      2789,
+      2792
+    ],
+    [
+      2793,
+      2800
+    ],
+    [
+      2801,
+      2803
+    ],
+    [
+      2804,
+      2812
+    ],
+    [
+      2813,
+      2823
+    ],
+    [
+      2824,
+      2827
+    ],
+    [
+      2828,
+      2830
+    ],
+    [
+      2831,
+      2835
+    ],
+    [
+      2836,
+      2843
+    ],
+    [
+      2844,
+      2850
+    ],
+    [
+      2850,
+      2851
+    ],
+    [
+      2852,
+      2853
+    ],
+    [
+      2853,
+      2854
+    ],
+    [
+      2854,
+      2855
+    ],
+    [
+      2856,
+      2866
+    ],
+    [
+      2867,
+      2870
+    ],
+    [
+      2871,
+      2878
+    ],
+    [
+      2879,
+      2891
+    ],
+    [
+      2891,
+      2892
+    ],
+    [
+      2893,
+      2895
+    ],
+    [
+      2896,
+      2899
+    ],
+    [
+      2900,
+      2903
+    ],
+    [
+      2904,
+      2912
+    ],
+    [
+      2913,
+      2916
+    ],
+    [
+      2917,
+      2924
+    ],
+    [
+      2925,
+      2937
+    ],
+    [
+      2938,
+      2940
+    ],
+    [
+      2941,
+      2948
+    ],
+    [
+      2949,
+      2952
+    ],
+    [
+      2953,
+      2958
+    ],
+    [
+      2959,
+      2970
+    ],
+    [
+      2971,
+      2975
+    ],
+    [
+      2976,
+      2979
+    ],
+    [
+      2980,
+      2986
+    ],
+    [
+      2987,
+      2990
+    ],
+    [
+      2991,
+      2994
+    ],
+    [
+      2995,
+      3002
+    ],
+    [
+      3002,
+      3003
+    ],
+    [
+      3004,
+      3007
+    ],
+    [
+      3008,
+      3012
+    ],
+    [
+      3013,
+      3016
+    ],
+    [
+      3017,
+      3024
+    ],
+    [
+      3025,
+      3030
+    ],
+    [
+      3031,
+      3038
+    ],
+    [
+      3039,
+      3041
+    ],
+    [
+      3042,
+      3047
+    ],
+    [
+      3048,
+      3060
+    ],
+    [
+      3061,
+      3063
+    ],
+    [
+      3064,
+      3072
+    ],
+    [
+      3073,
+      3077
+    ],
+    [
+      3078,
+      3085
+    ],
+    [
+      3086,
+      3088
+    ],
+    [
+      3089,
+      3095
+    ],
+    [
+      3095,
+      3096
+    ],
+    [
+      3097,
+      3099
+    ],
+    [
+      3100,
+      3104
+    ],
+    [
+      3105,
+      3108
+    ],
+    [
+      3109,
+      3114
+    ],
+    [
+      3115,
+      3127
+    ],
+    [
+      3128,
+      3130
+    ],
+    [
+      3131,
+      3138
+    ],
+    [
+      3139,
+      3142
+    ],
+    [
+      3143,
+      3148
+    ],
+    [
+      3149,
+      3160
+    ],
+    [
+      3161,
+      3165
+    ],
+    [
+      3166,
+      3169
+    ],
+    [
+      3170,
+      3176
+    ],
+    [
+      3177,
+      3180
+    ],
+    [
+      3181,
+      3188
+    ],
+    [
+      3189,
+      3192
+    ],
+    [
+      3193,
+      3201
+    ],
+    [
+      3202,
+      3206
+    ],
+    [
+      3207,
+      3210
+    ],
+    [
+      3211,
+      3218
+    ],
+    [
+      3219,
+      3222
+    ],
+    [
+      3223,
+      3231
+    ],
+    [
+      3232,
+      3235
+    ],
+    [
+      3236,
+      3244
+    ],
+    [
+      3245,
+      3247
+    ],
+    [
+      3248,
+      3253
+    ],
+    [
+      3253,
+      3254
+    ],
+    [
+      3255,
+      3259
+    ],
+    [
+      3260,
+      3262
+    ],
+    [
+      3263,
+      3274
+    ],
+    [
+      3275,
+      3283
+    ],
+    [
+      3283,
+      3284
+    ],
+    [
+      3285,
+      3286
+    ],
+    [
+      3286,
+      3287
+    ],
+    [
+      3288,
+      3291
+    ],
+    [
+      3292,
+      3302
+    ],
+    [
+      3303,
+      3306
+    ],
+    [
+      3307,
+      3314
+    ],
+    [
+      3315,
+      3322
+    ],
+    [
+      3323,
+      3334
+    ],
+    [
+      3335,
+      3346
+    ],
+    [
+      3347,
+      3355
+    ],
+    [
+      3355,
+      3356
+    ],
+    [
+      3357,
+      3362
+    ],
+    [
+      3363,
+      3367
+    ],
+    [
+      3368,
+      3373
+    ],
+    [
+      3374,
+      3377
+    ],
+    [
+      3378,
+      3380
+    ],
+    [
+      3381,
+      3391
+    ],
+    [
+      3392,
+      3394
+    ],
+    [
+      3395,
+      3401
+    ],
+    [
+      3402,
+      3410
+    ],
+    [
+      3410,
+      3411
+    ],
+    [
+      3412,
+      3416
+    ],
+    [
+      3417,
+      3419
+    ],
+    [
+      3420,
+      3427
+    ],
+    [
+      3428,
+      3430
+    ],
+    [
+      3431,
+      3438
+    ],
+    [
+      3438,
+      3439
+    ],
+    [
+      3440,
+      3442
+    ],
+    [
+      3443,
+      3448
+    ],
+    [
+      3449,
+      3453
+    ],
+    [
+      3454,
+      3459
+    ],
+    [
+      3460,
+      3463
+    ],
+    [
+      3464,
+      3475
+    ],
+    [
+      3476,
+      3480
+    ],
+    [
+      3481,
+      3488
+    ],
+    [
+      3489,
+      3497
+    ],
+    [
+      3498,
+      3501
+    ],
+    [
+      3502,
+      3509
+    ],
+    [
+      3510,
+      3513
+    ],
+    [
+      3514,
+      3518
+    ],
+    [
+      3519,
+      3526
+    ],
+    [
+      3527,
+      3531
+    ],
+    [
+      3532,
+      3538
+    ],
+    [
+      3539,
+      3541
+    ],
+    [
+      3542,
+      3544
+    ],
+    [
+      3544,
+      3545
+    ],
+    [
+      3546,
+      3552
+    ],
+    [
+      3553,
+      3556
+    ],
+    [
+      3557,
+      3560
+    ],
+    [
+      3561,
+      3568
+    ],
+    [
+      3569,
+      3576
+    ],
+    [
+      3577,
+      3588
+    ],
+    [
+      3589,
+      3596
+    ],
+    [
+      3597,
+      3603
+    ],
+    [
+      3604,
+      3606
+    ],
+    [
+      3607,
+      3644
+    ],
+    [
+      3645,
+      3646
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      1
+    ],
+    [
+      2,
+      8
+    ],
+    [
+      9,
+      50
+    ],
+    [
+      51,
+      61
+    ],
+    [
+      62,
+      63
+    ],
+    [
+      64,
+      75
+    ],
+    [
+      76,
+      89
+    ],
+    [
+      90,
+      142
+    ],
+    [
+      143,
+      144
+    ],
+    [
+      145,
+      155
+    ],
+    [
+      156,
+      185
+    ],
+    [
+      186,
+      230
+    ],
+    [
+      231,
+      236
+    ],
+    [
+      237,
+      358
+    ],
+    [
+      359,
+      384
+    ],
+    [
+      385,
+      415
+    ],
+    [
+      416,
+      421
+    ],
+    [
+      422,
+      438
+    ],
+    [
+      439,
+      450
+    ],
+    [
+      451,
+      456
+    ],
+    [
+      457,
+      545
+    ],
+    [
+      546,
+      580
+    ],
+    [
+      581,
+      612
+    ],
+    [
+      613,
+      639
+    ],
+    [
+      640,
+      669
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 41,
+      "end_idx": 43,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        9
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 52,
+      "end_idx": 63,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        11
+      ]
+    },
+    {
+      "entity/argument_text": "provide better services to all of users of our Service",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T4",
+      "start_idx": 67,
+      "end_idx": 121,
+      "tokens": [
+        "provide",
+        "better",
+        "services",
+        "to",
+        "all",
+        "of",
+        "users",
+        "of",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        13,
+        14,
+        15,
+        16,
+        17,
+        18,
+        19,
+        20,
+        21,
+        22
+      ]
+    },
+    {
+      "entity/argument_text": "users",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T5",
+      "start_idx": 101,
+      "end_idx": 106,
+      "tokens": [
+        "users"
+      ],
+      "token_idx": [
+        19
+      ]
+    },
+    {
+      "entity/argument_text": "determining what types of editorial content and the products and services offered on our Service that are of the most interest and relevance to you",
+      "entity/argument_type": "Personalization-customization",
+      "entity/argument_id": "T6",
+      "start_idx": 133,
+      "end_idx": 280,
+      "tokens": [
+        "determining",
+        "what",
+        "types",
+        "of",
+        "editorial",
+        "content",
+        "and",
+        "the",
+        "products",
+        "and",
+        "services",
+        "offered",
+        "on",
+        "our",
+        "Service",
+        "that",
+        "are",
+        "of",
+        "the",
+        "most",
+        "interest",
+        "and",
+        "relevance",
+        "to",
+        "you"
+      ],
+      "token_idx": [
+        25,
+        26,
+        27,
+        28,
+        29,
+        30,
+        31,
+        32,
+        33,
+        34,
+        35,
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43,
+        44,
+        45,
+        46,
+        47,
+        48,
+        49
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T7",
+      "start_idx": 282,
+      "end_idx": 284,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        51
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T9",
+      "start_idx": 293,
+      "end_idx": 304,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        53
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T10",
+      "start_idx": 311,
+      "end_idx": 314,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        55
+      ]
+    },
+    {
+      "entity/argument_text": "you do",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T11",
+      "start_idx": 470,
+      "end_idx": 476,
+      "tokens": [
+        "you",
+        "do"
+      ],
+      "token_idx": [
+        91,
+        92
+      ]
+    },
+    {
+      "entity/argument_text": "we'll",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T12",
+      "start_idx": 478,
+      "end_idx": 483,
+      "tokens": [
+        "we",
+        "'ll"
+      ],
+      "token_idx": [
+        94,
+        95
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T13",
+      "start_idx": 470,
+      "end_idx": 473,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        91
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T15",
+      "start_idx": 492,
+      "end_idx": 512,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        98,
+        99
+      ]
+    },
+    {
+      "entity/argument_text": "name",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T16",
+      "start_idx": 524,
+      "end_idx": 528,
+      "tokens": [
+        "name"
+      ],
+      "token_idx": [
+        103
+      ]
+    },
+    {
+      "entity/argument_text": "email address",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T17",
+      "start_idx": 530,
+      "end_idx": 543,
+      "tokens": [
+        "email",
+        "address"
+      ],
+      "token_idx": [
+        105,
+        106
+      ]
+    },
+    {
+      "entity/argument_text": "telephone number",
+      "entity/argument_type": "Data-contact",
+      "entity/argument_id": "T18",
+      "start_idx": 545,
+      "end_idx": 561,
+      "tokens": [
+        "telephone",
+        "number"
+      ],
+      "token_idx": [
+        108,
+        109
+      ]
+    },
+    {
+      "entity/argument_text": "purchase information",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T19",
+      "start_idx": 627,
+      "end_idx": 647,
+      "tokens": [
+        "purchase",
+        "information"
+      ],
+      "token_idx": [
+        124,
+        125
+      ]
+    },
+    {
+      "entity/argument_text": "the products or services purchased",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T20",
+      "start_idx": 656,
+      "end_idx": 690,
+      "tokens": [
+        "the",
+        "products",
+        "or",
+        "services",
+        "purchased"
+      ],
+      "token_idx": [
+        128,
+        129,
+        130,
+        131,
+        132
+      ]
+    },
+    {
+      "entity/argument_text": "the dates of purchase",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T21",
+      "start_idx": 692,
+      "end_idx": 713,
+      "tokens": [
+        "the",
+        "dates",
+        "of",
+        "purchase"
+      ],
+      "token_idx": [
+        134,
+        135,
+        136,
+        137
+      ]
+    },
+    {
+      "entity/argument_text": "the purchase price",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T22",
+      "start_idx": 718,
+      "end_idx": 736,
+      "tokens": [
+        "the",
+        "purchase",
+        "price"
+      ],
+      "token_idx": [
+        139,
+        140,
+        141
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T23",
+      "start_idx": 757,
+      "end_idx": 759,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        147
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T25",
+      "start_idx": 773,
+      "end_idx": 777,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        150
+      ]
+    },
+    {
+      "entity/argument_text": "what editorial and advertising content you view",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T26",
+      "start_idx": 836,
+      "end_idx": 883,
+      "tokens": [
+        "what",
+        "editorial",
+        "and",
+        "advertising",
+        "content",
+        "you",
+        "view"
+      ],
+      "token_idx": [
+        161,
+        162,
+        163,
+        164,
+        165,
+        166,
+        167
+      ]
+    },
+    {
+      "entity/argument_text": "the products and services you use that we and our third-party providers offer",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T27",
+      "start_idx": 889,
+      "end_idx": 966,
+      "tokens": [
+        "the",
+        "products",
+        "and",
+        "services",
+        "you",
+        "use",
+        "that",
+        "we",
+        "and",
+        "our",
+        "third",
+        "-",
+        "party",
+        "providers",
+        "offer"
+      ],
+      "token_idx": [
+        170,
+        171,
+        172,
+        173,
+        174,
+        175,
+        176,
+        177,
+        178,
+        179,
+        180,
+        181,
+        182,
+        183,
+        184
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T29",
+      "start_idx": 1019,
+      "end_idx": 1021,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        196
+      ]
+    },
+    {
+      "entity/argument_text": "information about the devices you use to access our Service",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T31",
+      "start_idx": 1030,
+      "end_idx": 1089,
+      "tokens": [
+        "information",
+        "about",
+        "the",
+        "devices",
+        "you",
+        "use",
+        "to",
+        "access",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        198,
+        199,
+        200,
+        201,
+        202,
+        203,
+        204,
+        205,
+        206,
+        207
+      ]
+    },
+    {
+      "entity/argument_text": "hardware settings",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T32",
+      "start_idx": 1099,
+      "end_idx": 1116,
+      "tokens": [
+        "hardware",
+        "settings"
+      ],
+      "token_idx": [
+        211,
+        212
+      ]
+    },
+    {
+      "entity/argument_text": "browser type",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T33",
+      "start_idx": 1118,
+      "end_idx": 1130,
+      "tokens": [
+        "browser",
+        "type"
+      ],
+      "token_idx": [
+        214,
+        215
+      ]
+    },
+    {
+      "entity/argument_text": "browser language",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T34",
+      "start_idx": 1132,
+      "end_idx": 1148,
+      "tokens": [
+        "browser",
+        "language"
+      ],
+      "token_idx": [
+        217,
+        218
+      ]
+    },
+    {
+      "entity/argument_text": "date and time of your request",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T35",
+      "start_idx": 1154,
+      "end_idx": 1183,
+      "tokens": [
+        "date",
+        "and",
+        "time",
+        "of",
+        "your",
+        "request"
+      ],
+      "token_idx": [
+        221,
+        222,
+        223,
+        224,
+        225,
+        226
+      ]
+    },
+    {
+      "entity/argument_text": "referral URL",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T36",
+      "start_idx": 1188,
+      "end_idx": 1200,
+      "tokens": [
+        "referral",
+        "URL"
+      ],
+      "token_idx": [
+        228,
+        229
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T28",
+      "start_idx": 1229,
+      "end_idx": 1232,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        238
+      ]
+    },
+    {
+      "entity/argument_text": "our",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T37",
+      "start_idx": 1237,
+      "end_idx": 1240,
+      "tokens": [
+        "our"
+      ],
+      "token_idx": [
+        240
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T40",
+      "start_idx": 1293,
+      "end_idx": 1304,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        249
+      ]
+    },
+    {
+      "entity/argument_text": "details about how you have used our Service",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T41",
+      "start_idx": 1423,
+      "end_idx": 1466,
+      "tokens": [
+        "details",
+        "about",
+        "how",
+        "you",
+        "have",
+        "used",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        272,
+        273,
+        274,
+        275,
+        276,
+        277,
+        278,
+        279
+      ]
+    },
+    {
+      "entity/argument_text": "search queries",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T42",
+      "start_idx": 1481,
+      "end_idx": 1495,
+      "tokens": [
+        "search",
+        "queries"
+      ],
+      "token_idx": [
+        284,
+        285
+      ]
+    },
+    {
+      "entity/argument_text": "IP address",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T43",
+      "start_idx": 1506,
+      "end_idx": 1516,
+      "tokens": [
+        "IP",
+        "address"
+      ],
+      "token_idx": [
+        291,
+        292
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T44",
+      "start_idx": 1679,
+      "end_idx": 1686,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        325
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T45",
+      "start_idx": 2236,
+      "end_idx": 2239,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        423
+      ]
+    },
+    {
+      "entity/argument_text": "Service",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T46",
+      "start_idx": 2250,
+      "end_idx": 2257,
+      "tokens": [
+        "Service"
+      ],
+      "token_idx": [
+        426
+      ]
+    },
+    {
+      "entity/argument_text": "information about your actual location",
+      "entity/argument_type": "Data-location",
+      "entity/argument_id": "T48",
+      "start_idx": 2286,
+      "end_idx": 2324,
+      "tokens": [
+        "information",
+        "about",
+        "your",
+        "actual",
+        "location"
+      ],
+      "token_idx": [
+        433,
+        434,
+        435,
+        436,
+        437
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T49",
+      "start_idx": 2419,
+      "end_idx": 2421,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        457
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T52",
+      "start_idx": 2444,
+      "end_idx": 2455,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        462
+      ]
+    },
+    {
+      "entity/argument_text": "personal information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T53",
+      "start_idx": 2467,
+      "end_idx": 2487,
+      "tokens": [
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        465,
+        466
+      ]
+    },
+    {
+      "entity/argument_text": "locally on your device",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T54",
+      "start_idx": 2489,
+      "end_idx": 2511,
+      "tokens": [
+        "locally",
+        "on",
+        "your",
+        "device"
+      ],
+      "token_idx": [
+        468,
+        469,
+        470,
+        471
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T55",
+      "start_idx": 2893,
+      "end_idx": 2895,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        546
+      ]
+    },
+    {
+      "entity/argument_text": "partners",
+      "entity/argument_type": "Third-party-entity",
+      "entity/argument_id": "T56",
+      "start_idx": 2904,
+      "end_idx": 2912,
+      "tokens": [
+        "partners"
+      ],
+      "token_idx": [
+        549
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T59",
+      "start_idx": 2959,
+      "end_idx": 2970,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        557
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T60",
+      "start_idx": 2976,
+      "end_idx": 2979,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        559
+      ]
+    },
+    {
+      "entity/argument_text": "you access the EMI Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T61",
+      "start_idx": 2976,
+      "end_idx": 3002,
+      "tokens": [
+        "you",
+        "access",
+        "the",
+        "EMI",
+        "Service"
+      ],
+      "token_idx": [
+        559,
+        560,
+        561,
+        562,
+        563
+      ]
+    },
+    {
+      "entity/argument_text": "cookies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T62",
+      "start_idx": 3031,
+      "end_idx": 3038,
+      "tokens": [
+        "cookies"
+      ],
+      "token_idx": [
+        570
+      ]
+    },
+    {
+      "entity/argument_text": "other technologies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T63",
+      "start_idx": 3042,
+      "end_idx": 3060,
+      "tokens": [
+        "other",
+        "technologies"
+      ],
+      "token_idx": [
+        572,
+        573
+      ]
+    },
+    {
+      "entity/argument_text": "identify your browser or device",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T64",
+      "start_idx": 3064,
+      "end_idx": 3095,
+      "tokens": [
+        "identify",
+        "your",
+        "browser",
+        "or",
+        "device"
+      ],
+      "token_idx": [
+        575,
+        576,
+        577,
+        578,
+        579
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T65",
+      "start_idx": 3097,
+      "end_idx": 3099,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        581
+      ]
+    },
+    {
+      "entity/argument_text": "technologies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T67",
+      "start_idx": 3115,
+      "end_idx": 3127,
+      "tokens": [
+        "technologies"
+      ],
+      "token_idx": [
+        585
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T69",
+      "start_idx": 3149,
+      "end_idx": 3160,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        590
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T70",
+      "start_idx": 3166,
+      "end_idx": 3169,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        592
+      ]
+    },
+    {
+      "entity/argument_text": "you access our Service and interact with the content and products and services we offer, such as advertising services",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T71",
+      "start_idx": 3166,
+      "end_idx": 3283,
+      "tokens": [
+        "you",
+        "access",
+        "our",
+        "Service",
+        "and",
+        "interact",
+        "with",
+        "the",
+        "content",
+        "and",
+        "products",
+        "and",
+        "services",
+        "we",
+        "offer",
+        ",",
+        "such",
+        "as",
+        "advertising",
+        "services"
+      ],
+      "token_idx": [
+        592,
+        593,
+        594,
+        595,
+        596,
+        597,
+        598,
+        599,
+        600,
+        601,
+        602,
+        603,
+        604,
+        605,
+        606,
+        607,
+        608,
+        609,
+        610,
+        611
+      ]
+    },
+    {
+      "entity/argument_text": "server logs",
+      "entity/argument_type": "storage-place",
+      "entity/argument_id": "T72",
+      "start_idx": 1308,
+      "end_idx": 1319,
+      "tokens": [
+        "server",
+        "logs"
+      ],
+      "token_idx": [
+        251,
+        252
+      ]
+    },
+    {
+      "entity/argument_text": "you visit our Service any time thereafter",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T73",
+      "start_idx": 2019,
+      "end_idx": 2060,
+      "tokens": [
+        "you",
+        "visit",
+        "our",
+        "Service",
+        "any",
+        "time",
+        "thereafter"
+      ],
+      "token_idx": [
+        386,
+        387,
+        388,
+        389,
+        390,
+        391,
+        392
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T74",
+      "start_idx": 2019,
+      "end_idx": 2022,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        386
+      ]
+    },
+    {
+      "entity/argument_text": "Service",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T75",
+      "start_idx": 2033,
+      "end_idx": 2040,
+      "tokens": [
+        "Service"
+      ],
+      "token_idx": [
+        389
+      ]
+    },
+    {
+      "entity/argument_text": "information about your user preferences",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T77",
+      "start_idx": 2131,
+      "end_idx": 2170,
+      "tokens": [
+        "information",
+        "about",
+        "your",
+        "user",
+        "preferences"
+      ],
+      "token_idx": [
+        406,
+        407,
+        408,
+        409,
+        410
+      ]
+    },
+    {
+      "entity/argument_text": "other personal information",
+      "entity/argument_type": "Data-other",
+      "entity/argument_id": "T78",
+      "start_idx": 2175,
+      "end_idx": 2201,
+      "tokens": [
+        "other",
+        "personal",
+        "information"
+      ],
+      "token_idx": [
+        412,
+        413,
+        414
+      ]
+    },
+    {
+      "entity/argument_text": "you are purchasing products or services on our Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T79",
+      "start_idx": 571,
+      "end_idx": 625,
+      "tokens": [
+        "you",
+        "are",
+        "purchasing",
+        "products",
+        "or",
+        "services",
+        "on",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        114,
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T80",
+      "start_idx": 745,
+      "end_idx": 756,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        146
+      ]
+    },
+    {
+      "entity/argument_text": "you use our Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T81",
+      "start_idx": 1229,
+      "end_idx": 1248,
+      "tokens": [
+        "you",
+        "use",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        238,
+        239,
+        240,
+        241
+      ]
+    },
+    {
+      "entity/argument_text": "uniquely identify your browser and collect information about how our visitors interact with our Service",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T82",
+      "start_idx": 1696,
+      "end_idx": 1799,
+      "tokens": [
+        "uniquely",
+        "identify",
+        "your",
+        "browser",
+        "and",
+        "collect",
+        "information",
+        "about",
+        "how",
+        "our",
+        "visitors",
+        "interact",
+        "with",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        328,
+        329,
+        330,
+        331,
+        332,
+        333,
+        334,
+        335,
+        336,
+        337,
+        338,
+        339,
+        340,
+        341,
+        342
+      ]
+    },
+    {
+      "entity/argument_text": "identify problems such as error messages from certain pages",
+      "entity/argument_type": "Service-operation-and-security",
+      "entity/argument_id": "T83",
+      "start_idx": 1820,
+      "end_idx": 1879,
+      "tokens": [
+        "identify",
+        "problems",
+        "such",
+        "as",
+        "error",
+        "messages",
+        "from",
+        "certain",
+        "pages"
+      ],
+      "token_idx": [
+        349,
+        350,
+        351,
+        352,
+        353,
+        354,
+        355,
+        356,
+        357
+      ]
+    },
+    {
+      "entity/argument_text": "you visit our Service",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T84",
+      "start_idx": 2236,
+      "end_idx": 2257,
+      "tokens": [
+        "you",
+        "visit",
+        "our",
+        "Service"
+      ],
+      "token_idx": [
+        423,
+        424,
+        425,
+        426
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T85",
+      "start_idx": 2326,
+      "end_idx": 2328,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        439
+      ]
+    },
+    {
+      "entity/argument_text": "technologies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T87",
+      "start_idx": 2341,
+      "end_idx": 2353,
+      "tokens": [
+        "technologies"
+      ],
+      "token_idx": [
+        442
+      ]
+    },
+    {
+      "entity/argument_text": "location",
+      "entity/argument_type": "Data-location",
+      "entity/argument_id": "T88",
+      "start_idx": 2367,
+      "end_idx": 2375,
+      "tokens": [
+        "location"
+      ],
+      "token_idx": [
+        445
+      ]
+    },
+    {
+      "entity/argument_text": "IP address",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T89",
+      "start_idx": 2387,
+      "end_idx": 2397,
+      "tokens": [
+        "IP",
+        "address"
+      ],
+      "token_idx": [
+        448,
+        449
+      ]
+    },
+    {
+      "entity/argument_text": "determine location",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T90",
+      "start_idx": 2357,
+      "end_idx": 2375,
+      "tokens": [
+        "determine",
+        "location"
+      ],
+      "token_idx": [
+        444,
+        445
+      ]
+    },
+    {
+      "entity/argument_text": "technologies",
+      "entity/argument_type": "Data-cookies-web-beacons-and-other-technologies",
+      "entity/argument_id": "T91",
+      "start_idx": 2925,
+      "end_idx": 2937,
+      "tokens": [
+        "technologies"
+      ],
+      "token_idx": [
+        552
+      ]
+    },
+    {
+      "entity/argument_text": "identify the geographic location of that device",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T92",
+      "start_idx": 1622,
+      "end_idx": 1669,
+      "tokens": [
+        "identify",
+        "the",
+        "geographic",
+        "location",
+        "of",
+        "that",
+        "device"
+      ],
+      "token_idx": [
+        313,
+        314,
+        315,
+        316,
+        317,
+        318,
+        319
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 44,
+        "end_idx": 51,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          10
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Personalization-customization",
+          "text": "determining what types of editorial content and the products and services offered on our Service that are of the most interest and relevance to you",
+          "start_idx": 133,
+          "end_idx": 280
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "users",
+          "start_idx": 101,
+          "end_idx": 106
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Basic-service-feature",
+          "text": "provide better services to all of users of our Service",
+          "start_idx": 67,
+          "end_idx": 121
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 52,
+          "end_idx": 63
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 41,
+          "end_idx": 43
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 285,
+        "end_idx": 292,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          52
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 311,
+          "end_idx": 314
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 293,
+          "end_idx": 304
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 282,
+          "end_idx": 284
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "ask",
+        "start_idx": 484,
+        "end_idx": 487,
+        "tokens": [
+          "ask"
+        ],
+        "token_idx": [
+          96
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-user-online-activities-profiles",
+          "text": "the purchase price",
+          "start_idx": 718,
+          "end_idx": 736
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "the dates of purchase",
+          "start_idx": 692,
+          "end_idx": 713
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "the products or services purchased",
+          "start_idx": 656,
+          "end_idx": 690
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-user-online-activities-profiles",
+          "text": "purchase information",
+          "start_idx": 627,
+          "end_idx": 647
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-contact",
+          "text": "telephone number",
+          "start_idx": 545,
+          "end_idx": 561
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-contact",
+          "text": "email address",
+          "start_idx": 530,
+          "end_idx": 543
+        },
+        {
+          "role": "Data-Collected7",
+          "type": "Data-contact",
+          "text": "name",
+          "start_idx": 524,
+          "end_idx": 528
+        },
+        {
+          "role": "Data-Collected8",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 492,
+          "end_idx": 512
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we'll",
+          "start_idx": 478,
+          "end_idx": 483
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 470,
+          "end_idx": 473
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you do",
+          "start_idx": 470,
+          "end_idx": 476
+        },
+        {
+          "role": "Condition-Argument2",
+          "type": "Condition",
+          "text": "you are purchasing products or services on our Service",
+          "start_idx": 571,
+          "end_idx": 625
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 760,
+        "end_idx": 767,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          148
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 773,
+          "end_idx": 777
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 757,
+          "end_idx": 759
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-user-online-activities-profiles",
+          "text": "the products and services you use that we and our third-party providers offer",
+          "start_idx": 889,
+          "end_idx": 966
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "what editorial and advertising content you view",
+          "start_idx": 836,
+          "end_idx": 883
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 745,
+          "end_idx": 756
+        }
+      ],
+      "event_id": "E4"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 1022,
+        "end_idx": 1029,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          197
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-computer-device",
+          "text": "referral URL",
+          "start_idx": 1188,
+          "end_idx": 1200
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-computer-device",
+          "text": "date and time of your request",
+          "start_idx": 1154,
+          "end_idx": 1183
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-computer-device",
+          "text": "browser language",
+          "start_idx": 1132,
+          "end_idx": 1148
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-computer-device",
+          "text": "browser type",
+          "start_idx": 1118,
+          "end_idx": 1130
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-computer-device",
+          "text": "hardware settings",
+          "start_idx": 1099,
+          "end_idx": 1116
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-computer-device",
+          "text": "information about the devices you use to access our Service",
+          "start_idx": 1030,
+          "end_idx": 1089
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 1019,
+          "end_idx": 1021
+        }
+      ],
+      "event_id": "E5"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 1267,
+        "end_idx": 1274,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          245
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 1293,
+          "end_idx": 1304
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 1237,
+          "end_idx": 1240
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 1229,
+          "end_idx": 1232
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 1679,
+          "end_idx": 1686
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-computer-device",
+          "text": "IP address",
+          "start_idx": 1506,
+          "end_idx": 1516
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-user-online-activities-profiles",
+          "text": "search queries",
+          "start_idx": 1481,
+          "end_idx": 1495
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-user-online-activities-profiles",
+          "text": "details about how you have used our Service",
+          "start_idx": 1423,
+          "end_idx": 1466
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you use our Service",
+          "start_idx": 1229,
+          "end_idx": 1248
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "uniquely identify your browser and collect information about how our visitors interact with our Service",
+          "start_idx": 1696,
+          "end_idx": 1799
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Service-operation-and-security",
+          "text": "identify problems such as error messages from certain pages",
+          "start_idx": 1820,
+          "end_idx": 1879
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Basic-service-feature",
+          "text": "identify the geographic location of that device",
+          "start_idx": 1622,
+          "end_idx": 1669
+        }
+      ],
+      "event_id": "E6"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 1279,
+        "end_idx": 1284,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          247
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 1293,
+          "end_idx": 1304
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "our",
+          "start_idx": 1237,
+          "end_idx": 1240
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 1229,
+          "end_idx": 1232
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "search queries",
+          "start_idx": 1481,
+          "end_idx": 1495
+        },
+        {
+          "role": "Data-Retained3",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 1679,
+          "end_idx": 1686
+        },
+        {
+          "role": "Data-Retained4",
+          "type": "Data-computer-device",
+          "text": "IP address",
+          "start_idx": 1506,
+          "end_idx": 1516
+        },
+        {
+          "role": "Data-Retained5",
+          "type": "Data-user-online-activities-profiles",
+          "text": "details about how you have used our Service",
+          "start_idx": 1423,
+          "end_idx": 1466
+        },
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "server logs",
+          "start_idx": 1308,
+          "end_idx": 1319
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you use our Service",
+          "start_idx": 1229,
+          "end_idx": 1248
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "uniquely identify your browser and collect information about how our visitors interact with our Service",
+          "start_idx": 1696,
+          "end_idx": 1799
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Service-operation-and-security",
+          "text": "identify problems such as error messages from certain pages",
+          "start_idx": 1820,
+          "end_idx": 1879
+        },
+        {
+          "role": "Purpose-Argument3",
+          "type": "Basic-service-feature",
+          "text": "identify the geographic location of that device",
+          "start_idx": 1622,
+          "end_idx": 1669
+        }
+      ],
+      "event_id": "E7"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 2266,
+        "end_idx": 2273,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          430
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-location",
+          "text": "information about your actual location",
+          "start_idx": 2286,
+          "end_idx": 2324
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "Service",
+          "start_idx": 2250,
+          "end_idx": 2257
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 2236,
+          "end_idx": 2239
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you visit our Service",
+          "start_idx": 2236,
+          "end_idx": 2257
+        }
+      ],
+      "event_id": "E8"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 2426,
+        "end_idx": 2433,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          459
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 2419,
+          "end_idx": 2421
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 2444,
+          "end_idx": 2455
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 2467,
+          "end_idx": 2487
+        }
+      ],
+      "event_id": "E9"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 2438,
+        "end_idx": 2443,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          461
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Storage-Place",
+          "type": "storage-place",
+          "text": "locally on your device",
+          "start_idx": 2489,
+          "end_idx": 2511
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "personal information",
+          "start_idx": 2467,
+          "end_idx": 2487
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 2444,
+          "end_idx": 2455
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 2419,
+          "end_idx": 2421
+        }
+      ],
+      "event_id": "E10"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 2941,
+        "end_idx": 2948,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          554
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "Third-party-entity",
+          "text": "partners",
+          "start_idx": 2904,
+          "end_idx": 2912
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 2893,
+          "end_idx": 2895
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 2959,
+          "end_idx": 2970
+        },
+        {
+          "role": "Data-Provider2",
+          "type": "User",
+          "text": "you",
+          "start_idx": 2976,
+          "end_idx": 2979
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you access the EMI Service",
+          "start_idx": 2976,
+          "end_idx": 3002
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "identify your browser or device",
+          "start_idx": 3064,
+          "end_idx": 3095
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "other technologies",
+          "start_idx": 3042,
+          "end_idx": 3060
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 3031,
+          "end_idx": 3038
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "technologies",
+          "start_idx": 2925,
+          "end_idx": 2937
+        }
+      ],
+      "event_id": "E11"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 2953,
+        "end_idx": 2958,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          556
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "identify your browser or device",
+          "start_idx": 3064,
+          "end_idx": 3095
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "other technologies",
+          "start_idx": 3042,
+          "end_idx": 3060
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "cookies",
+          "start_idx": 3031,
+          "end_idx": 3038
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you access the EMI Service",
+          "start_idx": 2976,
+          "end_idx": 3002
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 2976,
+          "end_idx": 2979
+        },
+        {
+          "role": "Data-Retained3",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 2959,
+          "end_idx": 2970
+        },
+        {
+          "role": "Data-Holder",
+          "type": "Third-party-entity",
+          "text": "partners",
+          "start_idx": 2904,
+          "end_idx": 2912
+        },
+        {
+          "role": "Data-Holder2",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 2893,
+          "end_idx": 2895
+        },
+        {
+          "role": "Data-Retained4",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "technologies",
+          "start_idx": 2925,
+          "end_idx": 2937
+        }
+      ],
+      "event_id": "E12"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 3131,
+        "end_idx": 3138,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          587
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you access our Service and interact with the content and products and services we offer, such as advertising services",
+          "start_idx": 3166,
+          "end_idx": 3283
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 3149,
+          "end_idx": 3160
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 3166,
+          "end_idx": 3169
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "technologies",
+          "start_idx": 3115,
+          "end_idx": 3127
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 3097,
+          "end_idx": 3099
+        }
+      ],
+      "event_id": "E13"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 3143,
+        "end_idx": 3148,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          589
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 3097,
+          "end_idx": 3099
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "technologies",
+          "start_idx": 3115,
+          "end_idx": 3127
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 3149,
+          "end_idx": 3160
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you access our Service and interact with the content and products and services we offer, such as advertising services",
+          "start_idx": 3166,
+          "end_idx": 3283
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 3166,
+          "end_idx": 3169
+        }
+      ],
+      "event_id": "E14"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 2125,
+        "end_idx": 2130,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          405
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Retained",
+          "type": "Data-other",
+          "text": "other personal information",
+          "start_idx": 2175,
+          "end_idx": 2201
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information about your user preferences",
+          "start_idx": 2131,
+          "end_idx": 2170
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you visit our Service any time thereafter",
+          "start_idx": 2019,
+          "end_idx": 2060
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "Service",
+          "start_idx": 2033,
+          "end_idx": 2040
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 2019,
+          "end_idx": 2022
+        }
+      ],
+      "event_id": "E15"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 2329,
+        "end_idx": 2332,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          440
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 2326,
+          "end_idx": 2328
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-computer-device",
+          "text": "IP address",
+          "start_idx": 2387,
+          "end_idx": 2397
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-cookies-web-beacons-and-other-technologies",
+          "text": "technologies",
+          "start_idx": 2341,
+          "end_idx": 2353
+        },
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "determine location",
+          "start_idx": 2357,
+          "end_idx": 2375
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-location",
+          "text": "location",
+          "start_idx": 2367,
+          "end_idx": 2375
+        }
+      ],
+      "event_id": "E16"
+    }
+  ]
+}

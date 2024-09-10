@@ -1,0 +1,19 @@
+T1	First-party-entity 45 48	EMI
+T3	first-party-collection-use 68 75	collect
+E1	first-party-collection-use:T3 Data-Provider:T5 Data-Collected:T4 Data-Collector:T1 Polarity:T17
+T4	Data-general 87 107	personal information
+T5	User 113 139	anyone under the age of 16
+T6	first-party-collection-use 238 245	provide
+E2	first-party-collection-use:T6 Polarity:T11 Data-Provider:T9 Data-Collected:T7 Data-Collector:T8
+T7	Data-general 250 270	personal information
+T8	First-party-entity 274 277	EMI
+T9	User 207 223	one under age 16
+T11	Negation 204 206	No
+T12	data-storage-retention-deletion 403 409	delete
+E3	data-storage-retention-deletion:T12 Retention-Period:T14 Data-Provider:T15 Data-Retained:T13 Data-Holder:T16 Condition-Argument:T10
+T13	Data-general 347 367	personal information
+T14	retention-period 427 449	as quickly as possible
+T15	User 375 393	child under age 16
+T16	First-party-entity 315 317	we
+T17	Negation 54 57	not
+T10	Condition 315 393	we learn that we have collected personal information from a child under age 16

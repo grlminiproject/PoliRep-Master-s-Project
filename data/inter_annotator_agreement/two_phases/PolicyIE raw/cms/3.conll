@@ -1,0 +1,407 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = How CMS websites use cookies
+1	How	how	ADV	WRB	PronType=Int	4	advmod	_	TokenRange=0:3
+2	CMS	Cms	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=4:7
+3	websites	websites	NOUN	NNS	Number=Plur	4	nsubj	_	TokenRange=8:16
+4	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=17:20
+5	cookies	cookie	NOUN	NNS	Number=Plur	4	obj	_	SpacesAfter=\n\n|TokenRange=21:28
+
+# newpar
+# sent_id = 2
+# text = The Office of Management and Budget Memo M-10-22, Guidance for Online Use of Web Measurement and Customization Technologies, allows federal agencies to use session and persistent cookies.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=30:33
+2	Office	Office	PROPN	NNP	Number=Sing	24	nsubj	_	TokenRange=34:40
+3	of	of	ADP	IN	_	4	case	_	TokenRange=41:43
+4	Management	management	PROPN	NNP	Number=Sing	2	nmod	_	TokenRange=44:54
+5	and	and	CCONJ	CC	_	6	cc	_	TokenRange=55:58
+6	Budget	budget	PROPN	NNP	Number=Sing	4	conj	_	TokenRange=59:65
+7	Memo	memo	PROPN	NNP	Number=Sing	8	compound	_	TokenRange=66:70
+8	M	m	NOUN	NN	Number=Sing	2	list	_	SpaceAfter=No|TokenRange=71:72
+9	-10	-10	NUM	CD	NumType=Card	8	nummod	_	SpaceAfter=No|TokenRange=72:75
+10	-	-	SYM	SYM	_	11	case	_	SpaceAfter=No|TokenRange=75:76
+11	22	22	NUM	CD	NumType=Card	9	nmod	_	SpaceAfter=No|TokenRange=76:78
+12	,	,	PUNCT	,	_	2	punct	_	TokenRange=78:79
+13	Guidance	guidance	PROPN	NNP	Number=Sing	2	appos	_	TokenRange=80:88
+14	for	for	ADP	IN	_	16	case	_	TokenRange=89:92
+15	Online	Online	PROPN	NNP	Number=Sing	16	compound	_	TokenRange=93:99
+16	Use	use	NOUN	NN	Number=Sing	13	nmod	_	TokenRange=100:103
+17	of	of	ADP	IN	_	19	case	_	TokenRange=104:106
+18	Web	web	NOUN	NN	Number=Sing	19	compound	_	TokenRange=107:110
+19	Measurement	Measurement	NOUN	NN	Number=Sing	16	nmod	_	TokenRange=111:122
+20	and	and	CCONJ	CC	_	22	cc	_	TokenRange=123:126
+21	Customization	Customization	NOUN	NN	Number=Sing	22	compound	_	TokenRange=127:140
+22	Technologies	technology	NOUN	NNS	Number=Plur	19	conj	_	SpaceAfter=No|TokenRange=141:153
+23	,	,	PUNCT	,	_	24	punct	_	TokenRange=153:154
+24	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=155:161
+25	federal	federal	ADJ	JJ	Degree=Pos	26	amod	_	TokenRange=162:169
+26	agencies	agency	NOUN	NNS	Number=Plur	24	obj	_	TokenRange=170:178
+27	to	to	PART	TO	_	28	mark	_	TokenRange=179:181
+28	use	use	VERB	VB	VerbForm=Inf	26	acl	_	TokenRange=182:185
+29	session	session	NOUN	NN	Number=Sing	28	obj	_	TokenRange=186:193
+30	and	and	CCONJ	CC	_	32	cc	_	TokenRange=194:197
+31	persistent	persistent	ADJ	JJ	Degree=Pos	32	amod	_	TokenRange=198:208
+32	cookies	cookie	NOUN	NNS	Number=Plur	29	conj	_	SpaceAfter=No|TokenRange=209:216
+33	.	.	PUNCT	.	_	24	punct	_	SpacesAfter=\n|TokenRange=216:217
+
+# sent_id = 3
+# text = When you visit any website, its server may generate a piece of text known as a "cookie" to place on your computer.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=218:222
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=223:226
+3	visit	visit	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	TokenRange=227:232
+4	any	any	DET	DT	_	5	det	_	TokenRange=233:236
+5	website	website	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=237:244
+6	,	,	PUNCT	,	_	10	punct	_	TokenRange=244:245
+7	its	its	PRON	PRP$	Gender=Neut|Number=Sing|Person=3|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=246:249
+8	server	server	NOUN	NN	Number=Sing	10	nsubj	_	TokenRange=250:256
+9	may	may	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=257:260
+10	generate	generate	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=261:269
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	TokenRange=270:271
+12	piece	piece	NOUN	NN	Number=Sing	10	obj	_	TokenRange=272:277
+13	of	of	ADP	IN	_	14	case	_	TokenRange=278:280
+14	text	text	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=281:285
+15	known	know	VERB	VBN	Tense=Past|VerbForm=Part	14	acl	_	TokenRange=286:291
+16	as	as	ADP	IN	_	19	case	_	TokenRange=292:294
+17	a	a	DET	DT	Definite=Ind|PronType=Art	19	det	_	TokenRange=295:296
+18	"	"	PUNCT	``	_	19	punct	_	SpaceAfter=No|TokenRange=297:298
+19	cookie	cookie	NOUN	NN	Number=Sing	15	obl	_	SpaceAfter=No|TokenRange=298:304
+20	"	"	PUNCT	''	_	10	punct	_	TokenRange=304:305
+21	to	to	PART	TO	_	22	mark	_	TokenRange=306:308
+22	place	place	VERB	VB	VerbForm=Inf	10	advcl	_	TokenRange=309:314
+23	on	on	ADP	IN	_	25	case	_	TokenRange=315:317
+24	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	25	nmod:poss	_	TokenRange=318:322
+25	computer	computer	NOUN	NN	Number=Sing	22	obl	_	SpaceAfter=No|TokenRange=323:331
+26	.	.	PUNCT	.	_	10	punct	_	TokenRange=331:332
+
+# sent_id = 4
+# text = The cookie allows the server to "remember" specific information about your visit while you are connected.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=333:336
+2	cookie	cookie	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=337:343
+3	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=344:350
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=351:354
+5	server	server	NOUN	NN	Number=Sing	3	obj	_	TokenRange=355:361
+6	to	to	PART	TO	_	8	mark	_	TokenRange=362:364
+7	"	"	PUNCT	``	_	8	punct	_	SpaceAfter=No|TokenRange=365:366
+8	remember	remember	VERB	VB	VerbForm=Inf	5	acl	_	SpaceAfter=No|TokenRange=366:374
+9	"	"	PUNCT	''	_	8	punct	_	TokenRange=374:375
+10	specific	specific	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=376:384
+11	information	information	NOUN	NN	Number=Sing	8	obj	_	TokenRange=385:396
+12	about	about	ADP	IN	_	14	case	_	TokenRange=397:402
+13	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	14	nmod:poss	_	TokenRange=403:407
+14	visit	visit	NOUN	NN	Number=Sing	11	nmod	_	TokenRange=408:413
+15	while	while	SCONJ	IN	_	18	mark	_	TokenRange=414:419
+16	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	18	nsubj:pass	_	TokenRange=420:423
+17	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	18	aux:pass	_	TokenRange=424:427
+18	connected	connect	VERB	VBN	Tense=Past|VerbForm=Part	3	advcl	_	SpaceAfter=No|TokenRange=428:437
+19	.	.	PUNCT	.	_	3	punct	_	TokenRange=437:438
+
+# sent_id = 5
+# text = The cookie makes it easier for you to use the dynamic features of Web pages.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=439:442
+2	cookie	cookie	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=443:449
+3	makes	make	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=450:455
+4	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	3	expl	_	TokenRange=456:458
+5	easier	easier	ADJ	JJR	Degree=Cmp	3	xcomp	_	TokenRange=459:465
+6	for	for	SCONJ	IN	_	9	mark	_	TokenRange=466:469
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	9	nsubj	_	TokenRange=470:473
+8	to	to	PART	TO	_	9	mark	_	TokenRange=474:476
+9	use	use	VERB	VB	VerbForm=Inf	3	ccomp	_	TokenRange=477:480
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=481:484
+11	dynamic	dynamic	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=485:492
+12	features	feature	NOUN	NNS	Number=Plur	9	obj	_	TokenRange=493:501
+13	of	of	ADP	IN	_	15	case	_	TokenRange=502:504
+14	Web	web	NOUN	NN	Number=Sing	15	compound	_	TokenRange=505:508
+15	pages	page	NOUN	NNS	Number=Plur	12	nmod	_	SpaceAfter=No|TokenRange=509:514
+16	.	.	PUNCT	.	_	3	punct	_	TokenRange=514:515
+
+# sent_id = 6
+# text = Cookies from CMS websites collect only information about your browser's visit to the site.
+1	Cookies	cookie	NOUN	NNS	Number=Plur	5	nsubj	_	TokenRange=516:523
+2	from	from	ADP	IN	_	4	case	_	TokenRange=524:528
+3	CMS	CMS	PROPN	NNP	Number=Sing	4	compound	_	TokenRange=529:532
+4	websites	websites	NOUN	NNS	Number=Plur	1	nmod	_	TokenRange=533:541
+5	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=542:549
+6	only	only	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=550:554
+7	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=555:566
+8	about	about	ADP	IN	_	12	case	_	TokenRange=567:572
+9	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=573:577
+10	browser	browser	NOUN	NN	Number=Sing	12	nmod:poss	_	SpaceAfter=No|TokenRange=578:585
+11	's	's	PART	POS	_	10	case	_	TokenRange=585:587
+12	visit	visit	NOUN	NN	Number=Sing	7	nmod	_	TokenRange=588:593
+13	to	to	ADP	IN	_	15	case	_	TokenRange=594:596
+14	the	the	DET	DT	Definite=Def|PronType=Art	15	det	_	TokenRange=597:600
+15	site	site	NOUN	NN	Number=Sing	12	nmod	_	SpaceAfter=No|TokenRange=601:605
+16	.	.	PUNCT	.	_	5	punct	_	TokenRange=605:606
+
+# sent_id = 7
+# text = They do not collect personal information about you.
+1	They	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	4	nsubj	_	TokenRange=607:611
+2	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=612:614
+3	not	not	PART	RB	_	4	advmod	_	TokenRange=615:618
+4	collect	collect	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=619:626
+5	personal	personal	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=627:635
+6	information	information	NOUN	NN	Number=Sing	4	obj	_	TokenRange=636:647
+7	about	about	ADP	IN	_	8	case	_	TokenRange=648:653
+8	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	4	obl	_	SpaceAfter=No|TokenRange=654:657
+9	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=657:658
+
+# sent_id = 8
+# text = There are two types of cookies: single session (temporary) and multi-session (persistent).
+1	There	there	PRON	EX	_	2	expl	_	TokenRange=659:664
+2	are	be	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=665:668
+3	two	two	NUM	CD	NumType=Card	4	nummod	_	TokenRange=669:672
+4	types	type	NOUN	NNS	Number=Plur	2	nsubj	_	TokenRange=673:678
+5	of	of	ADP	IN	_	6	case	_	TokenRange=679:681
+6	cookies	cookie	NOUN	NNS	Number=Plur	4	nmod	_	SpaceAfter=No|TokenRange=682:689
+7	:	:	PUNCT	:	_	4	punct	_	TokenRange=689:690
+8	single	single	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=691:697
+9	session	session	NOUN	NN	Number=Sing	4	appos	_	TokenRange=698:705
+10	(	(	PUNCT	-LRB-	_	11	punct	_	SpaceAfter=No|TokenRange=706:707
+11	temporary	temporary	NOUN	NN	Number=Sing	9	appos	_	SpaceAfter=No|TokenRange=707:716
+12	)	)	PUNCT	-RRB-	_	11	punct	_	TokenRange=716:717
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=718:721
+14	multi-session	multi-session	NOUN	NN	Number=Sing	9	conj	_	TokenRange=722:735
+15	(	(	PUNCT	-LRB-	_	16	punct	_	SpaceAfter=No|TokenRange=736:737
+16	persistent	persistent	NOUN	NN	Number=Sing	14	appos	_	SpaceAfter=No|TokenRange=737:747
+17	)	)	PUNCT	-RRB-	_	16	punct	_	SpaceAfter=No|TokenRange=747:748
+18	.	.	PUNCT	.	_	2	punct	_	TokenRange=748:749
+
+# sent_id = 9
+# text = Session cookies last only as long as your Web browser is open.
+1	Session	session	NOUN	NN	Number=Sing	2	compound	_	TokenRange=750:757
+2	cookies	cookie	NOUN	NNS	Number=Plur	0	root	_	TokenRange=758:765
+3	last	last	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=766:770
+4	only	only	ADV	RB	_	6	advmod	_	TokenRange=771:775
+5	as	as	ADV	RB	_	6	advmod	_	TokenRange=776:778
+6	long	long	ADV	RB	Degree=Pos	3	advmod	_	TokenRange=779:783
+7	as	as	SCONJ	IN	_	12	mark	_	TokenRange=784:786
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=787:791
+9	Web	web	NOUN	NN	Number=Sing	10	compound	_	TokenRange=792:795
+10	browser	browser	NOUN	NN	Number=Sing	12	nsubj	_	TokenRange=796:803
+11	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	cop	_	TokenRange=804:806
+12	open	open	ADJ	JJ	Degree=Pos	6	advcl	_	SpaceAfter=No|TokenRange=807:811
+13	.	.	PUNCT	.	_	2	punct	_	TokenRange=811:812
+
+# sent_id = 10
+# text = Once you close your browser, the cookie disappears.
+1	Once	once	SCONJ	IN	_	3	mark	_	TokenRange=813:817
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=818:821
+3	close	close	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=822:827
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=828:832
+5	browser	browser	NOUN	NN	Number=Sing	3	obj	_	SpaceAfter=No|TokenRange=833:840
+6	,	,	PUNCT	,	_	9	punct	_	TokenRange=840:841
+7	the	the	DET	DT	Definite=Def|PronType=Art	9	det	_	TokenRange=842:845
+8	cookie	cookie	NOUN	NN	Number=Sing	9	compound	_	TokenRange=846:852
+9	disappears	disappear	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=853:863
+10	.	.	PUNCT	.	_	9	punct	_	TokenRange=863:864
+
+# sent_id = 11
+# text = Persistent cookies are stored on your computer for longer periods.
+1	Persistent	persistent	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=865:875
+2	cookies	cookie	NOUN	NNS	Number=Plur	4	nsubj:pass	_	TokenRange=876:883
+3	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux:pass	_	TokenRange=884:887
+4	stored	store	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=888:894
+5	on	on	ADP	IN	_	7	case	_	TokenRange=895:897
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=898:902
+7	computer	computer	NOUN	NN	Number=Sing	4	obl	_	TokenRange=903:911
+8	for	for	ADP	IN	_	10	case	_	TokenRange=912:915
+9	longer	longer	ADJ	JJR	Degree=Cmp	10	amod	_	TokenRange=916:922
+10	periods	period	NOUN	NNS	Number=Plur	4	obl	_	SpaceAfter=No|TokenRange=923:930
+11	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n|TokenRange=930:931
+
+# sent_id = 12
+# text = Session Cookies:
+1	Session	session	NOUN	NN	Number=Sing	2	compound	_	TokenRange=932:939
+2	Cookies	cookie	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=940:947
+3	:	:	PUNCT	:	_	2	punct	_	TokenRange=947:948
+
+# sent_id = 13
+# text = We use session cookies for technical purposes such as to allow better navigation through our site.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=949:951
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=952:955
+3	session	session	NOUN	NN	Number=Sing	4	compound	_	TokenRange=956:963
+4	cookies	cookie	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=964:971
+5	for	for	ADP	IN	_	7	case	_	TokenRange=972:975
+6	technical	technical	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=976:985
+7	purposes	purpose	NOUN	NNS	Number=Plur	2	obl	_	TokenRange=986:994
+8	such	such	ADJ	JJ	Degree=Pos	11	mark	_	TokenRange=995:999
+9	as	as	SCONJ	IN	_	8	fixed	_	TokenRange=1000:1002
+10	to	to	PART	TO	_	8	fixed	_	TokenRange=1003:1005
+11	allow	allow	VERB	VB	VerbForm=Inf	7	acl	_	TokenRange=1006:1011
+12	better	better	ADJ	JJR	Degree=Cmp	13	amod	_	TokenRange=1012:1018
+13	navigation	navigation	NOUN	NN	Number=Sing	11	obj	_	TokenRange=1019:1029
+14	through	through	ADP	IN	_	16	case	_	TokenRange=1030:1037
+15	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=1038:1041
+16	site	site	NOUN	NN	Number=Sing	11	obl	_	SpaceAfter=No|TokenRange=1042:1046
+17	.	.	PUNCT	.	_	2	punct	_	TokenRange=1046:1047
+
+# sent_id = 14
+# text = These cookies let our server know that you are continuing a visit to our site.
+1	These	these	DET	DT	Number=Plur|PronType=Dem	2	det	_	TokenRange=1048:1053
+2	cookies	cookie	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=1054:1061
+3	let	let	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=1062:1065
+4	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=1066:1069
+5	server	server	NOUN	NN	Number=Sing	3	obj	_	TokenRange=1070:1076
+6	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	xcomp	_	TokenRange=1077:1081
+7	that	that	SCONJ	IN	_	10	mark	_	TokenRange=1082:1086
+8	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	10	nsubj	_	TokenRange=1087:1090
+9	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	aux	_	TokenRange=1091:1094
+10	continuing	continue	VERB	VBG	Tense=Pres|VerbForm=Part	6	ccomp	_	TokenRange=1095:1105
+11	a	a	DET	DT	Definite=Ind|PronType=Art	12	det	_	TokenRange=1106:1107
+12	visit	visit	NOUN	NN	Number=Sing	10	obj	_	TokenRange=1108:1113
+13	to	to	ADP	IN	_	15	case	_	TokenRange=1114:1116
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=1117:1120
+15	site	site	NOUN	NN	Number=Sing	10	obl	_	SpaceAfter=No|TokenRange=1121:1125
+16	.	.	PUNCT	.	_	3	punct	_	TokenRange=1125:1126
+
+# sent_id = 15
+# text = The OMB Memo 10-22 Guidance defines our use of session cookies as "Usage Tier 1: Single Session.”
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=1127:1130
+2	OMB	OMB	PROPN	NNP	Number=Sing	8	nsubj	_	TokenRange=1131:1134
+3	Memo	memo	PROPN	NNP	Number=Sing	2	flat	_	TokenRange=1135:1139
+4	10	10	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=1140:1142
+5	-	-	SYM	SYM	_	6	case	_	SpaceAfter=No|TokenRange=1142:1143
+6	22	22	NUM	CD	NumType=Card	4	nmod	_	TokenRange=1143:1145
+7	Guidance	guidance	NOUN	NN	Number=Sing	2	list	_	TokenRange=1146:1154
+8	defines	define	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1155:1162
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=1163:1166
+10	use	use	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1167:1170
+11	of	of	ADP	IN	_	13	case	_	TokenRange=1171:1173
+12	session	session	NOUN	NN	Number=Sing	13	compound	_	TokenRange=1174:1181
+13	cookies	cookie	NOUN	NNS	Number=Plur	10	nmod	_	TokenRange=1182:1189
+14	as	as	ADP	IN	_	17	case	_	TokenRange=1190:1192
+15	"	"	PUNCT	``	_	17	punct	_	SpaceAfter=No|TokenRange=1193:1194
+16	Usage	usage	NOUN	NN	Number=Sing	17	compound	_	TokenRange=1194:1199
+17	Tier	Tier	NOUN	NN	Number=Sing	8	obl	_	TokenRange=1200:1204
+18	1	1	NUM	CD	NumType=Card	17	nummod	_	SpaceAfter=No|TokenRange=1205:1206
+19	:	:	PUNCT	:	_	17	punct	_	TokenRange=1206:1207
+20	Single	single	ADJ	JJ	Degree=Pos	21	amod	_	TokenRange=1208:1214
+21	Session	session	NOUN	NN	Number=Sing	17	appos	_	SpaceAfter=No|TokenRange=1215:1222
+22	.	.	PUNCT	.	_	8	punct	_	SpaceAfter=No|TokenRange=1222:1223
+23	”	"	PUNCT	''	_	8	punct	_	TokenRange=1223:1224
+
+# sent_id = 16
+# text = The policy says, "This tier encompasses any use of single session web measurement and customization technologies."
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=1225:1228
+2	policy	policy	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=1229:1235
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1236:1240
+4	,	,	PUNCT	,	_	3	punct	_	TokenRange=1240:1241
+5	"	"	PUNCT	``	_	3	punct	_	SpaceAfter=No|TokenRange=1242:1243
+6	This	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	TokenRange=1243:1247
+7	tier	tier	NOUN	NN	Number=Sing	8	nsubj	_	TokenRange=1248:1252
+8	encompasses	encompass	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=1253:1264
+9	any	any	DET	DT	_	10	det	_	TokenRange=1265:1268
+10	use	use	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1269:1272
+11	of	of	ADP	IN	_	15	case	_	TokenRange=1273:1275
+12	single	single	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=1276:1282
+13	session	session	NOUN	NN	Number=Sing	15	compound	_	TokenRange=1283:1290
+14	web	web	NOUN	NN	Number=Sing	15	compound	_	TokenRange=1291:1294
+15	measurement	measurement	NOUN	NN	Number=Sing	10	nmod	_	TokenRange=1295:1306
+16	and	and	CCONJ	CC	_	18	cc	_	TokenRange=1307:1310
+17	customization	customization	NOUN	NN	Number=Sing	18	compound	_	TokenRange=1311:1324
+18	technologies	technology	NOUN	NNS	Number=Plur	15	conj	_	SpaceAfter=No|TokenRange=1325:1337
+19	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No|TokenRange=1337:1338
+20	"	"	PUNCT	''	_	3	punct	_	SpacesAfter=\n|TokenRange=1338:1339
+
+# sent_id = 17
+# text = Persistent Cookies:
+1	Persistent	persistent	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=1340:1350
+2	Cookies	cookie	NOUN	NNS	Number=Plur	0	root	_	SpaceAfter=No|TokenRange=1351:1358
+3	:	:	PUNCT	:	_	2	punct	_	TokenRange=1358:1359
+
+# sent_id = 18
+# text = We use persistent cookies to understand the differences between new and returning CMS website visitors.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=1360:1362
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1363:1366
+3	persistent	persistent	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=1367:1377
+4	cookies	cookie	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=1378:1385
+5	to	to	PART	TO	_	6	mark	_	TokenRange=1386:1388
+6	understand	understand	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=1389:1399
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=1400:1403
+8	differences	difference	NOUN	NNS	Number=Plur	6	obj	_	TokenRange=1404:1415
+9	between	between	ADP	IN	_	15	case	_	TokenRange=1416:1423
+10	new	new	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=1424:1427
+11	and	and	CCONJ	CC	_	12	cc	_	TokenRange=1428:1431
+12	returning	return	VERB	VBG	VerbForm=Ger	10	conj	_	TokenRange=1432:1441
+13	CMS	CMS	ADJ	JJ	Degree=Pos	15	amod	_	TokenRange=1442:1445
+14	website	website	NOUN	NN	Number=Sing	15	compound	_	TokenRange=1446:1453
+15	visitors	visitor	NOUN	NNS	Number=Plur	8	nmod	_	SpaceAfter=No|TokenRange=1454:1462
+16	.	.	PUNCT	.	_	2	punct	_	TokenRange=1462:1463
+
+# sent_id = 19
+# text = Persistent cookies remain on your computer between visits to our site until they expire.
+1	Persistent	persistent	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=1464:1474
+2	cookies	cookie	NOUN	NNS	Number=Plur	3	nsubj	_	TokenRange=1475:1482
+3	remain	remain	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1483:1489
+4	on	on	ADP	IN	_	6	case	_	TokenRange=1490:1492
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=1493:1497
+6	computer	computer	NOUN	NN	Number=Sing	3	obl	_	TokenRange=1498:1506
+7	between	between	ADP	IN	_	8	case	_	TokenRange=1507:1514
+8	visits	visit	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=1515:1521
+9	to	to	ADP	IN	_	11	case	_	TokenRange=1522:1524
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	11	nmod:poss	_	TokenRange=1525:1528
+11	site	site	NOUN	NN	Number=Sing	8	nmod	_	TokenRange=1529:1533
+12	until	until	SCONJ	IN	_	14	mark	_	TokenRange=1534:1539
+13	they	they	PRON	PRP	Case=Nom|Number=Plur|Person=3|PronType=Prs	14	nsubj	_	TokenRange=1540:1544
+14	expire	expire	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	advcl	_	SpaceAfter=No|TokenRange=1545:1551
+15	.	.	PUNCT	.	_	3	punct	_	TokenRange=1551:1552
+
+# sent_id = 20
+# text = The OMB Memo 10-22 Guidance defines our use of persistent cookies as "Usage Tier 2â€”Multi-session without Personally Identifiable Information (PII).â€
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=1553:1556
+2	OMB	OMB	PROPN	NNP	Number=Sing	0	root	_	TokenRange=1557:1560
+3	Memo	memo	PROPN	NNP	Number=Sing	2	flat	_	TokenRange=1561:1565
+4	10	10	NUM	CD	NumType=Card	7	nummod	_	SpaceAfter=No|TokenRange=1566:1568
+5	-	-	SYM	SYM	_	6	case	_	SpaceAfter=No|TokenRange=1568:1569
+6	22	22	NUM	CD	NumType=Card	4	nmod	_	TokenRange=1569:1571
+7	Guidance	guidance	NOUN	NN	Number=Sing	2	list	_	TokenRange=1572:1580
+8	defines	define	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	compound	_	TokenRange=1581:1588
+9	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=1589:1592
+10	use	use	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1593:1596
+11	of	of	ADP	IN	_	13	case	_	TokenRange=1597:1599
+12	persistent	persistent	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=1600:1610
+13	cookies	cookie	NOUN	NNS	Number=Plur	10	nmod	_	TokenRange=1611:1618
+14	as	as	ADP	IN	_	18	case	_	TokenRange=1619:1621
+15	"	"	PUNCT	``	_	18	punct	_	SpaceAfter=No|TokenRange=1622:1623
+16	Usage	usage	NOUN	NN	Number=Sing	17	compound	_	TokenRange=1623:1628
+17	Tier	Tier	NOUN	NN	Number=Sing	18	compound	_	TokenRange=1629:1633
+18	2â€	2â€	NOUN	NN	Number=Sing	20	obl	_	SpaceAfter=No|TokenRange=1634:1637
+19	”	"	PUNCT	''	_	18	punct	_	SpaceAfter=No|TokenRange=1637:1638
+20	Multi-session	Multi-session	NOUN	NN	Number=Sing	28	compound	_	TokenRange=1638:1651
+21	without	without	ADP	IN	_	24	case	_	TokenRange=1652:1659
+22	Personally	personally	ADV	RB	_	23	advmod	_	TokenRange=1660:1670
+23	Identifiable	Identifiable	ADJ	JJ	Degree=Pos	24	amod	_	TokenRange=1671:1683
+24	Information	information	NOUN	NN	Number=Sing	20	nmod	_	TokenRange=1684:1695
+25	(	(	PUNCT	-LRB-	_	26	punct	_	SpaceAfter=No|TokenRange=1696:1697
+26	PII	Pii	NUM	CD	NumType=Card	24	appos	_	SpaceAfter=No|TokenRange=1697:1700
+27	)	)	PUNCT	-RRB-	_	26	punct	_	SpaceAfter=No|TokenRange=1700:1701
+28	.â€	.â€	NOUN	NN	Number=Sing	7	appos	_	TokenRange=1701:1704
+
+# sent_id = 21
+# text = The policy says, "This tier encompasses any use of multi-session Web measurement and customization technologies when no PII is collected."
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=1705:1708
+2	policy	policy	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=1709:1715
+3	says	say	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=1716:1720
+4	,	,	PUNCT	,	_	3	punct	_	TokenRange=1720:1721
+5	"	"	PUNCT	``	_	3	punct	_	SpaceAfter=No|TokenRange=1722:1723
+6	This	this	DET	DT	Number=Sing|PronType=Dem	7	det	_	TokenRange=1723:1727
+7	tier	tier	NOUN	NN	Number=Sing	8	nsubj	_	TokenRange=1728:1732
+8	encompasses	encompass	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	3	ccomp	_	TokenRange=1733:1744
+9	any	any	DET	DT	_	10	det	_	TokenRange=1745:1748
+10	use	use	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1749:1752
+11	of	of	ADP	IN	_	14	case	_	TokenRange=1753:1755
+12	multi-session	multi-session	ADJ	JJ	Degree=Pos	14	amod	_	TokenRange=1756:1769
+13	Web	web	NOUN	NN	Number=Sing	14	compound	_	TokenRange=1770:1773
+14	measurement	measurement	NOUN	NN	Number=Sing	10	nmod	_	TokenRange=1774:1785
+15	and	and	CCONJ	CC	_	17	cc	_	TokenRange=1786:1789
+16	customization	customization	NOUN	NN	Number=Sing	17	compound	_	TokenRange=1790:1803
+17	technologies	technology	NOUN	NNS	Number=Plur	14	conj	_	TokenRange=1804:1816
+18	when	when	ADV	WRB	PronType=Int	22	mark	_	TokenRange=1817:1821
+19	no	no	DET	DT	_	20	det	_	TokenRange=1822:1824
+20	PII	pIi	NOUN	NN	Number=Sing	22	nsubj:pass	_	TokenRange=1825:1828
+21	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	22	aux:pass	_	TokenRange=1829:1831
+22	collected	collect	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	8	advcl	_	SpaceAfter=No|TokenRange=1832:1841
+23	.	.	PUNCT	.	_	3	punct	_	SpaceAfter=No|TokenRange=1841:1842
+24	"	"	PUNCT	''	_	3	punct	_	SpacesAfter=\n\n|TokenRange=1842:1843
+

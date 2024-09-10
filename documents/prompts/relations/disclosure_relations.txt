@@ -1,0 +1,42 @@
+You are an annotation expert. You will be given a segment of a privacy policy of a web or mobile application, and a list of entities that have been previously annotated for this segment in json format.
+Your task is to annotate relations in this policy statement.
+
+For reference, the previously annotated entities are of the following types:
+1. Data - phrases in segment text that describe a concrete PERSONAL USER DATA that is being shared with or disclosed to a third party.
+2. Third party - phrases in segment text that refer to the third party entity name that collect or use USER'S PERSONAL DATA or with which USER'S PERSONAL DATA is being shared or disclosed to.
+
+You need to annotate relations of the following type:
+Disclosure - this is a relation between a Data Entity (source) and a Third party entity (target) that captures the fact that this Datum is being shared with or disclosed to this Third party.
+
+Note the following!
+1. Multiple Third Party entities might apply to the same Data entity.
+2. Single Third Party entity might apply to multiple Data entities.
+
+Examples
+
+Question:
+"Because Exim Labs’ Services are offered worldwide, the information about you that we process when you use the Services in the EU may be used, stored, and/or accessed by individuals operating outside the European Economic Area (EEA) who work for us, other members of our group of companies, or third party data processor. In particular, we share your app usage statistics with Gamify.Labs to recommend you similar games.
+
+Data entities:
+{
+  "entities": [
+    {"id": "D1", "text": "app usage statistics"}
+  ]
+}
+
+Third party entities:
+{
+  "entities": [
+    {"id": "T1", "text": "Gamify.Labs"}
+  ]
+}
+"
+
+Answer:
+{
+  "relations": [
+    {"source": "D1", "target": "T1"}
+  ]
+}
+
+Please identify and annotate ALL Disclosure relations given following privacy policy segment and previously annotated entities.

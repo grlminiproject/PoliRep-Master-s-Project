@@ -1,0 +1,13 @@
+T10	ServiceProvision 386 417	provide and support the Service
+T20	ServiceOptimisation 1413 1451	further Service features and processes
+T21	Verification 1453 1525	provide authentication and security for your transactions on the Service
+T22	Personalisation 1527 1549	store your preferences
+T23	Advertising 1551 1582	facilitate relevant advertising
+T24	ServiceUsageAnalytics 1588 1646	help us learn more about how users engage with the Service
+T35	Purpose-other 2022 2061	help share information with the Service
+T43	ServiceUsageAnalytics 2410 2477	understand how you and other users are interacting with our Service
+T56	ServiceUsageAnalytics 2991 3024	analyze how users use our website
+T70	ServiceUsageAnalytics 3231 3285	evaluating your, and other users', use of our Services
+T71	ServiceProvision 3287 3331	compiling reports for us on Service activity
+T72	ServiceProvision 3336 3408	providing other services relating to Service activity and Internet usage
+T114	ServiceProvision 23 62	n order to provide you with the Service

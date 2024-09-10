@@ -1,0 +1,6 @@
+T1	first-party-collection-use 122 129	provide
+E1	first-party-collection-use:T1 Condition-Argument:T5 Data-Provider:T2 Data-Collected:T3 Data-Collected2:T4
+T2	User 108 112	user
+T3	Data-contact 130 143	email address
+T4	Data-contact 153 172	contact information
+T5	Condition 66 102	submitting a complaint or suggestion

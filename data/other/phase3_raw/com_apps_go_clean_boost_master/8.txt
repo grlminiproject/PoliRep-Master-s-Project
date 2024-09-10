@@ -1,0 +1,4 @@
+(4) Location information
+
+When you use Weather features or services, we may collect and process information about your actual location. We use various technologies to determine location, including IP address, GPS. The collection and use of location information is for weather report and if you refuse to or stop providing it, or we can’t provide any weather information at all. For more details on location information, you can also find out in the following section of “Permissions on your device”.
+

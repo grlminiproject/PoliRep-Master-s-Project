@@ -1,0 +1,355 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 8.
+1	8	8	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = Risks and how we keep your personal information secure
+1	Risks	risks	NOUN	NNS	Number=Plur	0	root	_	TokenRange=3:8
+2	and	and	CCONJ	CC	_	5	cc	_	TokenRange=9:12
+3	how	how	ADV	WRB	PronType=Int	5	advmod	_	TokenRange=13:16
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=17:19
+5	keep	keep	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	_	TokenRange=20:24
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=25:29
+7	personal	personal	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=30:38
+8	information	information	NOUN	NN	Number=Sing	9	compound	_	TokenRange=39:50
+9	secure	secure	NOUN	NN	Number=Sing	5	obj	_	SpacesAfter=\n\n|TokenRange=51:57
+
+# newpar
+# sent_id = 3
+# text = 8.1
+1	8.1	8.1	NUM	CD	NumType=Card	0	root	_	TokenRange=59:62
+
+# sent_id = 4
+# text = The main risk of our processing of your personal information is if it is lost, stolen or misused.
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=63:66
+2	main	main	ADJ	JJ	Degree=Pos	3	amod	_	TokenRange=67:71
+3	risk	risk	NOUN	NN	Number=Sing	11	nsubj	_	TokenRange=72:76
+4	of	of	ADP	IN	_	6	case	_	TokenRange=77:79
+5	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=80:83
+6	processing	processing	NOUN	NN	Number=Sing	3	nmod	_	TokenRange=84:94
+7	of	of	ADP	IN	_	10	case	_	TokenRange=95:97
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	10	nmod:poss	_	TokenRange=98:102
+9	personal	personal	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=103:111
+10	information	information	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=112:123
+11	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=124:126
+12	if	if	SCONJ	IN	_	15	mark	_	TokenRange=127:129
+13	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	15	nsubj:pass	_	TokenRange=130:132
+14	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	15	aux:pass	_	TokenRange=133:135
+15	lost	lose	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	11	advcl	_	SpaceAfter=No|TokenRange=136:140
+16	,	,	PUNCT	,	_	17	punct	_	TokenRange=140:141
+17	stolen	steal	VERB	VBN	Tense=Past|VerbForm=Part	15	conj	_	TokenRange=142:148
+18	or	or	CCONJ	CC	_	19	cc	_	TokenRange=149:151
+19	misused	misuse	VERB	VBN	Tense=Past|VerbForm=Part	15	conj	_	SpaceAfter=No|TokenRange=152:159
+20	.	.	PUNCT	.	_	11	punct	_	TokenRange=159:160
+
+# sent_id = 5
+# text = This could lead to your personal information being in the hands of someone else who may use it fraudulently or make public, information that you would prefer to keep private.
+1	This	this	PRON	DT	Number=Sing|PronType=Dem	3	nsubj	_	TokenRange=161:165
+2	could	could	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=166:171
+3	lead	lead	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=172:176
+4	to	to	ADP	IN	_	7	case	_	TokenRange=177:179
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=180:184
+6	personal	personal	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=185:193
+7	information	information	NOUN	NN	Number=Sing	3	obl	_	TokenRange=194:205
+8	being	be	AUX	VBG	VerbForm=Ger	11	cop	_	TokenRange=206:211
+9	in	in	ADP	IN	_	11	case	_	TokenRange=212:214
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=215:218
+11	hands	hand	NOUN	NNS	Number=Plur	3	obl	_	TokenRange=219:224
+12	of	of	ADP	IN	_	13	case	_	TokenRange=225:227
+13	someone	someone	PRON	NN	Number=Sing	11	nmod	_	TokenRange=228:235
+14	else	else	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=236:240
+15	who	who	PRON	WP	PronType=Rel	17	nsubj	_	TokenRange=241:244
+16	may	may	AUX	MD	VerbForm=Fin	17	aux	_	TokenRange=245:248
+17	use	use	VERB	VB	VerbForm=Inf	13	acl:relcl	_	TokenRange=249:252
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	TokenRange=253:255
+19	fraudulently	fraudulently	ADV	RB	_	17	advmod	_	TokenRange=256:268
+20	or	or	CCONJ	CC	_	21	cc	_	TokenRange=269:271
+21	make	make	VERB	VB	VerbForm=Inf	17	conj	_	TokenRange=272:276
+22	public	public	ADJ	JJ	Degree=Pos	21	xcomp	_	SpaceAfter=No|TokenRange=277:283
+23	,	,	PUNCT	,	_	11	punct	_	TokenRange=283:284
+24	information	information	NOUN	NN	Number=Sing	11	appos	_	TokenRange=285:296
+25	that	that	PRON	WDT	PronType=Rel	28	obj	_	TokenRange=297:301
+26	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	28	nsubj	_	TokenRange=302:305
+27	would	would	AUX	MD	VerbForm=Fin	28	aux	_	TokenRange=306:311
+28	prefer	prefer	VERB	VB	VerbForm=Inf	24	acl:relcl	_	TokenRange=312:318
+29	to	to	PART	TO	_	30	mark	_	TokenRange=319:321
+30	keep	keep	VERB	VB	VerbForm=Inf	28	xcomp	_	TokenRange=322:326
+31	private	private	ADJ	JJ	Degree=Pos	30	xcomp	_	SpaceAfter=No|TokenRange=327:334
+32	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n|TokenRange=334:335
+
+# sent_id = 6
+# text = 8.2 For this reason, we are committed to protecting your personal information from loss, theft and misuse.
+1	8.2	8.2	NUM	CD	NumType=Card	0	root	_	TokenRange=336:339
+2	For	for	ADP	IN	_	4	case	_	TokenRange=340:343
+3	this	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=344:348
+4	reason	reason	NOUN	NN	Number=Sing	1	nmod	_	SpaceAfter=No|TokenRange=349:355
+5	,	,	PUNCT	,	_	1	punct	_	TokenRange=355:356
+6	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	8	nsubj	_	TokenRange=357:359
+7	are	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	8	cop	_	TokenRange=360:363
+8	committed	committ	ADJ	JJ	Degree=Pos	1	parataxis	_	TokenRange=364:373
+9	to	to	SCONJ	IN	_	10	mark	_	TokenRange=374:376
+10	protecting	protect	VERB	VBG	VerbForm=Ger	8	advcl	_	TokenRange=377:387
+11	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	13	nmod:poss	_	TokenRange=388:392
+12	personal	personal	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=393:401
+13	information	information	NOUN	NN	Number=Sing	10	obj	_	TokenRange=402:413
+14	from	from	ADP	IN	_	15	case	_	TokenRange=414:418
+15	loss	loss	NOUN	NN	Number=Sing	10	obl	_	SpaceAfter=No|TokenRange=419:423
+16	,	,	PUNCT	,	_	17	punct	_	TokenRange=423:424
+17	theft	theft	NOUN	NN	Number=Sing	15	conj	_	TokenRange=425:430
+18	and	and	CCONJ	CC	_	19	cc	_	TokenRange=431:434
+19	misuse	misuse	NOUN	NN	Number=Sing	15	conj	_	SpaceAfter=No|TokenRange=435:441
+20	.	.	PUNCT	.	_	1	punct	_	TokenRange=441:442
+
+# sent_id = 7
+# text = We take reasonable precautions to safeguard the confidentiality of your personal information, including through use of appropriate organisational and technical measures.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=443:445
+2	take	take	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=446:450
+3	reasonable	reasonable	ADJ	JJ	Degree=Pos	4	amod	_	TokenRange=451:461
+4	precautions	precaution	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=462:473
+5	to	to	PART	TO	_	6	mark	_	TokenRange=474:476
+6	safeguard	safeguard	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=477:486
+7	the	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=487:490
+8	confidentiality	confidentiality	NOUN	NN	Number=Sing	6	obj	_	TokenRange=491:506
+9	of	of	ADP	IN	_	12	case	_	TokenRange=507:509
+10	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=510:514
+11	personal	personal	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=515:523
+12	information	information	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=524:535
+13	,	,	PUNCT	,	_	2	punct	_	TokenRange=535:536
+14	including	include	VERB	VBG	VerbForm=Ger	16	case	_	TokenRange=537:546
+15	through	through	ADP	IN	_	16	case	_	TokenRange=547:554
+16	use	use	NOUN	NN	Number=Sing	2	obl	_	TokenRange=555:558
+17	of	of	ADP	IN	_	22	case	_	TokenRange=559:561
+18	appropriate	appropriate	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=562:573
+19	organisational	organisational	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=574:588
+20	and	and	CCONJ	CC	_	21	cc	_	TokenRange=589:592
+21	technical	technical	ADJ	JJ	Degree=Pos	19	conj	_	TokenRange=593:602
+22	measures	measure	NOUN	NNS	Number=Plur	16	nmod	_	SpaceAfter=No|TokenRange=603:611
+23	.	.	PUNCT	.	_	2	punct	_	TokenRange=611:612
+
+# sent_id = 8
+# text = We use industry-standard practices such as encryption, firewalls and password protection systems to safeguard the confidentiality of any personal information that we might collect from you.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=613:615
+2	use	use	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=616:619
+3	industry	industry	NOUN	NN	Number=Sing	5	compound	_	SpaceAfter=No|TokenRange=620:628
+4	-	-	PUNCT	HYPH	_	5	punct	_	SpaceAfter=No|TokenRange=628:629
+5	standard	standard	NOUN	NN	Number=Sing	6	compound	_	TokenRange=629:637
+6	practices	practice	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=638:647
+7	such	such	ADJ	JJ	Degree=Pos	15	case	_	TokenRange=648:652
+8	as	as	ADP	IN	_	7	fixed	_	TokenRange=653:655
+9	encryption	encryption	NOUN	NN	Number=Sing	15	compound	_	SpaceAfter=No|TokenRange=656:666
+10	,	,	PUNCT	,	_	11	punct	_	TokenRange=666:667
+11	firewalls	firewall	NOUN	NNS	Number=Plur	9	conj	_	TokenRange=668:677
+12	and	and	CCONJ	CC	_	14	cc	_	TokenRange=678:681
+13	password	password	NOUN	NN	Number=Sing	14	compound	_	TokenRange=682:690
+14	protection	protection	NOUN	NN	Number=Sing	9	conj	_	TokenRange=691:701
+15	systems	system	NOUN	NNS	Number=Plur	6	nmod	_	TokenRange=702:709
+16	to	to	PART	TO	_	17	mark	_	TokenRange=710:712
+17	safeguard	safeguard	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=713:722
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=723:726
+19	confidentiality	confidentiality	NOUN	NN	Number=Sing	17	obj	_	TokenRange=727:742
+20	of	of	ADP	IN	_	23	case	_	TokenRange=743:745
+21	any	any	DET	DT	_	23	det	_	TokenRange=746:749
+22	personal	personal	ADJ	JJ	Degree=Pos	23	amod	_	TokenRange=750:758
+23	information	information	NOUN	NN	Number=Sing	19	nmod	_	TokenRange=759:770
+24	that	that	PRON	WDT	PronType=Rel	27	obj	_	TokenRange=771:775
+25	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	27	nsubj	_	TokenRange=776:778
+26	might	might	AUX	MD	VerbForm=Fin	27	aux	_	TokenRange=779:784
+27	collect	collect	VERB	VB	VerbForm=Inf	23	acl:relcl	_	TokenRange=785:792
+28	from	from	ADP	IN	_	29	case	_	TokenRange=793:797
+29	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	27	obl	_	SpaceAfter=No|TokenRange=798:801
+30	.	.	PUNCT	.	_	2	punct	_	TokenRange=801:802
+
+# sent_id = 9
+# text = For example, your email address will be encrypted, which will make it extra hard for someone to discover and use them without our authorisation.
+1	For	for	ADP	IN	_	2	case	_	TokenRange=803:806
+2	example	example	NOUN	NN	Number=Sing	9	obl	_	SpaceAfter=No|TokenRange=807:814
+3	,	,	PUNCT	,	_	9	punct	_	TokenRange=814:815
+4	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	6	nmod:poss	_	TokenRange=816:820
+5	email	email	NOUN	NN	Number=Sing	6	compound	_	TokenRange=821:826
+6	address	address	NOUN	NN	Number=Sing	9	nsubj:pass	_	TokenRange=827:834
+7	will	will	AUX	MD	VerbForm=Fin	9	aux	_	TokenRange=835:839
+8	be	be	AUX	VB	VerbForm=Inf	9	aux:pass	_	TokenRange=840:842
+9	encrypted	encrypt	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	SpaceAfter=No|TokenRange=843:852
+10	,	,	PUNCT	,	_	9	punct	_	TokenRange=852:853
+11	which	which	PRON	WDT	PronType=Rel	13	nsubj	_	TokenRange=854:859
+12	will	will	AUX	MD	VerbForm=Fin	13	aux	_	TokenRange=860:864
+13	make	make	VERB	VB	VerbForm=Inf	9	acl:relcl	_	TokenRange=865:869
+14	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	13	obj	_	TokenRange=870:872
+15	extra	extra	ADJ	JJ	Degree=Pos	13	xcomp	_	TokenRange=873:878
+16	hard	hard	ADV	RB	Degree=Pos	15	advmod	_	TokenRange=879:883
+17	for	for	ADP	IN	_	20	mark	_	TokenRange=884:887
+18	someone	someone	PRON	NN	Number=Sing	20	nsubj	_	TokenRange=888:895
+19	to	to	PART	TO	_	20	mark	_	TokenRange=896:898
+20	discover	discover	VERB	VB	VerbForm=Inf	15	advcl	_	TokenRange=899:907
+21	and	and	CCONJ	CC	_	22	cc	_	TokenRange=908:911
+22	use	use	VERB	VB	VerbForm=Inf	20	conj	_	TokenRange=912:915
+23	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	22	obj	_	TokenRange=916:920
+24	without	without	ADP	IN	_	26	case	_	TokenRange=921:928
+25	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	TokenRange=929:932
+26	authorisation	authorisation	NOUN	NN	Number=Sing	22	obl	_	SpaceAfter=No|TokenRange=933:946
+27	.	.	PUNCT	.	_	9	punct	_	TokenRange=946:947
+
+# sent_id = 10
+# text = We also strive to limit access to your data to employees performing a legitimate business function which requires them to access and use your data in order to supply you with our apps.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=948:950
+2	also	also	ADV	RB	_	3	advmod	_	TokenRange=951:955
+3	strive	strive	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=956:962
+4	to	to	PART	TO	_	5	mark	_	TokenRange=963:965
+5	limit	limit	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=966:971
+6	access	access	NOUN	NN	Number=Sing	5	obj	_	TokenRange=972:978
+7	to	to	ADP	IN	_	9	case	_	TokenRange=979:981
+8	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=982:986
+9	data	data	NOUN	NN	Number=Sing	6	nmod	_	TokenRange=987:991
+10	to	to	ADP	IN	_	11	case	_	TokenRange=992:994
+11	employees	employee	NOUN	NNS	Number=Plur	5	nmod	_	TokenRange=995:1004
+12	performing	perform	VERB	VBG	VerbForm=Ger	5	advcl	_	TokenRange=1005:1015
+13	a	a	DET	DT	Definite=Ind|PronType=Art	16	det	_	TokenRange=1016:1017
+14	legitimate	legitimate	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=1018:1028
+15	business	business	NOUN	NN	Number=Sing	16	compound	_	TokenRange=1029:1037
+16	function	function	NOUN	NN	Number=Sing	12	obj	_	TokenRange=1038:1046
+17	which	which	PRON	WDT	PronType=Rel	18	nsubj	_	TokenRange=1047:1052
+18	requires	require	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	16	acl:relcl	_	TokenRange=1053:1061
+19	them	they	PRON	PRP	Case=Acc|Number=Plur|Person=3|PronType=Prs	18	obj	_	TokenRange=1062:1066
+20	to	to	PART	TO	_	21	mark	_	TokenRange=1067:1069
+21	access	access	VERB	VB	VerbForm=Inf	18	xcomp	_	TokenRange=1070:1076
+22	and	and	CCONJ	CC	_	23	cc	_	TokenRange=1077:1080
+23	use	use	VERB	VB	VerbForm=Inf	21	conj	_	TokenRange=1081:1084
+24	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	25	nmod:poss	_	TokenRange=1085:1089
+25	data	data	NOUN	NN	Number=Sing	23	obj	_	TokenRange=1090:1094
+26	in	in	ADP	IN	_	29	mark	_	TokenRange=1095:1097
+27	order	order	NOUN	NN	Number=Sing	26	fixed	_	TokenRange=1098:1103
+28	to	to	PART	TO	_	29	mark	_	TokenRange=1104:1106
+29	supply	supply	VERB	VB	VerbForm=Inf	23	advcl	_	TokenRange=1107:1113
+30	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	29	obj	_	TokenRange=1114:1117
+31	with	with	ADP	IN	_	33	case	_	TokenRange=1118:1122
+32	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	33	nmod:poss	_	TokenRange=1123:1126
+33	apps	app	NOUN	NNS	Number=Plur	29	obl	_	SpaceAfter=No|TokenRange=1127:1131
+34	.	.	PUNCT	.	_	3	punct	_	TokenRange=1131:1132
+
+# sent_id = 11
+# text = We review our security procedures periodically to consider appropriate new technology and updated methods to ensure we continue to protect your data.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=1133:1135
+2	review	review	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1136:1142
+3	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	5	nmod:poss	_	TokenRange=1143:1146
+4	security	security	NOUN	NN	Number=Sing	5	compound	_	TokenRange=1147:1155
+5	procedures	procedure	NOUN	NNS	Number=Plur	2	obj	_	TokenRange=1156:1166
+6	periodically	periodically	ADV	RB	_	2	advmod	_	TokenRange=1167:1179
+7	to	to	PART	TO	_	8	mark	_	TokenRange=1180:1182
+8	consider	consider	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=1183:1191
+9	appropriate	appropriate	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=1192:1203
+10	new	new	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=1204:1207
+11	technology	technology	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1208:1218
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=1219:1222
+13	updated	update	VERB	VBN	Tense=Past|VerbForm=Part	14	amod	_	TokenRange=1223:1230
+14	methods	methods	NOUN	NNS	Number=Plur	8	obj	_	TokenRange=1231:1238
+15	to	to	PART	TO	_	16	mark	_	TokenRange=1239:1241
+16	ensure	ensure	VERB	VB	VerbForm=Inf	14	acl	_	TokenRange=1242:1248
+17	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	18	nsubj	_	TokenRange=1249:1251
+18	continue	continue	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	16	ccomp	_	TokenRange=1252:1260
+19	to	to	PART	TO	_	20	mark	_	TokenRange=1261:1263
+20	protect	protect	VERB	VB	VerbForm=Inf	18	xcomp	_	TokenRange=1264:1271
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=1272:1276
+22	data	data	NOUN	NN	Number=Sing	20	obj	_	SpaceAfter=No|TokenRange=1277:1281
+23	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=1281:1282
+
+# sent_id = 12
+# text = 8.3 Although we make every effort to protect the personal information which you provide to us, the transmission of information over the internet is not completely secure.
+1	8.3	8.3	NUM	CD	NumType=Card	28	nummod	_	TokenRange=1283:1286
+2	Although	although	SCONJ	IN	_	4	mark	_	TokenRange=1287:1295
+3	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=1296:1298
+4	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	28	advcl	_	TokenRange=1299:1303
+5	every	every	DET	DT	_	6	det	_	TokenRange=1304:1309
+6	effort	effort	NOUN	NN	Number=Sing	4	obj	_	TokenRange=1310:1316
+7	to	to	PART	TO	_	8	mark	_	TokenRange=1317:1319
+8	protect	protect	VERB	VB	VerbForm=Inf	4	xcomp	_	TokenRange=1320:1327
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=1328:1331
+10	personal	personal	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=1332:1340
+11	information	information	NOUN	NN	Number=Sing	8	obj	_	TokenRange=1341:1352
+12	which	which	PRON	WDT	PronType=Rel	14	obj	_	TokenRange=1353:1358
+13	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	14	nsubj	_	TokenRange=1359:1362
+14	provide	provide	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	TokenRange=1363:1370
+15	to	to	ADP	IN	_	16	case	_	TokenRange=1371:1373
+16	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	14	obl	_	SpaceAfter=No|TokenRange=1374:1376
+17	,	,	PUNCT	,	_	28	punct	_	TokenRange=1376:1377
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=1378:1381
+19	transmission	transmission	NOUN	NN	Number=Sing	28	nsubj	_	TokenRange=1382:1394
+20	of	of	ADP	IN	_	21	case	_	TokenRange=1395:1397
+21	information	information	NOUN	NN	Number=Sing	19	nmod	_	TokenRange=1398:1409
+22	over	over	ADP	IN	_	24	case	_	TokenRange=1410:1414
+23	the	the	DET	DT	Definite=Def|PronType=Art	24	det	_	TokenRange=1415:1418
+24	internet	internet	NOUN	NN	Number=Sing	21	nmod	_	TokenRange=1419:1427
+25	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	aux	_	TokenRange=1428:1430
+26	not	not	PART	RB	_	28	advmod	_	TokenRange=1431:1434
+27	completely	completely	ADV	RB	_	28	advmod	_	TokenRange=1435:1445
+28	secure	secure	VERB	VB	VerbForm=Inf	0	root	_	SpaceAfter=No|TokenRange=1446:1452
+29	.	.	PUNCT	.	_	28	punct	_	TokenRange=1452:1453
+
+# sent_id = 13
+# text = As such, you acknowledge and accept that we cannot guarantee the security of your personal information transmitted to our apps or customer services function and that any such transmission is at your own risk.
+1	As	as	ADP	IN	_	2	case	_	TokenRange=1454:1456
+2	such	such	ADJ	JJ	Degree=Pos	5	obl	_	SpaceAfter=No|TokenRange=1457:1461
+3	,	,	PUNCT	,	_	5	punct	_	TokenRange=1461:1462
+4	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	nsubj	_	TokenRange=1463:1466
+5	acknowledge	acknowledge	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=1467:1478
+6	and	and	CCONJ	CC	_	7	cc	_	TokenRange=1479:1482
+7	accept	accept	VERB	VB	VerbForm=Inf	5	conj	_	TokenRange=1483:1489
+8	that	that	SCONJ	IN	_	12	mark	_	TokenRange=1490:1494
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	12	nsubj	_	TokenRange=1495:1497
+10	can	can	AUX	MD	VerbForm=Fin	12	aux	_	SpaceAfter=No|TokenRange=1498:1501
+11	not	not	PART	RB	_	12	advmod	_	TokenRange=1501:1504
+12	guarantee	guarantee	VERB	VB	VerbForm=Inf	7	ccomp	_	TokenRange=1505:1514
+13	the	the	DET	DT	Definite=Def|PronType=Art	14	det	_	TokenRange=1515:1518
+14	security	security	NOUN	NN	Number=Sing	12	obj	_	TokenRange=1519:1527
+15	of	of	ADP	IN	_	18	case	_	TokenRange=1528:1530
+16	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	18	nmod:poss	_	TokenRange=1531:1535
+17	personal	personal	ADJ	JJ	Degree=Pos	18	amod	_	TokenRange=1536:1544
+18	information	information	NOUN	NN	Number=Sing	14	nmod	_	TokenRange=1545:1556
+19	transmitted	transmit	VERB	VBN	Tense=Past|VerbForm=Part	18	acl	_	TokenRange=1557:1568
+20	to	to	ADP	IN	_	26	case	_	TokenRange=1569:1571
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	26	nmod:poss	_	TokenRange=1572:1575
+22	apps	app	NOUN	NNS	Number=Plur	26	compound	_	TokenRange=1576:1580
+23	or	or	CCONJ	CC	_	25	cc	_	TokenRange=1581:1583
+24	customer	customer	NOUN	NN	Number=Sing	25	compound	_	TokenRange=1584:1592
+25	services	service	NOUN	NNS	Number=Plur	22	conj	_	TokenRange=1593:1601
+26	function	function	NOUN	NN	Number=Sing	19	obl	_	TokenRange=1602:1610
+27	and	and	CCONJ	CC	_	32	cc	_	TokenRange=1611:1614
+28	that	that	SCONJ	IN	_	32	mark	_	TokenRange=1615:1619
+29	any	any	DET	DT	_	31	det	_	TokenRange=1620:1623
+30	such	such	ADJ	JJ	Degree=Pos	31	amod	_	TokenRange=1624:1628
+31	transmission	transmission	NOUN	NN	Number=Sing	32	nsubj	_	TokenRange=1629:1641
+32	is	be	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	12	conj	_	TokenRange=1642:1644
+33	at	at	ADP	IN	_	36	case	_	TokenRange=1645:1647
+34	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	36	nmod:poss	_	TokenRange=1648:1652
+35	own	own	ADJ	JJ	Degree=Pos	36	amod	_	TokenRange=1653:1656
+36	risk	risk	NOUN	NN	Number=Sing	32	compound	_	SpaceAfter=No|TokenRange=1657:1661
+37	.	.	PUNCT	.	_	5	punct	_	TokenRange=1661:1662
+
+# sent_id = 14
+# text = Once we have received your personal information, we will use strict procedures and security features to prevent unauthorised access to it.
+1	Once	once	SCONJ	IN	_	4	mark	_	TokenRange=1663:1667
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	4	nsubj	_	TokenRange=1668:1670
+3	have	have	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	4	aux	_	TokenRange=1671:1675
+4	received	receive	VERB	VBN	Tense=Past|VerbForm=Part	11	advcl	_	TokenRange=1676:1684
+5	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	7	nmod:poss	_	TokenRange=1685:1689
+6	personal	personal	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=1690:1698
+7	information	information	NOUN	NN	Number=Sing	4	obj	_	SpaceAfter=No|TokenRange=1699:1710
+8	,	,	PUNCT	,	_	11	punct	_	TokenRange=1710:1711
+9	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	11	nsubj	_	TokenRange=1712:1714
+10	will	will	AUX	MD	VerbForm=Fin	11	aux	_	TokenRange=1715:1719
+11	use	use	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=1720:1723
+12	strict	strict	ADJ	JJ	Degree=Pos	13	amod	_	TokenRange=1724:1730
+13	procedures	procedure	NOUN	NNS	Number=Plur	11	obj	_	TokenRange=1731:1741
+14	and	and	CCONJ	CC	_	16	cc	_	TokenRange=1742:1745
+15	security	security	NOUN	NN	Number=Sing	16	compound	_	TokenRange=1746:1754
+16	features	feature	NOUN	NNS	Number=Plur	13	conj	_	TokenRange=1755:1763
+17	to	to	PART	TO	_	18	mark	_	TokenRange=1764:1766
+18	prevent	prevent	VERB	VB	VerbForm=Inf	13	acl	_	TokenRange=1767:1774
+19	unauthorised	unauthorised	ADJ	JJ	Degree=Pos	20	amod	_	TokenRange=1775:1787
+20	access	access	NOUN	NN	Number=Sing	18	obj	_	TokenRange=1788:1794
+21	to	to	ADP	IN	_	22	case	_	TokenRange=1795:1797
+22	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	18	obl	_	SpaceAfter=No|TokenRange=1798:1800
+23	.	.	PUNCT	.	_	11	punct	_	SpacesAfter=\n\n|TokenRange=1800:1801
+

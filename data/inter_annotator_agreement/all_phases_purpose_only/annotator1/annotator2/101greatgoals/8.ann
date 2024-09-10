@@ -1,0 +1,15 @@
+T42	CommercialResearch 2089 2158	Processing such information to assist us with our business operations
+T43	PaymentManagement 2168 2202	process payments and your deposits
+T44	IdentityAuthentication 2204 2228	authenticate your access
+T45	Purpose-other 2230 2253	auditing our operations
+T46	FraudPreventionAndDetection 2255 2304	detect and prevent fraudulent or illegal activity
+T47	ResearchAndDevelopment 2313 2368	Performing research, technical diagnostics or analytics
+T48	Advertising 2397 2524	Communicating targeted advertising, as well as promotional and informational materials, in accordance with our marketing policy
+T49	LegalCompliance 2627 2661	protect our rights or legal claims
+T50	OrganisationComplianceManagement 2663 2683	enforce our policies
+T51	EnforceSecurity 2735 2778	protect your safety or the safety of others
+T52	FraudPreventionAndDetection 2794 2826	investigate or prevent any fraud
+T53	EnforceSecurity 2832 2848	security reasons
+T54	TechnicalServiceProvision 2855 2901	help us with any other related technical issue
+T57	Purpose-general 257 315	the specific purpose, as stipulated in this Privacy Policy
+T11	RecordManagement 1993 2031	Storing such information on our behalf

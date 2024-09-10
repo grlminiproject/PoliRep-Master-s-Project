@@ -1,0 +1,7 @@
+T1	First-party-entity 1660 1662	We
+T2	Condition 1660 1688	We will ask for your consent
+T3	first-party-collection-use 1696 1701	using
+E1	first-party-collection-use:T3 Purpose-Argument:T7 Data-Collected:T5 Data-Provider:T4 Condition-Argument:T2 Data-Collector:T1
+T4	User 1676 1680	your
+T5	Data-general 1707 1718	information
+T7	Other 1741 1799	any purpose other than as described in this Privacy Policy

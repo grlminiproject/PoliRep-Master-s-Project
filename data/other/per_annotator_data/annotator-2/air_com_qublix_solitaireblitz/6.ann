@@ -1,0 +1,30 @@
+T1	User 12 15	you
+T3	First-party-entity 31 37	Qublix
+T4	first-party-collection-use 104 110	record
+E2	first-party-collection-use:T4 Condition-Argument:T2 Data-Provider:T1 Purpose-Argument:T12 Purpose-Argument2:T13 Purpose-Argument3:T14 Purpose-Argument4:T15 Data-Collected:T24 Data-Collected2:T11 Data-Collected3:T10 Data-Collected4:T9 Data-Collected5:T7 Data-Collected6:T8 Data-Collected7:T6 Data-Collector:T3 Data-Collected8:T5 Purpose-Argument5:T25 Condition-Argument2:T26
+T5	Data-general 119 130	information
+T6	Data-user-online-activities-profiles 152 218	your application usage, access, session times and in-app purchases
+T7	Data-computer-device 222 243	your unique device ID
+T8	Data-computer-device 277 290	hardware type
+T9	Data-computer-device 294 330	media access control (“MAC”) address
+T10	Data-computer-device 334 377	the version of your operating system (“OS”)
+T11	Data-contact 381 399	your email address
+T12	Purpose 474 489	troubleshooting
+T13	Purpose 503 526	understand usage trends
+T14	Purpose 531 589	improve and optimize the Services and your user experience
+T15	Purpose 644 670	interest based advertising
+T16	First-party-entity 723 725	we
+T2	Condition 12 95	you use any of the Qublix games or applications on a mobile platform or on Facebook
+T17	data-storage-retention-deletion 807 813	stored
+E1	data-storage-retention-deletion:T17 Data-Retained:T21 Data-Retained2:T20 Purpose-Argument:T23 Data-Provider:T27
+T18	Data-user-online-activities-profiles 735 749	unique user ID
+T19	Purpose 753 782	track your use of our Service
+T20	Data-user-online-activities-profiles 838 857	profile information
+T21	Data-user-online-activities-profiles 789 803	unique user ID
+T22	first-party-collection-use 726 732	create
+E3	first-party-collection-use:T22 Data-Collector:T16 Data-Collected:T18 Purpose-Argument:T19
+T23	Purpose 861 899	track the Qublix games you are playing
+T24	Data-general 135 139	data
+T25	Purpose 620 634	other purposes
+T26	Condition 404 434	you have connected to Facebook
+T27	User 833 837	your

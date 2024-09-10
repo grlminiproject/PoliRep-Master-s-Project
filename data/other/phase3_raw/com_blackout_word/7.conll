@@ -1,0 +1,20 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 3.
+1	3	3	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = How and why we share your personal information with others
+1	How	how	ADV	WRB	PronType=Int	0	root	_	TokenRange=3:6
+2	and	and	CCONJ	CC	_	5	cc	_	TokenRange=7:10
+3	why	why	ADV	WRB	PronType=Int	5	advmod	_	TokenRange=11:14
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=15:17
+5	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	1	conj	_	TokenRange=18:23
+6	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	8	nmod:poss	_	TokenRange=24:28
+7	personal	personal	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=29:37
+8	information	information	NOUN	NN	Number=Sing	5	obj	_	TokenRange=38:49
+9	with	with	ADP	IN	_	10	case	_	TokenRange=50:54
+10	others	other	NOUN	NNS	Number=Plur	5	obl	_	SpacesAfter=\n\n\n|TokenRange=55:61
+

@@ -1,0 +1,53 @@
+T1	Data 196 203	cookies
+T2	Purpose 340 362	help you log in faster
+T3	Purpose 367 407	enhance your navigation through the site
+T4	Purpose 458 481	how you use the Service
+T5	Data 411 417	cookie
+T6	Purpose 588 629	track your usage of the Service over time
+T7	Data 1086 1096	clear gifs
+T8	Data 1161 1186	the online usage patterns
+T9	Data 1230 1240	clear gifs
+T10	Purpose 1283 1354	track which emails are opened and which links are clicked by recipients
+T11	Purpose 1383 1406	more accurate reporting
+T12	Purpose 1411 1437	improvement of the Service
+T13	Data 1459 1473	analytics data
+T14	Purpose 1522 1537	measure traffic
+T15	Purpose 1542 1570	usage trends for the Service
+T16	Data 1657 1672	pages you visit
+T17	Data 1674 1710	your use of third party applications
+T18	Data 1716 1733	other information
+T19	Purpose 1753 1788	analyzing and improving the Service
+T20	Data 1888 1959	unique identification numbers associated with your device ("Device ID")
+T21	Data 1961 1975	mobile carrier
+T22	Data 1977 2005	device type and manufacturer
+T23	Data 2007 2019	phone number
+T24	Data 2073 2099	geographical location data
+T25	Data 2111 2159	GPS coordinates (e.g. latitude and/or longitude)
+T26	Data 2163 2227	similar information regarding the location of your mobile device
+T27	Purpose 2362 2477	remember information so that you will not have to re-enter it during your visit or the next time you visit the site
+T28	Purpose 2483 2535	provide custom, personalized content and information
+T29	Purpose 2541 2593	provide and monitor the effectiveness of our Service
+T30	Purpose 2599 2730	monitor aggregate metrics such as total number of visitors, traffic, usage, and demographic patterns on our website and our Service
+T31	Purpose 2736 2771	diagnose or fix technology problems
+T32	Purpose 2781 2826	otherwise to plan for and enhance our service
+T33	Data 2274 2281	cookies
+T34	Data 2283 2291	log file
+T35	Data 2293 2311	device identifiers
+T36	Data 2313 2326	location data
+T37	Data 2331 2341	clear gifs
+T38	Data 2892 2909	other information
+T39	Data 492 506	pages you view
+T40	Data 512 527	links you click
+T41	Data 538 569	actions you take on the Service
+T42	Data 804 815	web request
+T43	Data 817 849	Internet Protocol ("IP") address
+T44	Data 851 863	browser type
+T45	Data 865 901	information about your mobile device
+T46	Data 903 934	referring / exit pages and URLs
+T47	Data 936 999	number of clicks and how you interact with links on the Service
+T48	Data 1001 1013	domain names
+T49	Data 1015 1028	landing pages
+T50	Data 1030 1042	pages viewed
+T51	Data 1048 1070	other such information
+T52	Data 1112 1123	web beacons
+T53	Data 769 790	anonymous information

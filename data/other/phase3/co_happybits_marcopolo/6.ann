@@ -1,0 +1,15 @@
+T1	Data 218 243	computer or mobile device
+T2	Data 249 282	how you interact with the Service
+T3	Data 343 364	operating system type
+T4	Data 367 393	browser type and‎ language
+T5	Data 400 416	pages you viewed
+T6	Data 419 447	how long you spent on a page
+T7	Data 450 462	access times
+T8	Data 465 495	Internet protocol (IP) address
+T9	Data 502 518	mobile device ID
+T10	Data 520 547	mobile device serial number
+T11	Data 549 563	unique user ID
+T12	Data 565 581	wireless carrier
+T13	Data 587 643	information about your use of and actions on the Service
+T14	Data 681 695	technical data
+T15	Purpose 699 811	analyze usage trends and give us more information about how people use the Service to better the user experience

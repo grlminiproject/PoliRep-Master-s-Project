@@ -1,0 +1,1747 @@
+{
+  "text": "Types of information we collect\n\nWhen you browse through any website, certain information about your visit can be collected. We automatically collect and temporarily store the following types of information about your visit:\nDomain from which you access the Internet\nIP address (an IP or internet protocol address is a number that is automatically given to a computer connected to the Web)\nOperating system on your computer and information about the browser you used when visiting the site\nDate and time of your visit\nPages you visited\nAddress of the website that connected you to a CMS website (such as google.com or bing.com)\nWe use this information to measure the number of visitors to our site and its various sections and to help make our site more useful to visitors.\n\n",
+  "words": [
+    "Types",
+    "of",
+    "information",
+    "we",
+    "collect",
+    "When",
+    "you",
+    "browse",
+    "through",
+    "any",
+    "website",
+    ",",
+    "certain",
+    "information",
+    "about",
+    "your",
+    "visit",
+    "can",
+    "be",
+    "collected",
+    ".",
+    "We",
+    "automatically",
+    "collect",
+    "and",
+    "temporarily",
+    "store",
+    "the",
+    "following",
+    "types",
+    "of",
+    "information",
+    "about",
+    "your",
+    "visit",
+    ":",
+    "Domain",
+    "from",
+    "which",
+    "you",
+    "access",
+    "the",
+    "Internet",
+    "IP",
+    "address",
+    "(",
+    "an",
+    "IP",
+    "or",
+    "internet",
+    "protocol",
+    "address",
+    "is",
+    "a",
+    "number",
+    "that",
+    "is",
+    "automatically",
+    "given",
+    "to",
+    "a",
+    "computer",
+    "connected",
+    "to",
+    "the",
+    "Web",
+    ")",
+    "Operating",
+    "system",
+    "on",
+    "your",
+    "computer",
+    "and",
+    "information",
+    "about",
+    "the",
+    "browser",
+    "you",
+    "used",
+    "when",
+    "visiting",
+    "the",
+    "site",
+    "Date",
+    "and",
+    "time",
+    "of",
+    "your",
+    "visit",
+    "Pages",
+    "you",
+    "visited",
+    "Address",
+    "of",
+    "the",
+    "website",
+    "that",
+    "connected",
+    "you",
+    "to",
+    "a",
+    "CMS",
+    "website",
+    "(",
+    "such",
+    "as",
+    "google.com",
+    "or",
+    "bing.com",
+    ")",
+    "We",
+    "use",
+    "this",
+    "information",
+    "to",
+    "measure",
+    "the",
+    "number",
+    "of",
+    "visitors",
+    "to",
+    "our",
+    "site",
+    "and",
+    "its",
+    "various",
+    "sections",
+    "and",
+    "to",
+    "help",
+    "make",
+    "our",
+    "site",
+    "more",
+    "useful",
+    "to",
+    "visitors",
+    "."
+  ],
+  "lemma": [
+    "type",
+    "of",
+    "information",
+    "we",
+    "collect",
+    "when",
+    "you",
+    "browse",
+    "through",
+    "any",
+    "website",
+    ",",
+    "certain",
+    "information",
+    "about",
+    "you",
+    "visit",
+    "can",
+    "be",
+    "collect",
+    ".",
+    "we",
+    "automatically",
+    "collect",
+    "and",
+    "temporarily",
+    "store",
+    "the",
+    "follow",
+    "type",
+    "of",
+    "information",
+    "about",
+    "you",
+    "visit",
+    ":",
+    "domain",
+    "from",
+    "which",
+    "you",
+    "access",
+    "the",
+    "internet",
+    "ip",
+    "address",
+    "(",
+    "a",
+    "ip",
+    "or",
+    "internet",
+    "protocol",
+    "address",
+    "be",
+    "a",
+    "number",
+    "that",
+    "be",
+    "automatically",
+    "give",
+    "to",
+    "a",
+    "computer",
+    "connect",
+    "to",
+    "the",
+    "web",
+    ")",
+    "operate",
+    "system",
+    "on",
+    "you",
+    "computer",
+    "and",
+    "information",
+    "about",
+    "the",
+    "browser",
+    "you",
+    "use",
+    "when",
+    "visit",
+    "the",
+    "site",
+    "date",
+    "and",
+    "time",
+    "of",
+    "you",
+    "visit",
+    "page",
+    "you",
+    "visit",
+    "address",
+    "of",
+    "the",
+    "website",
+    "that",
+    "connect",
+    "you",
+    "to",
+    "a",
+    "CMS",
+    "website",
+    "(",
+    "such",
+    "as",
+    "google.com",
+    "or",
+    "bing.com",
+    ")",
+    "we",
+    "use",
+    "this",
+    "information",
+    "to",
+    "measure",
+    "the",
+    "number",
+    "of",
+    "visitor",
+    "to",
+    "we",
+    "site",
+    "and",
+    "its",
+    "various",
+    "section",
+    "and",
+    "to",
+    "help",
+    "make",
+    "we",
+    "site",
+    "more",
+    "useful",
+    "to",
+    "visitor",
+    "."
+  ],
+  "pos-tags": [
+    "NNS",
+    "IN",
+    "NN",
+    "PRP",
+    "VBP",
+    "WRB",
+    "PRP",
+    "VBP",
+    "IN",
+    "DT",
+    "NN",
+    ",",
+    "JJ",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "MD",
+    "VB",
+    "VBN",
+    ".",
+    "PRP",
+    "RB",
+    "VBP",
+    "CC",
+    "RB",
+    "NN",
+    "DT",
+    "VBG",
+    "NNS",
+    "IN",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    ":",
+    "NN",
+    "IN",
+    "WDT",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    "NN",
+    "NN",
+    "-LRB-",
+    "DT",
+    "NN",
+    "CC",
+    "NN",
+    "NN",
+    "NN",
+    "VBZ",
+    "DT",
+    "NN",
+    "WDT",
+    "VBZ",
+    "RB",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "-RRB-",
+    "VBG",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "DT",
+    "NN",
+    "PRP",
+    "VBD",
+    "WRB",
+    "VBG",
+    "DT",
+    "NN",
+    "NN",
+    "CC",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "NNS",
+    "PRP",
+    "VBD",
+    "NNP",
+    "IN",
+    "DT",
+    "NN",
+    "WDT",
+    "VBD",
+    "PRP",
+    "IN",
+    "DT",
+    "NN",
+    "NN",
+    "-LRB-",
+    "JJ",
+    "IN",
+    "ADD",
+    "CC",
+    "ADD",
+    "-RRB-",
+    "PRP",
+    "VBP",
+    "DT",
+    "NN",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    "IN",
+    "NNS",
+    "IN",
+    "PRP$",
+    "NN",
+    "CC",
+    "PRP$",
+    "JJ",
+    "NNS",
+    "CC",
+    "TO",
+    "VB",
+    "VB",
+    "PRP$",
+    "NN",
+    "RBR",
+    "JJ",
+    "IN",
+    "NNS",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "case",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "nsubj",
+    "advcl",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "amod",
+    "nsubj:pass",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "aux",
+    "aux:pass",
+    "root",
+    "punct",
+    "nsubj",
+    "advmod",
+    "root",
+    "cc",
+    "advmod",
+    "conj",
+    "det",
+    "amod",
+    "obj",
+    "case",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "punct",
+    "appos",
+    "case",
+    "obl",
+    "nsubj",
+    "acl:relcl",
+    "det",
+    "compound",
+    "compound",
+    "obj",
+    "punct",
+    "det",
+    "nsubj",
+    "cc",
+    "compound",
+    "compound",
+    "conj",
+    "cop",
+    "det",
+    "parataxis",
+    "nsubj:pass",
+    "aux:pass",
+    "advmod",
+    "acl:relcl",
+    "case",
+    "det",
+    "obl",
+    "acl",
+    "case",
+    "det",
+    "obl",
+    "punct",
+    "amod",
+    "root",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "conj",
+    "case",
+    "det",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "mark",
+    "advcl",
+    "det",
+    "compound",
+    "obj",
+    "cc",
+    "conj",
+    "case",
+    "nmod:poss",
+    "compound",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "obj",
+    "case",
+    "det",
+    "nmod",
+    "nsubj",
+    "acl:relcl",
+    "obj",
+    "case",
+    "det",
+    "compound",
+    "obl",
+    "punct",
+    "case",
+    "fixed",
+    "nmod",
+    "cc",
+    "conj",
+    "punct",
+    "nsubj",
+    "root",
+    "det",
+    "obj",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "case",
+    "nmod",
+    "case",
+    "nmod:poss",
+    "nmod",
+    "cc",
+    "nmod:poss",
+    "amod",
+    "conj",
+    "cc",
+    "mark",
+    "conj",
+    "xcomp",
+    "nmod:poss",
+    "obj",
+    "advmod",
+    "xcomp",
+    "case",
+    "obl",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      8
+    ],
+    [
+      9,
+      20
+    ],
+    [
+      21,
+      23
+    ],
+    [
+      24,
+      31
+    ],
+    [
+      33,
+      37
+    ],
+    [
+      38,
+      41
+    ],
+    [
+      42,
+      48
+    ],
+    [
+      49,
+      56
+    ],
+    [
+      57,
+      60
+    ],
+    [
+      61,
+      68
+    ],
+    [
+      68,
+      69
+    ],
+    [
+      70,
+      77
+    ],
+    [
+      78,
+      89
+    ],
+    [
+      90,
+      95
+    ],
+    [
+      96,
+      100
+    ],
+    [
+      101,
+      106
+    ],
+    [
+      107,
+      110
+    ],
+    [
+      111,
+      113
+    ],
+    [
+      114,
+      123
+    ],
+    [
+      123,
+      124
+    ],
+    [
+      125,
+      127
+    ],
+    [
+      128,
+      141
+    ],
+    [
+      142,
+      149
+    ],
+    [
+      150,
+      153
+    ],
+    [
+      154,
+      165
+    ],
+    [
+      166,
+      171
+    ],
+    [
+      172,
+      175
+    ],
+    [
+      176,
+      185
+    ],
+    [
+      186,
+      191
+    ],
+    [
+      192,
+      194
+    ],
+    [
+      195,
+      206
+    ],
+    [
+      207,
+      212
+    ],
+    [
+      213,
+      217
+    ],
+    [
+      218,
+      223
+    ],
+    [
+      223,
+      224
+    ],
+    [
+      225,
+      231
+    ],
+    [
+      232,
+      236
+    ],
+    [
+      237,
+      242
+    ],
+    [
+      243,
+      246
+    ],
+    [
+      247,
+      253
+    ],
+    [
+      254,
+      257
+    ],
+    [
+      258,
+      266
+    ],
+    [
+      267,
+      269
+    ],
+    [
+      270,
+      277
+    ],
+    [
+      278,
+      279
+    ],
+    [
+      279,
+      281
+    ],
+    [
+      282,
+      284
+    ],
+    [
+      285,
+      287
+    ],
+    [
+      288,
+      296
+    ],
+    [
+      297,
+      305
+    ],
+    [
+      306,
+      313
+    ],
+    [
+      314,
+      316
+    ],
+    [
+      317,
+      318
+    ],
+    [
+      319,
+      325
+    ],
+    [
+      326,
+      330
+    ],
+    [
+      331,
+      333
+    ],
+    [
+      334,
+      347
+    ],
+    [
+      348,
+      353
+    ],
+    [
+      354,
+      356
+    ],
+    [
+      357,
+      358
+    ],
+    [
+      359,
+      367
+    ],
+    [
+      368,
+      377
+    ],
+    [
+      378,
+      380
+    ],
+    [
+      381,
+      384
+    ],
+    [
+      385,
+      388
+    ],
+    [
+      388,
+      389
+    ],
+    [
+      390,
+      399
+    ],
+    [
+      400,
+      406
+    ],
+    [
+      407,
+      409
+    ],
+    [
+      410,
+      414
+    ],
+    [
+      415,
+      423
+    ],
+    [
+      424,
+      427
+    ],
+    [
+      428,
+      439
+    ],
+    [
+      440,
+      445
+    ],
+    [
+      446,
+      449
+    ],
+    [
+      450,
+      457
+    ],
+    [
+      458,
+      461
+    ],
+    [
+      462,
+      466
+    ],
+    [
+      467,
+      471
+    ],
+    [
+      472,
+      480
+    ],
+    [
+      481,
+      484
+    ],
+    [
+      485,
+      489
+    ],
+    [
+      490,
+      494
+    ],
+    [
+      495,
+      498
+    ],
+    [
+      499,
+      503
+    ],
+    [
+      504,
+      506
+    ],
+    [
+      507,
+      511
+    ],
+    [
+      512,
+      517
+    ],
+    [
+      518,
+      523
+    ],
+    [
+      524,
+      527
+    ],
+    [
+      528,
+      535
+    ],
+    [
+      536,
+      543
+    ],
+    [
+      544,
+      546
+    ],
+    [
+      547,
+      550
+    ],
+    [
+      551,
+      558
+    ],
+    [
+      559,
+      563
+    ],
+    [
+      564,
+      573
+    ],
+    [
+      574,
+      577
+    ],
+    [
+      578,
+      580
+    ],
+    [
+      581,
+      582
+    ],
+    [
+      583,
+      586
+    ],
+    [
+      587,
+      594
+    ],
+    [
+      595,
+      596
+    ],
+    [
+      596,
+      600
+    ],
+    [
+      601,
+      603
+    ],
+    [
+      604,
+      614
+    ],
+    [
+      615,
+      617
+    ],
+    [
+      618,
+      626
+    ],
+    [
+      626,
+      627
+    ],
+    [
+      628,
+      630
+    ],
+    [
+      631,
+      634
+    ],
+    [
+      635,
+      639
+    ],
+    [
+      640,
+      651
+    ],
+    [
+      652,
+      654
+    ],
+    [
+      655,
+      662
+    ],
+    [
+      663,
+      666
+    ],
+    [
+      667,
+      673
+    ],
+    [
+      674,
+      676
+    ],
+    [
+      677,
+      685
+    ],
+    [
+      686,
+      688
+    ],
+    [
+      689,
+      692
+    ],
+    [
+      693,
+      697
+    ],
+    [
+      698,
+      701
+    ],
+    [
+      702,
+      705
+    ],
+    [
+      706,
+      713
+    ],
+    [
+      714,
+      722
+    ],
+    [
+      723,
+      726
+    ],
+    [
+      727,
+      729
+    ],
+    [
+      730,
+      734
+    ],
+    [
+      735,
+      739
+    ],
+    [
+      740,
+      743
+    ],
+    [
+      744,
+      748
+    ],
+    [
+      749,
+      753
+    ],
+    [
+      754,
+      760
+    ],
+    [
+      761,
+      763
+    ],
+    [
+      764,
+      772
+    ],
+    [
+      772,
+      773
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      20
+    ],
+    [
+      21,
+      66
+    ],
+    [
+      67,
+      109
+    ],
+    [
+      110,
+      137
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "you browse through any website",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T1",
+      "start_idx": 38,
+      "end_idx": 68,
+      "tokens": [
+        "you",
+        "browse",
+        "through",
+        "any",
+        "website"
+      ],
+      "token_idx": [
+        6,
+        7,
+        8,
+        9,
+        10
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T2",
+      "start_idx": 38,
+      "end_idx": 41,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        6
+      ]
+    },
+    {
+      "entity/argument_text": "information about your visit",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T3",
+      "start_idx": 78,
+      "end_idx": 106,
+      "tokens": [
+        "information",
+        "about",
+        "your",
+        "visit"
+      ],
+      "token_idx": [
+        13,
+        14,
+        15,
+        16
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 125,
+      "end_idx": 127,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        21
+      ]
+    },
+    {
+      "entity/argument_text": "information about your visit",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T7",
+      "start_idx": 195,
+      "end_idx": 223,
+      "tokens": [
+        "information",
+        "about",
+        "your",
+        "visit"
+      ],
+      "token_idx": [
+        31,
+        32,
+        33,
+        34
+      ]
+    },
+    {
+      "entity/argument_text": "Domain from which you access the Internet",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T9",
+      "start_idx": 225,
+      "end_idx": 266,
+      "tokens": [
+        "Domain",
+        "from",
+        "which",
+        "you",
+        "access",
+        "the",
+        "Internet"
+      ],
+      "token_idx": [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42
+      ]
+    },
+    {
+      "entity/argument_text": "IP address",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T10",
+      "start_idx": 267,
+      "end_idx": 277,
+      "tokens": [
+        "IP",
+        "address"
+      ],
+      "token_idx": [
+        43,
+        44
+      ]
+    },
+    {
+      "entity/argument_text": "Operating system on your computer",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T11",
+      "start_idx": 390,
+      "end_idx": 423,
+      "tokens": [
+        "Operating",
+        "system",
+        "on",
+        "your",
+        "computer"
+      ],
+      "token_idx": [
+        67,
+        68,
+        69,
+        70,
+        71
+      ]
+    },
+    {
+      "entity/argument_text": "information about the browser you used",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T12",
+      "start_idx": 428,
+      "end_idx": 466,
+      "tokens": [
+        "information",
+        "about",
+        "the",
+        "browser",
+        "you",
+        "used"
+      ],
+      "token_idx": [
+        73,
+        74,
+        75,
+        76,
+        77,
+        78
+      ]
+    },
+    {
+      "entity/argument_text": "Date and time of your visit",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T13",
+      "start_idx": 490,
+      "end_idx": 517,
+      "tokens": [
+        "Date",
+        "and",
+        "time",
+        "of",
+        "your",
+        "visit"
+      ],
+      "token_idx": [
+        83,
+        84,
+        85,
+        86,
+        87,
+        88
+      ]
+    },
+    {
+      "entity/argument_text": "Pages you visited",
+      "entity/argument_type": "Data-user-online-activities-profiles",
+      "entity/argument_id": "T14",
+      "start_idx": 518,
+      "end_idx": 535,
+      "tokens": [
+        "Pages",
+        "you",
+        "visited"
+      ],
+      "token_idx": [
+        89,
+        90,
+        91
+      ]
+    },
+    {
+      "entity/argument_text": "Address of the website that connected you to a CMS website",
+      "entity/argument_type": "Data-computer-device",
+      "entity/argument_id": "T15",
+      "start_idx": 536,
+      "end_idx": 594,
+      "tokens": [
+        "Address",
+        "of",
+        "the",
+        "website",
+        "that",
+        "connected",
+        "you",
+        "to",
+        "a",
+        "CMS",
+        "website"
+      ],
+      "token_idx": [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99,
+        100,
+        101,
+        102
+      ]
+    },
+    {
+      "entity/argument_text": "measure the number of visitors to our site and its various sections",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T16",
+      "start_idx": 655,
+      "end_idx": 722,
+      "tokens": [
+        "measure",
+        "the",
+        "number",
+        "of",
+        "visitors",
+        "to",
+        "our",
+        "site",
+        "and",
+        "its",
+        "various",
+        "sections"
+      ],
+      "token_idx": [
+        115,
+        116,
+        117,
+        118,
+        119,
+        120,
+        121,
+        122,
+        123,
+        124,
+        125,
+        126
+      ]
+    },
+    {
+      "entity/argument_text": "help make our site more useful to visitors",
+      "entity/argument_type": "Analytics-research",
+      "entity/argument_id": "T17",
+      "start_idx": 730,
+      "end_idx": 772,
+      "tokens": [
+        "help",
+        "make",
+        "our",
+        "site",
+        "more",
+        "useful",
+        "to",
+        "visitors"
+      ],
+      "token_idx": [
+        129,
+        130,
+        131,
+        132,
+        133,
+        134,
+        135,
+        136
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T18",
+      "start_idx": 628,
+      "end_idx": 630,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        110
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T20",
+      "start_idx": 640,
+      "end_idx": 651,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        113
+      ]
+    },
+    {
+      "entity/argument_text": "visiting the site",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T21",
+      "start_idx": 472,
+      "end_idx": 489,
+      "tokens": [
+        "visiting",
+        "the",
+        "site"
+      ],
+      "token_idx": [
+        80,
+        81,
+        82
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collected",
+        "start_idx": 114,
+        "end_idx": 123,
+        "tokens": [
+          "collected"
+        ],
+        "token_idx": [
+          19
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information about your visit",
+          "start_idx": 78,
+          "end_idx": 106
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you browse through any website",
+          "start_idx": 38,
+          "end_idx": 68
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 38,
+          "end_idx": 41
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 142,
+        "end_idx": 149,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          23
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Collected",
+          "type": "Data-computer-device",
+          "text": "Address of the website that connected you to a CMS website",
+          "start_idx": 536,
+          "end_idx": 594
+        },
+        {
+          "role": "Data-Collected2",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Pages you visited",
+          "start_idx": 518,
+          "end_idx": 535
+        },
+        {
+          "role": "Data-Collected3",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Date and time of your visit",
+          "start_idx": 490,
+          "end_idx": 517
+        },
+        {
+          "role": "Data-Collected4",
+          "type": "Data-computer-device",
+          "text": "information about the browser you used",
+          "start_idx": 428,
+          "end_idx": 466
+        },
+        {
+          "role": "Data-Collected5",
+          "type": "Data-computer-device",
+          "text": "Operating system on your computer",
+          "start_idx": 390,
+          "end_idx": 423
+        },
+        {
+          "role": "Data-Collected6",
+          "type": "Data-computer-device",
+          "text": "IP address",
+          "start_idx": 267,
+          "end_idx": 277
+        },
+        {
+          "role": "Data-Collected7",
+          "type": "Data-computer-device",
+          "text": "Domain from which you access the Internet",
+          "start_idx": 225,
+          "end_idx": 266
+        },
+        {
+          "role": "Data-Collected8",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information about your visit",
+          "start_idx": 195,
+          "end_idx": 223
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 125,
+          "end_idx": 127
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "visiting the site",
+          "start_idx": 472,
+          "end_idx": 489
+        }
+      ],
+      "event_id": "E2"
+    },
+    {
+      "trigger": {
+        "text": "use",
+        "start_idx": 631,
+        "end_idx": 634,
+        "tokens": [
+          "use"
+        ],
+        "token_idx": [
+          111
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Analytics-research",
+          "text": "help make our site more useful to visitors",
+          "start_idx": 730,
+          "end_idx": 772
+        },
+        {
+          "role": "Purpose-Argument2",
+          "type": "Analytics-research",
+          "text": "measure the number of visitors to our site and its various sections",
+          "start_idx": 655,
+          "end_idx": 722
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 640,
+          "end_idx": 651
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 628,
+          "end_idx": 630
+        }
+      ],
+      "event_id": "E3"
+    },
+    {
+      "trigger": {
+        "text": "store",
+        "start_idx": 166,
+        "end_idx": 171,
+        "tokens": [
+          "store"
+        ],
+        "token_idx": [
+          26
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 125,
+          "end_idx": 127
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-user-online-activities-profiles",
+          "text": "information about your visit",
+          "start_idx": 195,
+          "end_idx": 223
+        },
+        {
+          "role": "Data-Retained2",
+          "type": "Data-computer-device",
+          "text": "Domain from which you access the Internet",
+          "start_idx": 225,
+          "end_idx": 266
+        },
+        {
+          "role": "Data-Retained3",
+          "type": "Data-computer-device",
+          "text": "IP address",
+          "start_idx": 267,
+          "end_idx": 277
+        },
+        {
+          "role": "Data-Retained4",
+          "type": "Data-computer-device",
+          "text": "Operating system on your computer",
+          "start_idx": 390,
+          "end_idx": 423
+        },
+        {
+          "role": "Data-Retained5",
+          "type": "Data-computer-device",
+          "text": "information about the browser you used",
+          "start_idx": 428,
+          "end_idx": 466
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "visiting the site",
+          "start_idx": 472,
+          "end_idx": 489
+        },
+        {
+          "role": "Data-Retained6",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Date and time of your visit",
+          "start_idx": 490,
+          "end_idx": 517
+        },
+        {
+          "role": "Data-Retained7",
+          "type": "Data-user-online-activities-profiles",
+          "text": "Pages you visited",
+          "start_idx": 518,
+          "end_idx": 535
+        },
+        {
+          "role": "Data-Retained8",
+          "type": "Data-computer-device",
+          "text": "Address of the website that connected you to a CMS website",
+          "start_idx": 536,
+          "end_idx": 594
+        }
+      ],
+      "event_id": "E4"
+    }
+  ]
+}

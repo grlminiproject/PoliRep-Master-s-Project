@@ -1,0 +1,13 @@
+T1	First-party-entity 16 18	We
+T2	collection-use 23 30	collect
+E1	collection-use:T2 Data-Collected:T3 Data-Collector:T1 Data-Provider2:T10
+T3	Data-general 31 62	information about your activity
+T5	First-party-entity 143 145	We
+T6	collection-use 146 149	use
+E2	collection-use:T6 Purpose-Argument:T9 Purpose-Argument2:T8 Data-Collected:T7 Data-Collector:T5 Purpose-Argument3:T4 Data-Provider:T12
+T7	Data-general 155 166	information
+T8	OptimiseUserInterface 170 216	improve your user experience with our services
+T9	Advertising 224 257	improve your advertising services
+T10	Third-party-entity 66 86	third-party services
+T4	Advertising 269 330	measuring the performance of ads and showing you relevant ads
+T12	User 178 182	your

@@ -1,0 +1,27 @@
+T1	First-party-entity 28 30	We
+T2	first-party-collection-use 31 38	process
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Provider:T3 Data-Collected:T4 Purpose-Argument:T5 Purpose-Argument2:T6 Purpose-Argument3:T7 Condition-Argument:T19
+T3	User 39 43	your
+T4	Data-general 44 64	Personal Information
+T5	Service-operation-and-security 116 148	further our legitimate interests
+T6	Basic-service-feature 165 223	providing an effective and innovative Service to our users
+T7	Service-operation-and-security 236 297	detect, prevent or otherwise address fraud or security issues
+T8	First-party-entity 483 485	We
+T9	first-party-collection-use 491 498	process
+E2	first-party-collection-use:T9 Data-Collector:T8 Data-Provider:T10 Data-Collected:T11 Purpose-Argument:T12 Purpose-Argument2:T13
+T10	User 499 503	your
+T11	Data-general 504 524	Personal Information
+T12	Basic-service-feature 563 601	performing under our contract with you
+T13	Basic-service-feature 658 684	create a contract with you
+T14	First-party-entity 1042 1044	we
+T15	third-party-sharing-disclosure 1045 1050	share
+E3	third-party-sharing-disclosure:T15 Data-Sharer:T14 Data-Provider:T16 Data-Shared:T17 Data-Receiver:T18
+T16	User 1051 1055	your
+T17	Data-general 1056 1076	Personal Information
+T18	Third-party-entity 1090 1111	third party providers
+T19	Condition 343 481	unless those interests are overridden by your interest or fundamental rights and freedoms that require protections of Personal Information
+T21	general-safeguard-method 1168 1190	appropriate safeguards
+T22	Protection-other 1203 1253	European Commission's Standard Contractual Clauses
+T23	Protection-other 1261 1291	EU-US Privacy Shield Framework
+T24	data-security-protection 1180 1190	safeguards
+E5	data-security-protection:T24 Data-Protector:T14 Data-Provider:T16 Data-Protected:T17 Data-Protector2:T18 method:T21 method2:T22 method3:T23

@@ -1,0 +1,404 @@
+{
+  "text": "How We Collect and Use Information\n\nCapitalized terms that are not defined in this Privacy Policy have the meaning given them in our Terms of Service.\nWe collect the following types of information about you:\n\n",
+  "words": [
+    "How",
+    "We",
+    "Collect",
+    "and",
+    "Use",
+    "Information",
+    "Capitalized",
+    "terms",
+    "that",
+    "are",
+    "not",
+    "defined",
+    "in",
+    "this",
+    "Privacy",
+    "Policy",
+    "have",
+    "the",
+    "meaning",
+    "given",
+    "them",
+    "in",
+    "our",
+    "Terms",
+    "of",
+    "Service",
+    ".",
+    "We",
+    "collect",
+    "the",
+    "following",
+    "types",
+    "of",
+    "information",
+    "about",
+    "you",
+    ":"
+  ],
+  "lemma": [
+    "how",
+    "we",
+    "collect",
+    "and",
+    "use",
+    "information",
+    "Capitaliz",
+    "term",
+    "that",
+    "be",
+    "not",
+    "define",
+    "in",
+    "this",
+    "privacy",
+    "policy",
+    "have",
+    "the",
+    "meaning",
+    "give",
+    "they",
+    "in",
+    "we",
+    "term",
+    "of",
+    "service",
+    ".",
+    "we",
+    "collect",
+    "the",
+    "follow",
+    "type",
+    "of",
+    "information",
+    "about",
+    "you",
+    ":"
+  ],
+  "pos-tags": [
+    "WRB",
+    "PRP",
+    "VBP",
+    "CC",
+    "NN",
+    "NN",
+    "VBN",
+    "NNS",
+    "WDT",
+    "VBP",
+    "RB",
+    "VBN",
+    "IN",
+    "DT",
+    "NN",
+    "NN",
+    "VBP",
+    "DT",
+    "NN",
+    "VBN",
+    "PRP",
+    "IN",
+    "PRP$",
+    "NNS",
+    "IN",
+    "NN",
+    ".",
+    "PRP",
+    "VBP",
+    "DT",
+    "VBG",
+    "NNS",
+    "IN",
+    "NN",
+    "IN",
+    "PRP",
+    ":"
+  ],
+  "dependency-relation": [
+    "advmod",
+    "nsubj",
+    "root",
+    "cc",
+    "compound",
+    "conj",
+    "amod",
+    "nsubj",
+    "nsubj:pass",
+    "aux:pass",
+    "advmod",
+    "acl:relcl",
+    "case",
+    "det",
+    "compound",
+    "obl",
+    "root",
+    "det",
+    "obj",
+    "acl",
+    "obj",
+    "case",
+    "nmod:poss",
+    "obl",
+    "case",
+    "nmod",
+    "punct",
+    "nsubj",
+    "root",
+    "det",
+    "amod",
+    "obj",
+    "case",
+    "nmod",
+    "case",
+    "nmod",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      3
+    ],
+    [
+      4,
+      6
+    ],
+    [
+      7,
+      14
+    ],
+    [
+      15,
+      18
+    ],
+    [
+      19,
+      22
+    ],
+    [
+      23,
+      34
+    ],
+    [
+      36,
+      47
+    ],
+    [
+      48,
+      53
+    ],
+    [
+      54,
+      58
+    ],
+    [
+      59,
+      62
+    ],
+    [
+      63,
+      66
+    ],
+    [
+      67,
+      74
+    ],
+    [
+      75,
+      77
+    ],
+    [
+      78,
+      82
+    ],
+    [
+      83,
+      90
+    ],
+    [
+      91,
+      97
+    ],
+    [
+      98,
+      102
+    ],
+    [
+      103,
+      106
+    ],
+    [
+      107,
+      114
+    ],
+    [
+      115,
+      120
+    ],
+    [
+      121,
+      125
+    ],
+    [
+      126,
+      128
+    ],
+    [
+      129,
+      132
+    ],
+    [
+      133,
+      138
+    ],
+    [
+      139,
+      141
+    ],
+    [
+      142,
+      149
+    ],
+    [
+      149,
+      150
+    ],
+    [
+      151,
+      153
+    ],
+    [
+      154,
+      161
+    ],
+    [
+      162,
+      165
+    ],
+    [
+      166,
+      175
+    ],
+    [
+      176,
+      181
+    ],
+    [
+      182,
+      184
+    ],
+    [
+      185,
+      196
+    ],
+    [
+      197,
+      202
+    ],
+    [
+      203,
+      206
+    ],
+    [
+      206,
+      207
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      5
+    ],
+    [
+      6,
+      26
+    ],
+    [
+      27,
+      36
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T1",
+      "start_idx": 151,
+      "end_idx": 153,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        27
+      ]
+    },
+    {
+      "entity/argument_text": "information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 185,
+      "end_idx": 196,
+      "tokens": [
+        "information"
+      ],
+      "token_idx": [
+        33
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T4",
+      "start_idx": 203,
+      "end_idx": 206,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        35
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 154,
+        "end_idx": 161,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          28
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 203,
+          "end_idx": 206
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "information",
+          "start_idx": 185,
+          "end_idx": 196
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 151,
+          "end_idx": 153
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+T1	First-party-entity 29 31	We
+T2	first-party-collection-use 32 35	use
+E1	first-party-collection-use:T2 Data-Collector:T1 Data-Collected:T3 Data-Provider:T22 Purpose-Argument:T8
+T3	Data-general 40 51	information
+T8	Personalization-customization 78 181	operate, provide, support, personalize, and make our Service more relevant and useful to you and others
+T9	First-party-entity 183 185	We
+T10	first-party-collection-use 190 193	use
+E2	first-party-collection-use:T10 Data-Collector:T9 Data-Collected:T11 Purpose-Argument:T12 Purpose-Argument2:T13 Purpose-Argument3:T14 Purpose-Argument4:T18 Purpose-Argument6:T16 Purpose-Argument8:T20 Purpose-Argument9:T19 Purpose-Argument10:T21 Data-Provider:T23 Purpose-Argument5:T15
+T11	Data-general 198 218	Personal Information
+T12	Basic-service-feature 253 295	Operate, maintain, and improve our Service
+T13	Basic-service-feature 297 369	Allow you to find and connect with your friends (when instructed by you)
+T14	Basic-service-feature 371 427	Let your friends know about your activity on the Service
+T16	Communications 533 600	Respond to your comments and questions and provide customer service
+T18	Analytics-research 429 453	Analyze usage and trends
+T19	Communications 602 738	Send information including confirmations, invoices, technical notices, updates, security alerts, and support and administrative messages
+T20	Service-operation-and-security 740 825	Protect, investigate, and deter against fraudulent, unauthorized, or illegal activity
+T21	Basic-service-feature 831 889	Provide and deliver products and services that you request
+T22	User 71 74	you
+T23	User 245 248	you
+T15	Personalization-customization 458 531	personalize and improve the Service and your experience using the Service

@@ -1,0 +1,1133 @@
+{
+  "text": "TRANSFER OF INFORMATION\n\nSince we operate globally, it may be necessary to transfer your Personal Information to countries outside the European Union. The data protection and other laws of these countries may not be as comprehensive as those in the European Union.\nWe use best efforts to ensure that your Personal Information is protected in accordance with our privacy policy, through contractual means (such as by using the contractual clauses approved by the relevant regulators for data transfer) or other means (such as ensuring that the jurisdiction imposes adequate safeguards for data protection).\n\n",
+  "words": [
+    "TRANSFER",
+    "OF",
+    "INFORMATION",
+    "Since",
+    "we",
+    "operate",
+    "globally",
+    ",",
+    "it",
+    "may",
+    "be",
+    "necessary",
+    "to",
+    "transfer",
+    "your",
+    "Personal",
+    "Information",
+    "to",
+    "countries",
+    "outside",
+    "the",
+    "European",
+    "Union",
+    ".",
+    "The",
+    "data",
+    "protection",
+    "and",
+    "other",
+    "laws",
+    "of",
+    "these",
+    "countries",
+    "may",
+    "not",
+    "be",
+    "as",
+    "comprehensive",
+    "as",
+    "those",
+    "in",
+    "the",
+    "European",
+    "Union",
+    ".",
+    "We",
+    "use",
+    "best",
+    "efforts",
+    "to",
+    "ensure",
+    "that",
+    "your",
+    "Personal",
+    "Information",
+    "is",
+    "protected",
+    "in",
+    "accordance",
+    "with",
+    "our",
+    "privacy",
+    "policy",
+    ",",
+    "through",
+    "contractual",
+    "means",
+    "(",
+    "such",
+    "as",
+    "by",
+    "using",
+    "the",
+    "contractual",
+    "clauses",
+    "approved",
+    "by",
+    "the",
+    "relevant",
+    "regulators",
+    "for",
+    "data",
+    "transfer",
+    ")",
+    "or",
+    "other",
+    "means",
+    "(",
+    "such",
+    "as",
+    "ensuring",
+    "that",
+    "the",
+    "jurisdiction",
+    "imposes",
+    "adequate",
+    "safeguards",
+    "for",
+    "data",
+    "protection",
+    ")",
+    "."
+  ],
+  "lemma": [
+    "transfer",
+    "of",
+    "information",
+    "since",
+    "we",
+    "operate",
+    "globally",
+    ",",
+    "it",
+    "may",
+    "be",
+    "necessary",
+    "to",
+    "transfer",
+    "you",
+    "Personal",
+    "information",
+    "to",
+    "country",
+    "outside",
+    "the",
+    "european",
+    "Union",
+    ".",
+    "the",
+    "data",
+    "protection",
+    "and",
+    "other",
+    "law",
+    "of",
+    "these",
+    "country",
+    "may",
+    "not",
+    "be",
+    "as",
+    "comprehensive",
+    "as",
+    "those",
+    "in",
+    "the",
+    "european",
+    "Union",
+    ".",
+    "we",
+    "use",
+    "best",
+    "effort",
+    "to",
+    "ensure",
+    "that",
+    "you",
+    "Personal",
+    "information",
+    "be",
+    "protect",
+    "in",
+    "accordance",
+    "with",
+    "we",
+    "privacy",
+    "policy",
+    ",",
+    "through",
+    "contractual",
+    "means",
+    "(",
+    "such",
+    "as",
+    "by",
+    "use",
+    "the",
+    "contractual",
+    "clause",
+    "approve",
+    "by",
+    "the",
+    "relevant",
+    "regulator",
+    "for",
+    "data",
+    "transfer",
+    ")",
+    "or",
+    "other",
+    "means",
+    "(",
+    "such",
+    "as",
+    "ensure",
+    "that",
+    "the",
+    "jurisdiction",
+    "impos",
+    "adequate",
+    "safeguard",
+    "for",
+    "data",
+    "protection",
+    ")",
+    "."
+  ],
+  "pos-tags": [
+    "RB",
+    "IN",
+    "NNP",
+    "IN",
+    "PRP",
+    "VBP",
+    "RB",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "TO",
+    "VB",
+    "PRP$",
+    "JJ",
+    "NN",
+    "IN",
+    "NNS",
+    "IN",
+    "DT",
+    "NNP",
+    "NNP",
+    ".",
+    "DT",
+    "NN",
+    "NN",
+    "CC",
+    "JJ",
+    "NNS",
+    "IN",
+    "DT",
+    "NNS",
+    "MD",
+    "RB",
+    "VB",
+    "RB",
+    "JJ",
+    "IN",
+    "DT",
+    "IN",
+    "DT",
+    "NNP",
+    "NNP",
+    ".",
+    "PRP",
+    "VBP",
+    "JJS",
+    "NNS",
+    "TO",
+    "VB",
+    "IN",
+    "PRP$",
+    "NNP",
+    "NNP",
+    "VBZ",
+    "VBN",
+    "IN",
+    "NN",
+    "IN",
+    "PRP$",
+    "NN",
+    "NN",
+    ",",
+    "IN",
+    "JJ",
+    "NNS",
+    "-LRB-",
+    "JJ",
+    "IN",
+    "IN",
+    "VBG",
+    "DT",
+    "JJ",
+    "NNS",
+    "VBN",
+    "IN",
+    "DT",
+    "JJ",
+    "NNS",
+    "IN",
+    "NN",
+    "NN",
+    "-RRB-",
+    "CC",
+    "JJ",
+    "NNS",
+    "-LRB-",
+    "JJ",
+    "IN",
+    "VBG",
+    "IN",
+    "DT",
+    "NN",
+    "VBZ",
+    "JJ",
+    "NNS",
+    "IN",
+    "NN",
+    "NN",
+    "-RRB-",
+    "."
+  ],
+  "dependency-relation": [
+    "root",
+    "case",
+    "obl",
+    "mark",
+    "nsubj",
+    "advcl",
+    "advmod",
+    "punct",
+    "expl",
+    "aux",
+    "cop",
+    "root",
+    "mark",
+    "csubj",
+    "nmod:poss",
+    "amod",
+    "obj",
+    "case",
+    "obl",
+    "case",
+    "det",
+    "compound",
+    "nmod",
+    "punct",
+    "det",
+    "compound",
+    "nsubj",
+    "cc",
+    "amod",
+    "conj",
+    "case",
+    "det",
+    "nmod",
+    "aux",
+    "advmod",
+    "cop",
+    "advmod",
+    "root",
+    "case",
+    "obl",
+    "case",
+    "det",
+    "compound",
+    "nmod",
+    "punct",
+    "nsubj",
+    "root",
+    "amod",
+    "obj",
+    "mark",
+    "xcomp",
+    "mark",
+    "nmod:poss",
+    "compound",
+    "nsubj:pass",
+    "aux:pass",
+    "ccomp",
+    "case",
+    "obl",
+    "case",
+    "nmod:poss",
+    "compound",
+    "obl",
+    "punct",
+    "case",
+    "amod",
+    "nmod",
+    "punct",
+    "mark",
+    "fixed",
+    "mark",
+    "acl",
+    "det",
+    "amod",
+    "obj",
+    "acl",
+    "case",
+    "det",
+    "amod",
+    "obl",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "cc",
+    "amod",
+    "conj",
+    "punct",
+    "mark",
+    "fixed",
+    "acl",
+    "mark",
+    "det",
+    "nsubj",
+    "cop",
+    "amod",
+    "ccomp",
+    "case",
+    "compound",
+    "nmod",
+    "punct",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      8
+    ],
+    [
+      9,
+      11
+    ],
+    [
+      12,
+      23
+    ],
+    [
+      25,
+      30
+    ],
+    [
+      31,
+      33
+    ],
+    [
+      34,
+      41
+    ],
+    [
+      42,
+      50
+    ],
+    [
+      50,
+      51
+    ],
+    [
+      52,
+      54
+    ],
+    [
+      55,
+      58
+    ],
+    [
+      59,
+      61
+    ],
+    [
+      62,
+      71
+    ],
+    [
+      72,
+      74
+    ],
+    [
+      75,
+      83
+    ],
+    [
+      84,
+      88
+    ],
+    [
+      89,
+      97
+    ],
+    [
+      98,
+      109
+    ],
+    [
+      110,
+      112
+    ],
+    [
+      113,
+      122
+    ],
+    [
+      123,
+      130
+    ],
+    [
+      131,
+      134
+    ],
+    [
+      135,
+      143
+    ],
+    [
+      144,
+      149
+    ],
+    [
+      149,
+      150
+    ],
+    [
+      151,
+      154
+    ],
+    [
+      155,
+      159
+    ],
+    [
+      160,
+      170
+    ],
+    [
+      171,
+      174
+    ],
+    [
+      175,
+      180
+    ],
+    [
+      181,
+      185
+    ],
+    [
+      186,
+      188
+    ],
+    [
+      189,
+      194
+    ],
+    [
+      195,
+      204
+    ],
+    [
+      205,
+      208
+    ],
+    [
+      209,
+      212
+    ],
+    [
+      213,
+      215
+    ],
+    [
+      216,
+      218
+    ],
+    [
+      219,
+      232
+    ],
+    [
+      233,
+      235
+    ],
+    [
+      236,
+      241
+    ],
+    [
+      242,
+      244
+    ],
+    [
+      245,
+      248
+    ],
+    [
+      249,
+      257
+    ],
+    [
+      258,
+      263
+    ],
+    [
+      263,
+      264
+    ],
+    [
+      265,
+      267
+    ],
+    [
+      268,
+      271
+    ],
+    [
+      272,
+      276
+    ],
+    [
+      277,
+      284
+    ],
+    [
+      285,
+      287
+    ],
+    [
+      288,
+      294
+    ],
+    [
+      295,
+      299
+    ],
+    [
+      300,
+      304
+    ],
+    [
+      305,
+      313
+    ],
+    [
+      314,
+      325
+    ],
+    [
+      326,
+      328
+    ],
+    [
+      329,
+      338
+    ],
+    [
+      339,
+      341
+    ],
+    [
+      342,
+      352
+    ],
+    [
+      353,
+      357
+    ],
+    [
+      358,
+      361
+    ],
+    [
+      362,
+      369
+    ],
+    [
+      370,
+      376
+    ],
+    [
+      376,
+      377
+    ],
+    [
+      378,
+      385
+    ],
+    [
+      386,
+      397
+    ],
+    [
+      398,
+      403
+    ],
+    [
+      404,
+      405
+    ],
+    [
+      405,
+      409
+    ],
+    [
+      410,
+      412
+    ],
+    [
+      413,
+      415
+    ],
+    [
+      416,
+      421
+    ],
+    [
+      422,
+      425
+    ],
+    [
+      426,
+      437
+    ],
+    [
+      438,
+      445
+    ],
+    [
+      446,
+      454
+    ],
+    [
+      455,
+      457
+    ],
+    [
+      458,
+      461
+    ],
+    [
+      462,
+      470
+    ],
+    [
+      471,
+      481
+    ],
+    [
+      482,
+      485
+    ],
+    [
+      486,
+      490
+    ],
+    [
+      491,
+      499
+    ],
+    [
+      499,
+      500
+    ],
+    [
+      501,
+      503
+    ],
+    [
+      504,
+      509
+    ],
+    [
+      510,
+      515
+    ],
+    [
+      516,
+      517
+    ],
+    [
+      517,
+      521
+    ],
+    [
+      522,
+      524
+    ],
+    [
+      525,
+      533
+    ],
+    [
+      534,
+      538
+    ],
+    [
+      539,
+      542
+    ],
+    [
+      543,
+      555
+    ],
+    [
+      556,
+      563
+    ],
+    [
+      564,
+      572
+    ],
+    [
+      573,
+      583
+    ],
+    [
+      584,
+      587
+    ],
+    [
+      588,
+      592
+    ],
+    [
+      593,
+      603
+    ],
+    [
+      603,
+      604
+    ],
+    [
+      604,
+      605
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      23
+    ],
+    [
+      24,
+      44
+    ],
+    [
+      45,
+      101
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T2",
+      "start_idx": 84,
+      "end_idx": 88,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        14
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T3",
+      "start_idx": 89,
+      "end_idx": 109,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        15,
+        16
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T5",
+      "start_idx": 31,
+      "end_idx": 33,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        4
+      ]
+    },
+    {
+      "entity/argument_text": "contractual means",
+      "entity/argument_type": "Protection-other",
+      "entity/argument_id": "T7",
+      "start_idx": 386,
+      "end_idx": 403,
+      "tokens": [
+        "contractual",
+        "means"
+      ],
+      "token_idx": [
+        65,
+        66
+      ]
+    },
+    {
+      "entity/argument_text": "other means",
+      "entity/argument_type": "Protection-other",
+      "entity/argument_id": "T8",
+      "start_idx": 504,
+      "end_idx": 515,
+      "tokens": [
+        "other",
+        "means"
+      ],
+      "token_idx": [
+        85,
+        86
+      ]
+    },
+    {
+      "entity/argument_text": "We",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T9",
+      "start_idx": 265,
+      "end_idx": 267,
+      "tokens": [
+        "We"
+      ],
+      "token_idx": [
+        45
+      ]
+    },
+    {
+      "entity/argument_text": "your",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T10",
+      "start_idx": 300,
+      "end_idx": 304,
+      "tokens": [
+        "your"
+      ],
+      "token_idx": [
+        52
+      ]
+    },
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T11",
+      "start_idx": 305,
+      "end_idx": 325,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        53,
+        54
+      ]
+    },
+    {
+      "entity/argument_text": "using the contractual clauses approved by the relevant regulators for data transfer",
+      "entity/argument_type": "Protection-other",
+      "entity/argument_id": "T12",
+      "start_idx": 416,
+      "end_idx": 499,
+      "tokens": [
+        "using",
+        "the",
+        "contractual",
+        "clauses",
+        "approved",
+        "by",
+        "the",
+        "relevant",
+        "regulators",
+        "for",
+        "data",
+        "transfer"
+      ],
+      "token_idx": [
+        71,
+        72,
+        73,
+        74,
+        75,
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82
+      ]
+    },
+    {
+      "entity/argument_text": "ensuring that the jurisdiction imposes adequate safeguards for data protection",
+      "entity/argument_type": "Protection-other",
+      "entity/argument_id": "T13",
+      "start_idx": 525,
+      "end_idx": 603,
+      "tokens": [
+        "ensuring",
+        "that",
+        "the",
+        "jurisdiction",
+        "imposes",
+        "adequate",
+        "safeguards",
+        "for",
+        "data",
+        "protection"
+      ],
+      "token_idx": [
+        90,
+        91,
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "transfer",
+        "start_idx": 75,
+        "end_idx": 83,
+        "tokens": [
+          "transfer"
+        ],
+        "token_idx": [
+          13
+        ]
+      },
+      "event_type": "data-storage-retention-deletion",
+      "arguments": [
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 84,
+          "end_idx": 88
+        },
+        {
+          "role": "Data-Retained",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 89,
+          "end_idx": 109
+        },
+        {
+          "role": "Data-Holder",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 31,
+          "end_idx": 33
+        }
+      ],
+      "event_id": "E1"
+    },
+    {
+      "trigger": {
+        "text": "protected",
+        "start_idx": 329,
+        "end_idx": 338,
+        "tokens": [
+          "protected"
+        ],
+        "token_idx": [
+          56
+        ]
+      },
+      "event_type": "data-security-protection",
+      "arguments": [
+        {
+          "role": "method",
+          "type": "Protection-other",
+          "text": "contractual means",
+          "start_idx": 386,
+          "end_idx": 403
+        },
+        {
+          "role": "method2",
+          "type": "Protection-other",
+          "text": "other means",
+          "start_idx": 504,
+          "end_idx": 515
+        },
+        {
+          "role": "Data-Protected",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 305,
+          "end_idx": 325
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "your",
+          "start_idx": 300,
+          "end_idx": 304
+        },
+        {
+          "role": "Data-Protector",
+          "type": "First-party-entity",
+          "text": "We",
+          "start_idx": 265,
+          "end_idx": 267
+        },
+        {
+          "role": "method3",
+          "type": "Protection-other",
+          "text": "using the contractual clauses approved by the relevant regulators for data transfer",
+          "start_idx": 416,
+          "end_idx": 499
+        },
+        {
+          "role": "method4",
+          "type": "Protection-other",
+          "text": "ensuring that the jurisdiction imposes adequate safeguards for data protection",
+          "start_idx": 525,
+          "end_idx": 603
+        }
+      ],
+      "event_id": "E2"
+    }
+  ]
+}

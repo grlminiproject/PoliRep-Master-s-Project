@@ -1,0 +1,66 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Privacy Policy
+1	Privacy	privacy	NOUN	NN	Number=Sing	2	compound	_	TokenRange=0:7
+2	Policy	policy	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=8:14
+
+# newpar
+# sent_id = 2
+# text = For the purposes of EU data protection laws ("Data Protection Law"), Codecademy is data controller (i.e., the company who is responsible for, and controls the processing of, your personal data).
+1	For	for	ADP	IN	_	3	case	_	TokenRange=16:19
+2	the	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=20:23
+3	purposes	purpose	NOUN	NNS	Number=Plur	20	obl	_	TokenRange=24:32
+4	of	of	ADP	IN	_	8	case	_	TokenRange=33:35
+5	EU	EU	PROPN	NNP	Number=Sing	7	compound	_	TokenRange=36:38
+6	data	data	NOUN	NN	Number=Sing	7	compound	_	TokenRange=39:43
+7	protection	protection	NOUN	NN	Number=Sing	8	compound	_	TokenRange=44:54
+8	laws	law	NOUN	NNS	Number=Plur	3	nmod	_	TokenRange=55:59
+9	(	(	PUNCT	-LRB-	_	13	punct	_	SpaceAfter=No|TokenRange=60:61
+10	"	"	PUNCT	``	_	13	punct	_	SpaceAfter=No|TokenRange=61:62
+11	Data	data	PROPN	NNP	Number=Sing	12	compound	_	TokenRange=62:66
+12	Protection	Protection	PROPN	NNP	Number=Sing	13	compound	_	TokenRange=67:77
+13	Law	Law	PROPN	NNP	Number=Sing	3	appos	_	SpaceAfter=No|TokenRange=78:81
+14	"	"	PUNCT	''	_	13	punct	_	SpaceAfter=No|TokenRange=81:82
+15	)	)	PUNCT	-RRB-	_	13	punct	_	SpaceAfter=No|TokenRange=82:83
+16	,	,	PUNCT	,	_	20	punct	_	TokenRange=83:84
+17	Codecademy	Codecademy	PROPN	NNP	Number=Sing	20	nsubj	_	TokenRange=85:95
+18	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	cop	_	TokenRange=96:98
+19	data	data	NOUN	NN	Number=Sing	20	compound	_	TokenRange=99:103
+20	controller	controller	NOUN	NN	Number=Sing	0	root	_	TokenRange=104:114
+21	(	(	PUNCT	-LRB-	_	20	punct	_	SpaceAfter=No|TokenRange=115:116
+22	i.e.	i.e.	X	FW	_	20	appos	_	SpaceAfter=No|TokenRange=116:120
+23	,	,	PUNCT	,	_	20	punct	_	TokenRange=120:121
+24	the	the	DET	DT	Definite=Def|PronType=Art	25	det	_	TokenRange=122:125
+25	company	company	NOUN	NN	Number=Sing	20	appos	_	TokenRange=126:133
+26	who	who	PRON	WP	PronType=Rel	28	nsubj	_	TokenRange=134:137
+27	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	28	cop	_	TokenRange=138:140
+28	responsible	responsible	ADJ	JJ	Degree=Pos	25	acl:relcl	_	TokenRange=141:152
+29	for	for	ADP	IN	_	28	obl	_	SpaceAfter=No|TokenRange=153:156
+30	,	,	PUNCT	,	_	32	punct	_	TokenRange=156:157
+31	and	and	CCONJ	CC	_	32	cc	_	TokenRange=158:161
+32	controls	control	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	20	conj	_	TokenRange=162:170
+33	the	the	DET	DT	Definite=Def|PronType=Art	34	det	_	TokenRange=171:174
+34	processing	processing	NOUN	NN	Number=Sing	32	obj	_	TokenRange=175:185
+35	of	of	ADP	IN	_	39	case	_	SpaceAfter=No|TokenRange=186:188
+36	,	,	PUNCT	,	_	39	punct	_	TokenRange=188:189
+37	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	39	nmod:poss	_	TokenRange=190:194
+38	personal	personal	ADJ	JJ	Degree=Pos	39	amod	_	TokenRange=195:203
+39	data	data	NOUN	NN	Number=Sing	34	nmod	_	SpaceAfter=No|TokenRange=204:208
+40	)	)	PUNCT	-RRB-	_	20	punct	_	SpaceAfter=No|TokenRange=208:209
+41	.	.	PUNCT	.	_	20	punct	_	SpacesAfter=\n|TokenRange=209:210
+
+# sent_id = 3
+# text = Click on the links below to jump to each section:
+1	Click	click	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=211:216
+2	on	on	ADP	IN	_	4	case	_	TokenRange=217:219
+3	the	the	DET	DT	Definite=Def|PronType=Art	4	det	_	TokenRange=220:223
+4	links	link	NOUN	NNS	Number=Plur	1	obl	_	TokenRange=224:229
+5	below	below	ADV	RB	_	1	advmod	_	TokenRange=230:235
+6	to	to	PART	TO	_	7	mark	_	TokenRange=236:238
+7	jump	jump	VERB	VB	VerbForm=Inf	1	advcl	_	TokenRange=239:243
+8	to	to	ADP	IN	_	10	case	_	TokenRange=244:246
+9	each	each	DET	DT	_	10	det	_	TokenRange=247:251
+10	section	section	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=252:259
+11	:	:	PUNCT	:	_	1	punct	_	SpacesAfter=\n\n|TokenRange=259:260
+

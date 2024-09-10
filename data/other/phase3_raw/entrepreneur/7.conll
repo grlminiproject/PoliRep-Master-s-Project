@@ -1,0 +1,105 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 7.
+1	7	7	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = The Information You Share.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=3:6
+2	Information	information	NOUN	NN	Number=Sing	0	root	_	TokenRange=7:18
+3	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	4	nsubj	_	TokenRange=19:22
+4	Share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	SpaceAfter=No|TokenRange=23:28
+5	.	.	PUNCT	.	_	4	punct	_	SpacesAfter=\n\n|TokenRange=28:29
+
+# newpar
+# sent_id = 3
+# text = Our Service allows visitors to share information with others, such as comments on editorial content and information shared via social media.
+1	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	2	nmod:poss	_	TokenRange=31:34
+2	Service	service	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=35:42
+3	allows	allow	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=43:49
+4	visitors	visitor	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=50:58
+5	to	to	PART	TO	_	6	mark	_	TokenRange=59:61
+6	share	share	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=62:67
+7	information	information	NOUN	NN	Number=Sing	6	obj	_	TokenRange=68:79
+8	with	with	ADP	IN	_	9	case	_	TokenRange=80:84
+9	others	other	NOUN	NNS	Number=Plur	7	nmod	_	SpaceAfter=No|TokenRange=85:91
+10	,	,	PUNCT	,	_	6	punct	_	TokenRange=91:92
+11	such	such	ADJ	JJ	Degree=Pos	13	case	_	TokenRange=93:97
+12	as	as	ADP	IN	_	11	fixed	_	TokenRange=98:100
+13	comments	comment	NOUN	NNS	Number=Plur	6	obl	_	TokenRange=101:109
+14	on	on	ADP	IN	_	16	case	_	TokenRange=110:112
+15	editorial	editorial	ADJ	JJ	Degree=Pos	16	amod	_	TokenRange=113:122
+16	content	content	NOUN	NN	Number=Sing	13	nmod	_	TokenRange=123:130
+17	and	and	CCONJ	CC	_	18	cc	_	TokenRange=131:134
+18	information	information	NOUN	NN	Number=Sing	16	conj	_	TokenRange=135:146
+19	shared	share	VERB	VBN	Tense=Past|VerbForm=Part	16	acl	_	TokenRange=147:153
+20	via	via	ADP	IN	_	22	case	_	TokenRange=154:157
+21	social	social	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=158:164
+22	media	media	NOUN	NN	Number=Sing	19	obl	_	SpaceAfter=No|TokenRange=165:170
+23	.	.	PUNCT	.	_	3	punct	_	TokenRange=170:171
+
+# sent_id = 4
+# text = When you share information it may as a result become accessible to others, through such mechanisms as search engines.
+1	When	when	ADV	WRB	PronType=Int	3	mark	_	TokenRange=172:176
+2	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=177:180
+3	share	share	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	10	advcl	_	TokenRange=181:186
+4	information	information	NOUN	NN	Number=Sing	3	obj	_	TokenRange=187:198
+5	it	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	10	nsubj	_	TokenRange=199:201
+6	may	may	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=202:205
+7	as	as	ADP	IN	_	9	case	_	TokenRange=206:208
+8	a	a	DET	DT	Definite=Ind|PronType=Art	9	det	_	TokenRange=209:210
+9	result	result	NOUN	NN	Number=Sing	10	obl	_	TokenRange=211:217
+10	become	become	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	TokenRange=218:224
+11	accessible	accessible	ADJ	JJ	Degree=Pos	10	xcomp	_	TokenRange=225:235
+12	to	to	ADP	IN	_	13	case	_	TokenRange=236:238
+13	others	other	NOUN	NNS	Number=Plur	11	obl	_	SpaceAfter=No|TokenRange=239:245
+14	,	,	PUNCT	,	_	11	punct	_	TokenRange=245:246
+15	through	through	ADP	IN	_	17	case	_	TokenRange=247:254
+16	such	such	ADJ	JJ	Degree=Pos	17	amod	_	TokenRange=255:259
+17	mechanisms	mechanism	NOUN	NNS	Number=Plur	11	obl	_	TokenRange=260:270
+18	as	as	ADP	IN	_	20	case	_	TokenRange=271:273
+19	search	search	NOUN	NN	Number=Sing	20	compound	_	TokenRange=274:280
+20	engines	engine	NOUN	NNS	Number=Plur	17	nmod	_	SpaceAfter=No|TokenRange=281:288
+21	.	.	PUNCT	.	_	11	punct	_	TokenRange=288:289
+
+# sent_id = 5
+# text = We cannot be responsible for how others with whom you may share information may use that information.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=290:292
+2	can	can	AUX	MD	VerbForm=Fin	5	aux	_	SpaceAfter=No|TokenRange=293:296
+3	not	not	PART	RB	_	5	advmod	_	TokenRange=296:299
+4	be	be	AUX	VB	VerbForm=Inf	5	cop	_	TokenRange=300:302
+5	responsible	responsible	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=303:314
+6	for	for	SCONJ	IN	_	16	mark	_	TokenRange=315:318
+7	how	how	ADV	WRB	PronType=Int	8	advmod	_	TokenRange=319:322
+8	others	other	NOUN	NNS	Number=Plur	16	nsubj	_	TokenRange=323:329
+9	with	with	ADP	IN	_	10	case	_	TokenRange=330:334
+10	whom	whom	PRON	WP	PronType=Rel	13	obl	_	TokenRange=335:339
+11	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	13	nsubj	_	TokenRange=340:343
+12	may	may	AUX	MD	VerbForm=Fin	13	aux	_	TokenRange=344:347
+13	share	share	VERB	VB	VerbForm=Inf	8	acl:relcl	_	TokenRange=348:353
+14	information	information	NOUN	NN	Number=Sing	13	obj	_	TokenRange=354:365
+15	may	may	AUX	MD	VerbForm=Fin	16	aux	_	TokenRange=366:369
+16	use	use	VERB	VB	VerbForm=Inf	5	advcl	_	TokenRange=370:373
+17	that	that	DET	DT	Number=Sing|PronType=Dem	18	det	_	TokenRange=374:378
+18	information	information	NOUN	NN	Number=Sing	16	obj	_	SpaceAfter=No|TokenRange=379:390
+19	.	.	PUNCT	.	_	5	punct	_	TokenRange=390:391
+
+# sent_id = 6
+# text = (See Paragraph 10 below—The Scope of Our Privacy Policy.)
+1	(	(	PUNCT	-LRB-	_	2	punct	_	SpaceAfter=No|TokenRange=392:393
+2	See	see	VERB	VB	Mood=Imp|VerbForm=Fin	0	root	_	TokenRange=393:396
+3	Paragraph	paragraph	NOUN	NN	Number=Sing	2	obj	_	TokenRange=397:406
+4	10	10	NUM	CD	NumType=Card	3	nummod	_	TokenRange=407:409
+5	below	below	ADV	RB	_	3	advmod	_	SpaceAfter=No|TokenRange=410:415
+6	—	-	PUNCT	:	_	3	punct	_	SpaceAfter=No|TokenRange=415:416
+7	The	the	DET	DT	Definite=Def|PronType=Art	8	det	_	TokenRange=416:419
+8	Scope	scope	PROPN	NNP	Number=Sing	2	appos	_	TokenRange=420:425
+9	of	of	ADP	IN	_	12	case	_	TokenRange=426:428
+10	Our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	12	nmod:poss	_	TokenRange=429:432
+11	Privacy	privacy	NOUN	NN	Number=Sing	12	compound	_	TokenRange=433:440
+12	Policy	policy	NOUN	NN	Number=Sing	8	nmod	_	SpaceAfter=No|TokenRange=441:447
+13	.	.	PUNCT	.	_	2	punct	_	SpaceAfter=No|TokenRange=447:448
+14	)	)	PUNCT	-RRB-	_	2	punct	_	SpacesAfter=\n\n|TokenRange=448:449
+

@@ -1,0 +1,36 @@
+T1	general-safeguard-method 34 53	reasonable measures
+T2	First-party-entity 21 27	Qublix
+T3	data-security-protection 57 64	protect
+E1	data-security-protection:T3 method:T1 Data-Protector:T2 Data-Provider:T4 Data-Protected:T5 protect-against:T6 protect-against2:T7
+T4	User 65 69	your
+T5	Data-general 70 81	information
+T6	security-threat 87 106	unauthorized access
+T7	security-threat 118 144	loss, misuse or alteration
+T8	First-party-entity 172 174	we
+T9	data-security-protection 202 207	store
+E2	data-security-protection:T9 Data-Protector:T8 Data-Protected:T10 method2:T12
+T10	Data-general 212 223	information
+T12	Access-limitation 254 318	secure operating environment that is not available to the public
+T14	First-party-entity 452 454	we
+T16	Data-general 648 659	information
+T17	User 697 701	your
+T18	First-party-entity 661 663	We
+T19	Data-general 702 713	information
+T20	data-security-protection 722 731	protected
+E4	data-security-protection:T20 Data-Protector:T18 Data-Provider:T17 Data-Protected:T19 protect-against:T21 Polarity:T32 Condition-Argument:T31
+T21	security-threat 741 768	loss, misuse, or alteration
+T11	First-party-entity 320 322	we
+T22	Condition 389 435	its transmission or its storage on our systems
+T24	Data-general 370 381	information
+T25	Negation 323 329	cannot
+T26	data-security-protection 353 361	security
+E5	data-security-protection:T26 Data-Protector:T11 Polarity:T25 Data-Protected:T24 Condition-Argument:T22 Condition-Argument3:T29
+T13	security-threat 613 639	illegally obtaining access
+T15	Negation 531 537	cannot
+T27	data-security-protection 491 499	security
+E3	data-security-protection:T27 Polarity:T15 Data-Protector:T14 method:T28 protect-against:T13 Data-Protected:T16 Condition-Argument:T30
+T28	general-safeguard-method 557 574	security measures
+T29	Condition 330 339	guarantee
+T30	Condition 538 547	guarantee
+T31	Condition 671 691	warrant or represent
+T32	Negation 667 670	not

@@ -1,0 +1,80 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = CHANGES TO THIS POLICY
+1	CHANGES	change	NOUN	NNS	Number=Plur	0	root	_	TokenRange=0:7
+2	TO	to	ADP	IN	_	4	case	_	TokenRange=8:10
+3	THIS	this	DET	DT	Number=Sing|PronType=Dem	4	det	_	TokenRange=11:15
+4	POLICY	policy	NOUN	NN	Number=Sing	1	nmod	_	SpacesAfter=\n\n|TokenRange=16:22
+
+# newpar
+# sent_id = 2
+# text = We may update this Policy to reflect changes to our data and information privacy practices.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=24:26
+2	may	may	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=27:30
+3	update	update	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=31:37
+4	this	this	DET	DT	Number=Sing|PronType=Dem	5	det	_	TokenRange=38:42
+5	Policy	policy	NOUN	NN	Number=Sing	3	obj	_	TokenRange=43:49
+6	to	to	PART	TO	_	7	mark	_	TokenRange=50:52
+7	reflect	reflect	VERB	VB	VerbForm=Inf	3	advcl	_	TokenRange=53:60
+8	changes	change	NOUN	NNS	Number=Plur	7	obj	_	TokenRange=61:68
+9	to	to	ADP	IN	_	15	case	_	TokenRange=69:71
+10	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=72:75
+11	data	data	NOUN	NN	Number=Sing	14	compound	_	TokenRange=76:80
+12	and	and	CCONJ	CC	_	13	cc	_	TokenRange=81:84
+13	information	information	NOUN	NN	Number=Sing	11	conj	_	TokenRange=85:96
+14	privacy	privacy	NOUN	NN	Number=Sing	15	compound	_	TokenRange=97:104
+15	practices	practice	NOUN	NNS	Number=Plur	8	nmod	_	SpaceAfter=No|TokenRange=105:114
+16	.	.	PUNCT	.	_	3	punct	_	TokenRange=114:115
+
+# sent_id = 3
+# text = If we make any material changes we will notify you by means of a notice on this
+1	If	if	SCONJ	IN	_	3	mark	_	TokenRange=116:118
+2	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=119:121
+3	make	make	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	advcl	_	TokenRange=122:126
+4	any	any	DET	DT	_	6	det	_	TokenRange=127:130
+5	material	material	ADJ	JJ	Degree=Pos	6	amod	_	TokenRange=131:139
+6	changes	change	NOUN	NNS	Number=Plur	3	obj	_	TokenRange=140:147
+7	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	9	nsubj	_	TokenRange=148:150
+8	will	will	AUX	MD	VerbForm=Fin	9	aux	_	TokenRange=151:155
+9	notify	notify	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=156:162
+10	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	9	obj	_	TokenRange=163:166
+11	by	by	ADP	IN	_	12	case	_	TokenRange=167:169
+12	means	means	NOUN	NNS	Number=Plur	9	obl	_	TokenRange=170:175
+13	of	of	ADP	IN	_	15	case	_	TokenRange=176:178
+14	a	a	DET	DT	Definite=Ind|PronType=Art	15	det	_	TokenRange=179:180
+15	notice	notice	NOUN	NN	Number=Sing	12	nmod	_	TokenRange=181:187
+16	on	on	ADP	IN	_	17	case	_	TokenRange=188:190
+17	this	this	PRON	DT	Number=Sing|PronType=Dem	15	nmod	_	TokenRange=191:195
+
+# sent_id = 4
+# text = Site prior to the change becoming effective.
+1	Site	site	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=196:200
+2	prior	prior	ADJ	JJ	Degree=Pos	5	case	_	TokenRange=201:206
+3	to	to	ADP	IN	_	2	fixed	_	TokenRange=207:209
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=210:213
+5	change	change	NOUN	NN	Number=Sing	1	obl	_	TokenRange=214:220
+6	becoming	become	VERB	VBG	VerbForm=Ger	1	advcl	_	TokenRange=221:229
+7	effective	effective	ADJ	JJ	Degree=Pos	6	xcomp	_	SpaceAfter=No|TokenRange=230:239
+8	.	.	PUNCT	.	_	1	punct	_	TokenRange=239:240
+
+# sent_id = 5
+# text = We encourage you to periodically review this page for the latest information on our privacy practices.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=241:243
+2	encourage	encourage	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=244:253
+3	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	2	obj	_	TokenRange=254:257
+4	to	to	PART	TO	_	6	mark	_	TokenRange=258:260
+5	periodically	periodically	ADV	RB	_	6	advmod	_	TokenRange=261:273
+6	review	review	VERB	VB	VerbForm=Inf	2	xcomp	_	TokenRange=274:280
+7	this	this	DET	DT	Number=Sing|PronType=Dem	8	det	_	TokenRange=281:285
+8	page	page	NOUN	NN	Number=Sing	6	obj	_	TokenRange=286:290
+9	for	for	ADP	IN	_	12	case	_	TokenRange=291:294
+10	the	the	DET	DT	Definite=Def|PronType=Art	12	det	_	TokenRange=295:298
+11	latest	latest	ADJ	JJS	Degree=Sup	12	amod	_	TokenRange=299:305
+12	information	information	NOUN	NN	Number=Sing	6	obl	_	TokenRange=306:317
+13	on	on	ADP	IN	_	16	case	_	TokenRange=318:320
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=321:324
+15	privacy	privacy	NOUN	NN	Number=Sing	16	compound	_	TokenRange=325:332
+16	practices	practice	NOUN	NNS	Number=Plur	12	nmod	_	SpaceAfter=No|TokenRange=333:342
+17	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=342:343
+

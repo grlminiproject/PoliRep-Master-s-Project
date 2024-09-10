@@ -1,0 +1,72 @@
+T1	First-party-entity 29 31	We
+T2	third-party-sharing-disclosure 36 41	share
+E1	third-party-sharing-disclosure:T2 Data-Shared:T4 Data-Provider:T3 Data-Sharer:T1 Condition-Argument:T48
+T3	User 42 46	your
+T4	Data-general 47 67	personal information
+T5	First-party-entity 235 237	We
+T6	third-party-sharing-disclosure 242 247	share
+E2	third-party-sharing-disclosure:T6 Data-Sharer:T5 Data-Shared:T8 Data-Provider:T7 Data-Receiver:T11 Data-Receiver2:T10 Data-Receiver3:T9 Data-Receiver4:T17 Condition-Argument:T24 Data-Receiver5:T23 Data-Receiver6:T20 Data-Receiver7:T19 Data-Receiver8:T18 Data-Receiver9:T31 Data-Receiver10:T39 Data-Receiver11:T51 Data-Receiver12:T50 Purpose-Argument:T43 Purpose-Argument2:T40 Purpose-Argument3:T42 Purpose-Argument4:T41 Data-Receiver13:T49 Purpose-Argument5:T56
+T7	User 248 252	your
+T8	Data-general 253 273	personal information
+T9	Third-party-entity 280 344	Other companies owned by or under common ownership as Codecademy
+T10	Third-party-entity 365 377	subsidiaries
+T11	Third-party-entity 428 452	ultimate holding company
+T12	Third-party-entity 539 548	companies
+T13	first-party-collection-use 554 557	use
+E3	first-party-collection-use:T13 Condition-Argument:T16 Data-Collected:T15 Data-Provider:T14 Data-Provider2:T12 Purpose-Argument:T21 Purpose-Argument2:T53 Purpose-Argument3:T52 Purpose-Argument4:T22
+T14	User 558 562	your
+T15	Data-general 563 583	personal information
+T16	Condition 587 627	the same way as we can under this Policy
+T17	Third-party-entity 629 648	Third party vendors
+T18	Third-party-entity 650 661	consultants
+T19	Third-party-entity 663 674	contractors
+T20	Third-party-entity 679 738	other service providers that perform services on our behalf
+T23	Third-party-entity 875 888	Third parties
+T24	Condition 892 904	your request
+T25	Data-general 910 921	information
+T27	Condition 938 989	you voluntarily disclose for posting to the Service
+T28	User 938 941	you
+T29	Data-user-online-activities-profiles 999 1011	User Content
+T31	Third-party-entity 1438 1451	Other parties
+T32	third-party-sharing-disclosure 1868 1872	sold
+E5	third-party-sharing-disclosure:T32 Data-Shared:T38 Data-Shared2:T37 Data-Shared3:T36 Data-Shared4:T35 Data-Shared5:T34 Data-Provider:T33 Purpose-Argument:T57
+T33	User 1747 1751	Your
+T34	Data-general 1752 1763	information
+T35	Data-user-online-activities-profiles 1773 1783	user names
+T36	Data-contact 1788 1803	email addresses
+T37	Data-user-online-activities-profiles 1805 1817	User Content
+T38	Data-other 1822 1844	other user information
+T39	Third-party-entity 1934 1947	Third parties
+T40	Legal-requirement 1979 2082	satisfy any applicable law, regulation, subpoena/court order, legal process or other government request
+T41	Service-operation-and-security 2089 2178	enforce our Terms of Service, including the investigation of potential violations thereof
+T42	Service-operation-and-security 2193 2271	investigate and defend ourselves against any third party claims or allegations
+T43	Service-operation-and-security 2281 2376	exercise or protect the rights, property, or personal safety of Codecademy, our Users or others
+T44	First-party-entity 2378 2380	We
+T45	third-party-sharing-disclosure 2390 2395	share
+E6	third-party-sharing-disclosure:T45 Data-Shared:T46 Data-Sharer:T44 Data-Receiver:T55 Data-Provider:T58 Data-Shared2:T47
+T46	Data-aggregated-nonidentifiable 2396 2407	information
+T47	Data-aggregated-nonidentifiable 2420 2455	in an aggregated and anonymous form
+T48	Condition 71 100	the instances described below
+T49	Third-party-entity 389 419	organization we own or control
+T50	Third-party-entity 464 501	organization that owns or controls us
+T51	Third-party-entity 511 531	subsidiaries it owns
+T21	Service-operation-and-security 752 779	carry out their work for us
+T22	Service-operation-and-security 799 828	content or service fulfilment
+T52	Other 830 840	accounting
+T53	Analytics-research 845 873	providing analytics services
+T54	Data-general 925 932	content
+T55	Third-party-entity 2413 2419	others
+T56	Merge-acquisition 1455 1745	connection with any company transaction, such as a merger, sale of company assets or shares, reorganization, financing, change of control or the acquisition of all or a portion of our business by another company or third party or in the event of bankruptcy or related or similar proceedings
+T57	Merge-acquisition 1901 1928	these types of transactions
+T58	User 2490 2493	you
+T59	third-party-sharing-disclosure 1172 1177	share
+E7	third-party-sharing-disclosure:T59 Data-Provider:T60 Data-Shared:T61 Data-Sharer:T62 Data-Receiver:T63 Condition-Argument:T64
+T60	User 1145 1148	you
+T61	Data-user-online-activities-profiles 1183 1193	activities
+T62	First-party-entity 1197 1200	our
+T63	Third-party-entity 1220 1227	friends
+T64	Condition 1236 1248	social media
+T26	third-party-sharing-disclosure 1021 1030	available
+E4	third-party-sharing-disclosure:T26 Data-Shared:T25 Data-Shared2:T54 Data-Shared3:T29 Data-Provider:T28 Condition-Argument:T27 Data-Receiver:T30 Data-Receiver2:T65
+T30	Third-party-entity 1038 1044	public
+T65	Third-party-entity 1061 1079	Codecademy members

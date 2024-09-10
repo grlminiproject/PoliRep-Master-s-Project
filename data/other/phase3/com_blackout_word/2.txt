@@ -1,0 +1,4 @@
+1.1 What personal information we collect about you
+
+(a) Our apps collect the following information about you (and we use the information in the ways explained below): (i) if you agree to receive personalized ads, data about your general location and the Identifier for Advertising (IDFA) of the device; (ii) if you participate in any chat activity on our apps, we will collect your handle and any data that you share within your messages posted to that chat; (iii) if you choose to use the Facebook connection functionality and depending on your Facebook privacy settings, your basic Facebook profile information. (b) If you contact our customer support function, we will collect your e-mail address (as well as any other information you include in your correspondence with us), including any updates to any of that information.
+

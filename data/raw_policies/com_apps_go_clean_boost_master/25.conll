@@ -1,0 +1,82 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = Portability
+1	Portability	Portability	NOUN	NN	Number=Sing	0	root	_	SpacesAfter=\n\n|TokenRange=0:11
+
+# newpar
+# sent_id = 2
+# text = You can ask us to provide your personal data to you in a structured, commonly used, machine-readable format, or you can ask to have it “ported” directly to another data controller, but in each case only where: the processing is based on your consent or the performance of a contract with you; and the processing is carried out by automated means.
+1	You	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	3	nsubj	_	TokenRange=13:16
+2	can	can	AUX	MD	VerbForm=Fin	3	aux	_	TokenRange=17:20
+3	ask	ask	VERB	VB	VerbForm=Inf	0	root	_	TokenRange=21:24
+4	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	3	obj	_	TokenRange=25:27
+5	to	to	PART	TO	_	6	mark	_	TokenRange=28:30
+6	provide	provide	VERB	VB	VerbForm=Inf	3	xcomp	_	TokenRange=31:38
+7	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	9	nmod:poss	_	TokenRange=39:43
+8	personal	personal	ADJ	JJ	Degree=Pos	9	amod	_	TokenRange=44:52
+9	data	data	NOUN	NN	Number=Sing	6	obj	_	TokenRange=53:57
+10	to	to	ADP	IN	_	11	case	_	TokenRange=58:60
+11	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	6	obl	_	TokenRange=61:64
+12	in	in	ADP	IN	_	22	case	_	TokenRange=65:67
+13	a	a	DET	DT	Definite=Ind|PronType=Art	22	det	_	TokenRange=68:69
+14	structured	structured	VERB	VBN	Tense=Past|VerbForm=Part	22	amod	_	SpaceAfter=No|TokenRange=70:80
+15	,	,	PUNCT	,	_	17	punct	_	TokenRange=80:81
+16	commonly	commonly	ADV	RB	_	17	advmod	_	TokenRange=82:90
+17	used	use	VERB	VBN	Tense=Past|VerbForm=Part	14	conj	_	SpaceAfter=No|TokenRange=91:95
+18	,	,	PUNCT	,	_	22	punct	_	TokenRange=95:96
+19	machine	machine	NOUN	NN	Number=Sing	21	obl:npmod	_	SpaceAfter=No|TokenRange=97:104
+20	-	-	PUNCT	HYPH	_	21	punct	_	SpaceAfter=No|TokenRange=104:105
+21	readable	readable	ADJ	JJ	Degree=Pos	22	amod	_	TokenRange=105:113
+22	format	format	NOUN	NN	Number=Sing	6	obl	_	SpaceAfter=No|TokenRange=114:120
+23	,	,	PUNCT	,	_	27	punct	_	TokenRange=120:121
+24	or	or	CCONJ	CC	_	27	cc	_	TokenRange=122:124
+25	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	27	nsubj	_	TokenRange=125:128
+26	can	can	AUX	MD	VerbForm=Fin	27	aux	_	TokenRange=129:132
+27	ask	ask	VERB	VB	VerbForm=Inf	6	conj	_	TokenRange=133:136
+28	to	to	PART	TO	_	29	mark	_	TokenRange=137:139
+29	have	have	VERB	VB	VerbForm=Inf	27	xcomp	_	TokenRange=140:144
+30	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	obj	_	TokenRange=145:147
+31	“	"	PUNCT	``	_	32	punct	_	SpaceAfter=No|TokenRange=148:149
+32	ported	port	ADJ	JJ	Degree=Pos	29	xcomp	_	SpaceAfter=No|TokenRange=149:155
+33	”	"	PUNCT	''	_	32	punct	_	TokenRange=155:156
+34	directly	directly	ADV	RB	_	38	advmod	_	TokenRange=157:165
+35	to	to	ADP	IN	_	38	case	_	TokenRange=166:168
+36	another	another	DET	DT	_	38	det	_	TokenRange=169:176
+37	data	data	NOUN	NN	Number=Sing	38	compound	_	TokenRange=177:181
+38	controller	controller	NOUN	NN	Number=Sing	29	obl	_	SpaceAfter=No|TokenRange=182:192
+39	,	,	PUNCT	,	_	43	punct	_	TokenRange=192:193
+40	but	but	CCONJ	CC	_	43	cc	_	TokenRange=194:197
+41	in	in	ADP	IN	_	43	case	_	TokenRange=198:200
+42	each	each	DET	DT	_	43	det	_	TokenRange=201:205
+43	case	case	NOUN	NN	Number=Sing	3	conj	_	TokenRange=206:210
+44	only	only	ADV	RB	_	43	advmod	_	TokenRange=211:215
+45	where	where	ADV	WRB	PronType=Int	50	advmod	_	SpaceAfter=No|TokenRange=216:221
+46	:	:	PUNCT	:	_	45	punct	_	TokenRange=221:222
+47	the	the	DET	DT	Definite=Def|PronType=Art	48	det	_	TokenRange=223:226
+48	processing	processing	NOUN	NN	Number=Sing	50	nsubj:pass	_	TokenRange=227:237
+49	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	50	aux:pass	_	TokenRange=238:240
+50	based	base	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	43	acl	_	TokenRange=241:246
+51	on	on	ADP	IN	_	53	case	_	TokenRange=247:249
+52	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	53	nmod:poss	_	TokenRange=250:254
+53	consent	consent	NOUN	NN	Number=Sing	50	obl	_	TokenRange=255:262
+54	or	or	CCONJ	CC	_	56	cc	_	TokenRange=263:265
+55	the	the	DET	DT	Definite=Def|PronType=Art	56	det	_	TokenRange=266:269
+56	performance	performance	NOUN	NN	Number=Sing	53	conj	_	TokenRange=270:281
+57	of	of	ADP	IN	_	59	case	_	TokenRange=282:284
+58	a	a	DET	DT	Definite=Ind|PronType=Art	59	det	_	TokenRange=285:286
+59	contract	contract	NOUN	NN	Number=Sing	56	nmod	_	TokenRange=287:295
+60	with	with	ADP	IN	_	61	case	_	TokenRange=296:300
+61	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	59	nmod	_	SpaceAfter=No|TokenRange=301:304
+62	;	;	PUNCT	,	_	3	punct	_	TokenRange=304:305
+63	and	and	CCONJ	CC	_	67	cc	_	TokenRange=306:309
+64	the	the	DET	DT	Definite=Def|PronType=Art	65	det	_	TokenRange=310:313
+65	processing	processing	NOUN	NN	Number=Sing	67	nsubj:pass	_	TokenRange=314:324
+66	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	67	aux:pass	_	TokenRange=325:327
+67	carried	carry	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	3	conj	_	TokenRange=328:335
+68	out	out	ADP	RP	_	67	compound:prt	_	TokenRange=336:339
+69	by	by	ADP	IN	_	71	case	_	TokenRange=340:342
+70	automated	automated	VERB	VBN	Tense=Past|VerbForm=Part	71	amod	_	TokenRange=343:352
+71	means	means	NOUN	NNS	Number=Plur	67	obl	_	SpaceAfter=No|TokenRange=353:358
+72	.	.	PUNCT	.	_	3	punct	_	SpacesAfter=\n\n|TokenRange=358:359
+

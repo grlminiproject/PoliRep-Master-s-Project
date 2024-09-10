@@ -1,0 +1,136 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = 6.
+1	6	6	X	LS	_	0	root	_	SpaceAfter=No|TokenRange=0:1
+2	.	.	PUNCT	.	_	1	punct	_	TokenRange=1:2
+
+# sent_id = 2
+# text = Where We Store the Information
+1	Where	where	ADV	WRB	PronType=Int	3	advmod	_	TokenRange=3:8
+2	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	TokenRange=9:11
+3	Store	store	VERB	VBD	Mood=Ind|Tense=Past|VerbForm=Fin	0	root	_	TokenRange=12:17
+4	the	the	DET	DT	Definite=Def|PronType=Art	5	det	_	TokenRange=18:21
+5	Information	information	NOUN	NN	Number=Sing	3	obj	_	SpacesAfter=\n\n|TokenRange=22:33
+
+# newpar
+# sent_id = 3
+# text = The data that we collect from you may be transferred to, and stored at, a destination outside of your country and the European Economic Area (" EEA ") including, in particular, the United States.
+1	The	the	DET	DT	Definite=Def|PronType=Art	2	det	_	TokenRange=35:38
+2	data	data	NOUN	NN	Number=Sing	10	nsubj:pass	_	TokenRange=39:43
+3	that	that	PRON	WDT	PronType=Rel	5	obj	_	TokenRange=44:48
+4	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	5	nsubj	_	TokenRange=49:51
+5	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	2	acl:relcl	_	TokenRange=52:59
+6	from	from	ADP	IN	_	7	case	_	TokenRange=60:64
+7	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	5	obl	_	TokenRange=65:68
+8	may	may	AUX	MD	VerbForm=Fin	10	aux	_	TokenRange=69:72
+9	be	be	AUX	VB	VerbForm=Inf	10	aux:pass	_	TokenRange=73:75
+10	transferred	transfer	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=76:87
+11	to	to	ADP	IN	_	10	obl	_	SpaceAfter=No|TokenRange=88:90
+12	,	,	PUNCT	,	_	14	punct	_	TokenRange=90:91
+13	and	and	CCONJ	CC	_	14	cc	_	TokenRange=92:95
+14	stored	store	VERB	VBN	Tense=Past|VerbForm=Part	10	conj	_	TokenRange=96:102
+15	at	at	ADP	IN	_	18	case	_	SpaceAfter=No|TokenRange=103:105
+16	,	,	PUNCT	,	_	18	punct	_	TokenRange=105:106
+17	a	a	DET	DT	Definite=Ind|PronType=Art	18	det	_	TokenRange=107:108
+18	destination	destination	NOUN	NN	Number=Sing	14	obl	_	TokenRange=109:120
+19	outside	outside	ADP	IN	_	22	case	_	TokenRange=121:128
+20	of	of	ADP	IN	_	22	case	_	TokenRange=129:131
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=132:136
+22	country	country	NOUN	NN	Number=Sing	18	nmod	_	TokenRange=137:144
+23	and	and	CCONJ	CC	_	27	cc	_	TokenRange=145:148
+24	the	the	DET	DT	Definite=Def|PronType=Art	27	det	_	TokenRange=149:152
+25	European	european	PROPN	NNP	Number=Sing	27	compound	_	TokenRange=153:161
+26	Economic	economic	PROPN	NNP	Number=Sing	27	compound	_	TokenRange=162:170
+27	Area	Area	PROPN	NNP	Number=Sing	18	conj	_	TokenRange=171:175
+28	(	(	PUNCT	-LRB-	_	30	punct	_	SpaceAfter=No|TokenRange=176:177
+29	"	"	PUNCT	``	_	30	punct	_	TokenRange=177:178
+30	EEA	EEA	PROPN	NNP	Number=Sing	27	appos	_	TokenRange=179:182
+31	"	"	PUNCT	''	_	30	punct	_	SpaceAfter=No|TokenRange=183:184
+32	)	)	PUNCT	-RRB-	_	30	punct	_	TokenRange=184:185
+33	including	include	VERB	VBG	VerbForm=Ger	34	case	_	SpaceAfter=No|TokenRange=186:195
+34	,	,	PUNCT	,	_	18	punct	_	TokenRange=195:196
+35	in	in	ADP	IN	_	36	case	_	TokenRange=197:199
+36	particular	particular	ADJ	JJ	Degree=Pos	18	nmod	_	SpaceAfter=No|TokenRange=200:210
+37	,	,	PUNCT	,	_	18	punct	_	TokenRange=210:211
+38	the	the	DET	DT	Definite=Def|PronType=Art	40	det	_	TokenRange=212:215
+39	United	United	PROPN	NNP	Number=Sing	40	compound	_	TokenRange=216:222
+40	States	States	PROPN	NNP	Number=Sing	18	appos	_	SpaceAfter=No|TokenRange=223:229
+41	.	.	PUNCT	.	_	10	punct	_	TokenRange=229:230
+
+# sent_id = 4
+# text = It may also be processed by staff operating outside the EEA who work for us or for one of our suppliers.
+1	It	it	PRON	PRP	Case=Nom|Gender=Neut|Number=Sing|Person=3|PronType=Prs	5	nsubj:pass	_	TokenRange=231:233
+2	may	may	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=234:237
+3	also	also	ADV	RB	_	5	advmod	_	TokenRange=238:242
+4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	_	TokenRange=243:245
+5	processed	processe	VERB	VBN	Tense=Past|VerbForm=Part	0	root	_	TokenRange=246:255
+6	by	by	ADP	IN	_	7	case	_	TokenRange=256:258
+7	staff	staff	NOUN	NNS	Number=Plur	5	obl	_	TokenRange=259:264
+8	operating	operate	VERB	VBG	VerbForm=Ger	7	acl	_	TokenRange=265:274
+9	outside	outside	ADP	IN	_	11	case	_	TokenRange=275:282
+10	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=283:286
+11	EEA	EEA	PROPN	NNP	Number=Sing	8	obl	_	TokenRange=287:290
+12	who	who	PRON	WP	PronType=Rel	13	nsubj	_	TokenRange=291:294
+13	work	work	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	11	acl:relcl	_	TokenRange=295:299
+14	for	for	ADP	IN	_	15	case	_	TokenRange=300:303
+15	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	13	obl	_	TokenRange=304:306
+16	or	or	CCONJ	CC	_	18	cc	_	TokenRange=307:309
+17	for	for	ADP	IN	_	18	case	_	TokenRange=310:313
+18	one	one	NUM	CD	NumType=Card	15	conj	_	TokenRange=314:317
+19	of	of	ADP	IN	_	21	case	_	TokenRange=318:320
+20	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	21	nmod:poss	_	TokenRange=321:324
+21	suppliers	supplier	NOUN	NNS	Number=Plur	18	nmod	_	SpaceAfter=No|TokenRange=325:334
+22	.	.	PUNCT	.	_	5	punct	_	TokenRange=334:335
+
+# sent_id = 5
+# text = Such staff may be engaged in, among other things, the fulfilment of your order, the processing of your payment details and the provision of support services.
+1	Such	such	ADJ	JJ	Degree=Pos	2	amod	_	TokenRange=336:340
+2	staff	staff	NOUN	NNS	Number=Plur	5	nsubj:pass	_	TokenRange=341:346
+3	may	may	AUX	MD	VerbForm=Fin	5	aux	_	TokenRange=347:350
+4	be	be	AUX	VB	VerbForm=Inf	5	aux:pass	_	TokenRange=351:353
+5	engaged	engage	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=354:361
+6	in	in	ADP	IN	_	10	case	_	SpaceAfter=No|TokenRange=362:364
+7	,	,	PUNCT	,	_	6	punct	_	TokenRange=364:365
+8	among	among	ADP	IN	_	10	case	_	TokenRange=366:371
+9	other	other	ADJ	JJ	Degree=Pos	10	amod	_	TokenRange=372:377
+10	things	thing	NOUN	NNS	Number=Plur	5	obl	_	SpaceAfter=No|TokenRange=378:384
+11	,	,	PUNCT	,	_	5	punct	_	TokenRange=384:385
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=386:389
+13	fulfilment	fulfilment	NOUN	NN	Number=Sing	5	appos	_	TokenRange=390:400
+14	of	of	ADP	IN	_	16	case	_	TokenRange=401:403
+15	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	16	nmod:poss	_	TokenRange=404:408
+16	order	order	NOUN	NN	Number=Sing	13	nmod	_	SpaceAfter=No|TokenRange=409:414
+17	,	,	PUNCT	,	_	13	punct	_	TokenRange=414:415
+18	the	the	DET	DT	Definite=Def|PronType=Art	19	det	_	TokenRange=416:419
+19	processing	processing	NOUN	NN	Number=Sing	13	appos	_	TokenRange=420:430
+20	of	of	ADP	IN	_	23	case	_	TokenRange=431:433
+21	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	23	nmod:poss	_	TokenRange=434:438
+22	payment	payment	NOUN	NN	Number=Sing	23	compound	_	TokenRange=439:446
+23	details	detail	NOUN	NNS	Number=Plur	19	nmod	_	TokenRange=447:454
+24	and	and	CCONJ	CC	_	26	cc	_	TokenRange=455:458
+25	the	the	DET	DT	Definite=Def|PronType=Art	26	det	_	TokenRange=459:462
+26	provision	provision	NOUN	NN	Number=Sing	23	conj	_	TokenRange=463:472
+27	of	of	ADP	IN	_	29	case	_	TokenRange=473:475
+28	support	support	NOUN	NN	Number=Sing	29	compound	_	TokenRange=476:483
+29	services	service	NOUN	NNS	Number=Plur	26	nmod	_	SpaceAfter=No|TokenRange=484:492
+30	.	.	PUNCT	.	_	5	punct	_	TokenRange=492:493
+
+# sent_id = 6
+# text = By submitting your information, you agree to this transfer, storing or processing.
+1	By	by	SCONJ	IN	_	2	mark	_	TokenRange=494:496
+2	submitting	submit	VERB	VBG	VerbForm=Ger	7	advcl	_	TokenRange=497:507
+3	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	4	nmod:poss	_	TokenRange=508:512
+4	information	information	NOUN	NN	Number=Sing	2	obj	_	SpaceAfter=No|TokenRange=513:524
+5	,	,	PUNCT	,	_	7	punct	_	TokenRange=524:525
+6	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	7	nsubj	_	TokenRange=526:529
+7	agree	agree	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=530:535
+8	to	to	ADP	IN	_	10	case	_	TokenRange=536:538
+9	this	this	DET	DT	Number=Sing|PronType=Dem	10	det	_	TokenRange=539:543
+10	transfer	transfer	NOUN	NN	Number=Sing	7	obl	_	SpaceAfter=No|TokenRange=544:552
+11	,	,	PUNCT	,	_	12	punct	_	TokenRange=552:553
+12	storing	storing	NOUN	NN	Number=Sing	10	conj	_	TokenRange=554:561
+13	or	or	CCONJ	CC	_	14	cc	_	TokenRange=562:564
+14	processing	process	NOUN	NN	Number=Sing	10	conj	_	SpaceAfter=No|TokenRange=565:575
+15	.	.	PUNCT	.	_	7	punct	_	SpacesAfter=\n\n|TokenRange=575:576
+

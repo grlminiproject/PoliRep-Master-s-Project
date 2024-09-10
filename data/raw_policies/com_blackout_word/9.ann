@@ -1,0 +1,52 @@
+T1	First-party-entity 25 27	We
+T2	third-party-sharing-disclosure 33 38	share
+E1	third-party-sharing-disclosure:T2 Data-Sharer:T1 Data-Provider:T3 Data-Shared:T4 Data-Receiver:T5 Data-Receiver2:T6 Data-Receiver3:T7 Data-Receiver4:T8 Purpose-Argument:T9 Purpose-Argument2:T14 Data-Receiver5:T10 Data-Receiver6:T13 Data-Receiver7:T12 Data-Receiver8:T11 Purpose-Argument3:T39
+T3	User 39 43	your
+T4	Data-general 44 64	personal information
+T5	Third-party-entity 84 97	third parties
+T6	Third-party-entity 134 153	Amazon Web Services
+T7	Third-party-entity 300 327	OS providers of your device
+T8	Third-party-entity 332 398	the providers of the platform from which you downloaded our app(s)
+T9	Basic-service-feature 412 479	verify purchases you make and provide in-app purchase opportunities
+T10	Third-party-entity 495 501	Google
+T11	Third-party-entity 503 509	Amazon
+T12	Third-party-entity 514 519	Apple
+T13	Third-party-entity 525 537	Google, Inc.
+T14	Analytics-research 565 667	provide analytics of bugs and issues with our apps, so that we can fix, stabilise and improve our apps
+T15	First-party-entity 673 675	We
+T16	third-party-sharing-disclosure 680 685	share
+E2	third-party-sharing-disclosure:T16 Data-Sharer:T15 Data-Provider:T17 Data-Shared:T18 Data-Receiver:T19 Purpose-Argument:T21 Purpose-Argument2:T22
+T17	User 686 690	your
+T18	Data-general 691 711	personal information
+T19	Third-party-entity 721 736	group companies
+T21	Communications 794 840	enable them to provide customer support to you
+T22	Analytics-research 853 1023	internal administrative and management purposes (for example, for corporate strategy, compliance, auditing and monitoring, research and development and quality assurance)
+T23	First-party-entity 1029 1031	We
+T24	third-party-sharing-disclosure 1042 1050	disclose
+E3	third-party-sharing-disclosure:T24 Data-Sharer:T23 Data-Provider:T25 Data-Shared:T26 Data-Receiver:T27 Purpose-Argument:T28 Purpose-Argument2:T29 Purpose-Argument3:T30 Purpose-Argument4:T31 Purpose-Argument5:T32
+T25	User 1051 1055	your
+T26	Data-general 1056 1076	personal information
+T27	Third-party-entity 1080 1093	third parties
+T28	Basic-service-feature 1151 1185	run, grow and develop our business
+T29	Merge-acquisition 1194 1602	we or any of our group companies sell or buy any business or assets (or propose to do so), or we or any of our group companies are or may be acquired, we or our group companies may disclose your personal information to the prospective seller or buyer of such business or assets, and to their legal, financial and other professional advisers, and that personal information may be one of the transferred assets
+T30	Legal-requirement 1615 1900	we are under a duty to disclose or share your personal information in order to comply with any legal obligation, any lawful request from government or law enforcement officials and as may be required to meet national security or law enforcement requirements or prevent illegal activity
+T31	Service-operation-and-security 1918 2155	establish, exercise, enforce, or defend our terms of service or any other agreement or to respond to any claims, to protect our rights or the rights of a third party, to protect the safety of any person or to prevent any illegal activity
+T32	Service-operation-and-security 2167 2268	protect the rights, property, or safety of Blackout Lab SL, our staff, our customers or other persons
+T33	First-party-entity 2274 2276	We
+T34	third-party-sharing-disclosure 2286 2294	disclose
+E4	third-party-sharing-disclosure:T34 Data-Sharer:T33 Data-Shared:T35 Data-Provider:T36 Purpose-Argument:T37 Data-Receiver:T46 Data-Receiver2:T47
+T35	Data-aggregated-nonidentifiable 2303 2350	anonymised, aggregated reporting and statistics
+T36	User 2357 2362	users
+T37	Service-operation-and-security 2394 2461	internal reporting or reporting to our group or other third parties
+T38	First-party-entity 2612 2614	we
+T40	third-party-sharing-disclosure 2626 2631	share
+E5	third-party-sharing-disclosure:T40 Data-Sharer:T38 Data-Provider:T41 Condition-Argument2:T44 Data-Receiver:T43 Data-Shared:T42
+T41	User 2653 2657	your
+T42	Data-general 2658 2678	personal information
+T43	Third-party-entity 2686 2697	third party
+T44	Condition 2706 2764	notifying you and, where necessary, obtaining your consent
+T39	Basic-service-feature 159 290	store all our data and may access personal data stored within that storage solution when providing support and maintenance purposes
+T20	first-party-collection-use 2299 2302	use
+E6	first-party-collection-use:T20 Data-Collector:T33 Data-Collected:T35 Data-Provider:T36 Purpose-Argument:T37 Data-Provider2:T46 Data-Provider3:T47
+T46	Third-party-entity 2448 2461	third parties
+T47	Third-party-entity 2433 2438	group

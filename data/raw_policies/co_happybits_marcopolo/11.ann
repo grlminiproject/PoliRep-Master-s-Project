@@ -1,0 +1,12 @@
+T1	First-party-entity 8 10	We
+T2	Negation 11 16	don't
+T3	first-party-collection-use 17 20	use
+E1	first-party-collection-use:T3 Polarity:T2 Data-Collector:T1 Data-Provider:T4 Data-Collected:T5 Purpose-Argument:T6
+T4	User 21 25	your
+T5	Data-general 26 46	Personal Information
+T6	Adverstising-Marketing 51 63	ad targeting
+T7	First-party-entity 65 75	Marco Polo
+T8	data-storage-retention-deletion 81 87	stores
+E2	data-storage-retention-deletion:T8 Data-Holder:T7 Data-Retained:T9 Purpose-Argument:T10
+T9	Data-general 92 112	Personal Information
+T10	Basic-service-feature 116 171	needs to function as a video chat and messaging service

@@ -1,0 +1,188 @@
+# newdoc
+# newpar
+# sent_id = 1
+# text = The Privacy Policy for www.CMS.gov can be found here - www.cms.gov/privacy .
+1	The	the	DET	DT	Definite=Def|PronType=Art	3	det	_	TokenRange=0:3
+2	Privacy	privacy	NOUN	NN	Number=Sing	3	compound	_	TokenRange=4:11
+3	Policy	policy	NOUN	NN	Number=Sing	8	nsubj:pass	_	TokenRange=12:18
+4	for	for	ADP	IN	_	5	case	_	TokenRange=19:22
+5	www.CMS.gov	www.CMS.gov	PROPN	NNP	Number=Sing	3	nmod	_	TokenRange=23:34
+6	can	can	AUX	MD	VerbForm=Fin	8	aux	_	TokenRange=35:38
+7	be	be	AUX	VB	VerbForm=Inf	8	aux:pass	_	TokenRange=39:41
+8	found	find	VERB	VBN	Tense=Past|VerbForm=Part|Voice=Pass	0	root	_	TokenRange=42:47
+9	here	here	ADV	RB	PronType=Dem	8	advmod	_	TokenRange=48:52
+10	-	-	PUNCT	,	_	8	punct	_	TokenRange=53:54
+11	www.cms.gov/privacy	www.cms.gov/privacy	INTJ	UH	_	8	discourse	_	TokenRange=55:74
+12	.	.	PUNCT	.	_	8	punct	_	SpacesAfter=\n|TokenRange=75:76
+
+# sent_id = 2
+# text = Protecting your privacy is very important to us.
+1	Protecting	protect	VERB	VBG	VerbForm=Ger	6	csubj	_	TokenRange=77:87
+2	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	3	nmod:poss	_	TokenRange=88:92
+3	privacy	privacy	NOUN	NN	Number=Sing	1	obj	_	TokenRange=93:100
+4	is	be	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	6	cop	_	TokenRange=101:103
+5	very	very	ADV	RB	_	6	advmod	_	TokenRange=104:108
+6	important	important	ADJ	JJ	Degree=Pos	0	root	_	TokenRange=109:118
+7	to	to	ADP	IN	_	8	case	_	TokenRange=119:121
+8	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	6	obl	_	SpaceAfter=No|TokenRange=122:124
+9	.	.	PUNCT	.	_	6	punct	_	TokenRange=124:125
+
+# sent_id = 3
+# text = We're telling you about the Centers for Medicare & Medicaid Services (CMS) website privacy policy so you know what information we collect, why we collect it, and what we do with it.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	3	nsubj	_	SpaceAfter=No|TokenRange=126:128
+2	're	be	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	aux	_	TokenRange=128:131
+3	telling	tell	VERB	VBG	Tense=Pres|VerbForm=Part	0	root	_	TokenRange=132:139
+4	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	3	obj	_	TokenRange=140:143
+5	about	about	ADP	IN	_	7	case	_	TokenRange=144:149
+6	the	the	DET	DT	Definite=Def|PronType=Art	7	det	_	TokenRange=150:153
+7	Centers	centers	PROPN	NNPS	Number=Plur	18	compound	_	TokenRange=154:161
+8	for	for	ADP	IN	_	9	case	_	TokenRange=162:165
+9	Medicare	Medicare	PROPN	NNP	Number=Sing	7	nmod	_	TokenRange=166:174
+10	&	&	CCONJ	CC	_	12	cc	_	TokenRange=175:176
+11	Medicaid	Medicaid	ADJ	JJ	Degree=Pos	12	amod	_	TokenRange=177:185
+12	Services	Services	NOUN	NNS	Number=Plur	7	conj	_	TokenRange=186:194
+13	(	(	PUNCT	-LRB-	_	14	punct	_	SpaceAfter=No|TokenRange=195:196
+14	CMS	CMS	NOUN	NNS	Number=Plur	7	appos	_	SpaceAfter=No|TokenRange=196:199
+15	)	)	PUNCT	-RRB-	_	14	punct	_	TokenRange=199:200
+16	website	website	NOUN	NN	Number=Sing	17	compound	_	TokenRange=201:208
+17	privacy	privacy	NOUN	NN	Number=Sing	18	compound	_	TokenRange=209:216
+18	policy	policy	NOUN	NN	Number=Sing	3	obj	_	TokenRange=217:223
+19	so	so	ADV	RB	_	21	advmod	_	TokenRange=224:226
+20	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	21	nsubj	_	TokenRange=227:230
+21	know	know	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	3	parataxis	_	TokenRange=231:235
+22	what	what	DET	WDT	PronType=Int	23	det	_	TokenRange=236:240
+23	information	information	NOUN	NN	Number=Sing	21	obj	_	TokenRange=241:252
+24	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	25	nsubj	_	TokenRange=253:255
+25	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	acl:relcl	_	SpaceAfter=No|TokenRange=256:263
+26	,	,	PUNCT	,	_	21	punct	_	TokenRange=263:264
+27	why	why	ADV	WRB	PronType=Int	29	advmod	_	TokenRange=265:268
+28	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	29	nsubj	_	TokenRange=269:271
+29	collect	collect	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	21	ccomp	_	TokenRange=272:279
+30	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	29	obj	_	SpaceAfter=No|TokenRange=280:282
+31	,	,	PUNCT	,	_	33	punct	_	TokenRange=282:283
+32	and	and	CCONJ	CC	_	33	cc	_	TokenRange=284:287
+33	what	what	PRON	WP	PronType=Int	29	conj	_	TokenRange=288:292
+34	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	35	nsubj	_	TokenRange=293:295
+35	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	33	acl:relcl	_	TokenRange=296:298
+36	with	with	ADP	IN	_	37	case	_	TokenRange=299:303
+37	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	35	obl	_	SpaceAfter=No|TokenRange=304:306
+38	.	.	PUNCT	.	_	21	punct	_	TokenRange=306:307
+
+# sent_id = 4
+# text = This policy covers the following websites: www.Medicaid.gov www.InsureKidsNow.gov Select cms.gov sub-domains that link to this page CMS websites don't collect any personally identifiable information (PII) about you during your visit unless you choose to provide it to us.
+1	This	this	DET	DT	Number=Sing|PronType=Dem	2	det	_	TokenRange=308:312
+2	policy	policy	NOUN	NN	Number=Sing	3	nsubj	_	TokenRange=313:319
+3	covers	cover	VERB	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=320:326
+4	the	the	DET	DT	Definite=Def|PronType=Art	6	det	_	TokenRange=327:330
+5	following	follow	VERB	VBG	VerbForm=Ger	6	amod	_	TokenRange=331:340
+6	websites	website	NOUN	NNS	Number=Plur	3	obj	_	SpaceAfter=No|TokenRange=341:349
+7	:	:	PUNCT	:	_	3	punct	_	SpacesAfter=\n|TokenRange=349:350
+8	www.Medicaid.gov	www.Medicaid.gov	X	GW	_	13	goeswith	_	SpacesAfter=\n|TokenRange=351:367
+9	www.InsureKidsNow.gov	www.InsureKidsNow.gov	X	GW	_	13	goeswith	_	SpacesAfter=\n|TokenRange=368:389
+10	Select	select	X	GW	_	13	goeswith	_	TokenRange=390:396
+11	cms.gov	cms.gov	X	GW	_	13	goeswith	_	TokenRange=397:404
+12	sub	sub	X	AFX	_	13	goeswith	_	SpaceAfter=No|TokenRange=405:408
+13	-domains	-domain	NOUN	NNS	Number=Plur	23	nsubj	_	TokenRange=408:416
+14	that	that	PRON	WDT	PronType=Rel	15	nsubj	_	TokenRange=417:421
+15	link	link	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	13	acl:relcl	_	TokenRange=422:426
+16	to	to	ADP	IN	_	20	case	_	TokenRange=427:429
+17	this	this	DET	DT	Number=Sing|PronType=Dem	20	det	_	TokenRange=430:434
+18	page	page	NOUN	NN	Number=Sing	20	compound	_	SpacesAfter=\n|TokenRange=435:439
+19	CMS	Cm	NOUN	NN	Number=Sing	20	compound	_	TokenRange=440:443
+20	websites	website	NOUN	NNS	Number=Plur	15	obl	_	TokenRange=444:452
+21	do	do	AUX	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	aux	_	SpaceAfter=No|TokenRange=453:455
+22	n't	not	PART	RB	_	23	advmod	_	TokenRange=455:458
+23	collect	collect	VERB	VB	VerbForm=Inf	3	parataxis	_	TokenRange=459:466
+24	any	any	DET	DT	_	27	det	_	TokenRange=467:470
+25	personally	personally	ADV	RB	_	26	advmod	_	TokenRange=471:481
+26	identifiable	identifiable	ADJ	JJ	Degree=Pos	27	amod	_	TokenRange=482:494
+27	information	information	NOUN	NN	Number=Sing	23	obj	_	TokenRange=495:506
+28	(	(	PUNCT	-LRB-	_	29	punct	_	SpaceAfter=No|TokenRange=507:508
+29	PII	PII	X	AFX	_	23	appos	_	SpaceAfter=No|TokenRange=508:511
+30	)	)	PUNCT	-RRB-	_	29	punct	_	TokenRange=511:512
+31	about	about	ADP	IN	_	32	case	_	TokenRange=513:518
+32	you	you	PRON	PRP	Case=Acc|Person=2|PronType=Prs	23	obl	_	TokenRange=519:522
+33	during	during	ADP	IN	_	35	case	_	TokenRange=523:529
+34	your	you	PRON	PRP$	Person=2|Poss=Yes|PronType=Prs	35	nmod:poss	_	TokenRange=530:534
+35	visit	visit	NOUN	NN	Number=Sing	23	obl	_	TokenRange=535:540
+36	unless	unless	SCONJ	IN	_	38	mark	_	TokenRange=541:547
+37	you	you	PRON	PRP	Case=Nom|Person=2|PronType=Prs	38	nsubj	_	TokenRange=548:551
+38	choose	choose	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	23	advcl	_	TokenRange=552:558
+39	to	to	PART	TO	_	40	mark	_	TokenRange=559:561
+40	provide	provide	VERB	VB	VerbForm=Inf	38	xcomp	_	TokenRange=562:569
+41	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	40	obj	_	TokenRange=570:572
+42	to	to	ADP	IN	_	43	case	_	TokenRange=573:575
+43	us	we	PRON	PRP	Case=Acc|Number=Plur|Person=1|PronType=Prs	40	obl	_	SpaceAfter=No|TokenRange=576:578
+44	.	.	PUNCT	.	_	3	punct	_	TokenRange=578:579
+
+# sent_id = 5
+# text = We do, however, collect information from visitors who read, browse, and/or download information from our site.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=580:582
+2	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	SpaceAfter=No|TokenRange=583:585
+3	,	,	PUNCT	,	_	2	punct	_	TokenRange=585:586
+4	however	however	ADV	RB	_	2	advmod	_	SpaceAfter=No|TokenRange=587:594
+5	,	,	PUNCT	,	_	2	punct	_	TokenRange=594:595
+6	collect	collect	ADJ	JJ	Degree=Pos	7	amod	_	TokenRange=596:603
+7	information	information	NOUN	NN	Number=Sing	2	obj	_	TokenRange=604:615
+8	from	from	ADP	IN	_	9	case	_	TokenRange=616:620
+9	visitors	visitor	NOUN	NNS	Number=Plur	2	obl	_	TokenRange=621:629
+10	who	who	PRON	WP	PronType=Rel	11	nsubj	_	TokenRange=630:633
+11	read	read	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	9	acl:relcl	_	SpaceAfter=No|TokenRange=634:638
+12	,	,	PUNCT	,	_	13	punct	_	TokenRange=638:639
+13	browse	browse	VERB	VB	VerbForm=Inf	11	conj	_	SpaceAfter=No|TokenRange=640:646
+14	,	,	PUNCT	,	_	19	punct	_	TokenRange=646:647
+15	and	and	CCONJ	CC	_	17	cc	_	SpaceAfter=No|TokenRange=648:651
+16	/	/	PUNCT	,	_	17	punct	_	SpaceAfter=No|TokenRange=651:652
+17	or	or	CCONJ	CC	_	19	cc	_	TokenRange=652:654
+18	download	download	NOUN	NN	Number=Sing	19	compound	_	TokenRange=655:663
+19	information	information	NOUN	NN	Number=Sing	11	conj	_	TokenRange=664:675
+20	from	from	ADP	IN	_	22	case	_	TokenRange=676:680
+21	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	22	nmod:poss	_	TokenRange=681:684
+22	site	site	NOUN	NN	Number=Sing	19	nmod	_	SpaceAfter=No|TokenRange=685:689
+23	.	.	PUNCT	.	_	2	punct	_	TokenRange=689:690
+
+# sent_id = 6
+# text = We do this so we can understand how the public uses the site and how to make it more helpful.
+1	We	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	2	nsubj	_	TokenRange=691:693
+2	do	do	VERB	VBP	Mood=Ind|Tense=Pres|VerbForm=Fin	0	root	_	TokenRange=694:696
+3	this	this	PRON	DT	Number=Sing|PronType=Dem	2	obj	_	TokenRange=697:701
+4	so	so	ADV	RB	_	7	advmod	_	TokenRange=702:704
+5	we	we	PRON	PRP	Case=Nom|Number=Plur|Person=1|PronType=Prs	7	nsubj	_	TokenRange=705:707
+6	can	can	AUX	MD	VerbForm=Fin	7	aux	_	TokenRange=708:711
+7	understand	understand	VERB	VB	VerbForm=Inf	2	advcl	_	TokenRange=712:722
+8	how	how	ADV	WRB	PronType=Int	11	advmod	_	TokenRange=723:726
+9	the	the	DET	DT	Definite=Def|PronType=Art	11	det	_	TokenRange=727:730
+10	public	public	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=731:737
+11	uses	use	NOUN	NNS	Number=Plur	7	ccomp	_	TokenRange=738:742
+12	the	the	DET	DT	Definite=Def|PronType=Art	13	det	_	TokenRange=743:746
+13	site	site	NOUN	NN	Number=Sing	11	obj	_	TokenRange=747:751
+14	and	and	CCONJ	CC	_	17	cc	_	TokenRange=752:755
+15	how	how	ADV	WRB	PronType=Int	17	advmod	_	TokenRange=756:759
+16	to	to	PART	TO	_	17	mark	_	TokenRange=760:762
+17	make	make	VERB	VB	VerbForm=Inf	13	conj	_	TokenRange=763:767
+18	it	it	PRON	PRP	Case=Acc|Gender=Neut|Number=Sing|Person=3|PronType=Prs	17	obj	_	TokenRange=768:770
+19	more	more	ADV	RBR	_	20	advmod	_	TokenRange=771:775
+20	helpful	helpful	ADJ	JJ	Degree=Pos	17	xcomp	_	SpaceAfter=No|TokenRange=776:783
+21	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n|TokenRange=783:784
+
+# sent_id = 7
+# text = CMS websites never collect information for commercial marketing or any purpose unrelated to our mission and goals.
+1	CMS	Cm	AUX	VBZ	Mood=Ind|Number=Sing|Person=3|Tense=Pres|VerbForm=Fin	2	cop	_	TokenRange=785:788
+2	websites	websites	NOUN	NNS	Number=Plur	0	root	_	TokenRange=789:797
+3	never	never	ADV	RB	_	5	advmod	_	TokenRange=798:803
+4	collect	collect	ADJ	JJ	Degree=Pos	5	amod	_	TokenRange=804:811
+5	information	information	NOUN	NN	Number=Sing	2	conj	_	TokenRange=812:823
+6	for	for	ADP	IN	_	8	case	_	TokenRange=824:827
+7	commercial	commercial	ADJ	JJ	Degree=Pos	8	amod	_	TokenRange=828:838
+8	marketing	marketing	NOUN	NN	Number=Sing	2	nmod	_	TokenRange=839:848
+9	or	or	CCONJ	CC	_	11	cc	_	TokenRange=849:851
+10	any	any	DET	DT	_	11	det	_	TokenRange=852:855
+11	purpose	purpose	NOUN	NN	Number=Sing	2	conj	_	TokenRange=856:863
+12	unrelated	unrelated	ADJ	JJ	Degree=Pos	11	amod	_	TokenRange=864:873
+13	to	to	ADP	IN	_	15	case	_	TokenRange=874:876
+14	our	we	PRON	PRP$	Number=Plur|Person=1|Poss=Yes|PronType=Prs	15	nmod:poss	_	TokenRange=877:880
+15	mission	mission	NOUN	NN	Number=Sing	12	obl	_	TokenRange=881:888
+16	and	and	CCONJ	CC	_	17	cc	_	TokenRange=889:892
+17	goals	goal	NOUN	NNS	Number=Plur	15	conj	_	SpaceAfter=No|TokenRange=893:898
+18	.	.	PUNCT	.	_	2	punct	_	SpacesAfter=\n\n|TokenRange=898:899
+

@@ -1,0 +1,55 @@
+T1	security-threat 79 98	unauthorized access
+T2	security-threat 105 128	unauthorized alteration
+T3	First-party-entity 40 42	We
+T4	data-security-protection 55 62	protect
+E1	data-security-protection:T4 Data-Protector:T3 Data-Provider:T6 protect-against:T1 protect-against2:T2 Data-Protected:T7 protect-against3:T44 protect-against4:T43
+T6	User 70 73	you
+T7	Data-general 159 172	personal data
+T8	security-threat 329 359	unauthorized access to systems
+T9	First-party-entity 202 204	We
+T10	general-safeguard-method 202 272	We review our information collection, storage and processing practices
+T11	Access-limitation 284 310	physical security measures
+T12	Data-general 216 227	information
+T13	data-security-protection 315 320	guard
+E2	data-security-protection:T13 Data-Protector:T9 Data-Protected:T12 method:T10 method2:T11 protect-against:T8 Data-Protected2:T7
+T14	First-party-entity 361 363	We
+T15	data-security-protection 364 367	use
+E3	data-security-protection:T15 method:T16 Data-Protector:T14 Data-Protected:T7
+T16	encryptions 368 378	encryption
+T17	First-party-entity 398 400	We
+T18	data-security-protection 401 404	use
+E4	data-security-protection:T18 Data-Protected:T7 Data-Protector:T17 method:T19
+T19	Access-limitation 405 424	password protection
+T22	First-party-entity 448 450	We
+T23	Access-limitation 451 466	restrict access
+T24	Data-general 470 483	personal data
+T25	data-security-protection 451 459	restrict
+E5	data-security-protection:T25 method:T23 Data-Protected:T24 Data-Protector:T22
+T26	third-party-sharing-disclosure 835 841	viewed
+E6	third-party-sharing-disclosure:T26 Data-Provider:T28 Data-Sharer:T30 Data-Shared:T29 Data-Receiver:T27 Data-Receiver2:T45 Data-Receiver3:T46 Condition-Argument:T5
+T27	Third-party-entity 845 889	members of third party applications or sites
+T28	User 684 687	You
+T29	Data-general 712 725	personal data
+T30	First-party-entity 795 798	our
+T31	Negation 1204 1210	cannot
+T32	Third-party-entity 1226 1246	third-party services
+T33	data-security-protection 1252 1256	made
+E7	data-security-protection:T33 method:T34 Data-Protected:T37 Data-Protector:T32 Polarity:T31 Data-Protector2:T35 Data-Provider:T36 Condition-Argument:T47
+T34	encryptions 1293 1308	fully encrypted
+T35	First-party-entity 1201 1203	we
+T36	User 936 939	you
+T37	Data-general 1262 1273	information
+T38	Data-general 1829 1840	information
+T39	Negation 1868 1871	not
+T40	data-security-protection 1902 1910	security
+E8	data-security-protection:T40 Data-Protected:T38 Polarity:T39 Data-Protector:T41 Data-Provider:T42 Condition-Argument:T48 method:T49
+T41	First-party-entity 1733 1735	we
+T42	User 1841 1844	you
+T43	security-threat 130 140	disclosure
+T44	security-threat 144 155	destruction
+T45	Third-party-entity 898 915	chat applications
+T46	Third-party-entity 919 929	messengers
+T47	Condition 936 1182	you utilize third-party social media services, email, text messages etc. which you accessed via using our product, and to interact with other users or service providers and exchange personal contact, geographic location or track of traveling etc.
+T48	Condition 1883 1892	guarantee
+T49	general-safeguard-method 1754 1813	reasonable technical, administrative, and physical measures
+T5	Condition 731 817	you choose to share, disclose or submit voluntarily while using our website or devices

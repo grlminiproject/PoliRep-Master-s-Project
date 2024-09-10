@@ -1,0 +1,16 @@
+T1	data-security-protection 1158 1166	protects
+E1	data-security-protection:T1 protect-against:T3 Data-Protected:T2 Data-Protector:T4
+T2	Data-general 1167 1178	information
+T3	security-threat 1184 1219	accidental or malicious destruction
+T4	First-party-entity 1109 1111	We
+T6	Condition 1238 1283	after you delete information from our Service
+T7	First-party-entity 1272 1275	our
+T8	User 1244 1247	you
+T9	retention-period 1296 1307	immediately
+T10	Negation 1292 1295	not
+T11	data-storage-retention-deletion 1308 1314	delete
+E2	data-storage-retention-deletion:T11 Storage-Place:T15 Data-Retained:T14 Storage-Place2:T13 Data-Retained2:T12 Retention-Period:T9 Polarity:T10 Data-Holder:T7 Condition-Argument:T6 Data-Provider:T8
+T12	Data-general 1315 1330	residual copies
+T13	storage-place 1340 1354	active servers
+T14	Data-general 1374 1385	information
+T15	storage-place 1395 1409	backup systems

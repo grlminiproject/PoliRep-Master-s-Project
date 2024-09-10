@@ -1,0 +1,47 @@
+T5	ServiceConsumptionBehavior 84 145	information about which services you use and how you use them
+T9	ServiceConsumptionBehavior 210 232	when you’re reading it
+T10	Tracking 238 259	how you’re reading it
+T12	Data-general 344 355	information
+T18	ServiceConsumptionBehavior 424 455	information about your activity
+T19	ServiceConsumptionBehavior 491 525	How you interact with our services
+T20	BrowserHistory 535 560	what sections you look at
+T21	BrowserHistory 562 581	what you search for
+T22	SocialMediaCommunication 583 617	what posts and comments you upload
+T23	SocialMediaCommunication 622 668	what posts and comments you upvote or downvote
+T28	SocialMediaCommunication 703 737	content you create on our services
+T31	Data-general 756 780	images, videos, and text
+T34	Data-general 808 848	information about the content you create
+T35	Data-other 863 891	When you created the content
+T36	Location 892 921	Where you created the content
+T37	Data-general 922 949	How you created the content
+T38	DeviceBased 958 976	device information
+T42	Interaction 993 1053	information about how other users interact with your content
+T44	SocialMediaCommunication 1068 1094	Post upvotes and downvotes
+T45	SocialMediaCommunication 1095 1137	Comments and comment upvotes and downvotes
+T48	DeviceBased 1169 1215	information from and about the devices you use
+T50	DeviceSoftware 1230 1274	Information about your hardware and software
+T51	DeviceBased 1284 1298	hardware model
+T52	DeviceOperatingSystem 1300 1324	operating system version
+T53	DeviceBased 1326 1339	device memory
+T54	Identifier 1341 1364	advertising identifiers
+T55	Identifier 1366 1396	unique application identifiers
+T56	DeviceIdentifier 1398 1423	unique device identifiers
+T57	Language 1429 1437	language
+T58	Data-other 1439 1501	Information about your wireless and mobile network connections
+T62	Data-other 1607 1613	images
+T63	DeviceBased 1618 1673	other information from your devices’s camera and photos
+T69	Location 1870 1901	information about your location
+T74	GPSCoordinate 1945 1984	information about your precise location
+T85	Data-general 2335 2346	information
+T90	Tracking 2727 2742	log information
+T92	ServiceConsumptionBehavior 2783 2825	Details about how you’ve used our services
+T93	DeviceBased 2827 2845	Device information
+T94	Tracking 2855 2871	web browser type
+T95	Language 2876 2884	language
+T96	ServiceConsumptionBehavior 2886 2898	Access times
+T97	BrowserHistory 2900 2924	Pages and content viewed
+T98	IPAddress 2926 2936	IP address
+T99	Tracking 2938 2973	Identifiers associated with cookies
+T100	Data-other 2977 3045	other technologies that may uniquely identify your device or browser
+T101	BrowserHistory 3047 3122	Pages you visited before or after visiting our website or using our service
+T25	Data-general 2311 2323	technologies

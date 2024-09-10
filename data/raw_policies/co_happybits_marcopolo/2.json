@@ -1,0 +1,370 @@
+{
+  "text": "What we collect\n\nMarco Polo is a communication service. To operate the Service, we may collect Personal Information you choose to provide us.\n\n",
+  "words": [
+    "What",
+    "we",
+    "collect",
+    "Marco",
+    "Polo",
+    "is",
+    "a",
+    "communication",
+    "service",
+    ".",
+    "To",
+    "operate",
+    "the",
+    "Service",
+    ",",
+    "we",
+    "may",
+    "collect",
+    "Personal",
+    "Information",
+    "you",
+    "choose",
+    "to",
+    "provide",
+    "us",
+    "."
+  ],
+  "lemma": [
+    "what",
+    "we",
+    "collect",
+    "Marco",
+    "Polo",
+    "be",
+    "a",
+    "communication",
+    "service",
+    ".",
+    "to",
+    "operate",
+    "the",
+    "service",
+    ",",
+    "we",
+    "may",
+    "collect",
+    "Personal",
+    "information",
+    "you",
+    "choose",
+    "to",
+    "provide",
+    "we",
+    "."
+  ],
+  "pos-tags": [
+    "WP",
+    "PRP",
+    "VBP",
+    "NNP",
+    "NNP",
+    "VBZ",
+    "DT",
+    "NN",
+    "NN",
+    ".",
+    "TO",
+    "VB",
+    "DT",
+    "NN",
+    ",",
+    "PRP",
+    "MD",
+    "VB",
+    "JJ",
+    "NN",
+    "PRP",
+    "VBP",
+    "TO",
+    "VB",
+    "PRP",
+    "."
+  ],
+  "dependency-relation": [
+    "obj",
+    "nsubj",
+    "root",
+    "nsubj",
+    "flat",
+    "cop",
+    "det",
+    "compound",
+    "root",
+    "punct",
+    "mark",
+    "advcl",
+    "det",
+    "obj",
+    "punct",
+    "nsubj",
+    "aux",
+    "root",
+    "amod",
+    "obj",
+    "nsubj",
+    "ccomp",
+    "mark",
+    "xcomp",
+    "obj",
+    "punct"
+  ],
+  "token-ranges": [
+    [
+      0,
+      4
+    ],
+    [
+      5,
+      7
+    ],
+    [
+      8,
+      15
+    ],
+    [
+      17,
+      22
+    ],
+    [
+      23,
+      27
+    ],
+    [
+      28,
+      30
+    ],
+    [
+      31,
+      32
+    ],
+    [
+      33,
+      46
+    ],
+    [
+      47,
+      54
+    ],
+    [
+      54,
+      55
+    ],
+    [
+      56,
+      58
+    ],
+    [
+      59,
+      66
+    ],
+    [
+      67,
+      70
+    ],
+    [
+      71,
+      78
+    ],
+    [
+      78,
+      79
+    ],
+    [
+      80,
+      82
+    ],
+    [
+      83,
+      86
+    ],
+    [
+      87,
+      94
+    ],
+    [
+      95,
+      103
+    ],
+    [
+      104,
+      115
+    ],
+    [
+      116,
+      119
+    ],
+    [
+      120,
+      126
+    ],
+    [
+      127,
+      129
+    ],
+    [
+      130,
+      137
+    ],
+    [
+      138,
+      140
+    ],
+    [
+      140,
+      141
+    ]
+  ],
+  "sent-token-ranges": [
+    [
+      0,
+      2
+    ],
+    [
+      3,
+      9
+    ],
+    [
+      10,
+      25
+    ]
+  ],
+  "entity/argument_mentions": [
+    {
+      "entity/argument_text": "Personal Information",
+      "entity/argument_type": "Data-general",
+      "entity/argument_id": "T2",
+      "start_idx": 95,
+      "end_idx": 115,
+      "tokens": [
+        "Personal",
+        "Information"
+      ],
+      "token_idx": [
+        18,
+        19
+      ]
+    },
+    {
+      "entity/argument_text": "you",
+      "entity/argument_type": "User",
+      "entity/argument_id": "T3",
+      "start_idx": 116,
+      "end_idx": 119,
+      "tokens": [
+        "you"
+      ],
+      "token_idx": [
+        20
+      ]
+    },
+    {
+      "entity/argument_text": "we",
+      "entity/argument_type": "First-party-entity",
+      "entity/argument_id": "T4",
+      "start_idx": 80,
+      "end_idx": 82,
+      "tokens": [
+        "we"
+      ],
+      "token_idx": [
+        15
+      ]
+    },
+    {
+      "entity/argument_text": "operate the Service",
+      "entity/argument_type": "Basic-service-feature",
+      "entity/argument_id": "T5",
+      "start_idx": 59,
+      "end_idx": 78,
+      "tokens": [
+        "operate",
+        "the",
+        "Service"
+      ],
+      "token_idx": [
+        11,
+        12,
+        13
+      ]
+    },
+    {
+      "entity/argument_text": "you choose to provide us",
+      "entity/argument_type": "Condition",
+      "entity/argument_id": "T6",
+      "start_idx": 116,
+      "end_idx": 140,
+      "tokens": [
+        "you",
+        "choose",
+        "to",
+        "provide",
+        "us"
+      ],
+      "token_idx": [
+        20,
+        21,
+        22,
+        23,
+        24
+      ]
+    }
+  ],
+  "event_mentions": [
+    {
+      "trigger": {
+        "text": "collect",
+        "start_idx": 87,
+        "end_idx": 94,
+        "tokens": [
+          "collect"
+        ],
+        "token_idx": [
+          17
+        ]
+      },
+      "event_type": "first-party-collection-use",
+      "arguments": [
+        {
+          "role": "Purpose-Argument",
+          "type": "Basic-service-feature",
+          "text": "operate the Service",
+          "start_idx": 59,
+          "end_idx": 78
+        },
+        {
+          "role": "Data-Collector",
+          "type": "First-party-entity",
+          "text": "we",
+          "start_idx": 80,
+          "end_idx": 82
+        },
+        {
+          "role": "Data-Collected",
+          "type": "Data-general",
+          "text": "Personal Information",
+          "start_idx": 95,
+          "end_idx": 115
+        },
+        {
+          "role": "Data-Provider",
+          "type": "User",
+          "text": "you",
+          "start_idx": 116,
+          "end_idx": 119
+        },
+        {
+          "role": "Condition-Argument",
+          "type": "Condition",
+          "text": "you choose to provide us",
+          "start_idx": 116,
+          "end_idx": 140
+        }
+      ],
+      "event_id": "E1"
+    }
+  ]
+}
